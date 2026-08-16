@@ -26,7 +26,6 @@ except ImportError:
 BASE = Path("./data")
 RAW = BASE / "raw"
 PROCESSED = BASE / "processed"
-MANIFEST = BASE / "sources.txt"
 CONFIG_FILE = Path("./config.json")
 
 HEADERS = {
