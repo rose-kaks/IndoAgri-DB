@@ -1,18 +1,18 @@
-# FORMAT: type | category | handler | save_name | url_or_local_path
-# Only high-trust / currently working sources
+# FORMAT: type | category | handler | save_name | url_or_params
+# Only currently reliable / high-value sources
 
-# 1. LIVE WEATHER (reliable, free, no key)
-api | weather | open_meteo | delhi_weather.json | https://api.open-meteo.com/v1/forecast?latitude=28.6139&longitude=77.2090&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,et0_fao_evapotranspiration&timezone=Asia%2FKolkata&forecast_days=7
+# 1. WEATHER (fully dynamic, pan-India capable)
+api | weather | open_meteo_pan | pan_india_weather.json | multi
 
-# 2. GOVERNMENT SCHEME & PACKAGE-OF-PRACTICES (HTML → clean text)
-html_scrape | schemes | vikaspedia_html | pm_kisan.txt | https://vikaspedia.in/agriculture/policies-and-schemes/crops-related/pm-kisan-samman-nidhi
-html_scrape | pop | vikaspedia_html | wheat_cultivation.txt | https://vikaspedia.in/agriculture/crop-production/package-of-practices/cereals/wheat-cultivation
-html_scrape | pop | vikaspedia_html | rice_cultivation.txt | https://vikaspedia.in/agriculture/crop-production/package-of-practices/cereals/rice-cultivation
-html_scrape | pop | vikaspedia_html | cotton_cultivation.txt | https://vikaspedia.in/agriculture/crop-production/package-of-practices/fibre-crops/cotton
+# 2. MANDI PRICES (dynamic via Playwright)
+scrape | agmarknet | agmarknet_playwright | agmarknet_today.json | default
 
-# 3. ICAR / NCIPM style advisories (working public PDFs)
+# 3. HIGH-VALUE KNOWLEDGE PDFs (generic, multi-crop)
+web_file | practices | pdf_download | tnau_agriculture.pdf | http://www.agritech.tnau.ac.in/pdf/AGRICULTURE.pdf
 web_file | pest | pdf_download | tomato_ipm.pdf | https://nriipm.res.in/NCIPMPDFs/FOLDERS/tomato_1_.pdf
 web_file | pest | pdf_download | maize_ipm.pdf | https://nriipm.res.in/NCIPMPDFs/FOLDERS/Maize_.pdf
 
-# 4. TNAU high-value PDF (stable)
-web_file | practices | pdf_download | tnau_agriculture.pdf | http://www.agritech.tnau.ac.in/pdf/AGRICULTURE.pdf
+# 4. SCHEMES & PACKAGE OF PRACTICES (HTML)
+html_scrape | schemes | vikaspedia_html | pm_kisan.json | https://vikaspedia.in/agriculture/policies-and-schemes/crops-related/pm-kisan-samman-nidhi
+html_scrape | pop | vikaspedia_html | wheat_pop.json | https://vikaspedia.in/agriculture/crop-production/package-of-practices/cereals/wheat-cultivation
+html_scrape | pop | vikaspedia_html | rice_pop.json | https://vikaspedia.in/agriculture/crop-production/package-of-practices/cereals/rice-cultivation
