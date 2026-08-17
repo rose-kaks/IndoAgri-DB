@@ -1,7 +1,6 @@
 from utils import PROCESSED_DIR, save_json, utc_now, log
 import requests
 
-
 RESOURCE_ID = "024cf507-4281-4c89-a40e-37b5add3a4df"
 
 API_URL = (
