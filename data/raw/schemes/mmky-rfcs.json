@@ -1,0 +1,257 @@
+{
+  "_id": "65d340a1cd96dc5e07592aa3",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Society",
+        "Fishermen",
+        "Financial Assistance"
+      ],
+      "schemeName": "\"Reactivation Of Fisheries Cooperative Societies\" Component of the \"Mukhyamantri Maschyajibi Kalyan Yojana\" Scheme",
+      "schemeShortTitle": "MMKY-RFCS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 21,
+        "label": "Odisha"
+      },
+      "nodalDepartmentName": {
+        "value": 2111120,
+        "label": "Fisheries and Animal Resources Development Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "mmky-rfcs",
+      "briefDescription": "The objective of the \"Reactivation Of Fisheries Cooperative Societies\" scheme is to provide a one-time revolving fund of ₹2,00,000/- to each eligible Primary Fishermen Cooperative Society for working capital of the society and improvement of the socio-economic status of the members in the long run."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines & Application Form",
+          "url": "https://fard.odisha.gov.in/sites/default/files/2023-10/6.%20Reactivation%20of%20Primary%20Fisheries%20Cooperative%20Societies.PDF"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Reactivation Of Fisheries Cooperative Societies&quot; Component of the &quot;Mukhyamantri Maschyajibi Kalyan Yojana&quot; Scheme was launched by the Fisheries &amp; Animal Resources Development Department, Government of Odisha. The objective of this scheme is to provide a one-time revolving fund of ₹2,00,000/- to each eligible Primary Fishermen Cooperative Society for working capital of the society and improvement of the socio-economic status of the members in the long run. The scheme shall be implemented by the Directorate of Fisheries through the respective District Fisheries Officer.\n<br>\n\n",
+      "benefits_md": "A one-time revolving fund of ₹2,00,000/-.\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The objective of the \"Reactivation Of Fisheries Cooperative Societies\" scheme is to provide a one-time revolving fund of ₹2,00,000/- to each eligible Primary Fishermen Cooperative Society for working capital of the society and improvement of the socio-economic status of the members in the long run.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Reactivation Of Fisheries Cooperative Societies\" Component of the \"Mukhyamantri Maschyajibi Kalyan Yojana\" Scheme was launched by the Fisheries & Animal Resources Development Department, Government of Odisha. The objective of this scheme is to provide a one-time revolving fund of ₹2,00,000/- to each eligible Primary Fishermen Cooperative Society for working capital of the society and improvement of the socio-economic status of the members in the long run. The scheme shall be implemented by the Directorate of Fisheries through the respective District Fisheries Officer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A one-time revolving fund of ₹2,00,000/-."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The scheme shall be advertised through the Departmental website, newspapers and wall posters in the District and Block Fisheries Offices across the state."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested PFCS should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/6.%20Reactivation%20of%20Primary%20Fisheries%20Cooperative%20Societies.PDF",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the District Fisheries Officer of the concerned district."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "The scheme shall be advertised through the Departmental website, newspapers and wall posters in the District and Block Fisheries Offices across the state.\n**Step 1:** The interested PFCS should take print of the [prescribed format](https://fard.odisha.gov.in/sites/default/files/2023-10/6.%20Reactivation%20of%20Primary%20Fisheries%20Cooperative%20Societies.PDF) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Officer of the concerned district.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be an active Primary Fisherman Cooperative Society (PFCS).\n- The PFCS should have completed at least 1 year from the date of its registration under &quot;The Odisha Cooperative Societies Act-1962&quot;.\n- The PFCS should be in working condition.\n- The PFCS should not have availed the revolving fund before.\n- The PFCS should be conducting Committee of Management meetings and AGB meetings in time as per the OCS Act and Rules framed there under the Bylaws of the Society.\n- The PFCS  should have paid the Government lease value of the reservoir/ pond if taken on lease as per the Rules.\n- The PFCS should be able to produce last year&#39;s audited balance sheets with Profit Loss accounts of the Society from AGCS-empanelled CA firms/auditors.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an active Primary Fisherman Cooperative Society (PFCS)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The PFCS should have completed at least 1 year from the date of its registration under \"The Odisha Cooperative Societies Act-1962\"."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The PFCS should be in working condition."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The PFCS should not have availed the revolving fund before."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The PFCS should be conducting Committee of Management meetings and AGB meetings in time as per the OCS Act and Rules framed there under the Bylaws of the Society."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The PFCS  should have paid the Government lease value of the reservoir/ pond if taken on lease as per the Rules."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The PFCS should be able to produce last year's audited balance sheets with Profit Loss accounts of the Society from AGCS-empanelled CA firms/auditors."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mmky-rfcs"
+}

@@ -1,0 +1,317 @@
+{
+  "_id": "68007da8321976fb6b06e0c9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Subsidy",
+        "Transport",
+        "Journalist",
+        "Environment",
+        "Pollution",
+        "Road"
+      ],
+      "schemeName": "Subsidy to Purchase E-Bike for Journalists",
+      "schemeShortTitle": "SPEBJ",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Public transport and private vehicles",
+          "label": "Public transport and private vehicles"
+        },
+        {
+          "value": "Roads and road transport",
+          "label": "Roads and road transport"
+        },
+        {
+          "value": "Climate change",
+          "label": "Climate change"
+        },
+        {
+          "value": "Environmental grants",
+          "label": "Environmental grants"
+        },
+        {
+          "value": "Pollution and waste management",
+          "label": "Pollution and waste management"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "nodalDepartmentName": {
+        "value": 30000026,
+        "label": "Information and Publicity Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "spebj",
+      "briefDescription": "The scheme aims to provide financial assistance to journalists in Goa for purchasing e-bikes at a subsidised rate. The benefits include making it more convenient for journalists to gather and disseminate news, with the intended beneficiaries being eligible Goa-based journalists."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dip.goa.gov.in/wp-content/uploads/2024/01/notification-e-v-bike.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Subsidy to Purchase E-Bike for Journalists” by the Department of Information and Publicity, Government of Goa, aims to provide journalists based in Goa with e-bikes at a subsidised rate, facilitating easier access to essential technology for their profession. This initiative acknowledges the crucial role of journalists in educating the public and the time they spend gathering news. Two significant benefits of the scheme are providing financial assistance for purchasing e-bikes and empowering journalists with better means to disseminate information vital for a democratic system. Two significant eligibility criteria include being a resident of Goa for at least 15 years and being a full-time working journalist for at least eight years. The scheme is implemented by the Department of Information and Publicity. Every year, the Government will grant subsidies to purchase 65 e-bikes to 65 beneficiaries based on their years of working.\n",
+      "benefits_md": "\n- Subsidy up to 50% of the value on quotation or ₹ 50,000/-, whichever is less, and the remaining 50% value shall be borne by the beneficiaries. \n- The payment shall be effected directly to the beneficiaries upon receipt of the purchase of the e-bike document. \n- The subsidy shall be disbursed in a single instalment to the beneficiary, i.e., 100% on the purchase of the vehicle and production of purchase documents, i.e., the Registration Certificate book and insurance by the Beneficiary.\n- Disbursement of subsidy for the purchase of e-bikes will be done on a first-come-first-served basis or a maximum of two for each organisation per meeting, also considering eligibility criteria.\n\n",
+      "exclusions_md": "Beneficiaries who have availed the benefit from any other such Government schemes shall not be entitled to this scheme.\n",
+      "briefDescription": "The scheme aims to provide financial assistance to journalists in Goa for purchasing e-bikes at a subsidised rate. The benefits include making it more convenient for journalists to gather and disseminate news, with the intended beneficiaries being eligible Goa-based journalists.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Subsidy to Purchase E-Bike for Journalists” by the Department of Information and Publicity, Government of Goa, aims to provide journalists based in Goa with e-bikes at a subsidised rate, facilitating easier access to essential technology for their profession. This initiative acknowledges the crucial role of journalists in educating the public and the time they spend gathering news. Two significant benefits of the scheme are providing financial assistance for purchasing e-bikes and empowering journalists with better means to disseminate information vital for a democratic system. Two significant eligibility criteria include being a resident of Goa for at least 15 years and being a full-time working journalist for at least eight years. The scheme is implemented by the Department of Information and Publicity. Every year, the Government will grant subsidies to purchase 65 e-bikes to 65 beneficiaries based on their years of working."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy up to 50% of the value on quotation or ₹ 50,000/-, whichever is less, and the remaining 50% value shall be borne by the beneficiaries. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The payment shall be effected directly to the beneficiaries upon receipt of the purchase of the e-bike document. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy shall be disbursed in a single instalment to the beneficiary, i.e., 100% on the purchase of the vehicle and production of purchase documents, i.e., the Registration Certificate book and insurance by the Beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disbursement of subsidy for the purchase of e-bikes will be done on a first-come-first-served basis or a maximum of two for each organisation per meeting, also considering eligibility criteria."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beneficiaries who have availed the benefit from any other such Government schemes shall not be entitled to this scheme."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The interested applicant should take a printout of the "
+              },
+              {
+                "type": "link",
+                "link": "https://dip.goa.gov.in/wp-content/uploads/2024/01/notification-e-v-bike.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and enclose the copies of all the mandatory documents (endorsed, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Director, Department of Information and Publicity, Udyog Bhavan, 3rd floor, Panaji."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Post-Application Processes",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " After approval of the application, the Beneficiary will have to provide purchased documents (Registration Certificate book and insurance) along with bank details to release the subsidy directly to the beneficiary."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The Screening Committee, constituted under the Chairmanship of the Director of Information and Publicity, will scrutinize/sanction applications and may ask for additional documents if required."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The subsidy will be disbursed in a single instalment upon purchase of the vehicle and production of the necessary documents."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should take a printout of the [prescribed format](https://dip.goa.gov.in/wp-content/uploads/2024/01/notification-e-v-bike.pdf) of the application form. \n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and enclose the copies of all the mandatory documents (endorsed, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Director, Department of Information and Publicity, Udyog Bhavan, 3rd floor, Panaji.\n> **Post-Application Processes**\n\n**Step 1:** After approval of the application, the Beneficiary will have to provide purchased documents (Registration Certificate book and insurance) along with bank details to release the subsidy directly to the beneficiary.\n**Step 2:** The Screening Committee, constituted under the Chairmanship of the Director of Information and Publicity, will scrutinize/sanction applications and may ask for additional documents if required.\n**Step 3:** The subsidy will be disbursed in a single instalment upon purchase of the vehicle and production of the necessary documents.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a journalist.\n- The sole livelihood of the applicant should be through journalistic activities.\n- The applicant should be residing in Goa for at least 15 years.\n- The applicant should be working for a Media organisation.\n- The applicant should not be more than 58 years of age.\n- The applicant should not have availed benefit to purchase an e-bike (two-wheeler) under any other Government scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a journalist."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The sole livelihood of the applicant should be through journalistic activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be residing in Goa for at least 15 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be working for a Media organisation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be more than 58 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have availed benefit to purchase an e-bike (two-wheeler) under any other Government scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "spebj"
+}

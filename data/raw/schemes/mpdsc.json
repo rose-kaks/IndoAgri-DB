@@ -1,0 +1,985 @@
+{
+  "_id": "6996caeee2f4291145650b19",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal",
+        "Piggery",
+        "Farmer",
+        "Farming"
+      ],
+      "schemeName": "Meghalaya Piggery Development Scheme",
+      "schemeShortTitle": "MPDSC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777803,
+        "label": "Planning Department"
+      },
+      "slug": "mpdsc",
+      "briefDescription": "The Meghalaya Piggery Development Scheme is a component of the Chief Minister’s CM-ELEVATE Program launched by the Government of Meghalaya. It aims to employ, engage, and empower youth and rural communities by promoting piggery entrepreneurship through easy access to credit and subsidies."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Website:1",
+          "url": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX19KTCioXpR1EAo%20zGQsFuiG3oz2MdKy0sEQrtdso4b78%20JakIxok%2FcYtJIZzheG%2FqNOcr9nHOuvkDkIucj33RTbiCkHKIuJlto7iKmvhQ0%2FjiJWaxUF2QTReo5lu6GOQ7BwIdc%2FPjtyE%20iZdO06SDGA3qjqMhPZbbkQI1YhFOZjrn5ZFFCe642ChL7MBl9iRYCdRUUvhrmPL8e15HsRVztX2kC3JCUBsfPJa6eq9%20aXdqQ54cVqBQXe="
+        },
+        {
+          "title": "Website:2",
+          "url": "https://www.primemeghalaya.com/piggery/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;**Chief Minister’s CM-ELEVATE Program&quot;**, launched by the Government of Meghalaya under the Planning Department, aims to promote entrepreneurship and improve livelihoods across the state. Under this program, the **&quot;Meghalaya Piggery Development Scheme&quot;** has been introduced to employ, engage, and empower youth and rural communities by promoting piggery entrepreneurship through easy access to credit and subsidies.\n<br>\n\n",
+      "benefits_md": "\n1. 50% of project cost supported (5% by applicant, 45% by Government)\n1. 5% EMI co-payment support for 24 months\n1. Credit linkage through partnered banks\n1. Technical training and capacity building\n1. Veterinary and farm management support\n1. Market linkage for selling output\n1. Mentorship and business advisory\n\n<br>\n\n",
+      "exclusions_md": "**Individuals**\n**Applications Shall Not Ordinarily Be Considered For:**\nA) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30\n\n- State and Central Government employees\n- Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc.\n- Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government\n- Registered class-1 contractors\n- Consultants who are currently engaged with state or central government\n\nB) Only one member from a family is eligible for the scheme.\nC) Pressure groups and organizations that are primarily political in nature\n**Registered Entities**\n**Applications shall not be ordinarily considered for the following:**\nA) Only one member from a family is eligible for the scheme.\nB) Pressure groups and organizations that are primarily political in nature.\nC) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their immediate family members, which include spouse, parents, and children up to the age of 30:\n\n- State and Central Government employees.\n- Employees of Public Sector Undertakings, subsidiaries of Public Sector Undertakings, and divisions of Public Sector Undertakings, etc.\n- Any individual whose job is concerned with politics such as MLAs, MLCs, MPs, etc., or those seeking to hold a similar position in government.\n- Registered Class-1 contractors.\n- Consultants who are currently engaged with State or Central Government.\n\n**Unregistered Entities**\n**Applications shall not be ordinarily considered for the following**\nA) Only one member from a family is eligible for the scheme.\nB) Pressure groups and organizations that are primarily political in nature\nC) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30\n\n-  State and Central Government employees\n-  Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc.\n-  Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government\n-  Registered class-1 contractors\n-  Consultants who are currently engaged with state or central government\n\n<br>\n\n",
+      "briefDescription": "The Meghalaya Piggery Development Scheme is a component of the Chief Minister’s CM-ELEVATE Program launched by the Government of Meghalaya. It aims to employ, engage, and empower youth and rural communities by promoting piggery entrepreneurship through easy access to credit and subsidies.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \""
+            },
+            {
+              "text": "Chief Minister’s CM-ELEVATE Program\"",
+              "bold": true
+            },
+            {
+              "text": ", launched by the Government of Meghalaya under the Planning Department, aims to promote entrepreneurship and improve livelihoods across the state. Under this program, the "
+            },
+            {
+              "text": "\"Meghalaya Piggery Development Scheme\"",
+              "bold": true
+            },
+            {
+              "text": " has been introduced to employ, engage, and empower youth and rural communities by promoting piggery entrepreneurship through easy access to credit and subsidies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50% of project cost supported (5% by applicant, 45% by Government)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "5% EMI co-payment support for 24 months"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Credit linkage through partnered banks"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Technical training and capacity building"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Veterinary and farm management support"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Market linkage for selling output"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mentorship and business advisory"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Individuals",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "underline": true,
+              "text": "Applications Shall Not Ordinarily Be Considered For:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State and Central Government employees"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registered class-1 contractors"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Consultants who are currently engaged with state or central government"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "B) Only one member from a family is eligible for the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C) Pressure groups and organizations that are primarily political in nature"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Registered Entities",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applications shall not be ordinarily considered for the following:",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A) Only one member from a family is eligible for the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "B) Pressure groups and organizations that are primarily political in nature."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their immediate family members, which include spouse, parents, and children up to the age of 30:"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State and Central Government employees."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Employees of Public Sector Undertakings, subsidiaries of Public Sector Undertakings, and divisions of Public Sector Undertakings, etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any individual whose job is concerned with politics such as MLAs, MLCs, MPs, etc., or those seeking to hold a similar position in government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registered Class-1 contractors."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Consultants who are currently engaged with State or Central Government."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unregistered Entities",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applications shall not be ordinarily considered for the following",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A) Only one member from a family is eligible for the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "B) Pressure groups and organizations that are primarily political in nature"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " State and Central Government employees"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " Registered class-1 contractors"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " Consultants who are currently engaged with state or central government"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Citizen Registration for Member ID",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1:"
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%20qi8j2YRjDoJlYyx%200f2Snw%2Fkzho0z2ju%2FpAcMMa9QEDuRwEiHf9uKeJfHuskucj%201tu8cbsj6Dew15OMnC4iH15nTbDlskrvRU7mgnM8RDLnNl1OK1Pk1zsETtrkWL%202OH4w2WlaEeSNbJKo1vOxJt3TCw2SKgbeFKIHjJDDH7DSVzwjyNNoYEaOdx6cSatkYeQFSV6MCMB8It8zZVJBpUq3yzH2DwiaKVi7s2OMkRvtFMSZh%20u%20m=",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " If you are a first-time user, click on “"
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D",
+                "children": [
+                  {
+                    "text": "Registration for New User"
+                  }
+                ]
+              },
+              {
+                "text": "” and complete the registration process to create your account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Select your Authentication ID from the available options, such as"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "PDS (Ration Card) "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Election Photo ID Card (EPIC)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Enter your card number, select your name from the displayed list, and click on “Next” to continue."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7:",
+                "bold": true
+              },
+              {
+                "text": " Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sign In ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Click on "
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D",
+                "children": [
+                  {
+                    "text": "“Sign In"
+                  }
+                ]
+              },
+              {
+                "text": "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Enter your User ID and Password, then click on “Login” to access your account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " After logging in, click on “Apply for Services/Scheme” to start your application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Citizen Registration for Member ID**\n**Step 1:** Visit the [official website](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%20qi8j2YRjDoJlYyx%200f2Snw%2Fkzho0z2ju%2FpAcMMa9QEDuRwEiHf9uKeJfHuskucj%201tu8cbsj6Dew15OMnC4iH15nTbDlskrvRU7mgnM8RDLnNl1OK1Pk1zsETtrkWL%202OH4w2WlaEeSNbJKo1vOxJt3TCw2SKgbeFKIHjJDDH7DSVzwjyNNoYEaOdx6cSatkYeQFSV6MCMB8It8zZVJBpUq3yzH2DwiaKVi7s2OMkRvtFMSZh%20u%20m=) of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.\n**Step 2:** If you are a first-time user, click on “[Registration for New User](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D)” and complete the registration process to create your account.\n**Step 3:** Select your Authentication ID from the available options, such as\n\n- PDS (Ration Card) \n- Election Photo ID Card (EPIC).\n\n**Step 4:** Enter your card number, select your name from the displayed list, and click on “Next” to continue.\n**Step 5:** Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.\n**Step 6:** Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.\n**Step 7:** Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.\n**Sign In** \n**Step 1:** Click on [“Sign In](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D)” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.\n**Step 2:** Enter your User ID and Password, then click on “Login” to access your account.\n**Step 3:** After logging in, click on “Apply for Services/Scheme” to start your application.\n**Step 4:** Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Individuals**\n\n1. The applicant should be between 18 and 58 years of age.\n1. The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority.\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience in undertaking piggery.\n1. The entrepreneur should have access to adequate and quality feed for the pigs.\n1. The entrepreneur should have a vaccination scheme in place for the pigs.\n1. The entrepreneur should have a plan for marketing the pigs and their products.\n1. The entrepreneur’s village should be in an area where pig rearing is feasible.\n1. The distance between the entrepreneur’s village and the nearest market should be reasonable.\n1. The entrepreneur should not be a credit defaulter with any bank.\n1. The entrepreneur should possess self-owned land or notarized lease land (≥15 years).\n\n**Registered Entities**\n\n1. The entrepreneur should be a registered entity from Meghalaya, such as a Cooperative, Farmer Producer Company (FPC), Farmer Producer Organization (FPO), or any other legally registered group in the state.\n1. The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority\n1. The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking piggery.\n1. The entrepreneur must have access to adequate and quality feed for the pigs.\n1. The entrepreneur must have a vaccination Scheme in place for the pigs.\n1. The entrepreneur must have a plan for marketing the pigs and their products.\n1. The entrepreneur’s village must be in an area where pig rearing is feasible.\n1. The distance between the entrepreneur’s village and the nearest market must be reasonable.\n1. The entrepreneur should not be a credit defaulter from any bank. Must possess self-owned or notarized lease land (≥15 years)\n\n**Registered Entities**\n\n1. Registered Entities from Meghalaya such as any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on.\n1. Must provide an Incorporation Certificate or a registration certificate whichever is applicable.\n1. Should possess land, either self-owned or on lease, verified by the competent authority\n1. Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking piggery.\n1. The entrepreneur must have access to adequate and quality feed for the pigs.\n1. The entrepreneur must have a vaccination Scheme in place for the pigs.\n1. The entrepreneur must have a plan for marketing the pigs and their products.\n1. The entrepreneur’s village must be in an area where pig rearing is feasible.\n1. The distance between the entrepreneur’s village and the nearest market must be reasonable.\n1. The entrepreneur should not be a credit defaulter from any bank. Must possess self-owned or notarized lease land (≥15 years)\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Individuals",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be between 18 and 58 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference for availing loans will be given to entrepreneurs and entities with prior experience in undertaking piggery."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have access to adequate and quality feed for the pigs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a vaccination scheme in place for the pigs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a plan for marketing the pigs and their products."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur’s village should be in an area where pig rearing is feasible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The distance between the entrepreneur’s village and the nearest market should be reasonable."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should not be a credit defaulter with any bank."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should possess self-owned land or notarized lease land (≥15 years)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Registered Entities",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should be a registered entity from Meghalaya, such as a Cooperative, Farmer Producer Company (FPC), Farmer Producer Organization (FPO), or any other legally registered group in the state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking piggery."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur must have access to adequate and quality feed for the pigs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur must have a vaccination Scheme in place for the pigs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur must have a plan for marketing the pigs and their products."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur’s village must be in an area where pig rearing is feasible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The distance between the entrepreneur’s village and the nearest market must be reasonable."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should not be a credit defaulter from any bank. Must possess self-owned or notarized lease land (≥15 years)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Registered Entities",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registered Entities from Meghalaya such as any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Must provide an Incorporation Certificate or a registration certificate whichever is applicable."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should possess land, either self-owned or on lease, verified by the competent authority"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking piggery."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur must have access to adequate and quality feed for the pigs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur must have a vaccination Scheme in place for the pigs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur must have a plan for marketing the pigs and their products."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur’s village must be in an area where pig rearing is feasible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The distance between the entrepreneur’s village and the nearest market must be reasonable."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should not be a credit defaulter from any bank. Must possess self-owned or notarized lease land (≥15 years)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mpdsc"
+}

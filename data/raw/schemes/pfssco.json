@@ -1,0 +1,423 @@
+{
+  "_id": "67ca85084f0bd5e698d2acc9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Sugar Co-operatives",
+        "Bio Compost Sale"
+      ],
+      "schemeName": "Package for strengthening to sugar co-operatives as may be policy decided by the State Government",
+      "schemeShortTitle": "PFSSCO",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "pfssco",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to support sugar co-operatives by providing financial assistance for modernization, diversification, organic fertilizer production to enhance sugarcane farming and the sugar industry."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines 1",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=f5dTc5bUS3AQlyVtI/En6A==&domain=XWitJVnGypIBbPyRipp0WA==#"
+        },
+        {
+          "title": "Guidelines 2",
+          "url": "https://agri.gujarat.gov.in/ViewFile?fileName=BPU15yCCFnFG3aU8EVKGJ7lSZqskxqNBMkB02hkwK3xml1CeuAA9vzKACGUAAEJuGEd3i2C478Obi1PEThvzIIpgHASH__HASHIyRHASH_HASH0HASH__HASHHASH_HASHiBiCEHzWwKoflUhfGIms77b8I8sKCdwwWHAHASH__HASHjaDrDTJce38ZhoLqTA=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Package for strengthening to sugar co-operatives as may be policy decided by the State Government&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to sugar co-operative societies for projects such as modernization, upgradation, tissue culture labs, molasses-based distilleries, storage system improvements, and cost reduction initiatives. It also offers direct assistance to farmers for the sale of bio-compost, phospho-compost, and vermicompost.\n",
+      "benefits_md": "<br>\n\n**Name of the Component****Standard of Assistance**A project to provide direct assistance to farmers&amp;amp;amp;#39; accounts by sugar cooperatives against sale of bio-compost by sugar cooperatives.₹100/- per metric ton against the total metric ton sales of bio compost volume. or a maximum of ₹20,00,000/- whichever is lessA project to provide direct assistance to the account of farmers through sugar cooperative societies against the sale of 50 kg bags of phospho compost by sugar cooperative societies.₹100/- per bag against the sale of a total bag of 50 kg of phosphor compost. or a maximum of ₹20,00,000/- whichever is lessA project to provide direct assistance to farmers&amp;amp;amp;#39; accounts by sugar cooperatives against purchase/sale of produce of 50 kg bags of vermicompost by sugar cooperatives.₹50/- per bag against the sale of a total bag of 50 kg of vermin Compost or maximum ₹6,50,000/- whichever is less.Project for setting up of new tissue culture labs by sugar co-operative societies50% of the project cost or a maximum of ₹40,00,000/- whichever is less Project for extension of existing labs (other than civil works) to sugar cooperatives having tissue culture labs.50% of the project cost or a maximum of ₹20,00,000/- whichever is lessInstallation of electricity motor instead of turbine, construction of new tank for molasses/rectified spirit storage, mechanization in sugar harvesting, distillery capacity upgradation, increase in ethanol storage capacity, new godown construction, steam economy project, boiler modification, 3 MW turbine etc. Among all these projects, any one project to be done by the organization considering the priority25 % of project cost Or a maximum of ₹1,00,00,000/- whichever is less<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to support sugar co-operatives by providing financial assistance for modernization, diversification, organic fertilizer production to enhance sugarcane farming and the sugar industry.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Package for strengthening to sugar co-operatives as may be policy decided by the State Government\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to sugar co-operative societies for projects such as modernization, upgradation, tissue culture labs, molasses-based distilleries, storage system improvements, and cost reduction initiatives. It also offers direct assistance to farmers for the sale of bio-compost, phospho-compost, and vermicompost."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of the Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "A project to provide direct assistance to farmers' accounts by sugar cooperatives against sale of bio-compost by sugar cooperatives."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹100/- per metric ton against the total metric ton sales of bio compost volume. or a maximum of ₹20,00,000/- whichever is less"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "A project to provide direct assistance to the account of farmers through sugar cooperative societies against the sale of 50 kg bags of phospho compost by sugar cooperative societies."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹100/- per bag against the sale of a total bag of 50 kg of phosphor compost. or a maximum of ₹20,00,000/- whichever is less"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "A project to provide direct assistance to farmers' accounts by sugar cooperatives against purchase/sale of produce of 50 kg bags of vermicompost by sugar cooperatives."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹50/- per bag against the sale of a total bag of 50 kg of vermin Compost or maximum ₹6,50,000/- whichever is less."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Project for setting up of new tissue culture labs by sugar co-operative societies"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the project cost or a maximum of ₹40,00,000/- whichever is less "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Project for extension of existing labs (other than civil works) to sugar cooperatives having tissue culture labs."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the project cost or a maximum of ₹20,00,000/- whichever is less"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Installation of electricity motor instead of turbine, construction of new tank for molasses/rectified spirit storage, mechanization in sugar harvesting, distillery capacity upgradation, increase in ethanol storage capacity, new godown construction, steam economy project, boiler modification, 3 MW turbine etc. Among all these projects, any one project to be done by the organization considering the priority"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "25 % of project cost Or a maximum of ₹1,00,00,000/- whichever is less"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The concerned sugar co-operative societies who are eligible, should send the proposal through the District Registrar of the concerned district to the Director of Sugar, Gujarat State, Gandhinagar."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Office Address and Contact Details of District Registrar: ",
+                    "bold": true
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rcs.gujarat.gov.in/Home/DistrictRegistrar",
+                    "children": [
+                      {
+                        "text": "Click here"
+                      }
+                    ]
+                  },
+                  {
+                    "bold": true,
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Office Address and Contact Details of Director Of Sugar:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Director of sugar"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Address:",
+                "bold": true
+              },
+              {
+                "text": " Dr.Jivraj Mehta bhavan, Block No.8 ,2nd floor, Gandhinagar"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Phone: ",
+                "bold": true
+              },
+              {
+                "text": "232-53437"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Email Us:",
+                "bold": true
+              },
+              {
+                "text": " directorsugar[at]gmail[dot]com"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- The concerned sugar co-operative societies who are eligible, should send the proposal through the District Registrar of the concerned district to the Director of Sugar, Gujarat State, Gandhinagar.\n\n<br>\n\n\n- **Office Address and Contact Details of District Registrar:** [Click here](https://rcs.gujarat.gov.in/Home/DistrictRegistrar)**.**\n\n- **Office Address and Contact Details of Director Of Sugar:**\n\n> Director of sugar\n\n> **Address:** Dr.Jivraj Mehta bhavan, Block No.8 ,2nd floor, Gandhinagar\n\n> **Phone:** 232-53437\n\n> **Email Us:** directorsugar[at]gmail[dot]com\n\n<br>\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Sugar Co-operative Societies, Members/Farmers of Sugar Co-operative Societies will be eligible for this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sugar Co-operative Societies, Members/Farmers of Sugar Co-operative Societies will be eligible for this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pfssco"
+}

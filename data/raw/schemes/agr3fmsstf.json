@@ -1,0 +1,422 @@
+{
+  "_id": "64809670380f8e12353d56db",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Directorate Of Agriculture, Government Of Gujarat",
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Scheduled Tribe",
+        "Adivasi",
+        "Mechanization",
+        "Equipment",
+        "Financial Assistance"
+      ],
+      "schemeName": "AGR 3 (Farm Mechanization) Scheme For ST Farmers",
+      "schemeShortTitle": "AGR3(FM)SSTF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "agr3fmsstf",
+      "briefDescription": "The scheme “AGR 3 (Farm Mechanization) Scheme for ST Farmers” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://dag.gujarat.gov.in/agr-3-farm-mechanization.htm"
+        },
+        {
+          "title": "Guideline",
+          "url": "https://dag.gujarat.gov.in/agr-3.htm"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “AGR 3 (Farm Mechanization) Scheme for ST Farmers” was started by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat. Under the scheme, seeds of more production varieties/Hybrids varieties and fertilizer at subsidies, etc. will be distributed to Adivasi farmers in Tribal Areas (TASP). The Government is trying to get the higher production of the agricultural crops of the farmers belonging to scheduled tribe and the tribal cultivator residing outside tribal areas to improve their livelihood.\n           The main objective of the scheme is to maximize farmers&amp;#39; attempts to buy and use Plant protection equipment, Tarpaulin, Field Demonstration, Micronutrients, Water carrying pipelines, Agriculture fair, Organic Fertilizer, Pump set, the premium for Farmers 100% Water Soluble Fertilizers, Pesticides, accidental insurance scheme, etc. for increase the crop production according to scientific recommendations so they can get higher production of the agricultural crops and improve their livelihood. Thus scheme is 100% sponsored by the state government.\n",
+      "benefits_md": "\n- The beneficiary will get financial assistance for the purchase of agricultural equipment/components such as Plant protection equipment, Tarpaulin, Field Demonstration, Micronutrients, Water carrying pipeline, Agriculture fair, Organic Fertilizer, Pump set, the premium for Farmers 100% Water Soluble Fertilizers, Pesticides, accidental insurance scheme, etc.\n- Under the scheme, seeds of more production varieties/Hybrids varieties and fertilizer, etc. will be distributed at a subsidized rate to Adivasi farmers in Tribal Areas (TASP).\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme “AGR 3 (Farm Mechanization) Scheme for ST Farmers” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “AGR 3 (Farm Mechanization) Scheme for ST Farmers” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat. Under the scheme, seeds of more production varieties/Hybrids varieties and fertilizer at subsidies, etc. will be distributed to Adivasi farmers in Tribal Areas (TASP). The Government is trying to get the higher production of the agricultural crops of the farmers belonging to scheduled tribe and the tribal cultivator residing outside tribal areas to improve their livelihood."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "           The main objective of the scheme is to maximize farmers' attempts to buy and use Plant protection equipment, Tarpaulin, Field Demonstration, Micronutrients, Water carrying pipelines, Agriculture fair, Organic Fertilizer, Pump set, the premium for Farmers 100% Water Soluble Fertilizers, Pesticides, accidental insurance scheme, etc. for increase the crop production according to scientific recommendations so they can get higher production of the agricultural crops and improve their livelihood. Thus scheme is 100% sponsored by the state government."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary will get financial assistance for the purchase of agricultural equipment/components such as Plant protection equipment, Tarpaulin, Field Demonstration, Micronutrients, Water carrying pipeline, Agriculture fair, Organic Fertilizer, Pump set, the premium for Farmers 100% Water Soluble Fertilizers, Pesticides, accidental insurance scheme, etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under the scheme, seeds of more production varieties/Hybrids varieties and fertilizer, etc. will be distributed at a subsidized rate to Adivasi farmers in Tribal Areas (TASP)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " To avail the benefits of the scheme, the beneficiary has to apply online at I-Khedut Portal. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on “Click here for details” in the Farming Schemes Section."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now, the applicant needs to select the desired scheme component on the portal. (The Apply button will appear automatically in components that are currently accepting applications.)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Read the instruction carefully and choose the option ‘Yes’ or ‘No’ for “Are you a registered applicant?” and click on “Click to proceed”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Click to Apply Newly\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 06:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Click to Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 07:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Click to confirm the application\" and confirm the application. Once the application is done, confirm it. Confirmation is required after saving the application. Only confirmed applications will be considered. Unconfirmed applications will not be considered taken on ikhedut portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 08:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a printout of the confirmed application. The applicant has to take a printout of this application and keep it for further reference."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 09: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "For this scheme, the District Agriculture Officer of the concerned district has to be contacted whose information is available on i-khedut portal. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 01: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "On-line application is required to be submitted on the portal during the prescribed time."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Pre-approval for purchase is given as per the application and you purchase the equipment/materials as per the pre-approval within the stipulated time frame as per the rules, all the supporting evidence mentioned in the pre-approval order and the supporting evidence along with the signed copy of this application have to be submitted along with the assistance proposal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " After the application is confirmed, the application will not be updated."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The print of the application can be taken only after the application is confirmed."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 01:** To avail the benefits of the scheme, the beneficiary has to apply online at I-Khedut Portal. [https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx](https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx)\n**Step 02:** Click on “Click here for details” in the Farming Schemes Section.\n**Step 03:** Now, the applicant needs to select the desired scheme component on the portal. (The Apply button will appear automatically in components that are currently accepting applications.)\n**Step 04:** Read the instruction carefully and choose the option ‘Yes’ or ‘No’ for “Are you a registered applicant?” and click on “Click to proceed”.\n**Step 05:** Click on the &amp;quot;Click to Apply Newly&amp;quot; button and submit a new application.\n**Step 06:** Click on the &amp;quot;Click to Update Application&amp;quot; button to add corrections to the application.\n**Step 07:** Click on &amp;quot;Click to confirm the application&amp;quot; and confirm the application. Once the application is done, confirm it. Confirmation is required after saving the application. Only confirmed applications will be considered. Unconfirmed applications will not be considered taken on ikhedut portal.\n**Step 08:** Take a printout of the confirmed application. The applicant has to take a printout of this application and keep it for further reference.\n**Note 09:** For this scheme, the District Agriculture Officer of the concerned district has to be contacted whose information is available on i-khedut portal. [https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n&lt;br&gt;\n\n**Note 01:** On-line application is required to be submitted on the portal during the prescribed time.\n**Note 02:** Pre-approval for purchase is given as per the application and you purchase the equipment/materials as per the pre-approval within the stipulated time frame as per the rules, all the supporting evidence mentioned in the pre-approval order and the supporting evidence along with the signed copy of this application have to be submitted along with the assistance proposal.\n**Note 03:** If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application.\n**Note 04:** After the application is confirmed, the application will not be updated.\n**Note 05:** The print of the application can be taken only after the application is confirmed.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The beneficiary should be a permanent resident of Gujarat State.\n- Any farmer of Gujarat State who belongs to the Scheduled Tribe category (in 208 talukas where the SMAM scheme is not implemented) is eligible under this scheme.\n- In the areas of Talukas (Blocks) and Districts which are benefited/added under the Agriculture Support Program in Tribal Area Sub Plan &amp;amp; Dispersed Tribes (TASP) can get the benefit of this Scheme.\n- The beneficiary farmer must purchase the agricultural equipment from the authorized manufacturer of the included manufacturer in the panels prepared for the purpose of periodic disclosed prize discovery by the Agriculture office/department.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a permanent resident of Gujarat State."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any farmer of Gujarat State who belongs to the Scheduled Tribe category (in 208 talukas where the SMAM scheme is not implemented) is eligible under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In the areas of Talukas (Blocks) and Districts which are benefited/added under the Agriculture Support Program in Tribal Area Sub Plan & Dispersed Tribes (TASP) can get the benefit of this Scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary farmer must purchase the agricultural equipment from the authorized manufacturer of the included manufacturer in the panels prepared for the purpose of periodic disclosed prize discovery by the Agriculture office/department."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "agr3fmsstf"
+}

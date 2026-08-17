@@ -1,0 +1,762 @@
+{
+  "_id": "68ee04d48ba160c15f340696",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Business",
+        "Loan",
+        "Youth",
+        "Farmer",
+        "Dairy",
+        "Unemployed"
+      ],
+      "schemeName": "Dr. Bhimrao Ambedkar Kamdhenu Yojana",
+      "schemeShortTitle": "DBAKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Loan",
+          "label": "Loan"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "slug": "dbaky",
+      "briefDescription": "The scheme aims to provide business opportunities in the dairy sector especially to unemployed youths, increase milk production, strengthen economic condition and farmers will get economic benefits even in adverse circumstances."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dbaky.mp.gov.in/IndexAboutScheme.aspx?csrt=8196877104242795588"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Dr. Bhimrao Ambedkar Kamdhenu Yojana&quot; scheme was launched by the Department of Animal Husbandry, Government of Madhya Pradesh. The scheme aims to provide business opportunities in the dairy sector, especially to unemployed youths, increase milk production, strengthen economic conditions, and enable farmers will get economic benefits even in adverse circumstances.\n<br>\n\n",
+      "benefits_md": "> **Loan will be disbursed in four stages (Amount in Lakhs)**\n\nStages of PaymentTime PeriodComponent DescriptionIndigenous Breed (₹ in Lakh)Crossbred/Hybrid/ Buffalo (₹ in Lakh)First installment1st MonthShed Construction11,00,00011,40,000Second installment4th MonthAnimal Purchase + Insurance + Transport9,00,00011,00,000Third installment10th MonthAnimal Purchase + Insurance + Transport8,00,0009,80,000First installment18th MonthAnimal Purchase + Insurance + Transport8,00,0009,80,000Total 36,00,00042,00,000<br>\n\n\n- Financial assistance for the construction of cattle sheds, the purchase of high-yielding milch cattle, cattle insurance, and transportation costs.\n- Each unit consists of 25 cattle (either all crossbred cows, indigenous cows, or buffaloes of similar breeds).\n- A beneficiary can avail up to 8 units (200 cattle) depending on landholding and repayment record.\n- Loan amount ranges from ₹36,00,000 (for indigenous breed units) to ₹42,00,000 (for crossbred cows/buffalo units).\n- The scheme ensures insurance coverage for cattle, sheds, and transit risks.\n- Tagging of purchased animals is mandatory and registered on the Bharat Pashudhan App.\n- Preference is given to farmers already supplying milk to milk unions or located along milk collection routes.\n\n\n- The disbursement occurs over an 18-month period in stages.\n- The beneficiary becomes eligible for another unit after 2 years, provided the earlier loan is regularly repaid.\n\n<br>\n\n",
+      "exclusions_md": "\n- The applicant must not be a defaulter to any bank.\n- Mixing of milch cattle types (indigenous, crossbred, buffalo) within a single unit is not permitted.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide business opportunities in the dairy sector especially to unemployed youths, increase milk production, strengthen economic condition and farmers will get economic benefits even in adverse circumstances.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Dr. Bhimrao Ambedkar Kamdhenu Yojana\" scheme was launched by the Department of Animal Husbandry, Government of Madhya Pradesh. The scheme aims to provide business opportunities in the dairy sector, especially to unemployed youths, increase milk production, strengthen economic conditions, and enable farmers will get economic benefits even in adverse circumstances."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Loan will be disbursed in four stages (Amount in Lakhs)",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Stages of Payment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Time Period"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Component Description"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Indigenous Breed (₹ in Lakh)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Crossbred/Hybrid/ Buffalo (₹ in Lakh)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "First installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1st Month"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Shed Construction"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "11,00,000"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "11,40,000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Second installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4th Month"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Animal Purchase + Insurance + Transport"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "9,00,000"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "11,00,000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Third installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "10th Month"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Animal Purchase + Insurance + Transport"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "8,00,000"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "9,80,000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "First installment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "18th Month"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Animal Purchase + Insurance + Transport"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "8,00,000"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "9,80,000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Total "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "36,00,000"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "42,00,000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance for the construction of cattle sheds, the purchase of high-yielding milch cattle, cattle insurance, and transportation costs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each unit consists of 25 cattle (either all crossbred cows, indigenous cows, or buffaloes of similar breeds)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A beneficiary can avail up to 8 units (200 cattle) depending on landholding and repayment record."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Loan amount ranges from ₹36,00,000 (for indigenous breed units) to ₹42,00,000 (for crossbred cows/buffalo units)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme ensures insurance coverage for cattle, sheds, and transit risks."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Tagging of purchased animals is mandatory and registered on the Bharat Pashudhan App."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference is given to farmers already supplying milk to milk unions or located along milk collection routes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The disbursement occurs over an 18-month period in stages."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary becomes eligible for another unit after 2 years, provided the earlier loan is regularly repaid."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not be a defaulter to any bank."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mixing of milch cattle types (indigenous, crossbred, buffalo) within a single unit is not permitted."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://dbaky.mp.gov.in/",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " of \"Dr. Bhimrao Ambedkar Kamdhenu Yojana\", and click \"Sign-up\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the online registration form, fill the following mandatory fields: Email ID, Mobile Number. Create a password and confirm. Finally, click \"Submit\" to complete the registration."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " After successful registration, the User ID and Password will be generated."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Application",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://dbaky.mp.gov.in/",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " of \"Dr. Bhimrao Ambedkar Kamdhenu Yojana\", and click \"Sign-In\". Sign in using your Username and Password created during registration."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Navigate to the online form of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click \"Save Application\". You'll receive a confirmation message upon successful submission of the application, along with an \"application number\". Click \"Print Application\" to print the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### ***Registration***\n**Step 1:** Visit the [official website](https://dbaky.mp.gov.in/) of &quot;Dr. Bhimrao Ambedkar Kamdhenu Yojana&quot;, and click &quot;Sign-up&quot;.\n**Step 2:** In the online registration form, fill the following mandatory fields: Email ID, Mobile Number. Create a password and confirm. Finally, click &quot;Submit&quot; to complete the registration.\n**Step 3:** After successful registration, the User ID and Password will be generated.\n##### ***Application***\n**Step 1:** Visit the [official website](https://dbaky.mp.gov.in/) of &quot;Dr. Bhimrao Ambedkar Kamdhenu Yojana&quot;, and click &quot;Sign-In&quot;. Sign in using your Username and Password created during registration.\n**Step 2:** Navigate to the online form of the scheme. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. \n**Step 3:** Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click &quot;Save Application&quot;. You&#39;ll receive a confirmation message upon successful submission of the application, along with an &quot;application number&quot;. Click &quot;Print Application&quot; to print the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a resident of Madhya Pradesh.\n- The applicant must be at least 21 years of age.\n- The applicant must be a livestock farmer.\n- The applicant belongs to all categories: SC, ST, and others are eligible to apply.\n- The applicant must possess a minimum of 3.5 acres of agricultural land per unit (25 cattle).\n- The applicant can apply for up to 8 units, with land requirement increasing proportionately.\n- The applicant’s family’s collective landholding can be considered; in such cases, there will be co-borrowers.\n- For scattered landholdings, at least half an acre must be in one location.\n- The applicant must hold a training certificate from a reputed institute/organization in dairy management.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be at least 21 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a livestock farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant belongs to all categories: SC, ST, and others are eligible to apply."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must possess a minimum of 3.5 acres of agricultural land per unit (25 cattle)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant can apply for up to 8 units, with land requirement increasing proportionately."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s family’s collective landholding can be considered; in such cases, there will be co-borrowers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For scattered landholdings, at least half an acre must be in one location."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must hold a training certificate from a reputed institute/organization in dairy management."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dbaky"
+}

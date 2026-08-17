@@ -1,0 +1,263 @@
+{
+  "_id": "67cec0d05da1062c61a3e7b6",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer Support Centers",
+        "Computerization",
+        "Market Committees"
+      ],
+      "schemeName": "Scheme to Provide Assistance for Setting Up Farmer Support Centers in State Market Committees and for Computerization of All Market Committees",
+      "schemeShortTitle": "SPAFSG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "spafsg",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to establish farmer support centers at market committee levels and computerize all market committees in Gujarat."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines 1",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=cuul3IDjBT04vsTxpbv10A==&domain=Uxijm857oHjeSHuzZgXyAA=="
+        },
+        {
+          "title": "Guidelines 2",
+          "url": "https://agri.gujarat.gov.in/ViewFile?fileName=aPNBWj81zn2Uij94k1vnHASH__HASHQVwFnxM0iwP0xrtm2ICpfnyaDHASH_HASHLmJbrrJNulg8j9Uv9CWXdG3Lxe3ZmHASH__HASHvlOSs38wSLY7RRmN3oifBbCHASH_HASHOXHASH__HASHOhPLoYIARZGSmmDiB5gqQ2nBc4l4vBGmoHWxdqCvmob09w=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Scheme to Provide Assistance for Setting Up Farmer Support Centers in State Market Committees and for Computerization of All Market Committees&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by setting up information centers and computerizing market committees for better efficiency and transparency.\n",
+      "benefits_md": "**Name of the Component****Standard of Assistance**To create farmer support center50% of the cost incurred including manpower (employee salaries) or a maximum of ₹2,00,000/-, whichever is less.To computerize the state market committeesCentral software will be developed by the state government.For necessary hardware/software for computerization of State Market Committees\tFor the necessary hardware/software for computerization of the market committees of the state, assistance of up to 90% or ₹2,00,000/- will be provided to the market committees of the state of “K” and “D” categories on the purchase of 2 computers, 2 printers, and software.",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to establish farmer support centers at market committee levels and computerize all market committees in Gujarat.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Scheme to Provide Assistance for Setting Up Farmer Support Centers in State Market Committees and for Computerization of All Market Committees\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by setting up information centers and computerizing market committees for better efficiency and transparency."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of the Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To create farmer support center"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the cost incurred including manpower (employee salaries) or a maximum of ₹2,00,000/-, whichever is less."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To computerize the state market committees"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Central software will be developed by the state government."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "For necessary hardware/software for computerization of State Market Committees\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "For the necessary hardware/software for computerization of the market committees of the state, assistance of up to 90% or ₹2,00,000/- will be provided to the market committees of the state of “K” and “D” categories on the purchase of 2 computers, 2 printers, and software."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The Market Committee should submit a proposal to the Deputy Director and District Registrar, Cooperative Societies through the Director, Agricultural Market and Rural Economy, Gandhinagar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " After verification, the proposal is forwarded to the Agriculture, Farmers Welfare, and Cooperation Department for approval."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Office Address and Contact Details of District Registrar: ",
+                    "bold": true
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rcs.gujarat.gov.in/Home/DistrictRegistrar",
+                    "children": [
+                      {
+                        "text": "Click here"
+                      }
+                    ]
+                  },
+                  {
+                    "bold": true,
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The Market Committee should submit a proposal to the Deputy Director and District Registrar, Cooperative Societies through the Director, Agricultural Market and Rural Economy, Gandhinagar.\n**Step 2:** After verification, the proposal is forwarded to the Agriculture, Farmers Welfare, and Cooperation Department for approval.\n&gt; **Office Address and Contact Details of District Registrar:** [Click here](https://rcs.gujarat.gov.in/Home/DistrictRegistrar)**.**\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Market Committees of all areas of Gujarat State shall be eligible for this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Market Committees of all areas of Gujarat State shall be eligible for this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "spafsg"
+}

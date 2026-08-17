@@ -1,0 +1,276 @@
+{
+  "_id": "691c1453919c65fcc697a114",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Irrigation",
+        "Groundwater Irrigation",
+        "Agriculture"
+      ],
+      "schemeName": "Pradhan Mantri Krishi Sinchayee Yojana - Har Khet Ko Pani (Groundwater Irrigation Scheme) Uttarakhand",
+      "schemeShortTitle": "PMKSYHKKPGWS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000029,
+        "label": "Minor Irrigation Department"
+      },
+      "slug": "pmksyhkkpgws",
+      "briefDescription": "The scheme aims to provide assured and sustainable irrigation to every farm by developing groundwater-based irrigation facilities for farmers. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 245)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://minorirrigation.uk.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana – Har Khet Ko Pani (Groundwater Irrigation Scheme)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide assured and sustainable irrigation to every farm by developing groundwater-based irrigation facilities for farmers. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share.\n<br>\n\n",
+      "benefits_md": "Under the scheme, farmers are provided with free irrigation facilities. Collective irrigation projects or individual groundwater irrigation projects are constructed. The works carried out under the scheme include:\n\n- Solar-powered pumpsets\n- Electrically operated pumpsets\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide assured and sustainable irrigation to every farm by developing groundwater-based irrigation facilities for farmers. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana – Har Khet Ko Pani (Groundwater Irrigation Scheme)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide assured and sustainable irrigation to every farm by developing groundwater-based irrigation facilities for farmers. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme, farmers are provided with free irrigation facilities. Collective irrigation projects or individual groundwater irrigation projects are constructed. The works carried out under the scheme include:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Solar-powered pumpsets"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Electrically operated pumpsets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "align_justify",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "After examination by the departmental TAC, the DPR is forwarded to the headquarters. Thereafter, following approval by the State-level Technical Advisory Committee, the proposals are forwarded to the State Level Sanctioning Committee, chaired by the Chief Secretary of the Government of Uttarakhand. Upon approval, the DPR is forwarded to the Government of India for financial sanction. The construction work of the projects is initiated after receiving financial approval from the Government of India."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n\n    - For construction of the project, project&amp;amp;#39;s proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.\n    - After examination by the departmental TAC, the DPR is forwarded to the headquarters. Thereafter, following approval by the State-level Technical Advisory Committee, the proposals are forwarded to the State Level Sanctioning Committee, chaired by the Chief Secretary of the Government of Uttarakhand. Upon approval, the DPR is forwarded to the Government of India for financial sanction. The construction work of the projects is initiated after receiving financial approval from the Government of India.\n\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must be a farmer engaged in agricultural activities.\n   1. As per the guidelines issued by the Government of India:\n\n\n  - For the construction of collective irrigation projects, a command area of 5 hectares must be available.\n  - According to the report of the Central Ground Water Board, Government of India, the command area must be classified under the safe category.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The beneficiary must be a resident of Uttarakhand."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The beneficiary must be a farmer engaged in agricultural activities."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "As per the guidelines issued by the Government of India:"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For the construction of collective irrigation projects, a command area of 5 hectares must be available."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "According to the report of the Central Ground Water Board, Government of India, the command area must be classified under the safe category."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pmksyhkkpgws"
+}

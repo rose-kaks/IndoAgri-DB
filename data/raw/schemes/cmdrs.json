@@ -1,0 +1,229 @@
+{
+  "_id": "67603be79179d18db5f59979",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Farmer",
+        "Drought"
+      ],
+      "schemeName": "Chief Minister Drought Relief Scheme",
+      "schemeShortTitle": "CMDRS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Climate change",
+          "label": "Climate change"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2000028,
+        "label": "Department of Home, Jail and Disaster Management"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Family",
+      "slug": "cmdrs",
+      "briefDescription": "The Chief Minister Drought Relief Scheme aims to provide relief and financial assistance to families affected by drought in designated areas. The scheme ensures financial security, livelihood support, and basic resources for drought-hit communities."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://msry.jharkhand.gov.in/LetterPDF/Drought_Notification_No_1291_Dated_31_10_2022_11082022230530.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://msry.jharkhand.gov.in/hi/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The Chief Minister Drought Relief Scheme aims to provide relief and financial assistance to families affected by drought in designated areas. The scheme ensures financial security, livelihood support, and basic resources for drought-hit communities.",
+      "detailedDescription_md": "The “Chief Minister Drought Relief Scheme” was launched by the Department of Home, Jail and Disaster Management, Government of Jharkhand. The Jharkhand government has declared 226 blocks across 22 districts (excluding East Singhbhum and Simdega) as drought-affected. Each farmer family in these blocks will receive an advance drought relief assistance. The scheme aims to provide immediate financial relief to over 30 lakh farmer families impacted by drought. \n",
+      "benefits_md": "\n- **Financial assistance of ₹3,500/- per affected farmer family.**\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “Chief Minister Drought Relief Scheme” was launched by the Department of Home, Jail and Disaster Management, Government of Jharkhand. The Jharkhand government has declared 226 blocks across 22 districts (excluding East Singhbhum and Simdega) as drought-affected. Each farmer family in these blocks will receive an advance drought relief assistance. The scheme aims to provide immediate financial relief to over 30 lakh farmer families impacted by drought. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹3,500/- per affected farmer family.",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a farmer.\n1. The farmer’s crops should be damaged due to drought. \n1. The families should be residing officially declared drought-hit areas.\n\n<br>\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer’s crops should be damaged due to drought. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The families should be residing officially declared drought-hit areas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmdrs"
+}

@@ -1,0 +1,400 @@
+{
+  "_id": "65ca50c6ed4030e118d74c96",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Mushroom Production",
+        "Financial Assistance",
+        "Training"
+      ],
+      "schemeName": "Regional Centre for Training and Production of Mushroom",
+      "schemeShortTitle": "RCTPM",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "rctpm",
+      "briefDescription": "The objective of the scheme is to train farmers in the method of mushroom cultivation and to supply quality spawn and pasteurized compost to farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=107"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Regional Centre for Training and Production of Mushroom” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to train farmers in the method of mushroom cultivation and to supply quality spawn and pasteurised compost to farmers.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\nSupply of spawns at 50% subsidy and compost at 50% subsidy.\n> **Type of Assistance and Entitlement (If any):**\n\n**Sl. No.****Entitlement****Owantum of Assistance**1Sale of Button, Oyster spawns, and compost to Mushroom growers at Mushroom Development Centre.50% subsidy sale to the growers.2Construction of compost shed under Assistant Director of Horticulture, Mushroom Development Centre, Upper Shillong.50% assistance3Financial assistance to Mushroom growers @ ₹22,000/- per unit under District Horticulture Officer, West Garo Hills.50% assistance",
+      "briefDescription": "The objective of the scheme is to train farmers in the method of mushroom cultivation and to supply quality spawn and pasteurized compost to farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Regional Centre for Training and Production of Mushroom” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to train farmers in the method of mushroom cultivation and to supply quality spawn and pasteurised compost to farmers."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Supply of spawns at 50% subsidy and compost at 50% subsidy."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Type of Assistance and Entitlement (If any):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sl. No.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Entitlement",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Owantum of Assistance",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sale of Button, Oyster spawns, and compost to Mushroom growers at Mushroom Development Centre."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% subsidy sale to the growers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Construction of compost shed under Assistant Director of Horticulture, Mushroom Development Centre, Upper Shillong."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% assistance"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Financial assistance to Mushroom growers @ ₹22,000/- per unit under District Horticulture Officer, West Garo Hills."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% assistance"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a Community Development Block/Horticulture Circle/District Horticulture Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Bonafide and progressive farmers on a first come first serve basis."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "1. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                    "children": [
+                      {
+                        "text": "District Horticulture Officer"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "2. Assistant Director of Horticulture (Mushroom) Upper Shillong"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a Community Development Block/Horticulture Circle/District Horticulture Officer.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nBonafide and progressive farmers on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Assistant Director of Horticulture (Mushroom) Upper Shillong\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant/farmer should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture, possessing own or leased land of at least 0.2 (hectares) or more.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant/farmer should be a permanent resident of Meghalaya."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in agriculture, possessing own or leased land of at least 0.2 (hectares) or more."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " The applicant farmer can avail of the benefits of the scheme on a first come first serve basis."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rctpm"
+}

@@ -1,0 +1,877 @@
+{
+  "_id": "65efec8f938a0b13ccb3682f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Pipe Line",
+        "Agriculture",
+        "Irrigation",
+        "Development"
+      ],
+      "schemeName": "Sinchai Pipeline Karyakram",
+      "schemeShortTitle": "SPK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": "2020-04-29",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "spk",
+      "briefDescription": "In \"Sinchai Pipeline Karyakram\" Rajasthan government will provide subsidies to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/AGRI_/IPLP/DOC_250_33da8ac2-d17a-49e6-ad16-615dd5ff570a.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/250"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Login",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": " The &quot;Sinchai Pipeline Karyakram&quot; under The Agriculture Department of the  Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers.\n<br>\n\n> **Feature :**\n\n\n1. Farmers will be eligible for a grant only if they purchase BIS-marked pipes from a manufacturer or their authorized distributor/seller registered with the Agriculture Department, either in cash or by taking a loan from a bank, and successfully install them on their farm.\n1. Each pipe distributed on a grant basis must be embossed with the year of manufacture and the grant distribution year. The grant will be admissible only on pipes manufactured and sold in the eligible year. Additionally, the grant will be admissible on the remaining pipes from the previous year in the next financial year as well.\n1. The concerned manufacturer will necessarily provide information about the remaining stock of the previous financial year to the Deputy Director and Assistant Director of Agriculture (Ext.) office in the district. The grant will not be admissible in the absence of information.\n1. In the financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe manufacturers to the Deputy Director and Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The dealer will also submit an affidavit that no bill will be charged more than the MRP.\n\n<br>\n\n**Component****Component****Ice. Code****Description**PipelinePipe4984 /14151 Pt I &amp;amp;amp;amp; II : 199H.D.P.E. irrigation pipePipelinePipe4985 ¼4 kg/cm2 &amp;amp;amp;amp;63 ¼2-5 kg/cm2 &amp;amp;amp;amp;90 mm and above ½PVC for water supply. irrigation pipePipelinePipeIS 16190 : 2014 ¼ 63 mm and above and 200 mm and above ½HDPE High Density Polyethylene Laminated Knitted Flat Tube Irrigation Pipe for Water Supply<br>\n\n<br>\n\n> **The subsidy will be payable only on pipes of diameter 63 mm or more than 63 mm.**\n\n",
+      "benefits_md": "\n1. Cost of transporting water: 50% of the cost (capped at ₹1000/-).\n1. Pipe material cost:\n\n  - HDPE pipe: ₹50 per meter (capped at ₹15,000/- total).\n  - PVC pipe: ₹35 per meter (capped at ₹15,000/- total).\n  - HDPE laminated flat tube pipe: ₹20 per meter (capped at ₹15,000/- total).\n\n\n",
+      "briefDescription": "In \"Sinchai Pipeline Karyakram\" Rajasthan government will provide subsidies to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The \"Sinchai Pipeline Karyakram\" under The Agriculture Department of the  Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Feature :",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers will be eligible for a grant only if they purchase BIS-marked pipes from a manufacturer or their authorized distributor/seller registered with the Agriculture Department, either in cash or by taking a loan from a bank, and successfully install them on their farm."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each pipe distributed on a grant basis must be embossed with the year of manufacture and the grant distribution year. The grant will be admissible only on pipes manufactured and sold in the eligible year. Additionally, the grant will be admissible on the remaining pipes from the previous year in the next financial year as well."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The concerned manufacturer will necessarily provide information about the remaining stock of the previous financial year to the Deputy Director and Assistant Director of Agriculture (Ext.) office in the district. The grant will not be admissible in the absence of information."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In the financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe manufacturers to the Deputy Director and Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The dealer will also submit an affidavit that no bill will be charged more than the MRP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Ice. Code",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Description",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipeline"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipe"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4984 /14151 Pt I & II : 199"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "H.D.P.E. irrigation pipe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipeline"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipe"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4985 ¼4 kg/cm2 &63 ¼2-5 kg/cm2 &90 mm and above ½"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "PVC for water supply. irrigation pipe"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipeline"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pipe"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "IS 16190 : 2014 ¼ 63 mm and above and 200 mm and above ½"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "HDPE High Density Polyethylene Laminated Knitted Flat Tube Irrigation Pipe for Water Supply"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "The subsidy will be payable only on pipes of diameter 63 mm or more than 63 mm.",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cost of transporting water: 50% of the cost (capped at ₹1000/-)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pipe material cost:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "HDPE pipe: ₹50 per meter (capped at ₹15,000/- total)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "PVC pipe: ₹35 per meter (capped at ₹15,000/- total)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "HDPE laminated flat tube pipe: ₹20 per meter (capped at ₹15,000/- total)."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Complete the registration process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": "dashboard "
+                  }
+                ]
+              },
+              {
+                "text": "will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “ RAJ-KISAN ” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"Citizen\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on Get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Citizen&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The agricultural land should be owned by the applicant.\n1. The applicant must be a farmer residing in Rajasthan.\n1. This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or well.\n1. Applicants must own at least 2 bighas of cultivable agricultural land.\n1. The farmer&#39;s bank account must be linked to an Aadhar card. Additionally, no farmer can apply again for the next 10 years after receiving the benefit.\n1. Farmers must apply for the grant within 30 days of purchasing the pipe and after this timeframe will not be considered.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The agricultural land should be owned by the applicant."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer residing in Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or well."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicants must own at least 2 bighas of cultivable agricultural land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer's bank account must be linked to an Aadhar card. Additionally, no farmer can apply again for the next 10 years after receiving the benefit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers must apply for the grant within 30 days of purchasing the pipe and after this timeframe will not be considered."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "spk"
+}

@@ -1,0 +1,202 @@
+{
+  "_id": "645356438f2d75c8cacd7782",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2013-04-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Soil health",
+          "label": "Soil health"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Farmers",
+        "Agriculture",
+        "Soil Health"
+      ],
+      "schemeName": "Soil Testing Laboratory",
+      "schemeShortTitle": "STL",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "stl",
+      "briefDescription": "Agriculture and Farmers' Welfare Department launched the \"Soil Testing Laboratory\" scheme for the farmer on 01 April 2013."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Details",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=30"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Agriculture and Farmers' Welfare Department launched the \"Soil Testing Laboratory\" scheme for the farmer on 01 April 2013.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Description",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Testing Lab - For analysing soil samples preceding the application of fertilizer in the correct dosage in farmers' field."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Objectives"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The analysis is free of cost of soil samples preceding application of fertilizers/ liming etc. for farmers along with distribution of Soil Health Card (SHC)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Mode of Selection of Beneficiary(s)"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bonafide farmers have sufficient available cultivable land on a first come first served basis."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide soil testing services for farmers free of cost."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Health Card (SHC)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "**Description**\n\n- Soil Testing Lab - For analysing soil samples preceding the application of fertilizer in the correct dosage in farmers&#39; field.\n\n**Objectives**\n\n- The analysis is free of cost of soil samples preceding application of fertilizers/ liming etc. for farmers along with distribution of Soil Health Card (SHC).\n\n**Mode of Selection of Beneficiary(s)**\n\n- Bonafide farmers have sufficient available cultivable land on a first come first served basis.\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "https://meghalaya.gov.in/index.php/schemes/content/22201",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/Agriculture Circle."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Bonafide farmers engaged in Agriculture\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bonafide farmers engaged in Agriculture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "stl"
+}

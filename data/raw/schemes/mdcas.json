@@ -1,0 +1,287 @@
+{
+  "_id": "65f2db42938a0b13ccb7c0b7",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Maize",
+        "Quality Seeds"
+      ],
+      "schemeName": "Maize Development through Cluster Approach Scheme",
+      "schemeShortTitle": "MDCAS",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "mdcas",
+      "briefDescription": "The objectives of the scheme is to increase food grain production in order to attain self-sufficiency by growing high yielding varieties of maize and also by adopting the crop and location specific production technology."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/"
+        },
+        {
+          "title": "Guidelines",
+          "url": "http://megsrcw.nic.in/sites/default/files/field/II%20schemes%20progs%20services%20under%20line%20deptts.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objectives of the scheme is to increase food grain production in order to attain self-sufficiency by growing high yielding varieties of maize and also by adopting the crop and location specific production technology.",
+      "detailedDescription_md": "The scheme “Maize Development through Cluster Approach” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to increase food grain production in order to attain self-sufficiency by growing high-yielding varieties of maize and also by adopting crop and location-specific production technology.\n",
+      "benefits_md": "\n- Under the scheme, quality seeds shall be supplied to farmers at subsidized rates for higher yield.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Maize Development through Cluster Approach” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to increase food grain production in order to attain self-sufficiency by growing high-yielding varieties of maize and also by adopting crop and location-specific production technology."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under the scheme, quality seeds shall be supplied to farmers at subsidized rates for higher yield."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/Agriculture Circle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Sectoral Officer, Directorate of Agriculture"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "District Agriculture Officer"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Sub-Divisional Officer"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Agriculture Development Officer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\n\n  - The bonafide farmers shall be selected on a first come first serve basis.\n\n&gt; **Whom to Contact:**\n\n\n   1. Sectoral Officer, Directorate of Agriculture\n   1. District Agriculture Officer\n   1. Sub-Divisional Officer\n   1. Agriculture Development Officer\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n1. The applicant should have sufficient available cultivable land of (0.025 hectares).\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Meghalaya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have sufficient available cultivable land of (0.025 hectares)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mdcas"
+}

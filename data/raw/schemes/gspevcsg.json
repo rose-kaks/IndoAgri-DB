@@ -1,0 +1,697 @@
+{
+  "_id": "68ecff408ba160c15f302298",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Subsidy",
+        "Vehicle",
+        "Consumer",
+        "Incentive",
+        "Transport"
+      ],
+      "schemeName": "Grant of Subsidy for Purchase of 'Electric Vehicles' to Consumers in State of Goa",
+      "schemeShortTitle": "GSPEVCSG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Public transport and private vehicles",
+          "label": "Public transport and private vehicles"
+        },
+        {
+          "value": "Roads and road transport",
+          "label": "Roads and road transport"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000030,
+        "label": "Non-Conventional Energy Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "gspevcsg",
+      "briefDescription": "The scheme provides financial assistance in the form of a subsidy for the purchase or conversion of Electric two-wheelers, three-wheelers, and four-wheelers, along with scrapping incentives for old vehicles, incentives for local manufacturing in Goa, and low-cost loans provided by CESL."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://ahvs.goa.gov.in/wp-content/uploads/2025/03/financial-assistance-Dairy-equipment.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme provides financial assistance in the form of a subsidy for the purchase or conversion of Electric two-wheelers, three-wheelers, and four-wheelers, along with scrapping incentives for old vehicles, incentives for local manufacturing in Goa, and low-cost loans provided by CESL.",
+      "detailedDescription_md": "The scheme &quot;Grant of Subsidy for Purchase of &#39;Electric Vehicles&#39; to Consumers in State of Goa&quot; was launched by the Department of New and Renewable Energy, Government of Goa. The scheme provides financial assistance in the form of a subsidy for the purchase or conversion of Electric two-wheelers, three-wheelers, and four-wheelers, along with scrapping incentives for old vehicles, incentives for local manufacturing in Goa, and low-cost loans provided by Convergence Energy Services Limited (CESL). The scheme is implemented by the Goa Energy Development Agency (GEDA). The applications for this scheme are accepted on a First Come First Serve (FCFS) basis.\n<br>\n\n",
+      "benefits_md": "##### ***State Subsidy (Quantum of Subsidy per kilowatt-hour)***\n\n- Financial Year 2021-2022: ₹10,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers.\n- Financial Year 2022-2023: ₹8,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers.\n- Financial Year 2023-2024: ₹6,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers.\n- Financial Year 2024-2025: ₹4,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers.\n- Financial Year 2025-2026: ₹2,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers.\n\n##### ***Capping of State Subsidy (Maximum amounts)***\n\n- Two Wheeler: Not exceeding ₹30,000/- (for a maximum of 3,000 vehicles).\n- Three Wheeler: Not exceeding ₹60,000/- (for a maximum of 50 vehicles).\n- Four Wheeler: Not exceeding ₹3,00,000/- (for a maximum of 300 vehicles).\n\n##### ***Scrapping Incentives (Goa Government Incentive for scrapping of vehicle)***\n\n- Two Wheeler: ₹5,000/-.\n- Three Wheeler: ₹10,000/-.\n- Four Wheeler: ₹10,000/-.\n\n##### ***Other Contribution for Scrapping of Vehicle by Original Equipment Manufacturer (OEM) or Convergence Energy Services Limited (CESL)***\n\n- Two Wheeler: ₹5,000/-.\n- Three Wheeler: Not applicable (NIL).\n- Four Wheeler: Not applicable (NIL).\n- Incentive for Vehicle Manufactured in Goa:\n- Two Wheeler: ₹5,000/-.\n- Three Wheeler: ₹10,000/-.\n- Four Wheeler: ₹15,000/-.\n\n***Central Government Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME)-II Scheme Subsidy:*** Provided as applicable.\n***Low Cost Loans:*** Convergence Energy Services Limited will provide low cost loans to the consumer for the purchase of an Electric Vehicle if the vehicle is purchased from Convergence Energy Services Limited.\n***Training and Capacity Building:*** Convergence Energy Services Limited will provide training/capacity building to local youths in the field of servicing of electric vehicles.\n<br>\n\n##### ***Benefit Disbursal Conditions***\n\n- The total amount of financial subsidy will be decided by the Department of New and Renewable Energy.\n- Disbursement will be done on a First Come First Serve (FCFS) basis.\n- The subsidy shall be disbursed in a single installment to the beneficiary concerned, which is 100% on purchase or conversion of the vehicle.\n- The Purchase Incentive for conversion of an Old Internal Combustion Engine vehicle into an Electric Vehicle by a retrofitting kit will be provided as per the capacity of the battery or maximum up to the capping of the State subsidy, whichever is lower.\n- If a consumer opts to purchase an Electric Vehicle directly from a dealer and avail benefits from the Government of Goa, the financial assistance from Convergence Energy Services Limited will not be available.\n\n##### ***Post-Selection Obligations***\n\n- The beneficiary must ensure that the purchase incentive for conversion is subject to the approval of the retrofitting kit by the Regional Transport Office.\n- The registered owner of an Electric Vehicle claiming a Scrapping Incentive must obtain confirmation of scrapping and de-registration of the old Internal Combustion Engine vehicle by the Regional Transport Office, as reimbursement is subject to this confirmation.\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Grant of Subsidy for Purchase of 'Electric Vehicles' to Consumers in State of Goa\" was launched by the Department of New and Renewable Energy, Government of Goa. The scheme provides financial assistance in the form of a subsidy for the purchase or conversion of Electric two-wheelers, three-wheelers, and four-wheelers, along with scrapping incentives for old vehicles, incentives for local manufacturing in Goa, and low-cost loans provided by Convergence Energy Services Limited (CESL). The scheme is implemented by the Goa Energy Development Agency (GEDA). The applications for this scheme are accepted on a First Come First Serve (FCFS) basis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "State Subsidy (Quantum of Subsidy per kilowatt-hour)",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Year 2021-2022: ₹10,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Year 2022-2023: ₹8,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Year 2023-2024: ₹6,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Year 2024-2025: ₹4,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Year 2025-2026: ₹2,000/- per kilowatt-hour (kWh) for Two Wheelers, Three Wheelers, and Four Wheelers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Capping of State Subsidy (Maximum amounts)",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Two Wheeler: Not exceeding ₹30,000/- (for a maximum of 3,000 vehicles)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Three Wheeler: Not exceeding ₹60,000/- (for a maximum of 50 vehicles)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Four Wheeler: Not exceeding ₹3,00,000/- (for a maximum of 300 vehicles)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Scrapping Incentives (Goa Government Incentive for scrapping of vehicle)",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Two Wheeler: ₹5,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Three Wheeler: ₹10,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Four Wheeler: ₹10,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Other Contribution for Scrapping of Vehicle by Original Equipment Manufacturer (OEM) or Convergence Energy Services Limited (CESL)",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Two Wheeler: ₹5,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Three Wheeler: Not applicable (NIL)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Four Wheeler: Not applicable (NIL)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Incentive for Vehicle Manufactured in Goa:"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Two Wheeler: ₹5,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Three Wheeler: ₹10,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Four Wheeler: ₹15,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Central Government Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME)-II Scheme Subsidy:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            },
+            {
+              "text": " Provided as applicable."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low Cost Loans:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            },
+            {
+              "text": " Convergence Energy Services Limited will provide low cost loans to the consumer for the purchase of an Electric Vehicle if the vehicle is purchased from Convergence Energy Services Limited."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Training and Capacity Building:",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            },
+            {
+              "text": " Convergence Energy Services Limited will provide training/capacity building to local youths in the field of servicing of electric vehicles."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Benefit Disbursal Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The total amount of financial subsidy will be decided by the Department of New and Renewable Energy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disbursement will be done on a First Come First Serve (FCFS) basis."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy shall be disbursed in a single installment to the beneficiary concerned, which is 100% on purchase or conversion of the vehicle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Purchase Incentive for conversion of an Old Internal Combustion Engine vehicle into an Electric Vehicle by a retrofitting kit will be provided as per the capacity of the battery or maximum up to the capping of the State subsidy, whichever is lower."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If a consumer opts to purchase an Electric Vehicle directly from a dealer and avail benefits from the Government of Goa, the financial assistance from Convergence Energy Services Limited will not be available."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Post-Selection Obligations",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must ensure that the purchase incentive for conversion is subject to the approval of the retrofitting kit by the Regional Transport Office."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The registered owner of an Electric Vehicle claiming a Scrapping Incentive must obtain confirmation of scrapping and de-registration of the old Internal Combustion Engine vehicle by the Regional Transport Office, as reimbursement is subject to this confirmation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The application and disbursement process for the financial benefits under the \"Scheme for Promotion of Electric Vehicles in the State of Goa\" vary depending on the method used to acquire the Electric Vehicle (EV).",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Disbursement Through Convergence Energy Services Limited (CESL)",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If the consumer chooses to purchase the Electric Vehicle from Convergence Energy Services Limited (CESL), the financial structure is designed to reduce the upfront cost."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upfront Reduction:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " CESL will \"club the incentives\" provided under the Central Government's Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME)-II scheme (as applicable), along with the subsidy proposed by the State Government, and the contribution from the Original Equipment Manufacturer (OEM)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Purpose:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " This clubbing of incentives is specifically intended \"to reduce the upfront cost of the vehicle to the consumer\"."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Loans:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " CESL also provides low-cost loans to the consumer for the purchase of the Electric Vehicle."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Condition:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " However, the consumer must purchase the vehicle directly from CESL to avail of this financial assistance and the upfront cost reduction mechanism."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Disbursement Through Direct Purchase/Conversion (State Subsidy)",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If the consumer opts to purchase the Electric Vehicle \"directly from dealer and avail benefits from Government of Goa,\" the financial assistance from CESL will not be available."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "In this scenario (or when converting an existing vehicle), the State subsidy is provided as a disbursement to the beneficiary after the purchase and registration requirements are met."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Disbursement Pattern:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " The subsidy is disbursed \"in a single installment to the beneficiary concerned i.e. 100% on purchase/conversion of the vehicle\"."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Documentation Requirement:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " To receive this disbursement, the beneficiary must engage in the \"production of documents of purchase/conversion i.e. copy of Registration Certificate book and Insurance\"."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "bold": true,
+                "underline": true,
+                "text": "Scrapping Incentive",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If the registered owner of the EV claims the Scrapping Incentive, the reimbursement of that incentive is subject to the confirmation of scrapping and de-registration of the old Internal Combustion Engine (ICE) vehicle by the Regional Transport Office (RTO)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "_The application and disbursement process for the financial benefits under the &quot;Scheme for Promotion of Electric Vehicles in the State of Goa&quot; vary depending on the method used to acquire the Electric Vehicle (EV)._\n<br>\n\n##### ***Disbursement Through Convergence Energy Services Limited (CESL)***\n\n- If the consumer chooses to purchase the Electric Vehicle from Convergence Energy Services Limited (CESL), the financial structure is designed to reduce the upfront cost.\n- **Upfront Reduction:** CESL will &quot;club the incentives&quot; provided under the Central Government&#39;s Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME)-II scheme (as applicable), along with the subsidy proposed by the State Government, and the contribution from the Original Equipment Manufacturer (OEM).- **Purpose:** This clubbing of incentives is specifically intended &quot;to reduce the upfront cost of the vehicle to the consumer&quot;.- **Loans:** CESL also provides low-cost loans to the consumer for the purchase of the Electric Vehicle.- **Condition:** However, the consumer must purchase the vehicle directly from CESL to avail of this financial assistance and the upfront cost reduction mechanism.\n##### ***Disbursement Through Direct Purchase/Conversion (State Subsidy)***\n\n- If the consumer opts to purchase the Electric Vehicle &quot;directly from dealer and avail benefits from Government of Goa,&quot; the financial assistance from CESL will not be available.\n- In this scenario (or when converting an existing vehicle), the State subsidy is provided as a disbursement to the beneficiary after the purchase and registration requirements are met.\n- **Disbursement Pattern:** The subsidy is disbursed &quot;in a single installment to the beneficiary concerned i.e. 100% on purchase/conversion of the vehicle&quot;.- **Documentation Requirement:** To receive this disbursement, the beneficiary must engage in the &quot;production of documents of purchase/conversion i.e. copy of Registration Certificate book and Insurance&quot;.\n##### ***Scrapping Incentive***\nIf the registered owner of the EV claims the Scrapping Incentive, the reimbursement of that incentive is subject to the confirmation of scrapping and de-registration of the old Internal Combustion Engine (ICE) vehicle by the Regional Transport Office (RTO).\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a permanent resident of Goa.\n- The applicant must be the registered owner of the Electric Vehicle for which the Purchase Incentive is claimed.\n- The applicant must ensure the vehicle is an Electric Two Wheeler, Three Wheeler, or Four Wheeler purchased or converted in the State of Goa.\n- The applicant must purchase the Electric Vehicle from Convergence Energy Services Limited to avail of their low-cost loans and financial incentives.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a permanent resident of Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be the registered owner of the Electric Vehicle for which the Purchase Incentive is claimed."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must ensure the vehicle is an Electric Two Wheeler, Three Wheeler, or Four Wheeler purchased or converted in the State of Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must purchase the Electric Vehicle from Convergence Energy Services Limited to avail of their low-cost loans and financial incentives."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gspevcsg"
+}

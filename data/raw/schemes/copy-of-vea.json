@@ -1,0 +1,262 @@
+{
+  "_id": "691888705d0e85cf9620d64c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Spice",
+        "Spice Seeds",
+        "Farmer"
+      ],
+      "schemeName": "Spice Area Expansion",
+      "schemeShortTitle": "SAE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "copy-of-vea",
+      "briefDescription": "The scheme aims to promote and expand the cultivation of high-value spices such as ginger, chili, turmeric, and garlic among farmers by providing quality seeds and tubers at a subsidized rate, thereby increasing spice production and enhancing farmers’ income in Uttarakhand."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 212)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Spice Area Expansion” scheme is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote and expand the cultivation of high-value spices such as ginger, chili, turmeric, and garlic among farmers by providing quality seeds and tubers at a subsidized rate, thereby increasing spice production and enhancing farmers’ income in Uttarakhand.\n<br>\n\n",
+      "benefits_md": "\n  - To promote spice cultivation among farmers, spice seeds and tubers (ginger, chili, turmeric, and garlic) are provided at a 50% subsidy on the total cost, up to ₹15,000/- per hectare. These seeds are available for a maximum of 4 hectares of land.\n  - For example, if 1 kg of ginger costs ₹200/-, the farmer pays ₹100/- to the concerned Horticulture Mobile team  Center, while the government bears the remaining ₹100/- as a subsidy, allowing the farmer to obtain the tuber for ₹100/-.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote and expand the cultivation of high-value spices such as ginger, chili, turmeric, and garlic among farmers by providing quality seeds and tubers at a subsidized rate, thereby increasing spice production and enhancing farmers’ income in Uttarakhand.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Spice Area Expansion” scheme is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote and expand the cultivation of high-value spices such as ginger, chili, turmeric, and garlic among farmers by providing quality seeds and tubers at a subsidized rate, thereby increasing spice production and enhancing farmers’ income in Uttarakhand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To promote spice cultivation among farmers, spice seeds and tubers (ginger, chili, turmeric, and garlic) are provided at a 50% subsidy on the total cost, up to ₹15,000/- per hectare. These seeds are available for a maximum of 4 hectares of land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For example, if 1 kg of ginger costs ₹200/-, the farmer pays ₹100/- to the concerned Horticulture Mobile team  Center, while the government bears the remaining ₹100/- as a subsidy, allowing the farmer to obtain the tuber for ₹100/-."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Application forms can be obtained from the officers or staff at the Horticulture Mobile team  Centre. Forms are also available for download from the department’s website: "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://shm.uk.gov.in/",
+                        "children": [
+                          {
+                            "text": "https://shm.uk.gov.in"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For turmeric and ginger, applications should be submitted in February or March. For other crops, applications must be submitted at least one month prior to the sowing date. Land-related documents, such as Khasra and Khatauni, must be submitted along with the application form. For leased land, additional documents including a lease certificate, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number are required."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Currently, the application process is offline. Farmers must submit their applications along with the required documents to the Horticulture Mobile team Centre. The application form outlines the farmer’s proposal, and if any assistance is needed in filling out the form, the staff at the respective centre are responsible for providing support."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For applications under centrally-sponsored schemes, once the proposal is submitted, the Horticulture Mobile team Centre  forwards it to the district level. From there, applications are sent to the state level, and then to the Government of India. After the action plan is approved by the Government of India, targets are communicated back to the district level through the Directorate."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For state-sponsored schemes, applications are sent from the Horticulture Mobile team Centre to the district level, and then to the Directorate. Once the Directorate approves the farmers’ proposals, approval or work orders are issued to the districts as per the Government Order."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Once a farmer's proposal is approved, the district officer issues an acceptance letter and informs the farmer via phone. The farmer can then purchase spice seeds and tubers from the relevant Horticulture Mobile team Centre at a 50% subsidy. Beneficiaries under the scheme are selected on a first-come, first-served basis, subject to budget availability."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Application forms can be obtained from the officers or staff at the Horticulture Mobile team  Centre. Forms are also available for download from the department’s website: [https://shm.uk.gov.in](https://shm.uk.gov.in/).  - For turmeric and ginger, applications should be submitted in February or March. For other crops, applications must be submitted at least one month prior to the sowing date. Land-related documents, such as Khasra and Khatauni, must be submitted along with the application form. For leased land, additional documents including a lease certificate, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number are required.\n  - Currently, the application process is offline. Farmers must submit their applications along with the required documents to the Horticulture Mobile team Centre. The application form outlines the farmer’s proposal, and if any assistance is needed in filling out the form, the staff at the respective centre are responsible for providing support.\n  - For applications under centrally-sponsored schemes, once the proposal is submitted, the Horticulture Mobile team Centre  forwards it to the district level. From there, applications are sent to the state level, and then to the Government of India. After the action plan is approved by the Government of India, targets are communicated back to the district level through the Directorate.\n  - For state-sponsored schemes, applications are sent from the Horticulture Mobile team Centre to the district level, and then to the Directorate. Once the Directorate approves the farmers’ proposals, approval or work orders are issued to the districts as per the Government Order.\n  - Once a farmer&amp;#39;s proposal is approved, the district officer issues an acceptance letter and informs the farmer via phone. The farmer can then purchase spice seeds and tubers from the relevant Horticulture Mobile team Centre at a 50% subsidy. Beneficiaries under the scheme are selected on a first-come, first-served basis, subject to budget availability.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer and hold a Udhyan Card.\n1. The farmer must either own agricultural land or have land on lease.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer and hold a Udhyan Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer must either own agricultural land or have land on lease."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "copy-of-vea"
+}

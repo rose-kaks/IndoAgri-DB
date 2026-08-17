@@ -1,0 +1,581 @@
+{
+  "_id": "65d33864ed4030e118df8e17",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Farmer",
+        "Fisheries",
+        "Seed",
+        "Subsidy",
+        "Fertilizer",
+        "Pond"
+      ],
+      "schemeName": "\"Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds\" Component of the \"Mukhyamantri Maschyajibi Kalyan Yojana\" Scheme",
+      "schemeShortTitle": "IAFFFFP-MMKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 21,
+        "label": "Odisha"
+      },
+      "nodalDepartmentName": {
+        "value": 2111120,
+        "label": "Fisheries and Animal Resources Development Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "mmky-iaftufffp",
+      "briefDescription": "The objective of this scheme is to increase the inland fish production, and to enhance the income of farmers in the State though aquaculture. Input assistance is provided to the farmers who have excavated farm ponds under MGNREGA for facilitating the production of fingerling and fish."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines & Application Form",
+          "url": "https://fard.odisha.gov.in/sites/default/files/2023-10/5.%20Input%20Assistance%20to%20Farmers%20for%20taking%20up%20Fish%20Farming%20in%20Farm%20Ponds.PDF"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds&amp;quot; Component of the &amp;quot;Mukhyamantri Maschyajibi Kalyan Yojana&amp;quot; Scheme was launched by the Fisheries &amp;amp; Animal Resources Development Department, Government of Odisha. The objective of this scheme is to increase the inland fish production, and to enhance the income of farmers in the State though aquaculture. Input assistance is provided to the farmers who have excavated farm ponds under MGNREGA for facilitating the production of fingerling and fish. The scheme is implemented by the Directorate of Fisheries through its field functionaries in Odisha.\n",
+      "benefits_md": "\n- One-day training and awareness programme will be conducted by the District Fisheries Officers for skill up-gradation of the beneficiaries.\n\n<br>\n\n> **Type of Farm Pond with Unit Cost and Pattern of Assistance**\n\nThe input assistance towards pisciculture on the unit cost of ₹4,00,000/- hectare shall be given to the farmer as a one-time support at 40% for General Category, and 60% for Scheduled Castes (SC)/ Scheduled Tribes (ST)/Women/Transgender/Person with Disability (PwD) Category of farmers.\n<br>\n\n**Model 1**\n\n- Specification of Farm Pond: 20m x 20m\n- Seed: 2400\n- Feed: 10800\n- Other Input: 2800\n- Unit Cost (₹): 16000\n- Subsidy Assistance (₹)\n- General (40%): 6400\n- SC/ST/Women/Transgender/PwD (60%): 9600\n\n**Model 2**\n\n- Specification of Farm Pond: 15m x 15m\n- Seed: 1350\n- Feed: 6075\n- Other Input: 1575\n- Unit Cost (₹): 9000\n- Subsidy Assistance (₹)\n- General (40%): 3600\n- SC/ST/Women/Transgender/PwD (60%): 5400\n\n**Model 3**\n\n- Specification of Farm Pond: 10m x 10m\n- Seed: 600\n- Feed: 2700\n- Other Input: 700\n- Unit Cost (₹): 4000\n- Subsidy Assistance (₹)\n- General (40%): 1600\n- SC/ST/Women/Transgender/PwD (60%): 2400\n\n****Other Inputs include fertiliser, lime, pro/pre/grow biotics, Vit-min mix, disinfectant, medicines, castnet, etc.***\n**NOTE 1:** Farmers are free to stock more seed as per their choice for seed raising purpose.\n**NOTE 2:** The assistance shall be limited to 0.5 acres of water spread area per beneficiary.\n<br>\n\n<br>\n\n",
+      "briefDescription": "The objective of this scheme is to increase the inland fish production, and to enhance the income of farmers in the State though aquaculture. Input assistance is provided to the farmers who have excavated farm ponds under MGNREGA for facilitating the production of fingerling and fish.",
+      "exclusions_md": "\n- The applicant family should not be provided with multiple benefits under one particular scheme.\n- A family will not be eligible for subsidy under the same scheme if any of its members has got a subsidy during the last two years.\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds\" Component of the \"Mukhyamantri Maschyajibi Kalyan Yojana\" Scheme was launched by the Fisheries & Animal Resources Development Department, Government of Odisha. The objective of this scheme is to increase the inland fish production, and to enhance the income of farmers in the State though aquaculture. Input assistance is provided to the farmers who have excavated farm ponds under MGNREGA for facilitating the production of fingerling and fish. The scheme is implemented by the Directorate of Fisheries through its field functionaries in Odisha."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One-day training and awareness programme will be conducted by the District Fisheries Officers for skill up-gradation of the beneficiaries."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "text": "Type of Farm Pond with Unit Cost and Pattern of Assistance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The input assistance towards pisciculture on the unit cost of ₹4,00,000/- hectare shall be given to the farmer as a one-time support at 40% for General Category, and 60% for Scheduled Castes (SC)/ Scheduled Tribes (ST)/Women/Transgender/Person with Disability (PwD) Category of farmers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Model 1",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Specification of Farm Pond: 20m x 20m"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Seed: 2400"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Feed: 10800"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other Input: 2800"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unit Cost (₹): 16000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy Assistance (₹)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General (40%): 6400"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "SC/ST/Women/Transgender/PwD (60%): 9600"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Model 2",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Specification of Farm Pond: 15m x 15m"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Seed: 1350"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Feed: 6075"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other Input: 1575"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unit Cost (₹): 9000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy Assistance (₹)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General (40%): 3600"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "SC/ST/Women/Transgender/PwD (60%): 5400"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Model 3",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Specification of Farm Pond: 10m x 10m"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Seed: 600"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Feed: 2700"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other Input: 700"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unit Cost (₹): 4000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy Assistance (₹)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General (40%): 1600"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "SC/ST/Women/Transgender/PwD (60%): 2400"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Other Inputs include fertiliser, lime, pro/pre/grow biotics, Vit-min mix, disinfectant, medicines, castnet, etc.",
+              "italic": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE 1: ",
+              "bold": true
+            },
+            {
+              "text": "Farmers are free to stock more seed as per their choice for seed raising purpose."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE 2:",
+              "bold": true
+            },
+            {
+              "text": " The assistance shall be limited to 0.5 acres of water spread area per beneficiary."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant family should not be provided with multiple benefits under one particular scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A family will not be eligible for subsidy under the same scheme if any of its members has got a subsidy during the last two years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/5.%20Input%20Assistance%20to%20Farmers%20for%20taking%20up%20Fish%20Farming%20in%20Farm%20Ponds.PDF",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the Block Level Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should take print of the [prescribed format](https://fard.odisha.gov.in/sites/default/files/2023-10/5.%20Input%20Assistance%20to%20Farmers%20for%20taking%20up%20Fish%20Farming%20in%20Farm%20Ponds.PDF) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Block Level Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Odisha.\n1. The applicant must have a bank account in his/her name in Odisha.\n1. The farm pond should have been excavated by the applicant.\n1. The farm pond should have been excavated under the various Government schemes including Watershed Development Projects &amp; MGNREGA through the Directorate of Soil Conservation &amp; Watershed Development.\n1. The farm pond should have a minimum 5 feet water depth.\n1. The farm pond should have sufficient water retaining capacity for a minimum 5 months of culture period.\n1. While availing subsidy, the beneficiary family will be considered instead of individual member of the family.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Odisha."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a bank account in his/her name in Odisha."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farm pond should have been excavated by the applicant."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farm pond should have been excavated under the various Government schemes including Watershed Development Projects & MGNREGA through the Directorate of Soil Conservation & Watershed Development."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farm pond should have a minimum 5 feet water depth."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farm pond should have sufficient water retaining capacity for a minimum 5 months of culture period."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "While availing subsidy, the beneficiary family will be considered instead of individual member of the family."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mmky-iaftufffp"
+}

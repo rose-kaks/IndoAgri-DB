@@ -1,0 +1,247 @@
+{
+  "_id": "69106e5cd6179d622a1ecd86",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Sugarcane",
+        "Sugar",
+        "Sugarcane Seed",
+        "Farmer",
+        "Soil Treatment"
+      ],
+      "schemeName": "District Plan - Sugarcane Development Scheme",
+      "schemeShortTitle": "DPSDS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000039,
+        "label": "Sugarcane Development And Sugar Industries"
+      },
+      "slug": "dpsds",
+      "briefDescription": "The scheme aims to enhance sugarcane productivity & quality in Uttarakhand by providing financial & technical support to farmers for improved seed production, seed & soil treatment, pest & disease management, thereby promoting sustainable farming & strengthening the livelihoods of sugarcane growers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 256)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Sugarcane Development Scheme” a sub-component of the District Plan, implemented by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to enhance sugarcane productivity and quality in Uttarakhand by providing financial and technical support to farmers for improved seed production, seed and soil treatment, and pest and disease management, thereby promoting sustainable farming and strengthening the livelihoods of sugarcane growers.\n<br>\n\n",
+      "benefits_md": "\n   1. **Scheme for Improved Sugarcane Seed Production:** A subsidy of ₹1,000/- per hectare (₹2,000/- per hectare for SC/ST farmers) is provided for established/base nurseries, and ₹500/- per hectare (₹1,000/- per hectare for SC/ST farmers) is provided for primary nurseries.   1. **Seed/Soil Treatment:** A 50% subsidy is provided in all sugar mill areas for chemicals used in seed and soil treatment. Of this, 25% is contributed by the government, while the remaining 25% is shared equally by the Sugarcane Development Council and the sugar mill.   1. **Sugarcane Stalk Base (Pedi) Management Program:** To protect ratoon sugarcane crops from pests and diseases, a 50% subsidy is provided in all sugar mill areas for pesticides used in pest and disease control. The subsidy comprises 25% contribution from the government, with the remaining 25% shared by the Sugarcane Development Council and the sugar mill.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to enhance sugarcane productivity & quality in Uttarakhand by providing financial & technical support to farmers for improved seed production, seed & soil treatment, pest & disease management, thereby promoting sustainable farming & strengthening the livelihoods of sugarcane growers.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Sugarcane Development Scheme” a sub-component of the District Plan, implemented by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to enhance sugarcane productivity and quality in Uttarakhand by providing financial and technical support to farmers for improved seed production, seed and soil treatment, and pest and disease management, thereby promoting sustainable farming and strengthening the livelihoods of sugarcane growers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Scheme for Improved Sugarcane Seed Production:",
+                      "bold": true
+                    },
+                    {
+                      "text": " A subsidy of ₹1,000/- per hectare (₹2,000/- per hectare for SC/ST farmers) is provided for established/base nurseries, and ₹500/- per hectare (₹1,000/- per hectare for SC/ST farmers) is provided for primary nurseries."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Seed/Soil Treatment:",
+                      "bold": true
+                    },
+                    {
+                      "text": " A 50% subsidy is provided in all sugar mill areas for chemicals used in seed and soil treatment. Of this, 25% is contributed by the government, while the remaining 25% is shared equally by the Sugarcane Development Council and the sugar mill."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Sugarcane Stalk Base (Pedi) Management Program:",
+                      "bold": true
+                    },
+                    {
+                      "text": " To protect ratoon sugarcane crops from pests and diseases, a 50% subsidy is provided in all sugar mill areas for pesticides used in pest and disease control. The subsidy comprises 25% contribution from the government, with the remaining 25% shared by the Sugarcane Development Council and the sugar mill."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To select sugarcane farmers for availing the benefits of this scheme, the selection is carried out after discussions with public representatives in the Gram Sabha meeting at the village level, followed by a survey conducted by the Sugarcane Supervisor, and final approval from the departmental officers (Sugarcane Development Inspector, Senior Sugarcane Development Inspector, and Assistant Sugarcane Commissioner)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "To select sugarcane farmers for availing the benefits of this scheme, the selection is carried out after discussions with public representatives in the Gram Sabha meeting at the village level, followed by a survey conducted by the Sugarcane Supervisor, and final approval from the departmental officers (Sugarcane Development Inspector, Senior Sugarcane Development Inspector, and Assistant Sugarcane Commissioner).\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer cultivating sugarcane.\n1. The applicant must be a permanent member of a cooperative sugarcane development society.\n1. The applicant must practice advanced sugarcane farming.\n1. The applicant’s name must be registered in the land records of the state.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer cultivating sugarcane."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a permanent member of a cooperative sugarcane development society."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must practice advanced sugarcane farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s name must be registered in the land records of the state."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dpsds"
+}

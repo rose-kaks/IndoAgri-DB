@@ -1,0 +1,244 @@
+{
+  "_id": "66e3c9fc75eeb22c62ca59d1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Irrigation",
+        "Pipes",
+        "Pulses ISPOM"
+      ],
+      "schemeName": "Pipes Carrying Water From Source To Field-Pulses ISPOM",
+      "schemeShortTitle": "PCWFSTFPI",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "nodalDepartmentName": {
+        "value": 3333332,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "pcwfstfpi",
+      "briefDescription": "The scheme provides subsidies to farmers for installing pipes to carry water from the source to their fields, offering a 50% subsidy or up to ₹15,000/- for pipes (up to 800m), including PVC, HDPE, and others.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/7082"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Pipes Carrying Water From Source To Field-Pulses ISPOM” by the Agriculture-Farmers Welfare Department, Tamil Nadu, aims to support farmers by subsidizing the cost of water-carrying pipes up to 800m. The subsidy is either 50% of the total cost or ₹15,000/- whichever is lower. The pipes can be of any material or size as required by the farmer, including PVC and HDPE. The initiative targets ensuring water access to farms.\n",
+      "benefits_md": "**Financial Assistance:** Subsidy on 50% cost or ₹15,000/- for water carrying pipes upto 800m; all types of pipes(PVC HDPE etc.,) and all size as per the requirement of the farmer.\n&lt;br&gt;\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme provides subsidies to farmers for installing pipes to carry water from the source to their fields, offering a 50% subsidy or up to ₹15,000/- for pipes (up to 800m), including PVC, HDPE, and others.\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Pipes Carrying Water From Source To Field-Pulses ISPOM” by the Agriculture-Farmers Welfare Department, Tamil Nadu, aims to support farmers by subsidizing the cost of water-carrying pipes up to 800m. The subsidy is either 50% of the total cost or ₹15,000/- whichever is lower. The pipes can be of any material or size as required by the farmer, including PVC and HDPE. The initiative targets ensuring water access to farms."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Assistance:",
+                  "bold": true
+                },
+                {
+                  "text": " Subsidy on 50% cost or ₹15,000/- for water carrying pipes upto 800m; all types of pipes(PVC HDPE etc.,) and all size as per the requirement of the farmer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Collect the application form from the nearest Agricultural Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the form to the concerned office:"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Village Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the application to the Assistant Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Block Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "District Level: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit to the Joint Director of Agriculture."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a Farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a resident of Tamil Nadu."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pcwfstfpi"
+}

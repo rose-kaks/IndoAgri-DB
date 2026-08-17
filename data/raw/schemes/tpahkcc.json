@@ -1,0 +1,290 @@
+{
+  "_id": "67ff6c9abd5fb5093616efba",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Animal Husbandry",
+        "Cattle Breeders",
+        "Interest Subvention"
+      ],
+      "schemeName": "To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card",
+      "schemeShortTitle": "TPAHKCC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "tpahkcc",
+      "briefDescription": "The scheme aims to provide 4% interest subvention to cattle breeders in Gujarat on timely repayment of short-term loans taken through the Kisan Credit Card for animal husbandry activities.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=r4Jlr6OhAHYMeFC63fUVdw==&domain=v4lc2tu73R/9lWYKO76SRg=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial assistance to animal husbandry practitioners (cattle breeders) in Gujarat who have availed short-term loans under the Kisan Credit Card. The interest subvention of 4% is granted upon timely repayment, thereby reducing the interest burden and improving the economic stability of cattle breeders.\n",
+      "benefits_md": "<br>\n\n**Name of Component**\t**Standard of Assistance**\t**Minimum Time Limit (in Year) for Reclaiming Benefits)**To provide interest subvention to animal husbandry of the state at the rate of 4% to the beneficiaries Kishan Credit Card.4% interest subvention on timely repayment of short-term loan taken by animal husbandry up to ₹2,00,000/-.\tonly once in a financial year<br>\n\n",
+      "briefDescription": "The scheme aims to provide 4% interest subvention to cattle breeders in Gujarat on timely repayment of short-term loans taken through the Kisan Credit Card for animal husbandry activities.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial assistance to animal husbandry practitioners (cattle breeders) in Gujarat who have availed short-term loans under the Kisan Credit Card. The interest subvention of 4% is granted upon timely repayment, thereby reducing the interest burden and improving the economic stability of cattle breeders."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of Component\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Time Limit (in Year) for Reclaiming Benefits)",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To provide interest subvention to animal husbandry of the state at the rate of 4% to the beneficiaries Kishan Credit Card."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4% interest subvention on timely repayment of short-term loan taken by animal husbandry up to ₹2,00,000/-.\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "only once in a financial year"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The bank from which the short term loan has been availed by the cattle breeder has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The bank from which the short term loan has been availed by the cattle breeder has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a cattle breeder.\n1. The applicant must have taken a short-term loan from any of the following during the financial year:\n\n  - Primary Agricultural Credit Cooperative Society\n  - District Central Cooperative Bank\n  - Nationalized Bank\n  - Gramin Bank\n  - Private Bank\n\n1. The applicant must have repaid the loan on time.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a cattle breeder."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have taken a short-term loan from any of the following during the financial year:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Primary Agricultural Credit Cooperative Society"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "District Central Cooperative Bank"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Nationalized Bank"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gramin Bank"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Private Bank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have repaid the loan on time."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tpahkcc"
+}

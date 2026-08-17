@@ -1,0 +1,576 @@
+{
+  "_id": "68836132ef5f158609b7dcba",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Improve Seed Quality",
+        "Seed Bank",
+        "Quality Control Laboratories",
+        "Farmer"
+      ],
+      "schemeName": "Sub mission on Seeds and Planting Material",
+      "schemeShortTitle": "SMSPGUJ",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "institution",
+          "label": "University / Institution"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "smspguj",
+      "briefDescription": "The scheme aims to increase the production of certified/quality seed; strengthen Seed Testing Laboratories; assist Seed Producing Institutes for the adoption of new technologies, ensuring farmers get quality seeds at the right time and reasonable prices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=VBmlBmd+scMV9XoODqMfYw==&domain=KQBjMeZAUYtrIgvpebJ01g=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Sub-mission on Seeds and Planting Material&quot; by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to achieve several key objectives. Through this scheme, assistance for seed distribution, strengthening of seed quality control laboratories, and creation of seed infrastructure facilities are provided to all categories of farmers, State Agricultural Universities (SAUs), Farmers&#39; Producer Organisations (FPOs), Co-operative enterprises, and Government enterprises. \n<br>\n\n> **Objective of Scheme:**\n\n\n- Increasing production of certified/quality seed\n- Strengthening Seed Testing Laboratories\n- Assisting Seed Producing Institutes for the adoption of new technologies, ensuring farmers get quality seeds at the right time and at reasonable prices\n- Development of infrastructure for seed industries\n- Improving seed quality\n- Enhancing capacity building for seed production\n- Creation of a Seed Bank for adverse natural calamities\n\n<br>\n\n",
+      "benefits_md": "> **Seed Village Programme:**\n\n\n\n  - Assistance will be provided for the distribution of foundation and certified seed required for a 1-acre area for cereal crops; the assistance covers 50% of the cost, and for pulse, oilseeds, green manure &amp; fodder crops, the assistance covers 60% of the cost.\n  - Validity: The maximum time limit for reclaiming benefits is 2 years.\n\n\n> **Strengthening of Seed Quality Control Laboratories:**\n\n\n\n  - Assistance is provided on a project basis.\n  - Intended Use: For State Agricultural Universities (SAUs), Farmers&#39; Producer Organisations (FPOs), Co-operative enterprises, and Government enterprises.\n  - Frequency of Disbursement: One time.\n\n\n> **Creation of Seed Infrastructure Facility (SPP):**\n\n\n\n  - Assistance is provided on a project basis.\n\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to increase the production of certified/quality seed; strengthen Seed Testing Laboratories; assist Seed Producing Institutes for the adoption of new technologies, ensuring farmers get quality seeds at the right time and reasonable prices.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Sub-mission on Seeds and Planting Material\" by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to achieve several key objectives. Through this scheme, assistance for seed distribution, strengthening of seed quality control laboratories, and creation of seed infrastructure facilities are provided to all categories of farmers, State Agricultural Universities (SAUs), Farmers' Producer Organisations (FPOs), Co-operative enterprises, and Government enterprises. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Objective of Scheme:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increasing production of certified/quality seed"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Strengthening Seed Testing Laboratories"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assisting Seed Producing Institutes for the adoption of new technologies, ensuring farmers get quality seeds at the right time and at reasonable prices"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Development of infrastructure for seed industries"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Improving seed quality"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Enhancing capacity building for seed production"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Creation of a Seed Bank for adverse natural calamities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Seed Village Programme:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Assistance will be provided for the distribution of foundation and certified seed required for a 1-acre area for cereal crops; the assistance covers 50% of the cost, and for pulse, oilseeds, green manure & fodder crops, the assistance covers 60% of the cost."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Validity: The maximum time limit for reclaiming benefits is 2 years."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Strengthening of Seed Quality Control Laboratories:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Assistance is provided on a project basis."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Intended Use: For State Agricultural Universities (SAUs), Farmers' Producer Organisations (FPOs), Co-operative enterprises, and Government enterprises."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Frequency of Disbursement: One time."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Creation of Seed Infrastructure Facility (SPP):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Assistance is provided on a project basis."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant may visit and apply online at the "
+              },
+              {
+                "type": "link",
+                "link": "https://ikhedut.gujarat.gov.in/",
+                "children": [
+                  {
+                    "text": "I-Khedut Portal"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Enter the 'Company Name' and Address if you have selected 'Institutional' or 'Except For the Farmer' as the Beneficiary Type. And for all select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Enter your Mobile Number and E-mail address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "text": "Login Process: ",
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1:"
+              },
+              {
+                "text": " The applicant may visit and apply online at the "
+              },
+              {
+                "type": "link",
+                "link": "https://ikhedut.gujarat.gov.in/",
+                "children": [
+                  {
+                    "text": "I-Khedut Portal"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Click on the \"Apply New\" button and submit a new application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the \"Update Application\" button to add corrections to the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Once the application is done, confirm it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: ",
+                "bold": true
+              },
+              {
+                "text": "Take a printout of the confirmed application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Contact Us: ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Click here"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side, then click on &quot;Beneficiary Registration&quot; and select any one from the &#39;Farmer&#39; or &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type.\n**Step 3:** Enter the &#39;Company Name&#39; and Address if you have selected &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type. And for all select the District, Taluka, and Village, choose &#39;what type of account holder you are?&#39;, enter your Account Number and Name, solve the Captcha, and click &#39;Save and Next&#39;.\n**Step 4:** Enter your Mobile Number and E-mail address, click &#39;Send OTP&#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &#39;Submit&#39;.\n<br>\n\n> **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &quot;Apply New&quot; button and submit a new application.\n**Step 5:** Click on the &quot;Update Application&quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n<br>\n\n**Contact Us:** [**Click here**](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)**.**\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must belong to one of the following categories: all categories of farmers, State Agricultural Universities (SAUs), Farmers&#39; Producer Organisations (FPOs), Co-operative enterprises, or Government enterprises.\n1. The applicant must attach land records along with the application form.\n1. The applicant must have their own bank account.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to one of the following categories: all categories of farmers, State Agricultural Universities (SAUs), Farmers' Producer Organisations (FPOs), Co-operative enterprises, or Government enterprises."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must attach land records along with the application form."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have their own bank account."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "smspguj"
+}

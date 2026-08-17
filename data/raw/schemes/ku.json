@@ -1,0 +1,253 @@
+{
+  "_id": "68cd282f89d250875d3caa45",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Silk",
+        "Rearing Equipment",
+        "Silkworm",
+        "Sericulture"
+      ],
+      "schemeName": "Silkworm Rearing Equipment",
+      "schemeShortTitle": "SRES",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000018,
+        "label": "Department Of Sericulture"
+      },
+      "slug": "ku",
+      "briefDescription": "The scheme aims to support individuals in silkworm rearing by providing necessary equipment, financial assistance, and technical guidance. Under this scheme, financial assistance of upto ₹40,000/- is provided to individuals for procuring essential equipment required for silkworm rearing."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 244)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Silkworm Rearing Equipment” was launched by the Department of Sericulture, Government of Uttarakhand. The scheme aims to support individuals in silkworm rearing by providing necessary equipment, financial assistance, and technical guidance.\n<br>\n\n",
+      "benefits_md": "Under this scheme, selected beneficiaries are provided ₹40,000/- (in an 80:10:10 ratio) to purchase equipment necessary for silkworm rearing. Beneficiaries are required to contribute 10% of this amount themselves for the installation of the leaf chamber, while other rearing materials are provided by the department.\n<br>\n\n",
+      "briefDescription": "The scheme aims to support individuals in silkworm rearing by providing necessary equipment, financial assistance, and technical guidance. Under this scheme, financial assistance of upto ₹40,000/- is provided to individuals for procuring essential equipment required for silkworm rearing.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Silkworm Rearing Equipment” was launched by the Department of Sericulture, Government of Uttarakhand. The scheme aims to support individuals in silkworm rearing by providing necessary equipment, financial assistance, and technical guidance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, selected beneficiaries are provided ₹40,000/- (in an 80:10:10 ratio) to purchase equipment necessary for silkworm rearing. Beneficiaries are required to contribute 10% of this amount themselves for the installation of the leaf chamber, while other rearing materials are provided by the department."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Interested beneficiaries are selected through publicity seminars, meetings, and training programs organized in the area by representatives of cooperative societies or silk self-help groups affiliated with the Chowki centers and center/range in-charges."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Upon receiving a cluster proposal for a specific area, an expert committee conducts a field inspection to determine whether the area is suitable for silkworm plantations. Following the recommendations of the field inspection, mulberry plantations and other related activities are carried out in accordance with the action plan guidelines, with the technical support of departmental personnel."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To prepare the Project Implementation Sheet (PIS) of selected beneficiaries, documents such as voter ID or ration card, bank account details, land documents, and photographs of the plantation area are collected. Leaf chambers are established by the farmers, while other rearing materials are provided by the department."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Under the Silk Samagra Yojana, training is provided to all selected farmers in the cluster, covering tree plantation, silkworm rearing, and related activities. Beneficiaries who are not selected under the scheme are also provided training in the same manner as mentioned above."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Interested beneficiaries are selected through publicity seminars, meetings, and training programs organized in the area by representatives of cooperative societies or silk self-help groups affiliated with the Chowki centers and center/range in-charges.\n  - Upon receiving a cluster proposal for a specific area, an expert committee conducts a field inspection to determine whether the area is suitable for silkworm plantations. Following the recommendations of the field inspection, mulberry plantations and other related activities are carried out in accordance with the action plan guidelines, with the technical support of departmental personnel.\n  - To prepare the Project Implementation Sheet (PIS) of selected beneficiaries, documents such as voter ID or ration card, bank account details, land documents, and photographs of the plantation area are collected. Leaf chambers are established by the farmers, while other rearing materials are provided by the department.\n  - Under the Silk Samagra Yojana, training is provided to all selected farmers in the cluster, covering tree plantation, silkworm rearing, and related activities. Beneficiaries who are not selected under the scheme are also provided training in the same manner as mentioned above.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must belong to a cluster or group.\n   1. In hilly areas, a minimum of 25 farmers is required to form a cluster, while in plain areas, at least 50 farmers are mandatory.\n   1. The beneficiary must be willing to engage in sericulture.\n   1. Preference will be given to farmers who are already engaged in sericulture or who have mulberry seedlings available.\n   1. Under the Silk Samagra Yojana, saplings are planted on the boundaries of farmers’ fields, with a standard of 300 saplings per acre.\n   1. All farmers in the selected cluster are required to plant the saplings.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must belong to a cluster or group."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In hilly areas, a minimum of 25 farmers is required to form a cluster, while in plain areas, at least 50 farmers are mandatory."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be willing to engage in sericulture."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Preference will be given to farmers who are already engaged in sericulture or who have mulberry seedlings available."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under the Silk Samagra Yojana, saplings are planted on the boundaries of farmers’ fields, with a standard of 300 saplings per acre."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All farmers in the selected cluster are required to plant the saplings."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ku"
+}

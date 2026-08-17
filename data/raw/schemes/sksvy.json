@@ -1,0 +1,430 @@
+{
+  "_id": "68e4c9883b495cdf4ca8c091",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Power",
+        "Infrastructure",
+        "Coastal",
+        "Electricity",
+        "Consumer",
+        "Farmer"
+      ],
+      "schemeName": "Sagar Khedu Sarvangi Vikas Yojana",
+      "schemeShortTitle": "SKSVY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce97ad6d1a3bde468537d",
+          "label": "Utility & Sanitation"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Infrastructure",
+          "label": "Infrastructure"
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Electricity",
+          "label": "Electricity"
+        },
+        {
+          "value": "Local services",
+          "label": "Local services"
+        },
+        {
+          "value": "Water supply",
+          "label": "Water supply"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "village",
+          "label": "Village"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444445,
+        "label": "Energy and Petro Chemicals Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "sksvy",
+      "briefDescription": "The scheme aims to improve power infrastructure in coastal taluks by addressing corrosion issues, ensuring adequate voltage, and continuous electricity supply. Benefits include reduction in motor burnout, prevention of industrial losses, and providing new agricultural electricity connections."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://guj-epd.gujarat.gov.in/Home/BlogDetailsPage/66"
+        },
+        {
+          "title": "Govt. Order (31st March 2009)",
+          "url": "https://guj-epd.gujarat.gov.in/ViewFile?fileName=7jwvtaGwThvT2VOjfXRpkDXVdr7FPqz8AcC4V7MJDOKIqHkVdRcFyRTfqNc7E49HASH__HASH6o6OFVpdqxsHASH__HASHhWf62ONldOE2GulBYeEodZDegjVEHoPa0XloexUvv0V8nn8HASH_HASHx6m94OPcoZZXE8PyH9BYvQ7DAw=="
+        },
+        {
+          "title": "Govt. Order (4th April 2016)",
+          "url": "https://guj-epd.gujarat.gov.in/ViewFile?fileName=7jwvtaGwThvT2VOjfXRpkDXVdr7FPqz8AcC4V7MJDOIBzM0MP2HASH__HASHKVjuLWlJggXPOwf6uddCNV7fAx5HASH__HASHDc3pJHASH_HASHbFoYJ1DCwyu7sqHASH__HASHEykXqlfysTJeuDyzdsHjqFnUDjFPnWNEiost0qwvt41JgUbQQA=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to improve power infrastructure in coastal taluks by addressing corrosion issues, ensuring adequate voltage, and continuous electricity supply. Benefits include reduction in motor burnout, prevention of industrial losses, and providing new agricultural electricity connections.",
+      "detailedDescription_md": "The scheme “Sagar Khedu Sarvangi Vikas Yojana” was launched by the Energy and Petrochemicals Department, Government of Gujarat. The scheme aims to accelerate the process of development in 39 taluks of 15 districts of Sagar Kantha (Coastal Area). The scheme aims to resolve the problem of excessive tripping and faults in coastal areas due to corrosion and humidity, ensuring uninterrupted and quality power supply to consumers. The scheme provides improvement of distribution lines, construction of new 66 Kilovolt sub stations, and repair and modernization of transmission lines, along with provisioning 12,000 new agricultural electricity connections. The scheme is implemented by Gujarat Urja Vikas Nigam Limited (GUVNL). The Government provides share capital contributions to the corporation for execution.\n<br>\n\n",
+      "benefits_md": "The scheme plans for several infrastructure improvements and resultant benefits for consumers in coastal areas:\n**Infrastructure Improvement:** Work is planned for the improvement of distribution lines, construction of new 66 Kilovolt sub stations, and repair and modernization of transmission lines.\n**Voltage and Supply:** Industrial and residential customers located in the coastal areas will receive adequate voltage and continuous power supply.\n**Reduced Failures:** There will be a significant reduction in the rate of electric motor burnout and transformer failure.\n**Reduced Losses:** There will be a reduction in transmission loss and power interruption.\n**Crop Protection:** Provision of continuous power supply will prevent damage to crops.\n**Safety:** Accidents that occur due to the breaking of power lines can be largely avoided.\n**Development:** The all-round development of the villages of the taluks located in the Sagar Kantha area can be achieved.\n**New Connections:** New agricultural electricity connections are planned to be provided to coastal farmers (with a target of 12,000 connections mentioned for the financial year 2016-2017).\n**Residential Coverage:** Electricity supply is planned for approximately 1,00,000 housings.\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Sagar Khedu Sarvangi Vikas Yojana” was launched by the Energy and Petrochemicals Department, Government of Gujarat. The scheme aims to accelerate the process of development in 39 taluks of 15 districts of Sagar Kantha (Coastal Area). The scheme aims to resolve the problem of excessive tripping and faults in coastal areas due to corrosion and humidity, ensuring uninterrupted and quality power supply to consumers. The scheme provides improvement of distribution lines, construction of new 66 Kilovolt sub stations, and repair and modernization of transmission lines, along with provisioning 12,000 new agricultural electricity connections. The scheme is implemented by Gujarat Urja Vikas Nigam Limited (GUVNL). The Government provides share capital contributions to the corporation for execution."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme plans for several infrastructure improvements and resultant benefits for consumers in coastal areas:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Infrastructure Improvement:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Work is planned for the improvement of distribution lines, construction of new 66 Kilovolt sub stations, and repair and modernization of transmission lines."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voltage and Supply:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Industrial and residential customers located in the coastal areas will receive adequate voltage and continuous power supply."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reduced Failures:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " There will be a significant reduction in the rate of electric motor burnout and transformer failure."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Reduced Losses:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " There will be a reduction in transmission loss and power interruption."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crop Protection:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Provision of continuous power supply will prevent damage to crops."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Safety:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Accidents that occur due to the breaking of power lines can be largely avoided."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Development:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " The all-round development of the villages of the taluks located in the Sagar Kantha area can be achieved."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New Connections:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " New agricultural electricity connections are planned to be provided to coastal farmers (with a target of 12,000 connections mentioned for the financial year 2016-2017)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Residential Coverage:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Electricity supply is planned for approximately 1,00,000 housings."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "No application is required from individual citizens to avail benefits under the scheme. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Government of Gujarat grants administrative approval for the expenditure required for the scheme. Funds are released to the Implementing Agency 'Gujarat Urja Vikas Nigam Limited (GUVNL)' as a share capital contribution for infrastructure development and construction activities in designated areas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Conditions for GUVNL",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Expenditure must be incurred within the budget provisions made for the financial year and within the limit of the amount allocated by the government. Unspent amounts must be surrendered at the end of the year."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The expenditure must be made only for the purpose for which the budget provision was made; the amount cannot be used for any other purpose."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Periodic certificates of expenditure utilization and monthly progress reports detailing expenditure must be submitted to the government."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "E-tendering provisions, as per resolutions by the Industries and Mines Department, must be strictly adhered to in tender processing under this scheme."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- No application is required from individual citizens to avail benefits under the scheme. \n- The Government of Gujarat grants administrative approval for the expenditure required for the scheme. Funds are released to the Implementing Agency &#39;Gujarat Urja Vikas Nigam Limited (GUVNL)&#39; as a share capital contribution for infrastructure development and construction activities in designated areas.\n\n<br>\n\n> ***Conditions for GUVNL***\n\n\n- Expenditure must be incurred within the budget provisions made for the financial year and within the limit of the amount allocated by the government. Unspent amounts must be surrendered at the end of the year.\n- The expenditure must be made only for the purpose for which the budget provision was made; the amount cannot be used for any other purpose.\n- Periodic certificates of expenditure utilization and monthly progress reports detailing expenditure must be submitted to the government.\n- E-tendering provisions, as per resolutions by the Industries and Mines Department, must be strictly adhered to in tender processing under this scheme.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "***The guidelines of the scheme do not define any specific eligibility criteria. However, the target groups benefiting from the infrastructure and connection provisions will be the following:***\n\n- Electricity consumers living in the coastal area.\n- Industrial, residential, or agricultural customers located in the coastal areas.\n- Consumers residing within one of the 39 taluks of the 15 districts of the Sagar Kantha area.\n- Farmer seeking a new agricultural electricity connection in the areas of Paschim Gujarat Vij Company Limited (PGVCL) company.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The guidelines of the scheme do not define any specific eligibility criteria. However, the target groups benefiting from the infrastructure and connection provisions will be the following:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Electricity consumers living in the coastal area."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Industrial, residential, or agricultural customers located in the coastal areas."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Consumers residing within one of the 39 taluks of the 15 districts of the Sagar Kantha area."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmer seeking a new agricultural electricity connection in the areas of Paschim Gujarat Vij Company Limited (PGVCL) company."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sksvy"
+}

@@ -1,0 +1,387 @@
+{
+  "_id": "65cdb53fcd96dc5e0753ce5b",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Compensation",
+        "Person With Disability",
+        "General",
+        "Direct Benefit Transfer",
+        "Assistance",
+        "Farmer"
+      ],
+      "schemeName": "Gopinath Munde Shetkari Apghat Suraksha Sanugrah Audhan Yojana",
+      "schemeShortTitle": "GOPINATH MUNDE SHETKARI APGHAT SURAKSHA SANUGRAH AUDHAN YOJANA",
+      "implementingAgency": "Commissionerate Of Agriculture",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": "2023-04-19",
+      "targetBeneficiaries": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "state": {
+        "value": 27,
+        "label": "Maharashtra"
+      },
+      "nodalDepartmentName": {
+        "value": 27111111,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Family",
+      "slug": "gopinath-munde-shetkari-apghat-suraksha-sanugrah-audhan-yojana",
+      "briefDescription": "In order to give financial support to the aggrieved family members of the ill-fated farmers the State Govt. has provided accident claim cover through Gopinath Munde Shetkari Apghat Suraksha Sanugrah Audhan Yojana in the year 2023-24."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Department Of Agriculture",
+          "url": "https://krishi.maharashtra.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "\n   1. Farmers are prone to various accidents while performing farming business. Due to death/ disability of earning head of family the family members of farmers have to face critical financial situation.\n   1. The said scheme will be applicable for 24 hours of every day during the prescribed period.\n   1. Farmers who are registered account holders and any 1 member of farmer&amp;#39;s family who is not registered as registered account holder shall remain eligible for benefits under the scheme even if any of these persons suffer an accident or disability.\n   1. There is no relevance of this scheme to any other such scheme which is implemented by any other institution or individual farmers. The benefit of this scheme is completely independent.\n   1. To get the benefit of this scheme there is no need to submit any other documents than prescribed in the Government Resolution (G.R.).\n\n",
+      "benefits_md": "The benefits in the form of compensation provided:\n<br>\n\n\tI)Death - Rs. 2 lakhs\n\tII) Disablement - Rs. 1 lakh /- or 2 lakhs\n\t\ta) Loss of one limb or one Eye - Rs. 1 Lakhs\n\t\tb) Loss of two limbs or two Eyes- Rs. 2 lakhs\n\t\tc) Loss of one limb and one Eye\t - Rs. 2 lakhs\n<br>\n\n<br>\n\n",
+      "exclusions_md": "1) Natural death\n2)  Pre-existing physical or mental defeats, infections\n3) Suicide or attempt of suicide Self-inflicted injury\n4) Activity out of any breach of law or Misfeasance\n5)Under influence of alcohol\n 6) Mental disability\n7) Bleeding from inner organ\n8) Motor rallies\n9) War including civil war\n10) Service in arm forces\n11) Murder by immediate beneficiary.\n",
+      "briefDescription": "In order to give financial support to the aggrieved family members of the ill-fated farmers the State Govt. has provided accident claim cover through Gopinath Munde Shetkari Apghat Suraksha Sanugrah Audhan Yojana in the year 2023-24.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers are prone to various accidents while performing farming business. Due to death/ disability of earning head of family the family members of farmers have to face critical financial situation."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The said scheme will be applicable for 24 hours of every day during the prescribed period."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers who are registered account holders and any 1 member of farmer's family who is not registered as registered account holder shall remain eligible for benefits under the scheme even if any of these persons suffer an accident or disability."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "There is no relevance of this scheme to any other such scheme which is implemented by any other institution or individual farmers. The benefit of this scheme is completely independent."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To get the benefit of this scheme there is no need to submit any other documents than prescribed in the Government Resolution (G.R.)."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The benefits in the form of compensation provided:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\tI)Death - Rs. 2 lakhs"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\tII) Disablement - Rs. 1 lakh /- or 2 lakhs"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\t\ta) Loss of one limb or one Eye - Rs. 1 Lakhs"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\t\tb) Loss of two limbs or two Eyes- Rs. 2 lakhs"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\t\tc) Loss of one limb and one Eye\t - Rs. 2 lakhs"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1) Natural death"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2)  Pre-existing physical or mental defeats, infections"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3) Suicide or attempt of suicide Self-inflicted injury"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4) Activity out of any breach of law or Misfeasance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5)Under influence of alcohol"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 6) Mental disability"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "7) Bleeding from inner organ"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "8) Motor rallies"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "9) War including civil war"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "10) Service in arm forces"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "11) Murder by immediate beneficiary."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "1.\tConcern accident farmer / heir of the farmer should submit complete claim proposal with all the prescribed documents to the concerned Taluka Agriculture Officer within 30 days."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "2.\tAfter receiving preliminary information about the accident victim, a team of concerned revenue officer, police officer, taluka agriculture officer should visit and submit the report to Tehsildar within 8 days from the occurrence of the incident."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "3.\tThe Taluka Agriculture Officer should scrutinize the claim proposals received and submit the eligible claim proposals to the concerned Tehsildar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "4.\tIn the committee meeting under the chairmanship of Tehsildar, a decision will be taken within 30 days to provide assistance to the farmers / heirs of the farmer family and after that the funds will be paid through ECS to the bank account of the accident affected farmers / heirs through the concerned Taluka Agriculture Officer."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "1.\tConcern accident farmer / heir of the farmer should submit complete claim proposal with all the prescribed documents to the concerned Taluka Agriculture Officer within 30 days.\n2.\tAfter receiving preliminary information about the accident victim, a team of concerned revenue officer, police officer, taluka agriculture officer should visit and submit the report to Tehsildar within 8 days from the occurrence of the incident.\n3.\tThe Taluka Agriculture Officer should scrutinize the claim proposals received and submit the eligible claim proposals to the concerned Tehsildar.\n4.\tIn the committee meeting under the chairmanship of Tehsildar, a decision will be taken within 30 days to provide assistance to the farmers / heirs of the farmer family and after that the funds will be paid through ECS to the bank account of the accident affected farmers / heirs through the concerned Taluka Agriculture Officer.\n&lt;br&gt;\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1) Registered farmer in the age group of 10 -75 years.\n2) Person registered as farmer in Maharashtra as evidenced by 7/12 extract.\n3) All 1.52 crore farmers of the state and one family member   from their family.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1) Registered farmer in the age group of 10 -75 years."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2) Person registered as farmer in Maharashtra as evidenced by 7/12 extract."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3) All 1.52 crore farmers of the state and one family member   from their family."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gopinath-munde-shetkari-apghat-suraksha-sanugrah-audhan-yojana"
+}

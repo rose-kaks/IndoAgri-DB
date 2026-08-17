@@ -1,0 +1,233 @@
+{
+  "_id": "6776187709be7bb7df9eccc9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agricultural",
+        "Electricity Supply",
+        "Farmer",
+        "Renewable Energy",
+        "Irrigation"
+      ],
+      "schemeName": "Kisan Suryoday Yojana (KSY)",
+      "schemeShortTitle": "KSYG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce97ad6d1a3bde468537d",
+          "label": "Utility & Sanitation"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Electricity",
+          "label": "Electricity"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444445,
+        "label": "Energy and Petro Chemicals Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "ksyg",
+      "briefDescription": "\"Kisan Suryoday Yojana (KSY)\" is a Gujarat government initiative launched in 2020-2021 to provide daytime electricity for agricultural activities, utilizing solar and non-conventional energy.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://guj-epd.gujarat.gov.in/Home/BlogDetailsPage/55"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Kisan Suryoday Yojana (KSY)&quot; was launched by the Energy and Petro Chemicals Department, Gujarat, in 2020-2021 with the goal of providing daytime electricity to farmers for agricultural activities. This innovative scheme aims to address the power demands of farmers by supplying electricity from 5:00 am to 9:00 pm. By maximizing the use of solar and non-conventional energy sources, the scheme ensures a reliable and eco-friendly power supply. The KSY is being implemented in phases, aligned with the operationalization of solar and alternative energy generation plants.\n",
+      "benefits_md": "\n  - **Daytime Electricity Supply:** Ensures uninterrupted electricity for agricultural activities during the day from 5:00 am to 9:00 pm.   - **Sustainable Energy:** Promotes the use of solar and non-conventional energy sources, reducing dependency on conventional power.\n",
+      "briefDescription": "\"Kisan Suryoday Yojana (KSY)\" is a Gujarat government initiative launched in 2020-2021 to provide daytime electricity for agricultural activities, utilizing solar and non-conventional energy.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Kisan Suryoday Yojana (KSY)\" was launched by the Energy and Petro Chemicals Department, Gujarat, in 2020-2021 with the goal of providing daytime electricity to farmers for agricultural activities. This innovative scheme aims to address the power demands of farmers by supplying electricity from 5:00 am to 9:00 pm. By maximizing the use of solar and non-conventional energy sources, the scheme ensures a reliable and eco-friendly power supply. The KSY is being implemented in phases, aligned with the operationalization of solar and alternative energy generation plants."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Daytime Electricity Supply:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Ensures uninterrupted electricity for agricultural activities during the day from 5:00 am to 9:00 pm. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Sustainable Energy: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Promotes the use of solar and non-conventional energy sources, reducing dependency on conventional power."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Visit the nearest electricity board office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Obtain the application form for the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill out the form with accurate details and attach the required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the application online or at the designated office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Upon verification, receive updates on the approval status and the power connection schedule."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the nearest electricity board office.\n**Step 2:** Obtain the application form for the scheme.\n**Step 3:** Fill out the form with accurate details and attach the required documents.\n**Step 4:** Submit the application online or at the designated office.\n**Step 5:** Upon verification, receive updates on the approval status and the power connection schedule.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a resident of Gujarat.\n  - The applicant must be a farmer or engaged in agricultural activities.\n\n&lt;br&gt;\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "align_left",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Gujarat."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The applicant must be a farmer or engaged in agricultural activities."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ksyg"
+}

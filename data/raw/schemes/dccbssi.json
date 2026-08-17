@@ -1,0 +1,246 @@
+{
+  "_id": "671a2ca94d83876c61b9de2a",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "SSI Unit Loan",
+        "Non-Farm Sector Activities",
+        "Agriculture",
+        "Industries"
+      ],
+      "schemeName": "District Central Cooperative Banks and through its Branches: For SSI Unit Loan and Other NFS Activities",
+      "schemeShortTitle": "DCCBSSI",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Loan",
+          "label": "Loan"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "industries",
+          "label": "Industries"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "nodalDepartmentName": {
+        "value": 3333335,
+        "label": "Co-operation, Food and Consumer Protection Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "dccbssi",
+      "briefDescription": "This scheme provides financial assistance for SSI unit loans and other Non-Farm Sector (NFS) activities through District Central Cooperative Banks and their branches.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/3570"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;District Central Cooperative Banks and through its Branches: For SSI Unit Loan and Other NFS Activities&amp;quot; scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to support small-scale industries (SSI) and other NFS activities by providing loans up to ₹1,00,000 at an interest rate of 13% (subject to change).\n&lt;br&gt;\n\n",
+      "benefits_md": "\n- **Access to Loan:** Up to ₹1,00,000/-.- **Interest Rate:** 13% (subject to change).\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "This scheme provides financial assistance for SSI unit loans and other Non-Farm Sector (NFS) activities through District Central Cooperative Banks and their branches.\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"District Central Cooperative Banks and through its Branches: For SSI Unit Loan and Other NFS Activities\" scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to support small-scale industries (SSI) and other NFS activities by providing loans up to ₹1,00,000 at an interest rate of 13% (subject to change)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Access to Loan:",
+                  "bold": true
+                },
+                {
+                  "text": " Up to ₹1,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interest Rate:",
+                  "bold": true
+                },
+                {
+                  "text": " 13% (subject to change)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should collect the application form from the District Central Cooperative Banks or its branches."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the concerned authority.."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should collect the application form from the District Central Cooperative Banks or its branches.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority..\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The beneficiary should be a resident of Tamil Nadu.\n  - Loans should be applicable only for small-scale industries (SSI) Unit and Other Non-Farm Sector (NFS) Activities.\n\n&lt;br&gt;\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a resident of Tamil Nadu."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Loans should be applicable only for small-scale industries (SSI) Unit and Other Non-Farm Sector (NFS) Activities."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dccbssi"
+}

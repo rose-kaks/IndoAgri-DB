@@ -1,0 +1,193 @@
+{
+  "_id": "691314512d8bf9eab491ba58",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Aromatic",
+        "Awareness Programme",
+        "Aromatic Plants"
+      ],
+      "schemeName": "Aromatic Awareness Programme - Centre for Aromatic Plants",
+      "schemeShortTitle": "AAPCAP",
+      "implementingAgency": "Centre For Aromatic Plants, Selaqui, Dehradun",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "aapcap",
+      "briefDescription": "The scheme aims to raise awareness about aromatic plants and their benefits, and to provide guidance on cultivation practices suitable to different agricultural climates."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 230)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to raise awareness about aromatic plants and their benefits, and to provide guidance on cultivation practices suitable to different agricultural climates.",
+      "detailedDescription_md": "The “Aromatic Awareness Programme” is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. It aims to raise awareness about aromatic plants and their benefits, and to provide guidance on cultivation practices suitable to different agricultural climates. \n<br>\n\n",
+      "benefits_md": "\n  - To spread information about aromatic plants and the benefits of their cultivation to the general public.\n  - To provide information about crops according to the agricultural climate.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Aromatic Awareness Programme” is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. It aims to raise awareness about aromatic plants and their benefits, and to provide guidance on cultivation practices suitable to different agricultural climates. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To spread information about aromatic plants and the benefits of their cultivation to the general public."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To provide information about crops according to the agricultural climate."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any person interested in aromatic plant cultivation can participate in the field-level awareness programmes organized by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Any person interested in aromatic plant cultivation can participate in the field-level awareness programmes organized by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Any interested individual who is a resident of Uttarakhand can avail the benefits of the programme.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any interested individual who is a resident of Uttarakhand can avail the benefits of the programme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "aapcap"
+}

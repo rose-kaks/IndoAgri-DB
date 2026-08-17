@@ -1,0 +1,517 @@
+{
+  "_id": "67ee160f00704507d4ac7614",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Husbandry",
+        "Rural Employment",
+        "Animal Farm"
+      ],
+      "schemeName": "Establishment of 12 Milch Animal Farm",
+      "schemeShortTitle": "ETMAF",
+      "implementingAgency": "Animal Husbandry Department, Gujarat State And Gujarat Milk Marketing Federation (GCMMF)",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "etmaf",
+      "briefDescription": "The \"Establishment of 12 Milch Animal Farm\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, supports livestock owners in establishing dairy farms with up to 12 milch animals."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=y5oEuDw/dR4mdA68HKrJfg==&domain=12ewfiAgGqKRe600IL5Z/w=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Establishment of 12 Milch Animal Farm&amp;quot; scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to promote animal husbandry as an independent business, encourage livestock owners to adopt dairy farming and enhance rural employment opportunities.\n",
+      "benefits_md": "\n  - **Interest Subsidy:**\n\n\n   1. **General Category:** 7.5% for up to 5 years after availing of a bank loan.   1. **SC/ST/Female Beneficiaries:** 8.5% for up to 5 years.   1. Gir/Kankrej Breed Units: Up to 12% maximum subsidy.\n\n\n  - **Shed Construction Assistance:**\n\n\n   1. General Category: 50% of actual expenditure, up to ₹1,50,000/-.\n   1. Gir/Kankrej Breed: 75% of actual expenditure, up to ₹2,25,000/-.\n\n\n  - **Animal Insurance Premium (for 3 years):**\n\n\n   1. General Category: 75% subsidy, up to ₹43,200/-.\n   1. Gir/Kankrej Breed: 90% subsidy, up to ₹51,840/-.\n\n\n  - **Equipment Subsidy:**\n\n\n   1. Electric Chaff Cutter: 75% subsidy, up to ₹18,000/- (General) ; 90% subsidy, up to ₹21,600/- (Gir/Kankrej).\n   1. Fogger System: 75% subsidy, up to ₹9,000/- (General) | 90% subsidy, up to ₹10,800/- (Gir/Kankrej).\n   1. Milking Machine: 75% subsidy, up to ₹33,750/- (General) | 90% subsidy, up to ₹40,500/- (Gir/Kankrej).\n\n&gt; **Note:**\n\n\n  - Interest subsidy will be available on the amount determined above for the unit cost fixed by NABARD or through the bank for the establishment of units for dairy cattle of up to 12 animals, whichever is less.\n\n",
+      "exclusions_md": "\n- There is no assistance available for renovation and repair under this scheme.\n\n",
+      "briefDescription": "The \"Establishment of 12 Milch Animal Farm\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, supports livestock owners in establishing dairy farms with up to 12 milch animals.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Establishment of 12 Milch Animal Farm\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to promote animal husbandry as an independent business, encourage livestock owners to adopt dairy farming and enhance rural employment opportunities."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Interest Subsidy:",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "General Category:",
+                      "bold": true
+                    },
+                    {
+                      "text": " 7.5% for up to 5 years after availing of a bank loan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "SC/ST/Female Beneficiaries: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "8.5% for up to 5 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gir/Kankrej Breed Units: Up to 12% maximum subsidy."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Shed Construction Assistance:",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "General Category: 50% of actual expenditure, up to ₹1,50,000/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gir/Kankrej Breed: 75% of actual expenditure, up to ₹2,25,000/-."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Animal Insurance Premium (for 3 years):",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "General Category: 75% subsidy, up to ₹43,200/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gir/Kankrej Breed: 90% subsidy, up to ₹51,840/-."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Equipment Subsidy:",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Electric Chaff Cutter: 75% subsidy, up to ₹18,000/- (General) ; 90% subsidy, up to ₹21,600/- (Gir/Kankrej)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Fogger System: 75% subsidy, up to ₹9,000/- (General) | 90% subsidy, up to ₹10,800/- (Gir/Kankrej)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Milking Machine: 75% subsidy, up to ₹33,750/- (General) | 90% subsidy, up to ₹40,500/- (Gir/Kankrej)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Interest subsidy will be available on the amount determined above for the unit cost fixed by NABARD or through the bank for the establishment of units for dairy cattle of up to 12 animals, whichever is less."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "There is no assistance available for renovation and repair under this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a print out of the confirmed application and submit Related Documents through to concern Taluka office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 8:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                    "children": [
+                      {
+                        "text": "Click here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a livestock Farmer.\n  - The applicant must purchase 12 dairy animals (cows/buffaloes).\n  - The applicant must establish a new dairy farm.\n  - The applicant must have ownership rights or inheritance rights or leasehold rights of the land.\n  - The applicant must take a loan from a Reserve Bank-recognized institution/bank.\n\n&gt; **Note:** If the beneficiary does not own land, the dairy farm can be established on leased land for a minimum of 7 (seven) years.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a livestock Farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must purchase 12 dairy animals (cows/buffaloes)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must establish a new dairy farm."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have ownership rights or inheritance rights or leasehold rights of the land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must take a loan from a Reserve Bank-recognized institution/bank."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " If the beneficiary does not own land, the dairy farm can be established on leased land for a minimum of 7 (seven) years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "etmaf"
+}

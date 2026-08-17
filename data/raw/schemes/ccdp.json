@@ -1,0 +1,593 @@
+{
+  "_id": "6462eaff82a71a879d524eea",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 12,
+        "label": "Arunachal Pradesh"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 12111112,
+        "label": "Agriculture and Marketing Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": null,
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Crop",
+        "Financial Assistance",
+        "Farmers"
+      ],
+      "schemeName": "Crop Cluster Development Programme",
+      "schemeShortTitle": "Ccdp",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Infra",
+      "slug": "ccdp",
+      "briefDescription": "The CCDP aims to develop organized marketing and improve the livelihoods of horticulture farmers in Baagwani Villages through on-farm and marketing support, promoting sustainable agriculture-based livelihoods."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://roing.nic.in/agriculture/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The CCDP aims to develop organized marketing and improve the livelihoods of horticulture farmers in Baagwani Villages through on-farm and marketing support, promoting sustainable agriculture-based livelihoods.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Crop Cluster Development Programme (CCDP) in Baagwani Villages is a comprehensive scheme focused on the development of backward and forward integration in horticulture farming. The program aims to enhance farmer socio-economic security, achieve nutritional security, establish transparent institutional delivery mechanisms, generate rural employment, increase horticultural crop area and productivity, and develop organized marketing of horticultural products. It addresses the challenges faced by small farmers in selling to modern markets, such as supermarkets and large retailers, by promoting the collectivization of produce through farmer groups and educating them about modern technologies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The CCDP emphasizes the need for a coordinated supply chain, including aggregation of produce, market linkages, access to quality inputs and agro-services, and post-harvest management infrastructure. By facilitating access to fair and remunerative markets and ensuring adherence to global standards, the program aims to achieve the goals of quality, quantity, and seamless delivery."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Improved access to inputs and services for farmers"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increased farmers' income and socio-economic security"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promotion of sustainable agriculture-based livelihoods"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Enhancement of market linkages and organized marketing of horticultural products"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reduction of post-harvest losses"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Creation of employment opportunities in rural areas"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increase in horticultural crop area, productivity, and production"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Projects not proposed by Farmer Producer Organizations (FPOs) registered under the Companies Act"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "FPOs with less than 150 shareholders and inadequate financial strength"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "FPOs with disputed status or unresolved legal issues"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "The Crop Cluster Development Programme (CCDP) in Baagwani Villages is a comprehensive scheme focused on the development of backward and forward integration in horticulture farming. The program aims to enhance farmer socio-economic security, achieve nutritional security, establish transparent institutional delivery mechanisms, generate rural employment, increase horticultural crop area and productivity, and develop organized marketing of horticultural products. It addresses the challenges faced by small farmers in selling to modern markets, such as supermarkets and large retailers, by promoting the collectivization of produce through farmer groups and educating them about modern technologies.\n The CCDP emphasizes the need for a coordinated supply chain, including aggregation of produce, market linkages, access to quality inputs and agro-services, and post-harvest management infrastructure. By facilitating access to fair and remunerative markets and ensuring adherence to global standards, the program aims to achieve the goals of quality, quantity, and seamless delivery.\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Preparation of Project Proposal"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "FPOs interested in the CCDP scheme should prepare a comprehensive project proposal according to the guidelines provided."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The project proposal should include details such as the FPO's background, objectives, implementation plan, financial projections, and expected outcomes."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Document Compilation"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Gather all the necessary documents required for the application, which may include:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Completed project proposal form"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration certificate of the FPO under the Companies Act"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "List of Directors and applicants of the FPO"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Business plan with backward and forward linkages of the produce"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Financial statements and bank account details of the FPO"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Land ownership or lease documents"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any other documents specified in the application guidelines"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Submission of Application"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Submit the project proposal and all the required documents to the designated authority responsible for accepting CCDP applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Ensure that all the information provided is accurate and complete."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Application Review"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The submitted project proposal will undergo a thorough review by the relevant authorities to assess its feasibility, alignment with scheme objectives, and adherence to eligibility criteria."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The authorities may also evaluate the financial viability and potential impact of the proposed project."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Approval and Assistance Allocation"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If the project proposal meets the necessary criteria and is approved, the FPO will receive a formal approval letter specifying the allocated assistance amount."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The assistance may be provided in the form of subsidies or credit-linked support, as per the scheme guidelines."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Project Implementation"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once the assistance is allocated, the FPO can proceed with implementing the project as outlined in the approved proposal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It is crucial to adhere to the timelines, milestones, and guidelines provided during the implementation phase."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: Assistance Disbursement"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The allocated assistance will be disbursed in multiple installments based on the progress of the project."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The release of assistance may be contingent upon meeting certain milestones, expenditure requirements, and physical progress of the project."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 8: Monitoring and Evaluation"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The implemented project will be monitored and evaluated by the authorities to ensure compliance with the scheme guidelines and assess the impact of the assistance provided."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Regular reporting and documentation may be required to track the project's progress and outcomes."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Only Farmer Producer Organizations (FPOs) registered under the Companies Act in Haryana are eligible to submit project proposals and avail assistance under the scheme.\n- FPOs must have a minimum of 150 shareholders with a financial strength of at least Rs. 10.00 lakh in their bank account.\n- The FPOs should have an area of at least 500 acres under horticulture crops, although this requirement may be flexible based on the project&#39;s viability.\n- FPOs must have a business plan with backward and forward linkages of their produce.\n- Disputed FPOs or those not meeting the eligibility criteria mentioned above will not be considered eligible.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Only Farmer Producer Organizations (FPOs) registered under the Companies Act in Haryana are eligible to submit project proposals and avail assistance under the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "FPOs must have a minimum of 150 shareholders with a financial strength of at least Rs. 10.00 lakh in their bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The FPOs should have an area of at least 500 acres under horticulture crops, although this requirement may be flexible based on the project's viability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "FPOs must have a business plan with backward and forward linkages of their produce."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disputed FPOs or those not meeting the eligibility criteria mentioned above will not be considered eligible."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ccdp"
+}

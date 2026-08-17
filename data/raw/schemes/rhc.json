@@ -1,0 +1,198 @@
+{
+  "_id": "6916d90c59eafedb62cf4f26",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Herbal",
+        "Herbs",
+        "Herb Cultivator",
+        "Registration"
+      ],
+      "schemeName": "Registration of Herb Cultivators - Herbal Research and Development Institute, Uttarakhand",
+      "schemeShortTitle": "RHC",
+      "implementingAgency": "Herbal Research And Development Institute, Mandal-Gopeshwar Chamoli, Uttarakhand",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "rhc",
+      "briefDescription": "It aims to register cultivators who grow medicinal and aromatic plants, make the process of using their cultivated herbs easier, and stop the illegal collection of herbs from forests."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 223)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Registration of Herb Cultivators” is implemented by the Herbal Research and Development Institute (HRDI), mandal gopeshwar chamoli under the Department of Horticulture, Government of Uttarakhand. It aims to register cultivators who grow medicinal and aromatic plants, make the process of using their cultivated herbs easier, and stop the illegal collection of herbs from forests.\n<br>\n\n",
+      "benefits_md": "Registration of farmers cultivating medicinal and aromatic plants, simplification of the extraction process for cultivated herbs, and prevention of illegal exploitation of herbal resources from forest areas.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "It aims to register cultivators who grow medicinal and aromatic plants, make the process of using their cultivated herbs easier, and stop the illegal collection of herbs from forests.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Registration of Herb Cultivators” is implemented by the Herbal Research and Development Institute (HRDI), mandal gopeshwar chamoli under the Department of Horticulture, Government of Uttarakhand. It aims to register cultivators who grow medicinal and aromatic plants, make the process of using their cultivated herbs easier, and stop the illegal collection of herbs from forests."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Registration of farmers cultivating medicinal and aromatic plants, simplification of the extraction process for cultivated herbs, and prevention of illegal exploitation of herbal resources from forest areas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "After physical verification by the Institute’s Surveyor Assistant, the actual cultivated area is registered. The Surveyor Assistant prepares the registration form in the prescribed format, attaches the applicant’s Aadhaar card and the land’s Khasra details, and sends it to the Director of the Herbal Research and Development Institute, mandal gopeshwar chamoli. After obtaining the Director’s approval, the concerned District Coordinator completes the registration."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "After physical verification by the Institute’s Surveyor Assistant, the actual cultivated area is registered. The Surveyor Assistant prepares the registration form in the prescribed format, attaches the applicant’s Aadhaar card and the land’s Khasra details, and sends it to the Director of the Herbal Research and Development Institute, mandal gopeshwar chamoli. After obtaining the Director’s approval, the concerned District Coordinator completes the registration.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a cultivator of medicinal and aromatic plants.\n   1. The applicant must either have their own resources on their measured land or be a cultivator encouraged by the Herbal Research and Development Institute, or a cultivator beneficiary supported by any other organization, institute, department, or voluntary organization.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a cultivator of medicinal and aromatic plants."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must either have their own resources on their measured land or be a cultivator encouraged by the Herbal Research and Development Institute, or a cultivator beneficiary supported by any other organization, institute, department, or voluntary organization."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rhc"
+}

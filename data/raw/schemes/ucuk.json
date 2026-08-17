@@ -1,0 +1,205 @@
+{
+  "_id": "6918568fc9ea204dcd2f2a22",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Card",
+        "Farmer"
+      ],
+      "schemeName": "Udhyan Card",
+      "schemeShortTitle": "UCUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "ucuk",
+      "briefDescription": "It aims to create a unified identification system for farmers engaged in horticulture activities, enabling them to access all horticulture-related schemes and benefits provided by the Government of Uttarakhand."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 211)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Udhyan Card” is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to create a unified identification system for farmers engaged in horticulture activities, enabling them to access all horticulture-related schemes and benefits provided by the Government of Uttarakhand.\n<br>\n\n",
+      "benefits_md": "The Udhyan Card is mandatory to avail the benefits of all schemes of the Department of Horticulture.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "It aims to create a unified identification system for farmers engaged in horticulture activities, enabling them to access all horticulture-related schemes and benefits provided by the Government of Uttarakhand.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Udhyan Card” is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to create a unified identification system for farmers engaged in horticulture activities, enabling them to access all horticulture-related schemes and benefits provided by the Government of Uttarakhand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Udhyan Card is mandatory to avail the benefits of all schemes of the Department of Horticulture."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The Udhyan Card is issued through the Horticulture Mobile team Centre. To obtain the Udhyan Card, the farmer must collect the application form from the Horticulture Mobile team Centre. The farmer is required to fill in complete details related to his family and horticulture activities, attach copies of the Aadhaar card, ration card, and land documents, and get the form certified by the village head. The completed form must then be submitted at the same centre. After submission, the Horticulture Mobile team Centre staff issues the Udhyan Card to the concerned farmer."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Horticulture Mobile team",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Centre"
+                  },
+                  {
+                    "text": "- These centres operate at the development-block level to provide information about various schemes and to distribute inputs and seeds to farmers. Senior Horticulture Inspectors, Horticulture Inspectors, and Assistant Development Officers are appointed at these centres, and they regularly address farmers’ issues. A total of 319 Horticulture Mobile team Centres have been established across all districts of the state."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "The Udhyan Card is issued through the Horticulture Mobile team Centre. To obtain the Udhyan Card, the farmer must collect the application form from the Horticulture Mobile team Centre. The farmer is required to fill in complete details related to his family and horticulture activities, attach copies of the Aadhaar card, ration card, and land documents, and get the form certified by the village head. The completed form must then be submitted at the same centre. After submission, the Horticulture Mobile team Centre staff issues the Udhyan Card to the concerned farmer.\n**Horticulture Mobile team** **Centre**- These centres operate at the development-block level to provide information about various schemes and to distribute inputs and seeds to farmers. Senior Horticulture Inspectors, Horticulture Inspectors, and Assistant Development Officers are appointed at these centres, and they regularly address farmers’ issues. A total of 319 Horticulture Mobile team Centres have been established across all districts of the state.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer who wishes to undertake horticulture activities.\n1. The applicant must have their own or leased land.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer who wishes to undertake horticulture activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have their own or leased land."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ucuk"
+}

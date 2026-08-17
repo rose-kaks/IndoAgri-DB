@@ -1,0 +1,183 @@
+{
+  "_id": "65cb1158ed4030e118d7d3e5",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Agriculture",
+        "Farmer",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "Distribution of Horticulture Kit to Urban and Rural Areas",
+      "schemeShortTitle": "DHKURA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "slug": "dhkura",
+      "briefDescription": "Through this scheme, all the horticulture growers in rural & urban areas are provided with a horticulture kit worth ₹ 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture)."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Standard Operating Procedure",
+          "url": "https://agri.py.gov.in/sites/default/files/schemes/Horticulture%20SOP.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Distribution of Horticulture Kit to Urban and Rural Areas&quot; was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, all the horticulture growers in rural &amp; urban areas are provided with a horticulture kit worth ₹ 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture).\n",
+      "benefits_md": "75% subsidy, i.e. distribution of horticulture kit worth ₹ 3,000 per kit to urban and rural areas (homestead/backyards), through the Additional Director of Agriculture (Horticulture), during Aadipattam/Thaipattam seasonality.\n",
+      "briefDescription": "Through this scheme, all the horticulture growers in rural & urban areas are provided with a horticulture kit worth ₹ 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture).",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Distribution of Horticulture Kit to Urban and Rural Areas\" was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, all the horticulture growers in rural & urban areas are provided with a horticulture kit worth ₹ 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture)."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "75% subsidy, i.e. distribution of horticulture kit worth ₹ 3,000 per kit to urban and rural areas (homestead/backyards), through the Additional Director of Agriculture (Horticulture), during Aadipattam/Thaipattam seasonality."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/emailcontact.html",
+                "children": [
+                  {
+                    "text": "Uzhavar Udhaviyagam (Farmers' Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)"
+                  }
+                ]
+              },
+              {
+                "text": " and request the hard copy of the prescribed format of the application form from the Agricultural Officer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Uzhavar Udhaviyagam (Farmers&#39; Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)](https://agri.py.gov.in/emailcontact.html) and request the hard copy of the prescribed format of the application form from the Agricultural Officer.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "All horticulture growers of rural &amp; urban areas are eligible.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All horticulture growers of rural & urban areas are eligible."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dhkura"
+}

@@ -1,0 +1,280 @@
+{
+  "_id": "65ca58ffcd96dc5e0750ea95",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Farmer",
+        "Youth Entrepreneur",
+        "Training",
+        "Demonstration",
+        "Fruit Processing",
+        "Vegetable Processing"
+      ],
+      "schemeName": "Fruit Processing Centre",
+      "schemeShortTitle": "FPC",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "fpc",
+      "briefDescription": "The objective of scheme is to disseminate technical knowhow to youth entrepreneurs, farmers & housewives through practical demonstration on importance of fruit preservation & to manufacture quality processed fruit products such as Squashes, Jams, Jelly & Juices under trade name ‘Meg Fruits Product'."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=106"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objective of scheme is to disseminate technical knowhow to youth entrepreneurs, farmers & housewives through practical demonstration on importance of fruit preservation & to manufacture quality processed fruit products such as Squashes, Jams, Jelly & Juices under trade name ‘Meg Fruits Product'.",
+      "detailedDescription_md": "The scheme “Fruit Processing Centre” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to disseminate technical knowhow to youth entrepreneurs, farmers, and housewives through the practical demonstration on the importance of fruit preservation and to manufacture quality processed fruit products such as Squashes, Jams, Jelly, canned fruits and Juices under the trade name ‘Meg Fruits Products’.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\nTraining and Demonstration\n> **Type of Assistance:**\n\nAwareness, Capacity building on fruit and vegetable processing\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Fruit Processing Centre” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to disseminate technical knowhow to youth entrepreneurs, farmers, and housewives through the practical demonstration on the importance of fruit preservation and to manufacture quality processed fruit products such as Squashes, Jams, Jelly, canned fruits and Juices under the trade name ‘Meg Fruits Products’."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Training and Demonstration"
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Type of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Awareness, Capacity building on fruit and vegetable processing"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "1. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                    "children": [
+                      {
+                        "text": "District Horticulture Officer"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "2. Assistant Director of Horticulture i/c FP Center"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "3. Horticulture Development Officer"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 01:** The bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Assistant Director of Horticulture i/c FP Center\n3. Horticulture Development Officer\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Meghalaya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fpc"
+}

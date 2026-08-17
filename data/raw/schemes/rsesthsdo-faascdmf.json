@@ -1,0 +1,299 @@
+{
+  "_id": "659e22726093f0fa331aaeef",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Reimbursement",
+        "Exemption",
+        "Tax",
+        "Diesel",
+        "Oil",
+        "Fisherman",
+        "Fish"
+      ],
+      "schemeName": "Reimbursement/ Spot Exemption of Sales Tax on High-Speed Diesel Oil",
+      "schemeShortTitle": "RSESTHSDO-FAASCDMF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 34000015,
+        "label": "Fisheries and Fishermen Welfare Department, Puducherry"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "rsesthsdo-faascdmf",
+      "briefDescription": "The scheme \"Reimbursement/ Spot Exemption of Sales Tax on High-Speed Diesel Oil\" under \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\" introduced to reimburse the sales tax on high-speed diesel oil used by the registered mechanized boat operators."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.py.gov.in/sites/default/files/reimbursement20of20hsd20notification.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf"
+        },
+        {
+          "title": "List Of Sub-Offices",
+          "url": "https://fisheries.py.gov.in/sub-offices"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.py.gov.in/contact-us"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme \"Reimbursement/ Spot Exemption of Sales Tax on High-Speed Diesel Oil\" under \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\" introduced to reimburse the sales tax on high-speed diesel oil used by the registered mechanized boat operators.",
+      "detailedDescription_md": "The scheme &quot;Reimbursement/ Spot Exemption of Sales Tax on High-Speed Diesel Oil&quot; is a Sub-Component under the Umbrella Scheme &quot;Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries&quot; by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme is introduced with the objective of reimbursement of sales tax on high-speed diesel oil used by the registered mechanized boat operators.\n",
+      "benefits_md": "The prevailing sales tax on high-speed diesel oil consumed by a registered boat will be reimbursed/spot-exempted subject to a maximum of 15,000 liters per boat per annum, as may be revised by Government from time to time.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Reimbursement/ Spot Exemption of Sales Tax on High-Speed Diesel Oil\" is a Sub-Component under the Umbrella Scheme \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\" by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme is introduced with the objective of reimbursement of sales tax on high-speed diesel oil used by the registered mechanized boat operators."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The prevailing sales tax on high-speed diesel oil consumed by a registered boat will be reimbursed/spot-exempted subject to a maximum of 15,000 liters per boat per annum, as may be revised by Government from time to time."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sub-offices",
+                "children": [
+                  {
+                    "text": "Office/ Sub-Office"
+                  }
+                ]
+              },
+              {
+                "text": " of the Department of Fisheries and Fishermen Welfare."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should request the hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the [Office/ Sub-Office](https://fisheries.py.gov.in/sub-offices) of the Department of Fisheries and Fishermen Welfare.\n**Step 1:** The interested applicant should request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should either belong to the fishermen community or be one of those professionally engaged in fishing/fish trade occupation on a full-time basis/prospective entrepreneurs.\n- The applicant must have resided in the Union territory of Puducherry for a continuous period of not less than five years at the time of applying for extending subsidies/ grants. \n- The applicant must have been enrolled as a member of the Fishermen Co-operative Society and be above the age of 23 years and below 60 years.\n- The applicant must not have been a recipient of Old Age Pension, issued by the department. \n- The applicant should not be employed in Government/ Government Undertakings/Fishermen Co-operative Society. \n- The applicant must not have any dues to be paid to the Department/Fishermen Co-operative Societies at the time of making the application. \n- The applicant should possess a registered mechanized boat/motorized fishing craft and the same should have been renewed on annual basis, as the case may be. \n- The applicant should have renewed the diesel passbook on a monthly basis. \n- The applicant should submit bills as proof of having drawn diesel, from the authorised bunks. \n- The applicant should not have ventured fishing during notified fish ban periods.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should either belong to the fishermen community or be one of those professionally engaged in fishing/fish trade occupation on a full-time basis/prospective entrepreneurs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have resided in the Union territory of Puducherry for a continuous period of not less than five years at the time of applying for extending subsidies/ grants. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have been enrolled as a member of the Fishermen Co-operative Society and be above the age of 23 years and below 60 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not have been a recipient of Old Age Pension, issued by the department. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be employed in Government/ Government Undertakings/Fishermen Co-operative Society. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not have any dues to be paid to the Department/Fishermen Co-operative Societies at the time of making the application. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess a registered mechanized boat/motorized fishing craft and the same should have been renewed on annual basis, as the case may be. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have renewed the diesel passbook on a monthly basis. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should submit bills as proof of having drawn diesel, from the authorised bunks. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have ventured fishing during notified fish ban periods."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rsesthsdo-faascdmf"
+}

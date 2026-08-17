@@ -1,0 +1,269 @@
+{
+  "_id": "67b1e53dd6a94de2eedda95b",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Pension",
+        "Farmers",
+        "Old Age"
+      ],
+      "schemeName": "Chief Minister Small and Marginal Farmers Older Pension Scheme",
+      "schemeShortTitle": "CMSMFOPS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Pension",
+          "label": "Pension"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000035,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "slug": "cmsmfops",
+      "briefDescription": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.rajasthan.gov.in/siteadmin/Uploads/201908271723067572Farmer%20Pension%20order%20and%20rules.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://ssp.rajasthan.gov.in/LoginContent/MidLogin.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Chief Minister Small and Marginal Farmers Older Pension Scheme&quot; implemented by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers for their social and economic well-being. \n",
+      "benefits_md": "\n- **Pension of ₹1250/- per month.** \n\n<br>\n\n",
+      "briefDescription": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Chief Minister Small and Marginal Farmers Older Pension Scheme\" implemented by the Department of Social Justice and Empowerment, Government of Rajasthan, aims to provide financial assistance to elderly small and marginal farmers for their social and economic well-being. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pension of ₹1250/- per month. ",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest E-mitra Center and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the E-mitra Center agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a permanent resident of Rajasthan.\n1. The applicant must belong to a small and marginal farmer family. \n1. The minimum age requirement is:\n\n\n\n  - 55 years or above for women.\n  - 58 years or above for men.\n\n\n<br>\n\n**NOTE:** Small and marginal farmer as per the definition under the National Food Security Ordinance, 2013, and as per the Rajasthan Government&#39;s Food and Civil Supplies Department circular dated 31.8.2013.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a permanent resident of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to a small and marginal farmer family. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The minimum age requirement is:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "55 years or above for women."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "58 years or above for men."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "Small and marginal farmer as per the definition under the National Food Security Ordinance, 2013, and as per the Rajasthan Government's Food and Civil Supplies Department circular dated 31.8.2013."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmsmfops"
+}

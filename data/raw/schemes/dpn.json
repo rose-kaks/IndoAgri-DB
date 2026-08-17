@@ -1,0 +1,415 @@
+{
+  "_id": "68ab2000b7b67a8b92d64bbb",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Nursery",
+        "Seedlings",
+        "Afforestation",
+        "Farmers",
+        "Forestry",
+        "Environment",
+        "Rural"
+      ],
+      "schemeName": "Decentralized People’s Nursery",
+      "schemeShortTitle": "DPN",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Wildlife and biodiversity",
+          "label": "Wildlife and biodiversity"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444448,
+        "label": "Forests and Environment Department"
+      },
+      "slug": "dpn",
+      "briefDescription": "The scheme aims to increase tree cover and support rural incomes by enabling individuals and institutions to raise tree seedlings. It offers financial assistance per seedling, with beneficiaries retaining ownership of the plants, encouraging commercial nursery activity."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "FAQs On Social Forestry Schemes",
+          "url": "https://forests.gujarat.gov.in/sf-faq.htm"
+        },
+        {
+          "title": "Scheme's Page Of PCCF & HoFF",
+          "url": "https://forests.gujarat.gov.in/schemes-details.htm"
+        },
+        {
+          "title": "Application Form [PDF]",
+          "url": "https://forests.gujarat.gov.in/writereaddata/images/pdf/2-kissan-nursery-request.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Decentralized People’s Nursery&quot; by the Social Forestry wing of the Principal Chief Conservator of Forest &amp; Head of the Forest Force (HoFF), Government of Gujarat, aims to augment the income of farmers and increase tree cover by promoting afforestation activities. It allows individuals and institutions interested in raising seedlings to apply for assistance. The scheme typically involves a target of 20,000 seedlings to be raised by an applicant. A key feature is that ownership of the seedlings remains with the beneficiary, who is free to sell or use them without external permission. Financial compensation is provided in installments for the plants raised. The scheme is implemented by the Forest Department.\n<br>\n\n",
+      "benefits_md": "**Financial Assistance for Raising Seedlings:** ₹2.20 per seedling is provided in three installments.\n**Ownership of Seedlings:** The beneficiary retains full ownership of the seedlings raised and can sell or use them without requiring permission from anyone.\n**Income Generation:** The scheme is recognized as a &quot;very good income generating activity&quot;.\n**Accessibility of Plants:** Decentralized people&#39;s nurseries ensure the availability of plants within a reasonable distance of villages for extensive tree plantations in both rural and urban areas.\n**Targeted Benefits for Scheduled Caste Community:** Under the &quot;Special Component Program (SCP)-Decentralised Peoples Nursery&quot;, similar benefits are extended to beneficiaries and beneficiary groups belonging to the Scheduled Caste community.\n<br>\n\n",
+      "briefDescription": "The scheme aims to increase tree cover and support rural incomes by enabling individuals and institutions to raise tree seedlings. It offers financial assistance per seedling, with beneficiaries retaining ownership of the plants, encouraging commercial nursery activity.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Decentralized People’s Nursery\" by the Social Forestry wing of the Principal Chief Conservator of Forest & Head of the Forest Force (HoFF), Government of Gujarat, aims to augment the income of farmers and increase tree cover by promoting afforestation activities. It allows individuals and institutions interested in raising seedlings to apply for assistance. The scheme typically involves a target of 20,000 seedlings to be raised by an applicant. A key feature is that ownership of the seedlings remains with the beneficiary, who is free to sell or use them without external permission. Financial compensation is provided in installments for the plants raised. The scheme is implemented by the Forest Department."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance for Raising Seedlings:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " ₹2.20 per seedling is provided in three installments."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ownership of Seedlings:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " The beneficiary retains full ownership of the seedlings raised and can sell or use them without requiring permission from anyone."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Income Generation:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " The scheme is recognized as a \"very good income generating activity\"."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Accessibility of Plants:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Decentralized people's nurseries ensure the availability of plants within a reasonable distance of villages for extensive tree plantations in both rural and urban areas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Targeted Benefits for Scheduled Caste Community:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Under the \"Special Component Program (SCP)-Decentralised Peoples Nursery\", similar benefits are extended to beneficiaries and beneficiary groups belonging to the Scheduled Caste community."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The interested applicant should take a printout of the prescribed format of the "
+              },
+              {
+                "type": "link",
+                "link": "https://forests.gujarat.gov.in/writereaddata/images/pdf/2-kissan-nursery-request.pdf",
+                "children": [
+                  {
+                    "text": "application form"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to - "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "PCCF & HOFF, Gujarat State, Block A, 1st Floor, Aranya Bhavan,Opp, St.Xaviers School,Near Ch-3 Circle, Sector-10/A, Gandhinagar.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Ensure that the application is submitted within the prescribed period, if any."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should take a printout of the prescribed format of the [application form](https://forests.gujarat.gov.in/writereaddata/images/pdf/2-kissan-nursery-request.pdf).\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to - \n_PCCF &amp; HOFF, Gujarat State, Block A, 1st Floor, Aranya Bhavan,Opp, St.Xaviers School,Near Ch-3 Circle, Sector-10/A, Gandhinagar._\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be interested in raising seedlings.\n- The scheme is open to all individuals.\n- The applicant must typically aim to raise a target of 20,000 seedlings.\n\n**Preference**\n\n- An applicant who can keep a piece of land reserved for the purpose of nursery for a minimum of twelve months.\n- An applicant who plans to undertake the nursery activity as a commercial activity and not merely a seasonal one on that piece of land.\n\n**Specific to Decentralized School / Kisan Nursery**\n\n- The interested stakeholder must submit an application in response to an advertisement in the local media. \n- Small and marginal farmers, Below Poverty Line (BPL) cardholder families, landless laborers, and schools can raise plants under this variant.\n\n**Specific to SCP-Decentralised Peoples Nursery**\n\n- The beneficiary or beneficiary group must belong to the Scheduled Caste community.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be interested in raising seedlings."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme is open to all individuals."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must typically aim to raise a target of 20,000 seedlings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Preference",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An applicant who can keep a piece of land reserved for the purpose of nursery for a minimum of twelve months."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An applicant who plans to undertake the nursery activity as a commercial activity and not merely a seasonal one on that piece of land."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Specific to Decentralized School / Kisan Nursery",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The interested stakeholder must submit an application in response to an advertisement in the local media. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Small and marginal farmers, Below Poverty Line (BPL) cardholder families, landless laborers, and schools can raise plants under this variant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Specific to SCP-Decentralised Peoples Nursery",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary or beneficiary group must belong to the Scheduled Caste community."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dpn"
+}

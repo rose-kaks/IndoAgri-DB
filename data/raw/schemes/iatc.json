@@ -1,0 +1,233 @@
+{
+  "_id": "65ce0237cd96dc5e07542eae",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Integrated Agriculture",
+        "Training Centre",
+        "Farmer",
+        "Skill",
+        "Training"
+      ],
+      "schemeName": "Integrated Agriculture Training Centre Scheme",
+      "schemeShortTitle": "IATC",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "iatc",
+      "briefDescription": "The objective of the scheme is to provide training for enhancing the skills of farmers besides imparting updated agricultural technologies to departmental functionaries. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=79"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objective of the scheme is to provide training for enhancing the skills of farmers besides imparting updated agricultural technologies to departmental functionaries. ",
+      "detailedDescription_md": "The “Integrated Agriculture Training Centre (IATC) Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to provide training for enhancing the skills of farmers besides imparting updated agricultural technologies to departmental functionaries. Awareness Programmes/ trainings conducted periodically.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\n\n- Conduct trainings and awareness programmes.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Integrated Agriculture Training Centre (IATC) Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to provide training for enhancing the skills of farmers besides imparting updated agricultural technologies to departmental functionaries. Awareness Programmes/ trainings conducted periodically."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Conduct trainings and awareness programmes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To avail of the benefits of the scheme, the bonafide farmers can approach the nearest Agriculture Development Officer of a Community Development Block/Agriculture Circle."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "District Agriculture Officers of the concerned districts"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Sub-Divisional Agricultural Officers of the concerned sub-divisions"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "District Training Officers, Tura/Shillong"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Agricultural Development Officers of the concerned Community and Rural Development Blocks"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\nTo avail of the benefits of the scheme, the bonafide farmers can approach the nearest Agriculture Development Officer of a Community Development Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts\n   1. Sub-Divisional Agricultural Officers of the concerned sub-divisions\n   1. District Training Officers, Tura/Shillong\n   1. Agricultural Development Officers of the concerned Community and Rural Development Blocks\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a permanent resident of Meghalaya.\n- The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Meghalaya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "iatc"
+}

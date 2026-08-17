@@ -1,0 +1,377 @@
+{
+  "_id": "68e4be563b495cdf4ca86747",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Special Backward Tribal",
+        "Livestock",
+        "Farmer",
+        "Financial Assistance",
+        "Nutrition"
+      ],
+      "schemeName": "Mukhyamantri Dairy Animal Distribution Programme (Special Backward Tribes Baiga, Bharia & Sahariya)",
+      "schemeShortTitle": "MDADP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "slug": "mdadp",
+      "briefDescription": "The scheme aims to improve the livelihood and nutritional security of tribal communities by providing two dairy animals at a 90% subsidy to eligible tribal livestock farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=981"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The  &quot;Mukhyamantri Dairy Animal Distribution Programme (Special Backward Tribes Baiga, Bharia &amp; Sahariya)&quot; scheme is launched by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to improve the economic status, nutrition, and income of special backward tribal communities by promoting livestock rearing. The beneficiaries from the Baiga, Bharia, and Sahariya tribes receive two high-yielding dairy cows or Murrah buffaloes at a 90% subsidy, with 10% contribution by the beneficiary. \n> **Selected Districts:**\n\nThe scheme targets specific districts including Dindori, Umaria, Shahdol, Anuppur, Mandla, Balaghat, Chhindwara, Gwalior, Datia, Shivpuri, Guna, Ashoknagar, Sheopurkala, Morena, and Bhind.\n<br>\n\n",
+      "benefits_md": "\n- Provision of 2 Dairy Animals (cow or Murrah buffalo) per beneficiary at 90% subsidy.\n- Animals sourced from certified breeding tracts, progressive farmers, or NABARD-approved markets, ensuring quality and health.\n- Minimum milk yield requirement: cows – 7 liters/day; buffaloes – 8 liters/day.\n- Animal age limit: calves must be under 2 months.\n- Disease-free, healthy animals with mandatory tagging.\n- Training and guidance on dairy management provided before distribution.\n- Milk route establishment and cluster development support provided.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to improve the livelihood and nutritional security of tribal communities by providing two dairy animals at a 90% subsidy to eligible tribal livestock farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The  \"Mukhyamantri Dairy Animal Distribution Programme (Special Backward Tribes Baiga, Bharia & Sahariya)\" scheme is launched by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to improve the economic status, nutrition, and income of special backward tribal communities by promoting livestock rearing. The beneficiaries from the Baiga, Bharia, and Sahariya tribes receive two high-yielding dairy cows or Murrah buffaloes at a 90% subsidy, with 10% contribution by the beneficiary. "
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Selected Districts:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme targets specific districts including Dindori, Umaria, Shahdol, Anuppur, Mandla, Balaghat, Chhindwara, Gwalior, Datia, Shivpuri, Guna, Ashoknagar, Sheopurkala, Morena, and Bhind."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision of 2 Dairy Animals (cow or Murrah buffalo) per beneficiary at 90% subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Animals sourced from certified breeding tracts, progressive farmers, or NABARD-approved markets, ensuring quality and health."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Minimum milk yield requirement: cows – 7 liters/day; buffaloes – 8 liters/day."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Animal age limit: calves must be under 2 months."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Disease-free, healthy animals with mandatory tagging."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Training and guidance on dairy management provided before distribution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Milk route establishment and cluster development support provided."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "text": "Application Process:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should visit the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services in their respective district (Sehore, Vidisha, or Raisen) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Post-Application Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "Applications are verified and approved by the Gram Sabha. Gram Sabha-approved applications are forwarded to the Janpad Panchayat Agricultural Standing Committee."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 2: "
+              },
+              {
+                "text": "Final approval is granted by the District Panchayat Agricultural Committee."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 3: "
+              },
+              {
+                "text": "Selected beneficiaries are trained in dairy management before animal distribution."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 4: "
+              },
+              {
+                "text": "Animals are provided to beneficiaries with proper tagging and health certification, followed by milk route and cluster integration."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process:**\n\n**Step 1:** The interested applicant should visit the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services in their respective district (Sehore, Vidisha, or Raisen) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office.\n**Step 4:** Request a receipt or acknowledgment from the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n> **Post-Application Process:**\n\n**Step 1:** Applications are verified and approved by the Gram Sabha. Gram Sabha-approved applications are forwarded to the Janpad Panchayat Agricultural Standing Committee.\n**Step 2:** Final approval is granted by the District Panchayat Agricultural Committee.\n**Step 3:** Selected beneficiaries are trained in dairy management before animal distribution.\n**Step 4:** Animals are provided to beneficiaries with proper tagging and health certification, followed by milk route and cluster integration.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant must belong to special backward tribes: Baiga, Bharia, or Sahariya.\n1. The applicant must be a livestock farmer residing in the designated districts.\n1. The applicant’s selected animals must comply with minimum milk yield and age requirements.\n1. The applicant must participate in pre-distribution training and follow cluster/milk route arrangements.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to special backward tribes: Baiga, Bharia, or Sahariya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a livestock farmer residing in the designated districts."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s selected animals must comply with minimum milk yield and age requirements."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must participate in pre-distribution training and follow cluster/milk route arrangements."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mdadp"
+}

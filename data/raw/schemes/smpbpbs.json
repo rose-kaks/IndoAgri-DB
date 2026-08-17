@@ -1,0 +1,347 @@
+{
+  "_id": "680621acd9f3c4b387188b9c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Animal Husbandry",
+        "Milk Production",
+        "Breeding"
+      ],
+      "schemeName": "Scheme for Management and Purchase of Bulls Provided for Breeding of State Gir/ Kankarej Breed",
+      "schemeShortTitle": "SMPBPBS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "smpbpbs",
+      "briefDescription": "The scheme provides financial assistance to registered Gaushalas for rearing purebred Gir or Kankrej male cow calves with high genetic quality to promote pure breeding in indigenous cattle.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=ZGBPasq5nKT5f3TEB66czQ==&domain=A36Rf7FTT/556gX2TyXKFw=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Scheme for Management and Purchase of Bulls Provided for Breeding of State Gir/ Kankarej Breed” launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat, aims to support pure breeding of Gir and Kankrej cows by providing financial assistance for purchasing and maintaining high-quality bulls. The goal is to enhance calf quality and gradually increase milk production in rural areas by promoting native breed development.\n",
+      "benefits_md": "\n- **In Case the bull is provided by the Board:** ₹1,18,000/- in the first year.- **In Case the bull is purchased by the organization:** ₹1,43,000/- in the first year.- **Maintenance support:** ₹64,800/- for the second and third year.\n> **Note:** Assistance provided for three years per eligible organization.\n\n",
+      "briefDescription": "The scheme provides financial assistance to registered Gaushalas for rearing purebred Gir or Kankrej male cow calves with high genetic quality to promote pure breeding in indigenous cattle.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Scheme for Management and Purchase of Bulls Provided for Breeding of State Gir/ Kankarej Breed” launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, aims to support pure breeding of Gir and Kankrej cows by providing financial assistance for purchasing and maintaining high-quality bulls. The goal is to enhance calf quality and gradually increase milk production in rural areas by promoting native breed development."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In Case the bull is provided by the Board:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹1,18,000/- in the first year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In Case the bull is purchased by the organization:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹1,43,000/- in the first year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maintenance support: ",
+                  "bold": true
+                },
+                {
+                  "text": "₹64,800/- for the second and third year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Note: ",
+              "bold": true
+            },
+            {
+              "text": "Assistance provided for three years per eligible organization."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                    "children": [
+                      {
+                        "text": "GGVB’s nodal officer"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the concerned district with the necessary documents listed in the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 8:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                    "children": [
+                      {
+                        "text": "Click here."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the [GGVB’s nodal officer](https://gauseva.gujarat.gov.in/Home/Address) of the concerned district with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. A Gram Panchayat or a Gaushala registered must be registered under the Charity Act.\n1. The Gram Panchayat or a Gaushala must have a minimum of 100 breedable cows.\n\n**Note:** If there is not sufficient number of breeding cows in a single village, then the breeding cows of the neighboring villages should be covered and a guarantee should be given.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A Gram Panchayat or a Gaushala registered must be registered under the Charity Act."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Gram Panchayat or a Gaushala must have a minimum of 100 breedable cows."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note: ",
+              "bold": true
+            },
+            {
+              "text": "If there is not sufficient number of breeding cows in a single village, then the breeding cows of the neighboring villages should be covered and a guarantee should be given."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "smpbpbs"
+}

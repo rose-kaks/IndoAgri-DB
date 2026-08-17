@@ -1,0 +1,380 @@
+{
+  "_id": "65cdec51cd96dc5e0754139e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "PM KISAN TOP UP",
+        "Direct Benefit Transfer",
+        "Agriculture Land Holder",
+        "Family Scheme"
+      ],
+      "schemeName": "Namo Shetkari Mahasanman Nidhi Yojana",
+      "schemeShortTitle": "NAMO SHETKARI MAHASANMAN NIDHI YOJANA",
+      "implementingAgency": "Commissionerate Of Agriculture",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2023-04-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 27,
+        "label": "Maharashtra"
+      },
+      "nodalDepartmentName": {
+        "value": 27111111,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "namo-shetkari-mahasanman-nidhi-yojana",
+      "briefDescription": "To increase the income of farmers, State government has announced \"Namo Shetkari Mahasanman Nidhi Yojana\" in which cultivable land holding farmer families of the state will get an additional amount of Rs. 6000/- per year (along with Rs. 6000/- through Pradhan Mantri Kisan Samman Nidhi Yojana"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fw.pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf"
+        },
+        {
+          "title": "Online Link",
+          "url": "http://nsmny.mahait.org/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "•\tUnder this scheme an amount of Rs. 6000/- will be transferred annually in three equal instalments\n•\tGovernment Resolution No Kisani-2023/CR 42/11 A dated 15/06/2023 has been issued regarding the scheme. \n•\tFarmers which are eligible for PM Kisan Yojana will be eligible for the benefit of &quot;Namo Shetkari Mahasanman Nidhi Yojana&quot;\n<br>\n\n",
+      "benefits_md": "1) Eligible Farmers families as per PM KISAN will be Benefited Rs. 2000/- per Instalment.\n2) The beneficiaries benefited in PM KISAN will get the benefit of NSMNY.\n3) The NSMNY beneficiaries will be benefited from the list provided by GoI.\n4) First instalment of NSMNY is given as per the list of 14th instalment of PMKISAN.\n5) Eligible farmers family will get Rs. 2000/- from PMKISAN &amp; NSMNY at each instalment.\n6) Eligible farmers will get Rs. 12,000/- in a year from both PM KISAN &amp; NSMNY schems.\n7) Farmers will be benefited through DBT.\n8) The benefit of the NSMNY will be credited only in Aadhar linked bank accounts.\n9) The benefit credited to the ineligibles in NSMNY will be recovered as per the SoP of PMKISAN\n<br>\n\n",
+      "exclusions_md": "The following categories of beneficiaries of higher economic status shall not be eligible for benefit under the scheme:\n(a) All Institutional Land holders; and\n(b) Farmer families in which one or more of its members belong to following categories:\n\n- Former and present holders of constitutional post.\n- Former and present Ministers/ State Ministers and former/present Members of Lok Sabha/ Rajya Sabha/ State Legislative Assemblies/ State Legislative Councils, former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats.\n- All serving or retired officers and employees of Central/ State Government Ministries /Offices/Departments and its field units Central or State PSEs and Attached offices /Autonomous Institutions under Government as well as regular employees of the Local Bodies (Excluding Multi-Tasking Staff / Class IV/Group D employees).\n- All superannuated/retired pensioners whose monthly pension is Rs.10,000/-or more (Excluding Multi Tasking Staff / Class IV/Group D employees.\n- All Persons who paid Income Tax in last assessment year.\n- Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with Professional bodies and carrying out profession by undertaking practices.\n- Non-Resident Indians (NRIs)\n\n",
+      "briefDescription": "To increase the income of farmers, State government has announced \"Namo Shetkari Mahasanman Nidhi Yojana\" in which cultivable land holding farmer families of the state will get an additional amount of Rs. 6000/- per year (along with Rs. 6000/- through Pradhan Mantri Kisan Samman Nidhi Yojana",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tUnder this scheme an amount of Rs. 6000/- will be transferred annually in three equal instalments"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tGovernment Resolution No Kisani-2023/CR 42/11 A dated 15/06/2023 has been issued regarding the scheme. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tFarmers which are eligible for PM Kisan Yojana will be eligible for the benefit of \"Namo Shetkari Mahasanman Nidhi Yojana\""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1) Eligible Farmers families as per PM KISAN will be Benefited Rs. 2000/- per Instalment."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2) The beneficiaries benefited in PM KISAN will get the benefit of NSMNY."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3) The NSMNY beneficiaries will be benefited from the list provided by GoI."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4) First instalment of NSMNY is given as per the list of 14th instalment of PMKISAN."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5) Eligible farmers family will get Rs. 2000/- from PMKISAN & NSMNY at each instalment."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6) Eligible farmers will get Rs. 12,000/- in a year from both PM KISAN & NSMNY schems."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "7) Farmers will be benefited through DBT."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "8) The benefit of the NSMNY will be credited only in Aadhar linked bank accounts."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "9) The benefit credited to the ineligibles in NSMNY will be recovered as per the SoP of PMKISAN"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following categories of beneficiaries of higher economic status shall not be eligible for benefit under the scheme:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(a) All Institutional Land holders; and"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(b) Farmer families in which one or more of its members belong to following categories:"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Former and present holders of constitutional post."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Former and present Ministers/ State Ministers and former/present Members of Lok Sabha/ Rajya Sabha/ State Legislative Assemblies/ State Legislative Councils, former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All serving or retired officers and employees of Central/ State Government Ministries /Offices/Departments and its field units Central or State PSEs and Attached offices /Autonomous Institutions under Government as well as regular employees of the Local Bodies (Excluding Multi-Tasking Staff / Class IV/Group D employees)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All superannuated/retired pensioners whose monthly pension is Rs.10,000/-or more (Excluding Multi Tasking Staff / Class IV/Group D employees."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All Persons who paid Income Tax in last assessment year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with Professional bodies and carrying out profession by undertaking practices."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-Resident Indians (NRIs)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01: Self Registration on "
+              },
+              {
+                "type": "link",
+                "link": "https://fw.pmkisan.gov.in/",
+                "children": [
+                  {
+                    "text": "PMKISAN "
+                  }
+                ]
+              },
+              {
+                "text": "Portal"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02: Verification of eligibility of registered beneficiary."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03: Approval at Taluka Nodal Officer level."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 04: Approval at District Nodal Officer level."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 05: Final Approval at State Nodal Officer level."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note : - No need of approval at district and state level in case of direct registration at TNO login."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Step 01: Self Registration on [PMKISAN ](https://fw.pmkisan.gov.in/)Portal\nStep 02: Verification of eligibility of registered beneficiary.\nStep 03: Approval at Taluka Nodal Officer level.\nStep 04: Approval at District Nodal Officer level.\nStep 05: Final Approval at State Nodal Officer level.\nNote : - No need of approval at district and state level in case of direct registration at TNO login.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "Cultivable land holding farmers families (comprising of husband, wife and minor children) having land holding on dated 01.02.2019 are eligible for both PM KISAN &amp; NSMNY scheme.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cultivable land holding farmers families (comprising of husband, wife and minor children) having land holding on dated 01.02.2019 are eligible for both PM KISAN & NSMNY scheme."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "namo-shetkari-mahasanman-nidhi-yojana"
+}

@@ -1,0 +1,404 @@
+{
+  "_id": "665812a102cfbde31653387a",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Milk Mission",
+        "Production",
+        "Financial Assistance",
+        "Farmer",
+        "Cow"
+      ],
+      "schemeName": "Mukhyamantri Svadeshi Gau Samvardhan Yojana",
+      "schemeShortTitle": "MSGSY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Employment services and jobs",
+          "label": "Employment services and jobs"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 9,
+        "label": "Uttar Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 90000014,
+        "label": "Dairy Development Department, Uttar Pradesh"
+      },
+      "schemeFor": "Individual",
+      "slug": "msgsy",
+      "briefDescription": "The \"Mukhyamantri Svadeshi Gau Samvardhan Yojana\" under the \"Nand Baba Milk Mission\" aims to enhance milk productivity and per capita milk availability in Uttar Pradesh by encouraging the purchase of indigenous improved breed cows from outside the state and employment opportunities in rural areas. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://updairydevelopment.gov.in/MediaGallery/811_53_2_2023.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://updairydevelopment.gov.in/NBDMSchemes.aspx"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://updairydevelopment.gov.in/MediaGallery/811_53_2_2023.Form.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Mukhyamantri Svadeshi Gau Samvardhan Yojana&amp;quot; under the &amp;quot;Nand Baba Milk Mission&amp;quot; aims to enhance milk productivity and per capita milk availability in Uttar Pradesh by encouraging the purchase of indigenous improved breed cows from outside the state. The scheme seeks to increase the number of indigenous improved breed cows, improve their breeds, and provide employment opportunities in rural areas through animal husbandry. This scheme will be implemented in all the districts of the state. \n",
+      "benefits_md": "\n- Grants covering up to 40% of the total cost per unit (maximum ₹80,000), which includes purchasing cows, transportation, insurance, fodder cutting machine, and shed construction.\n\n**Note 1:** One unit means 02 cows of indigenous improved breed per beneficiary and the unit cost is considered to be approximately 2 lakhs. \n**Note 2:** The grant will be released directly into the bank account of the concerned beneficiary through DBT within a month by the State Program Management Unit.\n",
+      "exclusions_md": "If the asset is sold or transferred in any other way before three years, the grant will be recovered by the District Executive Committee as per rules.\n",
+      "briefDescription": "The \"Mukhyamantri Svadeshi Gau Samvardhan Yojana\" under the \"Nand Baba Milk Mission\" aims to enhance milk productivity and per capita milk availability in Uttar Pradesh by encouraging the purchase of indigenous improved breed cows from outside the state and employment opportunities in rural areas. ",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Mukhyamantri Svadeshi Gau Samvardhan Yojana\" under the \"Nand Baba Milk Mission\" aims to enhance milk productivity and per capita milk availability in Uttar Pradesh by encouraging the purchase of indigenous improved breed cows from outside the state. The scheme seeks to increase the number of indigenous improved breed cows, improve their breeds, and provide employment opportunities in rural areas through animal husbandry. This scheme will be implemented in all the districts of the state. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Grants covering up to 40% of the total cost per unit (maximum ₹80,000), which includes purchasing cows, transportation, insurance, fodder cutting machine, and shed construction."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note 1: ",
+              "bold": true
+            },
+            {
+              "text": "One unit means 02 cows of indigenous improved breed per beneficiary and the unit cost is considered to be approximately 2 lakhs. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note 2:",
+              "bold": true
+            },
+            {
+              "text": " The grant will be released directly into the bank account of the concerned beneficiary through DBT within a month by the State Program Management Unit."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If the asset is sold or transferred in any other way before three years, the grant will be recovered by the District Executive Committee as per rules."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "The scheme details and application process will be advertised state-wide, with information available on the departmental portal and local offices."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 01:"
+                  },
+                  {
+                    "text": " Eligible applicants can visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://updairydevelopment.gov.in/NBDMSchemes.aspx",
+                    "children": [
+                      {
+                        "text": "official website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " and download the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://updairydevelopment.gov.in/MediaGallery/811_53_2_2023.Form.pdf",
+                    "children": [
+                      {
+                        "text": "application form(Annexure-1)"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the duly filled and signed application form along with the documents to the Chief Development Officer or Chief Veterinary Officer."
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 04:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Request a receipt or acknowledgment from the Chief Development Officer or Chief Veterinary Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "After Selection Process:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 01:",
+                        "bold": true
+                      },
+                      {
+                        "text": " After receiving the selection letter, the beneficiary should purchase indigenous improved breed within 02 months. Gir, Sahiwal, Haryana or Tharparkar cows will be purchased. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 02: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "For identification of cows, ear tagging through microchips/ear tagging system is mandatory. receive any recognition of identity."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 03: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "All legal formalities and maintenance of records for purchasing animals will be done by the beneficiary himself."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 04: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "After purchasing indigenous advanced breed cows from outside states by the beneficiary selected in the first phase, the application will be made again on the prescribed format (Annexure-2) for getting the grant within a maximum of 01 month."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; The scheme details and application process will be advertised state-wide, with information available on the departmental portal and local offices.\n\n**Step 01:** Eligible applicants can visit the [official website](https://updairydevelopment.gov.in/NBDMSchemes.aspx) and download the [application form(Annexure-1)](https://updairydevelopment.gov.in/MediaGallery/811_53_2_2023.Form.pdf).\n**Step 02:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application form along with the documents to the Chief Development Officer or Chief Veterinary Officer.\n**Step 04:** Request a receipt or acknowledgment from the Chief Development Officer or Chief Veterinary Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n&amp;gt; **After Selection Process:**\n\n**Step 01:** After receiving the selection letter, the beneficiary should purchase indigenous improved breed within 02 months. Gir, Sahiwal, Haryana or Tharparkar cows will be purchased. \n**Step 02:** For identification of cows, ear tagging through microchips/ear tagging system is mandatory. receive any recognition of identity.\n**Step 03:** All legal formalities and maintenance of records for purchasing animals will be done by the beneficiary himself.\n**Step 04:** After purchasing indigenous advanced breed cows from outside states by the beneficiary selected in the first phase, the application will be made again on the prescribed format (Annexure-2) for getting the grant within a maximum of 01 month.\n&amp;lt;br&amp;gt;\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Uttar Pradesh.\n1. The age of the applicant should be 18 years or above. \n1. The milk producer/animal rearer should have adequate space/shed available for keeping the animals.\n1. The milk producer/animal husbandry should not already have more than 02 cows of indigenous advanced breed like Gir, Sahiwal, Haryana, Tharparkar and F-1 cow of hybrid breed.\n1. The applicant should purchase an indigenous improved breed of cows from outside the state. \n1. The applicant should purchase cows of indigenous improved breed of first or second calving.\n1. The applicant should purchase disease-free and healthy cows. \n1. The applicant should take animal insurance for all the cows purchased for 03 years. \n1. The applicant should take the transit insurance for the cattle rearer to get for bringing the cows from the place of purchase/state to the place of establishment of the unit. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Uttar Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the applicant should be 18 years or above. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The milk producer/animal rearer should have adequate space/shed available for keeping the animals."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The milk producer/animal husbandry should not already have more than 02 cows of indigenous advanced breed like Gir, Sahiwal, Haryana, Tharparkar and F-1 cow of hybrid breed."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should purchase an indigenous improved breed of cows from outside the state. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should purchase cows of indigenous improved breed of first or second calving."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should purchase disease-free and healthy cows. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should take animal insurance for all the cows purchased for 03 years. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should take the transit insurance for the cattle rearer to get for bringing the cows from the place of purchase/state to the place of establishment of the unit. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "msgsy"
+}

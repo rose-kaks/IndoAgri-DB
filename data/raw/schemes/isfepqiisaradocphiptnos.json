@@ -1,0 +1,346 @@
+{
+  "_id": "6a32244c8d2fb7dd60224b8d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Pepper Growers",
+        "Spices Board",
+        "Farming"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement: Pepper thresher (nos)",
+      "schemeShortTitle": "ISFEPQIISARADOCPHIPTNOS",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "isfepqiisaradocphiptnos",
+      "briefDescription": "To motivate the pepper growers to produce good quality pepper for export by promoting installation of pepper threshers for hygienic separation of pepper berries from the spikes."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://serviceonline.gov.in/dbt/login.do"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "To motivate the pepper growers to produce good quality pepper for export by promoting installation of pepper threshers for hygienic separation of pepper berries from the spikes.",
+      "detailedDescription_md": "The Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement – Pepper Thresher (Nos.) is implemented by the Spices Board, India, under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage pepper growers to produce high-quality pepper for export by promoting the installation of pepper threshers for the hygienic and efficient separation of pepper berries from spikes. This helps improve product quality, reduce post-harvest losses, and enhance the export potential of Indian pepper. The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+      "benefits_md": "\n- All pepper growers having minimum of 100 yielding vines.\n- Assistance for groups/FPOs will be as in QGBG\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement – Pepper Thresher (Nos.) is implemented by the Spices Board, India, under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage pepper growers to produce high-quality pepper for export by promoting the installation of pepper threshers for the hygienic and efficient separation of pepper berries from spikes. This helps improve product quality, reduce post-harvest losses, and enhance the export potential of Indian pepper. The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All pepper growers having minimum of 100 yielding vines."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for groups/FPOs will be as in QGBG"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicesPlus"
+                  }
+                ]
+              },
+              {
+                "text": " website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on the “"
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                "children": [
+                  {
+                    "text": "Register” "
+                  }
+                ]
+              },
+              {
+                "text": "option on the homepage."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Review all details carefully and submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                "children": [
+                  {
+                    "text": "“Login.”"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Enter your Email ID, Password, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Select the relevant service/scheme name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Fill in the required details in the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Submit the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.Preferably in all pepper growing states and regions in India/UT.\n2. Designated Officials will conduct inspection and recommend the eligible cases.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.Preferably in all pepper growing states and regions in India/UT."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Designated Officials will conduct inspection and recommend the eligible cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isfepqiisaradocphiptnos"
+}

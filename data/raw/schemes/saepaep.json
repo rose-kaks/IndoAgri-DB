@@ -1,0 +1,440 @@
+{
+  "_id": "678e2c351a86d2bad624a167",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Business",
+        "Entrepreneurship",
+        "Environmental Management",
+        "Energy Conservation",
+        "Environmental Compliance"
+      ],
+      "schemeName": "Scheme of Assistance for Environment Protection Measures: Scheme for assistance to Environment Management",
+      "schemeShortTitle": "SAEPAEP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": "2020-08-07",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "industries",
+          "label": "Industries"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444452,
+        "label": "Industries and Mines Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "saepaep",
+      "briefDescription": "The \"Scheme of Assistance for Environment Protection Measures\" under the Gujarat Industrial Policy promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms, effective from August 7th, 2020 to August 6th, 2025."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+        },
+        {
+          "title": "Document Checklist",
+          "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/Checklist%20for%20Scheme-1%20EPM%20IP-2020.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/Application-form%20for%20Scheme-1%20Assistance%20to%20Environment%20Management.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Scheme of Assistance for Environment Protection Measures&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, this initiative promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms.\nThe component &amp;quot;Scheme for Assistance to Environment Management&amp;quot; is designed to promote the adoption of cleaner production technologies and advanced pollution control equipment to improve environmental management. It aims to optimize raw material use, reduce energy and water consumption, and minimize waste generation in industries.\n",
+      "benefits_md": "<br>\n\n**Eligible Activity****Quantum of Assistance per project** 1. Implementation of cleaner production technology in place of existing processes such as substitution and optimization of raw materials, reduction water consumption or energy consumption, or waste generation1. Upto 35% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for MSME.        2. Upto 10% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for large projects.2. Any other environment management project with the use of Clean, Efficient, and Innovative Pollution Control Equipment1. Upto 25% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for MSME.                    2. Upto 10% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for large projects.<br>\n\n**Sanctioning Authority:** Assistance under the scheme will be sanctioned by State Level Empowered Committee and assistance will be disbursed by Industries Commissionerate. \n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The \"Scheme of Assistance for Environment Protection Measures\" under the Gujarat Industrial Policy promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms, effective from August 7th, 2020 to August 6th, 2025.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Scheme of Assistance for Environment Protection Measures\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, this initiative promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The component \"Scheme for Assistance to Environment Management\" is designed to promote the adoption of cleaner production technologies and advanced pollution control equipment to improve environmental management. It aims to optimize raw material use, reduce energy and water consumption, and minimize waste generation in industries."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Eligible Activity",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Quantum of Assistance per project ",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. Implementation of cleaner production technology in place of existing processes such as substitution and optimization of raw materials, reduction water consumption or energy consumption, or waste generation"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. Upto 35% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for MSME.        "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2. Upto 10% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for large projects."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2. Any other environment management project with the use of Clean, Efficient, and Innovative Pollution Control Equipment"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. Upto 25% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for MSME.                    "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2. Upto 10% of the cost of plant and machinery with a ceiling of ₹35,00,000/- during the operative period of the scheme for large projects."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Sanctioning Authority:"
+            },
+            {
+              "text": " Assistance under the scheme will be sanctioned by State Level Empowered Committee and assistance will be disbursed by Industries Commissionerate. "
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant enterprise has to fill out the prescribed "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ic.gujarat.gov.in/documents/commondoc/2020/Application-form%20for%20Scheme-1%20Assistance%20to%20Environment%20Management.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Attach all relevant "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ic.gujarat.gov.in/documents/commondoc/2020/Checklist%20for%20Scheme-1%20EPM%20IP-2020.pdf",
+                    "children": [
+                      {
+                        "text": "documents "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "as required under the scheme guidelines."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the completed application form and documents to the Industries Commissionerate or the concerned District Industries Centre."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Ensure that the application is submitted within six months from the date of completion of the activity or project."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step-1:** The applicant enterprise has to fill out the prescribed [application form](https://ic.gujarat.gov.in/documents/commondoc/2020/Application-form%20for%20Scheme-1%20Assistance%20to%20Environment%20Management.pdf).\n**Step-2:** Attach all relevant [documents ](https://ic.gujarat.gov.in/documents/commondoc/2020/Checklist%20for%20Scheme-1%20EPM%20IP-2020.pdf)as required under the scheme guidelines.\n**Step-3:** Submit the completed application form and documents to the Industries Commissionerate or the concerned District Industries Centre.\n**Step-4:** Ensure that the application is submitted within six months from the date of completion of the activity or project.\n"
+      }
+    ],
+    "schemeDefinitions": [
+      {
+        "name": "Existing Enterprise",
+        "definition": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Existing enterprise means an enterprise that has filed EM Part II or Udyog Aadhaar or Udhyam Registration or [EM with the concerned authority and is in production. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "definitions_md": "Existing enterprise means an enterprise that has filed EM Part II or Udyog Aadhaar or Udhyam Registration or [EM with the concerned authority and is in production. \n&lt;br&gt;\n\n",
+        "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+      },
+      {
+        "name": "Project Cost",
+        "definition": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Project Cost means the cost approved by the Committee constituted under this resolution."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "definitions_md": "Project Cost means the cost approved by the Committee constituted under this resolution.\n<br>\n\n",
+        "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+      },
+      {
+        "name": "Eligible Fixed Capital Investment ",
+        "definition": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Eligible Fixed Capital Investment means the capital investment made in plant and machinery, equipment and civil work (except building if required for the project such as erection) etc. during the operative period of the scheme. "
+              }
+            ]
+          }
+        ],
+        "definitions_md": "Eligible Fixed Capital Investment means the capital investment made in plant and machinery, equipment and civil work (except building if required for the project such as erection) etc. during the operative period of the scheme. \n",
+        "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+      }
+    ],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The industry/unit must be registered under relevant industrial laws in Gujarat.\n   1. The industry/unit must comply with existing environmental regulations and standards.\n   1. The industry/unit must be engaged in manufacturing or production activities.\n   1. The industry/unit must undertake projects focused on environmental protection measures.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The industry/unit must be registered under relevant industrial laws in Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The industry/unit must comply with existing environmental regulations and standards."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The industry/unit must be engaged in manufacturing or production activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The industry/unit must undertake projects focused on environmental protection measures."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "saepaep"
+}

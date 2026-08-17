@@ -1,0 +1,618 @@
+{
+  "_id": "685e33cb61dd0be9e080fe42",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Fish Farmers",
+        "Entrepreneurs",
+        "Cold Chain Infrastructure",
+        "Fish Preservation"
+      ],
+      "schemeName": "PMMSY: Ice Plant/Cold Store of minimum 10-ton capacity Haryana",
+      "schemeShortTitle": "FIPCSOMC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 6,
+        "label": "Haryana"
+      },
+      "nodalDepartmentName": {
+        "value": 666678,
+        "label": "Fisheries Department"
+      },
+      "slug": "sfipcsomc",
+      "briefDescription": "The subsidy for 10-ton capacity ice plant/cold storage units under Pradhan Mantri Matsya Sampada Yojana (PMMSY) supports the establishment of ice plants or cold storage facilities with a minimum capacity of 10 tons to improve fish preservation and cold chain infrastructure in Haryana."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=HaFiBDBin6hH1X+qT4MbzQ=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Pradhan Mantri Matsya Sampada Yojana: Ice Plant/Cold Store of minimum 10-ton capacity, introduced by the Ministry Of Fisheries, Animal Husbandry &amp; Dairying, Government of India, aims to provide the subsidy to support the establishment of ice plants or cold storage facilities with a minimum capacity of 10 tons to improve fish preservation and cold chain infrastructure in Haryana.\nThis centrally sponsored scheme is jointly funded 50% by the Central Government and 50% by the State Government. Eligible beneficiaries must undertake to keep the unit operational, cover maintenance and post-construction costs, and ensure ice is supplied to fishers and fish farmers at affordable prices.\n<br>\n\n",
+      "benefits_md": "\n- The project cost is ₹40,00,000/-\n\n> **Subsidy Distribution :**\n\n\n1. A 40% subsidy is available for the General Category.\n1. A 60% subsidy is offered for SC (Scheduled Caste) and Women beneficiaries.\n\n",
+      "briefDescription": "The subsidy for 10-ton capacity ice plant/cold storage units under Pradhan Mantri Matsya Sampada Yojana (PMMSY) supports the establishment of ice plants or cold storage facilities with a minimum capacity of 10 tons to improve fish preservation and cold chain infrastructure in Haryana.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Pradhan Mantri Matsya Sampada Yojana: Ice Plant/Cold Store of minimum 10-ton capacity, introduced by the Ministry Of Fisheries, Animal Husbandry & Dairying, Government of India, aims to provide the subsidy to support the establishment of ice plants or cold storage facilities with a minimum capacity of 10 tons to improve fish preservation and cold chain infrastructure in Haryana."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This centrally sponsored scheme is jointly funded 50% by the Central Government and 50% by the State Government. Eligible beneficiaries must undertake to keep the unit operational, cover maintenance and post-construction costs, and ensure ice is supplied to fishers and fish farmers at affordable prices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The project cost is ₹40,00,000/-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "underline": true,
+              "text": "Subsidy Distribution :"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A 40% subsidy is available for the General Category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A 60% subsidy is offered for SC (Scheduled Caste) and Women beneficiaries."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process on Antyodaya-SARAL Portal:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the Official Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://saralharyana.gov.in/",
+                    "children": [
+                      {
+                        "text": "Antyodaya-SARAL Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " For registration, click on “New User/Register Here” and fill in all the mandatory details,i.e., Name, Email ID, Mobile Number & password. Click on ‘Submit’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Login to Apply for the Scheme:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the Official Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://saralharyana.gov.in/",
+                    "children": [
+                      {
+                        "text": "Antyodaya-SARAL Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now, select the scheme and click on “Apply for Service/Scheme”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in all the details in the online application form and click on \"Submit\"."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Track Your Service Online:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Track Application/Appeal: ",
+                        "bold": true
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://status.saralharyana.nic.in/",
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Track Ticket: ",
+                        "bold": true
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx",
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "",
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Track Your Service Through SMS:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Registered Mobile Number:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Type 'SARAL' and send it to 9954699899 to track your application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Other Mobile Number: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "underline": true,
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Helpline: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "0172-3968400"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Email: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "saral.haryana@gov.in"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Note: ",
+                    "underline": true,
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Govt. Charges:",
+                    "bold": true
+                  },
+                  {
+                    "text": " No Fee"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Service Charges:  ",
+                    "bold": true
+                  },
+                  {
+                    "text": " ₹ 10"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Atal Seva Kendra Service Charges:",
+                    "bold": true
+                  },
+                  {
+                    "text": "  ₹ 10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details,i.e., Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&lt;br&gt;\n\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&lt;br&gt;\n\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&lt;br&gt;\n\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type &amp;#39;SARAL&amp;#39; and send it to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&lt;br&gt;\n\n&gt; **Contact Us:**\n\n\n  - **Helpline:** 0172-3968400  - **Email:** saral.haryana@gov.in\n&lt;br&gt;\n\n&gt; **Note:** \n\n&gt; **Govt. Charges:** No Fee\n\n&gt; **Service Charges:**   ₹ 10\n\n&gt; **Atal Seva Kendra Service Charges:**  ₹ 10\n\n<br>\n\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme."
+              }
+            ]
+          }
+        ],
+        "process_md": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Haryana and possess a valid Parivar Pehchan Patra (PPP).\n1. The applicant must submit an undertaking in the DPR agreeing to bear all operational, maintenance, and post-construction costs.\n1. The applicant must ensure that the ice plant/cold storage remains continuously operational.\n1. The applicant must ensure that the ice produced is supplied to fishers and fish farmers at affordable prices.\n1. The applicant must either own the land or have it on a long-term registered lease of at least 10 years.\n1. The applicant must note that central assistance will be provided based on actual costs, within the overall ceiling limits specified under PMMSY sub-components.\n1. The applicant must understand that, upon approval, the subsidy will be disbursed as per the procedure laid out under PMMSY.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Haryana and possess a valid Parivar Pehchan Patra (PPP)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must submit an undertaking in the DPR agreeing to bear all operational, maintenance, and post-construction costs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must ensure that the ice plant/cold storage remains continuously operational."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must ensure that the ice produced is supplied to fishers and fish farmers at affordable prices."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must either own the land or have it on a long-term registered lease of at least 10 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must note that central assistance will be provided based on actual costs, within the overall ceiling limits specified under PMMSY sub-components."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must understand that, upon approval, the subsidy will be disbursed as per the procedure laid out under PMMSY."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sfipcsomc"
+}

@@ -1,0 +1,697 @@
+{
+  "_id": "6926c333588bfd9e834db22e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Producer",
+        "Dairy",
+        "Business",
+        "Youth",
+        "Incentive",
+        "Subsidy",
+        "Milk"
+      ],
+      "schemeName": "Revised Scheme For Incentives To Milk Producers",
+      "schemeShortTitle": "RSIMP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000003,
+        "label": "Animal Husbandry & Veterinary Services Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "rsimp",
+      "briefDescription": "BRIEF DESCRIPTION: The scheme aims to encourage farmers and youth in Goa to take up Dairy business to increase local milk production and achieve state self-sufficiency. It offers a 40% composite subsidy on milk proceeds (incentive and cattle feed subsidy) to eligible resident farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.goa.gov.in/wp-content/uploads/2020/07/Revised-Schemes-For-Incentives-To-Milk-Producers.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "BRIEF DESCRIPTION: The scheme aims to encourage farmers and youth in Goa to take up Dairy business to increase local milk production and achieve state self-sufficiency. It offers a 40% composite subsidy on milk proceeds (incentive and cattle feed subsidy) to eligible resident farmers.",
+      "detailedDescription_md": "The &quot;Revised Scheme For Incentives To Milk Producers&quot; was launched by the Department of Animal Husbandry &amp; Veterinary Services, Government of Goa. The scheme aims to develop the Dairy sector and make Goa self-sufficient in milk production by encouraging farmers to engage in dairy business, thereby making it more lucrative and increasing local milk production. The applications for this scheme are accepted through the respective Veterinary Dispensary/Hospital via the registered cooperative society/group, which submits monthly reports for payment processing.\n<br>\n\n",
+      "benefits_md": "\n- A composite subsidy amounting to 40% (forty percent) of the proceeds of milk supplied to the Dairy Co-operative Society/Bachat Gat/Self Help Group.\n- Incentive on milk: 32.28% (thirty-two point two eight percent).\n- Incentive on cattle feed: 7.72% (seven point seven two percent).\n- The scheme is linked to the cattle feed subsidy scheme.\n\n##### ***Disbursement***\n\n- Monthly disbursement of benefits to beneficiary&#39;s Bank account via Electronic Clearing System (ECS).\n- The beneficiary must have a Bank account in any Bank having a core banking system/Electronic Clearing System (ECS).\n\n##### ***Mandatory Obligations***\n\n- The beneficiary must produce their own milk at their Dairy Farm.\n- The beneficiary must not procure milk from others and pour it to the Dairy Co-operative Society/Bachat Gat/Self Help Group in their name.\n- The quantity of milk supplied and the number of milch animals reared by the farmers will be checked by the departmental area officer in addition to the supervisor/officials from the concerned organization.\n- In case of any fraud or malpractice regarding milk supply or animal count, the Department shall stop the composite subsidy (incentive on milk and feed) forthwith.\n- If fraud or malpractice occurs, the benefit of all schemes will be withdrawn.\n- In matters of fraud or malpractice, the decision of the Director will be final and binding on the party.\n\n<br>\n\n",
+      "exclusions_md": "The applicant must not procure milk from others and pour it to the Dairy Co-operative Society/Bachat Gat/Self Help Group in his name.\n<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Revised Scheme For Incentives To Milk Producers\" was launched by the Department of Animal Husbandry & Veterinary Services, Government of Goa. The scheme aims to develop the Dairy sector and make Goa self-sufficient in milk production by encouraging farmers to engage in dairy business, thereby making it more lucrative and increasing local milk production. The applications for this scheme are accepted through the respective Veterinary Dispensary/Hospital via the registered cooperative society/group, which submits monthly reports for payment processing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A composite subsidy amounting to 40% (forty percent) of the proceeds of milk supplied to the Dairy Co-operative Society/Bachat Gat/Self Help Group."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Incentive on milk: 32.28% (thirty-two point two eight percent)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Incentive on cattle feed: 7.72% (seven point seven two percent)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme is linked to the cattle feed subsidy scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Disbursement",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Monthly disbursement of benefits to beneficiary's Bank account via Electronic Clearing System (ECS)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must have a Bank account in any Bank having a core banking system/Electronic Clearing System (ECS)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Mandatory Obligations",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must produce their own milk at their Dairy Farm."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must not procure milk from others and pour it to the Dairy Co-operative Society/Bachat Gat/Self Help Group in their name."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The quantity of milk supplied and the number of milch animals reared by the farmers will be checked by the departmental area officer in addition to the supervisor/officials from the concerned organization."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of any fraud or malpractice regarding milk supply or animal count, the Department shall stop the composite subsidy (incentive on milk and feed) forthwith."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If fraud or malpractice occurs, the benefit of all schemes will be withdrawn."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In matters of fraud or malpractice, the decision of the Director will be final and binding on the party."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must not procure milk from others and pour it to the Dairy Co-operative Society/Bachat Gat/Self Help Group in his name."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Dairy Farm Registration",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must register their Dairy Farm with the Department of Animal Husbandry & Veterinary Services by visiting the respective Veterinary Dispensary/Hospital, "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://www.goa.gov.in/wp-content/uploads/2020/07/Revised-Schemes-For-Incentives-To-Milk-Producers.pdf",
+                    "children": [
+                      {
+                        "text": "providing comprehensive details"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " about their operation."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "These details include the number of animals, state of lactation of each animal, milk yield, date of calving, and the address of the cowshed where the animals are located."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Securing Group Membership",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must acquire membership in a Dairy Co-operative Society, Bachat Gat, or Self Help Group, ensuring the chosen group is registered with the Department of Animal Husbandry & Veterinary Services."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The relevant group/society is responsible for maintaining a complete list of its members, allotting a unique membership number to each farmer, and submitting this list to the Department at the beginning of the scheme."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Opening a Bank Account",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The beneficiary must open a Bank account in any Bank that operates using a core banking system or Electronic Clearing System (ECS) to enable the Department to effect the composite subsidy payment directly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Application/Reporting Process (Monthly Cycle)",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Submitting Monthly Supply Data to the Area Officer",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Dairy Co-operative Society/Bachat Gat/Self Help Group must submit a monthly consolidated report, provided in triplicate (both soft copy and hard copy), to the area Veterinary Officer/Assistant Director."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "This report must detail the total quantity of milk supplied by each farmer, the corresponding amount of payment received by the farmer for that month, and the beneficiary's Bank account number, branch name, and Magnetic Ink Character Recognition (MICR) code."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Report Certification by Group Officials",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The required monthly reports must be duly signed by the Secretary and the Chairman of the Dairy Co-operative Society/Bachat Gat/Self Help Group, and verified and certified by the Supervisor of the group/society."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "All such reports must reach the area Veterinary Officer/Assistant Director latest by the 8th day of the month subsequent to the month it pertains to."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Verification and Certification by Area Officer",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Area Veterinary Officer/Assistant Director shall certify the statement received from the group/society after conducting verification using the registers maintained by them and the fortnightly bill payment statements issued by the group."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Post-Application Process (Disbursement Cycle)",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Bill Preparation and Verification",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The local Area Veterinary Officer/Assistant Director shall forward the certified statement to the authorized agency for bill preparation by the 15th day of the month."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The authorized agency must then submit the prepared bills back to the local Area Veterinary Officer/Assistant Director by the 22nd day of the month. The Area Officer then verifies and certifies the bills received from the agency."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " Final Submission and Payment"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The local Area Veterinary Officer/Assistant Director must forward the certified bill, along with a copy of the certified statement, to the Directorate of Animal Husbandry & Veterinary Services by the 25th day of the month."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon receipt of the certified bill from the Area Officer, the payment of the composite subsidy at 40% is effected through the beneficiary’s bank account using the Electronic Clearing System (ECS)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### **Step 1:****** ***Dairy Farm Registration***\n\n- The applicant must register their Dairy Farm with the Department of Animal Husbandry &amp; Veterinary Services by visiting the respective Veterinary Dispensary/Hospital, [providing comprehensive details](https://www.goa.gov.in/wp-content/uploads/2020/07/Revised-Schemes-For-Incentives-To-Milk-Producers.pdf) about their operation.- These details include the number of animals, state of lactation of each animal, milk yield, date of calving, and the address of the cowshed where the animals are located.\n\n##### **Step 2:****** ***Securing Group Membership***\n\n- The applicant must acquire membership in a Dairy Co-operative Society, Bachat Gat, or Self Help Group, ensuring the chosen group is registered with the Department of Animal Husbandry &amp; Veterinary Services.\n- The relevant group/society is responsible for maintaining a complete list of its members, allotting a unique membership number to each farmer, and submitting this list to the Department at the beginning of the scheme.\n\n##### **Step 3:****** ***Opening a Bank Account***\n\n- The beneficiary must open a Bank account in any Bank that operates using a core banking system or Electronic Clearing System (ECS) to enable the Department to effect the composite subsidy payment directly.\n\n<br>\n\n##### **Application/Reporting Process (Monthly Cycle)**\n##### **Step 1:****** ***Submitting Monthly Supply Data to the Area Officer***\n\n- The Dairy Co-operative Society/Bachat Gat/Self Help Group must submit a monthly consolidated report, provided in triplicate (both soft copy and hard copy), to the area Veterinary Officer/Assistant Director.\n- This report must detail the total quantity of milk supplied by each farmer, the corresponding amount of payment received by the farmer for that month, and the beneficiary&#39;s Bank account number, branch name, and Magnetic Ink Character Recognition (MICR) code.\n\n##### **Step 2:****** ***Report Certification by Group Officials***\n\n- The required monthly reports must be duly signed by the Secretary and the Chairman of the Dairy Co-operative Society/Bachat Gat/Self Help Group, and verified and certified by the Supervisor of the group/society.\n- All such reports must reach the area Veterinary Officer/Assistant Director latest by the 8th day of the month subsequent to the month it pertains to.\n\n##### **Step 3:****** ***Verification and Certification by Area Officer***\n\n- The Area Veterinary Officer/Assistant Director shall certify the statement received from the group/society after conducting verification using the registers maintained by them and the fortnightly bill payment statements issued by the group.\n\n<br>\n\n##### **Post-Application Process (Disbursement Cycle)**\n##### **Step 1:****** ***Bill Preparation and Verification***\n\n- The local Area Veterinary Officer/Assistant Director shall forward the certified statement to the authorized agency for bill preparation by the 15th day of the month.\n- The authorized agency must then submit the prepared bills back to the local Area Veterinary Officer/Assistant Director by the 22nd day of the month. The Area Officer then verifies and certifies the bills received from the agency.\n\n##### **Step 2:** **Final Submission and Payment**\n\n- The local Area Veterinary Officer/Assistant Director must forward the certified bill, along with a copy of the certified statement, to the Directorate of Animal Husbandry &amp; Veterinary Services by the 25th day of the month.\n- Upon receipt of the certified bill from the Area Officer, the payment of the composite subsidy at 40% is effected through the beneficiary’s bank account using the Electronic Clearing System (ECS).\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The applicant must be a farmer from Goa.\nThe applicant must be a bona fide resident of Goa for at least the preceding five years.\nThe applicant must be a member of the Dairy Co-operative Society/Bachat Gat/Self Help Group registered with the Department of Animal Husbandry &amp; Veterinary Services.\nThe applicant must register their Dairy Farm with the Department of Animal Husbandry &amp; Veterinary Services through the respective Veterinary Dispensary/Hospital.\nThe applicant must own a cattle shed with milch animals.\nThe applicant must produce their own milk (and not procure milk from others then pour it to the group/society in their name).\nThe applicant must be mandatorily registered with the Agricultural Department, as an Agriculturist under the Agricultural Database.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must be a farmer from Goa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must be a bona fide resident of Goa for at least the preceding five years."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must be a member of the Dairy Co-operative Society/Bachat Gat/Self Help Group registered with the Department of Animal Husbandry & Veterinary Services."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must register their Dairy Farm with the Department of Animal Husbandry & Veterinary Services through the respective Veterinary Dispensary/Hospital."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must own a cattle shed with milch animals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must produce their own milk (and not procure milk from others then pour it to the group/society in their name)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must be mandatorily registered with the Agricultural Department, as an Agriculturist under the Agricultural Database."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rsimp"
+}

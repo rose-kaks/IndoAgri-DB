@@ -1,0 +1,241 @@
+{
+  "_id": "65cb1936cd96dc5e075172ee",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Manure",
+        "Construction",
+        "Farmer",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "\"Integrated Farming for Productivity Improvement Scheme\" by the Coconut Development Board",
+      "schemeShortTitle": "IFPISBTCDB",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "schemeFor": "Individual",
+      "slug": "ifpisbtcdb",
+      "briefDescription": "Through the “Integrated Farming for Productivity Improvement Scheme\" by the Coconut Development Board, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the Laying of the Demonstration Plot, and for the Construction of the Organic Manure Unit."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Standard Operating Procedure",
+          "url": "https://agri.py.gov.in/sites/default/files/schemes/Horticulture%20SOP.pdf"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Integrated Farming for Productivity Improvement Scheme&quot; by the Coconut Development Board was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the Laying of the Demonstration Plot, and for the Construction of the Organic Manure Unit.\n",
+      "benefits_md": "\n- **Laying of Demonstration Plot (LoDP):** Financial assistance @ ₹ 35,000/‐ Ha in two annual instalments.- **Construction of Organic Manure Unit:** Financial assistance @ ₹ 40,000/‐ to ₹ 60,000/‐ per Unit on Pro‐rata basis. Unit size of 1200 cubic feet to 150 cubic feet (60 x 8 x 2.5 ft to 15 x 5 x 2 ft).- The eligible subsidy amount shall be released to the beneficiary&#39;s account on DBT (Direct Benefit Transfer) mode after obtaining expenditure sanction as per norms.\n- The final list of the beneficiaries would be displayed on the notice board of Uzhavar Uthaviyagams.\n\n",
+      "briefDescription": "Through the “Integrated Farming for Productivity Improvement Scheme\" by the Coconut Development Board, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the Laying of the Demonstration Plot, and for the Construction of the Organic Manure Unit.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Integrated Farming for Productivity Improvement Scheme\" by the Coconut Development Board was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the Laying of the Demonstration Plot, and for the Construction of the Organic Manure Unit."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Laying of Demonstration Plot (LoDP): ",
+                  "bold": true
+                },
+                {
+                  "text": "Financial assistance @ ₹ 35,000/‐ Ha in two annual instalments."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction of Organic Manure Unit: ",
+                  "bold": true
+                },
+                {
+                  "text": "Financial assistance @ ₹ 40,000/‐ to ₹ 60,000/‐ per Unit on Pro‐rata basis. Unit size of 1200 cubic feet to 150 cubic feet (60 x 8 x 2.5 ft to 15 x 5 x 2 ft)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The eligible subsidy amount shall be released to the beneficiary's account on DBT (Direct Benefit Transfer) mode after obtaining expenditure sanction as per norms."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The final list of the beneficiaries would be displayed on the notice board of Uzhavar Uthaviyagams."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/emailcontact.html",
+                "children": [
+                  {
+                    "text": "Uzhavar Udhaviyagam (Farmers' Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)"
+                  }
+                ]
+              },
+              {
+                "text": " and request the hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the Agricultural Officer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Uzhavar Udhaviyagam (Farmers&#39; Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)](https://agri.py.gov.in/emailcontact.html) and request the hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf) of the application form from the Agricultural Officer.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "All categories of coconut farmers with farmer&#39;s identity cards/ authenticated land records/documents are eligible.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All categories of coconut farmers with farmer's identity cards/ authenticated land records/documents are eligible."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ifpisbtcdb"
+}

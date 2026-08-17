@@ -1,0 +1,341 @@
+{
+  "_id": "67a59a671269f7da410cc0bd",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Recreation",
+        "Urban",
+        "Sports",
+        "Playground"
+      ],
+      "schemeName": "Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)",
+      "schemeShortTitle": "FRANCIS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Infrastructure",
+          "label": "Infrastructure"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "nodalDepartmentName": {
+        "value": 30000050,
+        "label": "Urban Development Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "francis",
+      "briefDescription": "\"Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)\" aims to provide safe play areas for healthy recreation and sports to urban communities. Assistance is provided to develop safe play areas in urban spaces."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Launched in 2013, the scheme &quot;Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)&quot; by the Department of Urban Development, Government of Goa aims to provide safe play areas for healthy recreation and sports to urban communities. Assistance is provided to develop safe play areas in urban spaces, benefiting local municipal bodies, schools, colleges, registered sports clubs, and registered housing societies, etc. The scheme is implemented by the Goa State Urban Development Agency (GSUDA), which acts as the nodal agency. The scheme operates within the provisions of the Integrated Development of Major Towns Scheme (IDMT).\n",
+      "benefits_md": "\n- Development of safe play areas for healthy recreation and sports.\n- Provision of facilities such as walking tracks, volleyball courts, basketball courts, athletics tracks, football fields, hockey fields, artificial rock climbing walls, and tennis courts.\n- Additional amenities like changing rooms, toilet blocks, storage spaces, illumination, and mild steel fencing.\n- Funding assistance up to ₹3,00,00,000/- for A-Class Municipal Councils/Corporations, up to ₹2,50,00,000/- for B-Class Municipal Councils, and up to ₹1,00,00,000/- for C-Class Municipal Councils.\n- Encouragement of corporate sponsorships and public-private partnership (PPP) models for future sustainability.\n- Free access to non-formal facilities and affordable pay-and-play schemes.\n- Availability of coaching facilities and linkages with local sports associations.\n\n",
+      "briefDescription": "\"Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)\" aims to provide safe play areas for healthy recreation and sports to urban communities. Assistance is provided to develop safe play areas in urban spaces.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Launched in 2013, the scheme \"Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)\" by the Department of Urban Development, Government of Goa aims to provide safe play areas for healthy recreation and sports to urban communities. Assistance is provided to develop safe play areas in urban spaces, benefiting local municipal bodies, schools, colleges, registered sports clubs, and registered housing societies, etc. The scheme is implemented by the Goa State Urban Development Agency (GSUDA), which acts as the nodal agency. The scheme operates within the provisions of the Integrated Development of Major Towns Scheme (IDMT)."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Development of safe play areas for healthy recreation and sports."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision of facilities such as walking tracks, volleyball courts, basketball courts, athletics tracks, football fields, hockey fields, artificial rock climbing walls, and tennis courts."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Additional amenities like changing rooms, toilet blocks, storage spaces, illumination, and mild steel fencing."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Funding assistance up to ₹3,00,00,000/- for A-Class Municipal Councils/Corporations, up to ₹2,50,00,000/- for B-Class Municipal Councils, and up to ₹1,00,00,000/- for C-Class Municipal Councils."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encouragement of corporate sponsorships and public-private partnership (PPP) models for future sustainability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free access to non-formal facilities and affordable pay-and-play schemes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Availability of coaching facilities and linkages with local sports associations."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " Submission of Application"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Fill out the "
+              },
+              {
+                "type": "link",
+                "link": "https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf",
+                "children": [
+                  {
+                    "text": "Application Form (Annexure 1)"
+                  }
+                ]
+              },
+              {
+                "text": " with all required details, including the proposed facilities, justification, and business plan. Submit the completed application form to the Nodal Agency (Goa State Urban Development Agency) along with any supporting documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " Scrutiny and Approval"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Director of the Department of Urban Development will appoint a scrutiny committee to review the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The scrutiny committee will recommend the case to the Nodal Officer, who, in consultation with the Chairman of the Nodal Agency, will approve the application for benefits under the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " Signing the Memorandum of Understanding (M.O.U.)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once approved, the beneficiary must sign an M.O.U. with the Nodal Agency, outlining the terms and conditions for the development and maintenance of the facilities."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " Implementation and Monitoring"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Nodal Agency will draw up a feasibility report, design, build, and transfer the facilities to the beneficiary."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*The beneficiary will be responsible for maintaining and operating the facilities, with periodic community impact studies conducted by the Nodal Agency.",
+                "italic": true
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** **Submission of Application**\nFill out the [Application Form (Annexure 1)](https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf) with all required details, including the proposed facilities, justification, and business plan. Submit the completed application form to the Nodal Agency (Goa State Urban Development Agency) along with any supporting documents.\n**Step 3:** **Scrutiny and Approval**\nThe Director of the Department of Urban Development will appoint a scrutiny committee to review the application.\nThe scrutiny committee will recommend the case to the Nodal Officer, who, in consultation with the Chairman of the Nodal Agency, will approve the application for benefits under the scheme.\n**Step 4:** **Signing the Memorandum of Understanding (M.O.U.)**\nOnce approved, the beneficiary must sign an M.O.U. with the Nodal Agency, outlining the terms and conditions for the development and maintenance of the facilities.\n**Step 5:** **Implementation and Monitoring**\nThe Nodal Agency will draw up a feasibility report, design, build, and transfer the facilities to the beneficiary.\n_*The beneficiary will be responsible for maintaining and operating the facilities, with periodic community impact studies conducted by the Nodal Agency._\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The following entities owning land not less than 2,000 square meters within the Municipal jurisdiction shall be eligible for the benefit under this scheme:\n(a) Local Municipal body;\n(b) Schools, colleges, or such other institutions;\n(c) Registered Sports Clubs;\n(d) Registered Housing Societies;\n(e) Other Registered bodies espousing the cause of Physical fitness and Sport:\nProvided that an applicant whose land falls in any of the peripheral Panchayat jurisdiction may be considered eligible.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following entities owning land not less than 2,000 square meters within the Municipal jurisdiction shall be eligible for the benefit under this scheme:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(a) Local Municipal body;"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(b) Schools, colleges, or such other institutions;"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(c) Registered Sports Clubs;"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(d) Registered Housing Societies;"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(e) Other Registered bodies espousing the cause of Physical fitness and Sport:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Provided that an applicant whose land falls in any of the peripheral Panchayat jurisdiction may be considered eligible."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "francis"
+}

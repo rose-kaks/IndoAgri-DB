@@ -1,0 +1,462 @@
+{
+  "_id": "67ee70474f405f25875d62eb",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Husbandry",
+        "Broiler Birds Unit",
+        "Poultry Farming",
+        "Employment",
+        "Training"
+      ],
+      "schemeName": "Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit, 100 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Caste People",
+      "schemeShortTitle": "SSBUTSC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "ssbutsc",
+      "briefDescription": "The scheme aims to support Scheduled Caste individuals by providing financial assistance for poultry farming."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=42oB/Vz5ZAQN1D6LYuYwZw==&domain=12ewfiAgGqKRe600IL5Z/w=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit, 100 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Caste People&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer subsidies for setting up poultry units and provides a stipend for poultry farming training to promote self-employment and economic upliftment.\n",
+      "benefits_md": "<br>\n\n**Name of Component**\t**Standard of Assistance**\t**Minimum Time Limit(In Year) for Reclaiming Benefits**Subsidy Scheme on establishment of 25 R.I.R. birds unit for Scheduled Caste\t75% of total Expenditure or maximum ₹6,000/- in kind (25 R.I.R. birds and poultry feed)\tBenefit can be given to one member of family. After 3 years the same family can avail benefit.\tSubsidy Scheme for establishment of 100 broiler bird farm for Scheduled Caste\t90% subsidy or Maximum ₹36,000/- RTGS/NEFT (In Bank Account Direct)\tBenefit can be given to one member of family.\tStipend Scheme for Poultry Farming Training for Scheduled Caste\tMaximum ₹2,000/- RTGS/NEFT (in Bank Account Direct)\tBenefit can be given to one member of family.\t<br>\n\n",
+      "briefDescription": "The scheme aims to support Scheduled Caste individuals by providing financial assistance for poultry farming.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Subsidy Scheme on Establishment of 25 R.I.R. Bird’s Unit, 100 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Caste People\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer subsidies for setting up poultry units and provides a stipend for poultry farming training to promote self-employment and economic upliftment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of Component\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Time Limit(In Year) for Reclaiming Benefits",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Subsidy Scheme on establishment of 25 R.I.R. birds unit for Scheduled Caste\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75% of total Expenditure or maximum ₹6,000/- in kind (25 R.I.R. birds and poultry feed)\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Benefit can be given to one member of family. After 3 years the same family can avail benefit.\t"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Subsidy Scheme for establishment of 100 broiler bird farm for Scheduled Caste\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "90% subsidy or Maximum ₹36,000/- RTGS/NEFT (In Bank Account Direct)\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Benefit can be given to one member of family.\t"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Stipend Scheme for Poultry Farming Training for Scheduled Caste\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum ₹2,000/- RTGS/NEFT (in Bank Account Direct)\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Benefit can be given to one member of family.\t"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a print out of the confirmed application and submit Related Documents through to concern Taluka office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 8:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                    "children": [
+                      {
+                        "text": "Click here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Note:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Before application, beneficiaries must complete poultry training at the Intensive Poultry Development Project or District Poultry Extension Centre."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n&amp;gt; **Note:** Before application, beneficiaries must complete poultry training at the Intensive Poultry Development Project or District Poultry Extension Centre.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be residing in Gujarat.\n   1. The applicant must be a Scheduled Caste individual.\n   1. The applicant must be an adult (18 years or above).\n   1. The applicant must have completed a 6-day poultry farming training.\n\n&gt; **Note:** Females and beneficiaries Below Poverty Line (BPL) will be given priority.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be residing in Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a Scheduled Caste individual."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be an adult (18 years or above)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have completed a 6-day poultry farming training."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " Females and beneficiaries Below Poverty Line (BPL) will be given priority."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ssbutsc"
+}

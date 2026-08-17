@@ -1,0 +1,257 @@
+{
+  "_id": "6919860a61be3c3073dc835b",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Bee",
+        "Bee Colonies",
+        "Bee Boxes",
+        "Subsidy",
+        "Honey Bees"
+      ],
+      "schemeName": "Bee Keeping",
+      "schemeShortTitle": "BK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "bk",
+      "briefDescription": "The scheme aims to promote beekeeping as a sustainable livelihood by providing subsidized bee boxes, bee colonies, and training support to farmers, thereby increasing honey production, enhancing farm income, and strengthening the beekeeping sector in Uttarakhand."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 216)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Bee Keeping” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote beekeeping as a sustainable livelihood by providing subsidized bee boxes, bee colonies, and training support to farmers, thereby increasing honey production, enhancing farm income, and strengthening the beekeeping sector in Uttarakhand.\n<br>\n\n",
+      "benefits_md": "Under this scheme:\n\n  - Bee families (bees, including the queen bee) and bee colonies (bee boxes) are provided with a 40% subsidy (maximum cost per bee box is ₹2,000/- and per bee colony is ₹2,000/-). 50 bee boxes are provided in plain areas and 25 in hilly areas.\n  - For example, if a bee box and bee colony cost ₹200/-, the farmer has to deposit ₹120/- at the concerned Horticulture Mobile team Centre. The government bears a subsidy of ₹80/-, and the farmer receives the box for ₹120/-.\n  - If a farmer wishes to keep bee colonies in their own orchards, financial assistance of ₹350/- per bee colony is provided.\n  - If a farmer wants to receive training, the department provides a free seven-day beekeeping training program. Along with the training, the farmer is given ₹100/- per day (totaling ₹700/-) and ₹50/- per day (totaling ₹350/-). A total of ₹1,050/- is provided to each beneficiary.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote beekeeping as a sustainable livelihood by providing subsidized bee boxes, bee colonies, and training support to farmers, thereby increasing honey production, enhancing farm income, and strengthening the beekeeping sector in Uttarakhand.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Bee Keeping” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote beekeeping as a sustainable livelihood by providing subsidized bee boxes, bee colonies, and training support to farmers, thereby increasing honey production, enhancing farm income, and strengthening the beekeeping sector in Uttarakhand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Bee families (bees, including the queen bee) and bee colonies (bee boxes) are provided with a 40% subsidy (maximum cost per bee box is ₹2,000/- and per bee colony is ₹2,000/-). 50 bee boxes are provided in plain areas and 25 in hilly areas."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For example, if a bee box and bee colony cost ₹200/-, the farmer has to deposit ₹120/- at the concerned Horticulture Mobile team Centre. The government bears a subsidy of ₹80/-, and the farmer receives the box for ₹120/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If a farmer wishes to keep bee colonies in their own orchards, financial assistance of ₹350/- per bee colony is provided."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If a farmer wants to receive training, the department provides a free seven-day beekeeping training program. Along with the training, the farmer is given ₹100/- per day (totaling ₹700/-) and ₹50/- per day (totaling ₹350/-). A total of ₹1,050/- is provided to each beneficiary."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The concerned farmer must submit an application for bee boxes and bee colonies at the respective Horticulture Mobile team Centre and attach their address, mobile number, Aadhaar card, residence certificate, and bank account details. After submission, the Horticulture Mobile team Centre forwards the application to the district office or the Jeolikote Centre. If the application is approved, the farmer is informed over the phone, and an acceptance letter is also issued."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The farmer can then collect the bee boxes and bee colonies from the Jeolikote Centre or the district office at a 40% subsidy. Beneficiary selection is made on a first-come, first-served basis and depends on budget availability."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For training, farmers must submit a separate training application at their Horticulture Mobile team Centre, along with their address, mobile number, Aadhaar card, residence certificate, and bank account details. The application is forwarded to the district office. When 10-30 farmers in a district express interest in beekeeping, a group is formed, and the department schedules the training date and informs the farmers by phone. On the scheduled date, farmers must attend the training. After completing the training, each farmer receives ₹1,050/-, either in cash or through a bank transfer."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The concerned farmer must submit an application for bee boxes and bee colonies at the respective Horticulture Mobile team Centre and attach their address, mobile number, Aadhaar card, residence certificate, and bank account details. After submission, the Horticulture Mobile team Centre forwards the application to the district office or the Jeolikote Centre. If the application is approved, the farmer is informed over the phone, and an acceptance letter is also issued.\n  - The farmer can then collect the bee boxes and bee colonies from the Jeolikote Centre or the district office at a 40% subsidy. Beneficiary selection is made on a first-come, first-served basis and depends on budget availability.\n  - For training, farmers must submit a separate training application at their Horticulture Mobile team Centre, along with their address, mobile number, Aadhaar card, residence certificate, and bank account details. The application is forwarded to the district office. When 10-30 farmers in a district express interest in beekeeping, a group is formed, and the department schedules the training date and informs the farmers by phone. On the scheduled date, farmers must attend the training. After completing the training, each farmer receives ₹1,050/-, either in cash or through a bank transfer.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a farmer interested in beekeeping.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer interested in beekeeping."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "bk"
+}

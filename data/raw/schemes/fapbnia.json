@@ -1,0 +1,281 @@
+{
+  "_id": "65718cbdfb2e1ccc6545e1d4",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000017,
+        "label": "Fisheries Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Fishermen",
+        "Fish",
+        "Subsidy",
+        "Financial Assistance"
+      ],
+      "schemeName": "Financial Assistance for Purchase of Barrier Net and its Accessories",
+      "schemeShortTitle": "FAPBNIA",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "schemeFor": "Individual",
+      "slug": "fapbnia",
+      "briefDescription": "“Financial Assistance for Purchase of Barrier Net and its Accessories” is a scheme by Dept. of Fisheries, Govt. of Goa. Under this Scheme financial assistance is provided as a subsidy on the purchase of barrier nets and accessories for the fishermen. The applications are accepted offline."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Citizen's Charter",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "“Financial Assistance for Purchase of Barrier Net and its Accessories” is a scheme by Dept. of Fisheries, Govt. of Goa. Under this Scheme financial assistance is provided as a subsidy on the purchase of barrier nets and accessories for the fishermen. The applications are accepted offline.",
+      "detailedDescription_md": "“Financial Assistance for Purchase of Barrier Net and its Accessories” is a scheme by the Department of Fisheries, Government of Goa. Barrier net is a traditional method of catching fish practiced by the fishermen residing near the bank of the river. Under this Scheme financial assistance is provided in the form of a subsidy on the purchase of barrier nets and accessories for the fishermen. The applications are accepted only in offline mode.\n",
+      "benefits_md": "> **For General Category**\n\nSubsidy of 50%, limited to ₹30,000 on a unit cost of ₹60,000 (excluding GST).\n> **For SC/ST/Woman Category**\n\nSubsidy of 60%, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST).\n**NOTE:** The beneficiary can avail of the scheme every 4 years.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Financial Assistance for Purchase of Barrier Net and its Accessories” is a scheme by the Department of Fisheries, Government of Goa. Barrier net is a traditional method of catching fish practiced by the fishermen residing near the bank of the river. Under this Scheme financial assistance is provided in the form of a subsidy on the purchase of barrier nets and accessories for the fishermen. The applications are accepted only in offline mode."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "For General Category",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy of 50%, limited to ₹30,000 on a unit cost of ₹60,000 (excluding GST)."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "For SC/ST/Woman Category",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy of 60%, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "The beneficiary can avail of the scheme every 4 years."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should request the prescribed format of the application form from the department by paying ₹50."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+              },
+              {
+                "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "BDO Office/ Sub-Offices"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": " of the Department of Fisheries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Grievance Redressal",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "Grievance Redressal Officer"
+                  }
+                ]
+              },
+              {
+                "text": ". The grievance can also be lodged on the link "
+              },
+              {
+                "text": "dir-fish.goa@nic.in",
+                "bold": true
+              },
+              {
+                "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should request the prescribed format of the application form from the department by paying ₹50.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a traditional fisherman by birth or profession.\n- The applicant should be a resident of Goa.\n- The applicant should have purchased a Barrier Net and its Accessories.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a traditional fisherman by birth or profession."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have purchased a Barrier Net and its Accessories."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fapbnia"
+}

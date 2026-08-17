@@ -1,0 +1,522 @@
+{
+  "_id": "666a7aa721d7c2ac0d86e887",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Backyard Poultry",
+        "Chicks",
+        "Hatchery",
+        "Feeders",
+        "Water Drinkers"
+      ],
+      "schemeName": "Scheme for Establishment of Backyard Poultry Units",
+      "schemeShortTitle": "SEBPU",
+      "implementingAgency": "Department Of Animal Husbandry & Dairying, Government Of Haryana",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 6,
+        "label": "Haryana"
+      },
+      "nodalDepartmentName": {
+        "value": 666663,
+        "label": "Animal Husbandry & Dairying Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "sebpu",
+      "briefDescription": "The objective of the scheme is to improve the socio-economic and nutritional status of the poor families, small farmers and landless agricultural labourers and other economically weaker section of the society."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/BPU%20Scheme.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=Ycjk9Mc6HAGZUrIzplUKzA%3d%3d"
+        },
+        {
+          "title": "Antyodaya-SARAL Portal",
+          "url": "https://saralharyana.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Scheme for Establishment of Backyard Poultry Units” is implemented by the Department of Animal Husbandry &amp;amp; Dairying, Government of Haryana with an objective to improve the socio-economic and nutritional status of the poor families, small farmers and landless agricultural labourers, and other economically weaker section of the society.\n      Backyard poultry is a handy small enterprise with negligible initial investment, however good economic return along with a provision for improving the nutritional status of the members of the beneficiary family through consumption of food items having high protein content like eggs and meat.\n**Objectives &amp;amp; impact expected:**\n\n  - The long-term objective of this Scheme is to provide nutritional security to poor families, which will also play an important role in their social upliftment.\n  - To supplement the income of the families of the resource-poor beneficiaries.\n  - To improve the nutrition status of beneficiaries and their family members.\n\n",
+      "benefits_md": "\n   1. 50 chicks, 10 day old reared at Government Hatchery along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep.\n\n",
+      "exclusions_md": "\n  - Any group/firm/organization will not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented.\n\n",
+      "briefDescription": "The objective of the scheme is to improve the socio-economic and nutritional status of the poor families, small farmers and landless agricultural labourers and other economically weaker section of the society.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Scheme for Establishment of Backyard Poultry Units” is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana with an objective to improve the socio-economic and nutritional status of the poor families, small farmers and landless agricultural labourers, and other economically weaker section of the society."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "      Backyard poultry is a handy small enterprise with negligible initial investment, however good economic return along with a provision for improving the nutritional status of the members of the beneficiary family through consumption of food items having high protein content like eggs and meat."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objectives & impact expected:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The long-term objective of this Scheme is to provide nutritional security to poor families, which will also play an important role in their social upliftment."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To supplement the income of the families of the resource-poor beneficiaries."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To improve the nutrition status of beneficiaries and their family members."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "50 chicks, 10 day old reared at Government Hatchery along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any group/firm/organization will not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Registration Process on Antyodaya-SARAL Portal:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Any unemployed person desirous of establishing Backyard Poultry under the scheme can apply online through the Official Portal- Antyodaya-SARAL Portal. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://saralharyana.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://saralharyana.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If the applicant is not registered on the portal, he/she gets registered there. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " For registration, click “"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://saralharyana.gov.in/citizenRegistration.html",
+                    "children": [
+                      {
+                        "text": "New User"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Verify your mobile number and email ID through the received OTP and complete the registration process."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Login to apply for the scheme:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " To avail the benefits of the scheme, visit the Official "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://saralharyana.gov.in/",
+                    "children": [
+                      {
+                        "text": "Antyodaya-SARAL Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " and log in through the email ID used while registering."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Enter Password & Captcha and click on ‘Login’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 06:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 07:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in all the mandatory details and upload all the mandatory documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 08:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Preview the application form and click on ‘Submit’."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Tracking of Application:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants can track his/her application through the Official "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://status.saralharyana.nic.in/",
+                    "children": [
+                      {
+                        "text": "Antyodaya-SARAL Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " by entering their Department Name, Scheme Name, and Application Reference ID."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "The Process of Distribution of Backyard Poultry Units:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Sub Divisional Officer (AHD) of the concerned area will examine the applications received on the portal on a first come first serve basis and forward to the concerned Deputy Director (AHD), on the portal within a period of three working days"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Deputy Director will forward the application to the Assistant Director, Government Hatchery Farm, Hisar on SARAL Portal within a period of four working days."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Assistant Director, Government Hatchery Farm, Hisar will supply 50 chicks of 10 day old along with two drinkers and two feeders at the doorstep of the beneficiary and take the proper receipt and upload the same on SARAL Portal."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** Any unemployed person desirous of establishing Backyard Poultry under the scheme can apply online through the Official Portal- Antyodaya-SARAL Portal. [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 06:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 07:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 08:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track his/her application through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID.\n&gt; **The Process of Distribution of Backyard Poultry Units:**\n\n\n  - The Sub Divisional Officer (AHD) of the concerned area will examine the applications received on the portal on a first come first serve basis and forward to the concerned Deputy Director (AHD), on the portal within a period of three working days\n  - The Deputy Director will forward the application to the Assistant Director, Government Hatchery Farm, Hisar on SARAL Portal within a period of four working days.\n  - The Assistant Director, Government Hatchery Farm, Hisar will supply 50 chicks of 10 day old along with two drinkers and two feeders at the doorstep of the beneficiary and take the proper receipt and upload the same on SARAL Portal.\n\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The applicant may submit the application through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres or any other such centre as provided by the Government from time to time."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "The applicant may submit the application through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres or any other such centre as provided by the Government from time to time.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be of 18 to 55 years of age and a resident of Haryana.\n   1. There are no mandatory educational qualifications or training requirements.\n   1. Any applicant who has earlier availed benefits under any Departmental Scheme for the establishment of a livestock unit will not be eligible for availing benefits under the Scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be of 18 to 55 years of age and a resident of Haryana."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "There are no mandatory educational qualifications or training requirements."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any applicant who has earlier availed benefits under any Departmental Scheme for the establishment of a livestock unit will not be eligible for availing benefits under the Scheme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sebpu"
+}

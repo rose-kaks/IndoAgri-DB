@@ -1,0 +1,368 @@
+{
+  "_id": "64665631527a0d6debce7649",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Subsidy",
+        "Farmers",
+        "Umbrella Scheme"
+      ],
+      "schemeName": "Atma Nirbhar Bagwani Yojana",
+      "schemeShortTitle": "ANBY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": "2021-09-03",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 12,
+        "label": "Arunachal Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 12111127,
+        "label": "Horticulture Department"
+      },
+      "slug": "anby",
+      "briefDescription": "The schemes are part of the Atma Nirbhar program announced during the Budget session held in February this year. A total amount of Rs 120 crores – Rs 60 crores for each scheme has been allocated to the two concerned departments of Agriculture and Horticulture."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2021/09/2021091539.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Atma Nirbhar Bagwani Yojana is an umbrella scheme wherein all the schemes are subsumed under a bank-linked credit subsidy scheme, which will have a time-bound implementation and participation from various stakeholders – Government, Bank, Project Consultants, and Progressive Farmers. The beneficiaries under the scheme will be eligible for 45% subsidy from the Government of Arunachal Pradesh, 45% bank finance, and 10% beneficiary&#39;s contribution. The beneficiary will have to provide collateral security in the shape of land/property or an acceptable guarantee for a loan amount exceeding 1.6 Lakhs in case of individuals and 10 lakhs for SHGs/FPOs. Under this scheme, the following components are included for availing a bank loan: \n\n-     Arecanut\n\n\n-     Pineapple\n\n\n-     Avocado\n\n\n-     Dragon Fruit\n\n\n-     Orange\n\n\n-     Banana\n\n\n-     Guava\n\n\n-     Tractor\n\n\n-     Power Tiller\n\n\n-     Brush Cutter\n\n<br>\n\n",
+      "benefits_md": "\n  - Atmanirbhar Bagwani Yojna is basically meant for the cultivation of fruits like apples, walnut, orange, kiwi, and persimmon. \n  - The line of credit will be provided by the State Bank Of India, Arunachal Pradesh Rural Bank, and Arunachal Pradesh Cooperative Apex Bank. \n  - 45 percent will be given by the government subsidy, 45 percent as bank loan and 10 percent will be contributed by the farmer.\n  - There is no collateral for loans up to Rs 1.60 lakh.\n  - For SHGs, no collateral is needed up to Rs 10 lakhs.\n\n<br>\n\n",
+      "briefDescription": "The schemes are part of the Atma Nirbhar program announced during the Budget session held in February this year. A total amount of Rs 120 crores – Rs 60 crores for each scheme has been allocated to the two concerned departments of Agriculture and Horticulture.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Atma Nirbhar Bagwani Yojana is an umbrella scheme wherein all the schemes are subsumed under a bank-linked credit subsidy scheme, which will have a time-bound implementation and participation from various stakeholders – Government, Bank, Project Consultants, and Progressive Farmers. The beneficiaries under the scheme will be eligible for 45% subsidy from the Government of Arunachal Pradesh, 45% bank finance, and 10% beneficiary's contribution. The beneficiary will have to provide collateral security in the shape of land/property or an acceptable guarantee for a loan amount exceeding 1.6 Lakhs in case of individuals and 10 lakhs for SHGs/FPOs. Under this scheme, the following components are included for availing a bank loan: "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Arecanut"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Pineapple"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Avocado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Dragon Fruit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Orange"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Banana"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Guava"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Tractor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Power Tiller"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "    Brush Cutter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Atmanirbhar Bagwani Yojna is basically meant for the cultivation of fruits like apples, walnut, orange, kiwi, and persimmon. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The line of credit will be provided by the State Bank Of India, Arunachal Pradesh Rural Bank, and Arunachal Pradesh Cooperative Apex Bank. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "45 percent will be given by the government subsidy, 45 percent as bank loan and 10 percent will be contributed by the farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "There is no collateral for loans up to Rs 1.60 lakh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For SHGs, no collateral is needed up to Rs 10 lakhs."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The interested farmer/SHG/FPO is required to submit their duly filled application form and"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "proposai along with a self-attested passport size photograph to the Horticulture Development Office in their"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "respective Circle during the Office working hours to avail the scheme."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Form: ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": ""
+              },
+              {
+                "type": "link",
+                "link": "https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf",
+                "children": [
+                  {
+                    "text": "https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "The interested farmer/SHG/FPO is required to submit their duly filled application form and\nproposai along with a self-attested passport size photograph to the Horticulture Development Office in their\nrespective Circle during the Office working hours to avail the scheme.\n> **Application Form:** \n\n> [https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf](https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf)\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The applicant must be a resident and farmer of Arunachal Pradesh.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must be a resident and farmer of Arunachal Pradesh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "anby"
+}

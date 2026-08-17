@@ -1,0 +1,188 @@
+{
+  "_id": "68e24f6a074b2831665ca718",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Researcher",
+        "Student",
+        "Biotechnology",
+        "Modern Laboratories"
+      ],
+      "schemeName": "Tour Program of Modern Laboratories",
+      "schemeShortTitle": "TPML",
+      "implementingAgency": "Uttarakhand Council For Biotechnology",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000001,
+        "label": "Agriculture Department"
+      },
+      "slug": "tpoml",
+      "briefDescription": "The scheme aims to promote biotechnology education and research by providing students, researchers, and farmers with exposure to modern laboratories, advanced research activities, and innovative technologies."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 90)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Tour Program of Modern Laboratories” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote biotechnology education and research by providing students, researchers, and farmers with exposure to modern laboratories, advanced research activities, and innovative technologies.\n<br>\n\n",
+      "benefits_md": "Under this tour program, eligible individuals visit modern biotechnology laboratories to learn about new research works.\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote biotechnology education and research by providing students, researchers, and farmers with exposure to modern laboratories, advanced research activities, and innovative technologies.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Tour Program of Modern Laboratories” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote biotechnology education and research by providing students, researchers, and farmers with exposure to modern laboratories, advanced research activities, and innovative technologies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this tour program, eligible individuals visit modern biotechnology laboratories to learn about new research works."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "With the aim of promoting biotechnology education, research, and outreach activities, students from schools, colleges, and universities in the state, as well as researchers and farmers, are taken on tours of the modern laboratories established at the Council and its regional centers. During these visits, they are informed about the research and development work being carried out and are motivated to further biotechnology education and research."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "After obtaining approval from the Council's Director or other competent authority, interested candidates, teams, or groups can avail themselves of this opportunity by visiting the Council headquarters or its regional centers to learn about ongoing activities and access relevant technical information."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "With the aim of promoting biotechnology education, research, and outreach activities, students from schools, colleges, and universities in the state, as well as researchers and farmers, are taken on tours of the modern laboratories established at the Council and its regional centers. During these visits, they are informed about the research and development work being carried out and are motivated to further biotechnology education and research.\nAfter obtaining approval from the Council&amp;#39;s Director or other competent authority, interested candidates, teams, or groups can avail themselves of this opportunity by visiting the Council headquarters or its regional centers to learn about ongoing activities and access relevant technical information.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand. \n1. The applicant must be a student from a government or private school, college, or university, a researcher, or a member of a farmers’ group or self-help group.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a student from a government or private school, college, or university, a researcher, or a member of a farmers’ group or self-help group."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tpoml"
+}

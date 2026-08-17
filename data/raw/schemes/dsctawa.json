@@ -1,0 +1,954 @@
+{
+  "_id": "65437827ae050a9d8fc62f44",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": "Coffee Board",
+      "tags": [
+        "Coffee",
+        "Farmer",
+        "Water",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "Development Support for Coffee in Traditional Areas: Water Augmentation",
+      "schemeShortTitle": "DSCTA:WA",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "dsctawa",
+      "briefDescription": "The scheme \"Development Support for Coffee in Traditional Areas: Water Augmentation\" by the Coffee Board, Department of Commerce, aims to improve the production and productivity of coffee plantations by encouraging water augmentation in traditional areas."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines And Application Form",
+          "url": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Development Support for Coffee in Traditional Areas: Water Augmentation&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging water augmentation in traditional areas.\n",
+      "benefits_md": "> **Scale of Subsidy**\n\n40% of the unit cost, with a ceiling of ₹2,50,000 per beneficiary for all the components put together under the water augmentation scheme.\n<br>\n\n> **Additional Support for Scheduled Caste/Scheduled Tribe (SC/ST) Community**\n\nCoffee growers belonging to the SC/ST community with a coffee holding size of up to 4.00 hectares are eligible for an extra 10% of the unit cost, with a ceiling of ₹2,50,000 per beneficiary for all the components put together under the water augmentation scheme.\n<br>\n\n> **Mode of Payment**\n\nThe Deputy Director (Extn.), after confirming the admissibility of the claim, will sanction the eligible subsidy and release the amount to the bank account of the applicant through Electronic Funds Transfer (EFT), Real Time Gross Settlement (RTGS), or National Electronic Funds Transfer (NEFT).\n<br>\n\n> **Details of Unit Cost &amp; Subsidy Amount for Water Storage Tank Applicable to Different Sized Holdings**\n\n**NOTE:** \n\n1. The Recommended Capacity of Water Tank (L x B x H) is in “Cubic Feet”.\n1. The Size of the Holding is in “Hectare”.\n1. The Unit Cost and the Subsidy Amount is in Rupees (₹).\n\n\n- Size of Holding: Up to 1.00; Recom. Cap. of Tank: 30&#39; x 30&#39; x 10&#39; (9000); Unit Cost: ₹43,000; Subsidy: ₹17,200\n- Size of Holding: &gt; 1 up to 2.00; Recom. Cap. of Tank: 43&#39; x 43&#39; x 10&#39; (18490); Unit Cost: ₹89,000; Subsidy: ₹35,600\n- Size of Holding: &gt; 2 up to 3.00; Recom. Cap. of Tank: 53&#39; x 53&#39; x 10&#39; (28090); Unit Cost: ₹136,000; Subsidy: ₹54,400\n- Size of Holding: &gt; 3 up to 4.00; Recom. Cap. of Tank: 60&#39; x 60&#39; x 10&#39; (36000); Unit Cost: ₹174,000; Subsidy: ₹69,600\n- Size of Holding: &gt; 4 up to 5.00; Recom. Cap. of Tank: 68&#39; x 68&#39; x 10&#39; (46240); Unit Cost: ₹224,000; Subsidy: ₹89,600\n- Size of Holding: &gt; 5 up to 6.00; Recom. Cap. of Tank: 75&#39; x 75&#39; x 10&#39; (56250); Unit Cost: ₹273,000; Subsidy: ₹109,200\n- Size of Holding: &gt; 6 up to 7.00; Recom. Cap. of Tank: 81&#39; x 81&#39; x 10&#39; (65610); Unit Cost: ₹318,000; Subsidy: ₹127,200\n- Size of Holding: &gt; 7 up to 8.00; Recom. Cap. of Tank: 87&#39; x 87&#39; x 10&#39; (75690); Unit Cost: ₹367,000; Subsidy: ₹146,800\n- Size of Holding: &gt; 8 up to 9.00; Recom. Cap. of Tank: 92&#39; x 92&#39; x 10&#39; (84640); Unit Cost: ₹411,000; Subsidy: ₹164,400\n- Size of Holding: &gt; 9 up to 10.00; Recom. Cap. of Tank: 96&#39; x 96&#39; x 10&#39; (92160); Unit Cost: ₹447,000; Subsidy: ₹178,800\n\n<br>\n\n> **Details of Unit Cost &amp; Subsidy Amount for Sprinkler/drip Irrigation Equipment Applicable to Different Size of Holdings:**\n\n**NOTE:**\n\n1. The “Category” is in “Hectare”.\n1. The Unit Cost and the Subsidy Amount are in Rupees (₹).\n\n\n- Category: Up to 1.00; Unit Cost: ₹60,000; Subsidy: ₹24,000\n- Category: &gt; 1 up to 2.00; Unit Cost: ₹120,000; Subsidy: ₹48,000\n- Category: &gt; 2 up to 3.00; Unit Cost: ₹180,000; Subsidy: ₹72,000\n- Category: &gt; 3 up to 4.00; Unit Cost: ₹240,000; Subsidy: ₹96,000\n- Category: &gt; 4 up to 5.00; Unit Cost: ₹300,000; Subsidy: ₹120,000\n- Category: &gt; 5 up to 6.00; Unit Cost: ₹360,000; Subsidy: ₹144,000\n- Category: &gt; 6 up to 7.00; Unit Cost: ₹420,000; Subsidy: ₹168,000\n- Category: &gt; 7 up to 8.00; Unit Cost: ₹460,000; Subsidy: ₹184,000\n- Category: &gt; 8 up to 9.00; Unit Cost: ₹520,000; Subsidy: ₹208,000\n- Category: &gt; 9 up to 10.00; Unit Cost: ₹580,000; Subsidy: ₹232,000\n\n<br>\n\n> **Details of the Unit Cost and Subsidy for Open Well/ Ring Well**\n\nActivities: Open well or Ring well with or without pump for a depth of 30 feet; Unit Cost: ₹ 75,000/- per unit; Subsidy: ₹ 30,000/-\n<br>\n\n**NOTE:** The growers are at liberty to (a) execute water storage structures of any dimension and or (b) purchase sprinkler units, as per their requirement. However, the quantum of subsidy shall be applicable based on the unit cost for each holding category indicated in the above tables or based on the actual cost, whichever is less.\n",
+      "briefDescription": "The scheme \"Development Support for Coffee in Traditional Areas: Water Augmentation\" by the Coffee Board, Department of Commerce, aims to improve the production and productivity of coffee plantations by encouraging water augmentation in traditional areas.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Development Support for Coffee in Traditional Areas: Water Augmentation\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging water augmentation in traditional areas."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Scale of Subsidy",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "40% of the unit cost, with a ceiling of ₹2,50,000 per beneficiary for all the components put together under the water augmentation scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Additional Support for Scheduled Caste/Scheduled Tribe (SC/ST) Community",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coffee growers belonging to the SC/ST community with a coffee holding size of up to 4.00 hectares are eligible for an extra 10% of the unit cost, with a ceiling of ₹2,50,000 per beneficiary for all the components put together under the water augmentation scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Payment",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Deputy Director (Extn.), after confirming the admissibility of the claim, will sanction the eligible subsidy and release the amount to the bank account of the applicant through Electronic Funds Transfer (EFT), Real Time Gross Settlement (RTGS), or National Electronic Funds Transfer (NEFT)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "text": "Details of Unit Cost & Subsidy Amount for Water Storage Tank Applicable to Different Sized Holdings"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Recommended Capacity of Water Tank (L x B x H) is in “Cubic Feet”."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Size of the Holding is in “Hectare”."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Unit Cost and the Subsidy Amount is in Rupees (₹)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: Up to 1.00; Recom. Cap. of Tank: 30' x 30' x 10' (9000); Unit Cost: ₹43,000; Subsidy: ₹17,200"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 1 up to 2.00; Recom. Cap. of Tank: 43' x 43' x 10' (18490); Unit Cost: ₹89,000; Subsidy: ₹35,600"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 2 up to 3.00; Recom. Cap. of Tank: 53' x 53' x 10' (28090); Unit Cost: ₹136,000; Subsidy: ₹54,400"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 3 up to 4.00; Recom. Cap. of Tank: 60' x 60' x 10' (36000); Unit Cost: ₹174,000; Subsidy: ₹69,600"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 4 up to 5.00; Recom. Cap. of Tank: 68' x 68' x 10' (46240); Unit Cost: ₹224,000; Subsidy: ₹89,600"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 5 up to 6.00; Recom. Cap. of Tank: 75' x 75' x 10' (56250); Unit Cost: ₹273,000; Subsidy: ₹109,200"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 6 up to 7.00; Recom. Cap. of Tank: 81' x 81' x 10' (65610); Unit Cost: ₹318,000; Subsidy: ₹127,200"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 7 up to 8.00; Recom. Cap. of Tank: 87' x 87' x 10' (75690); Unit Cost: ₹367,000; Subsidy: ₹146,800"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 8 up to 9.00; Recom. Cap. of Tank: 92' x 92' x 10' (84640); Unit Cost: ₹411,000; Subsidy: ₹164,400"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Size of Holding: > 9 up to 10.00; Recom. Cap. of Tank: 96' x 96' x 10' (92160); Unit Cost: ₹447,000; Subsidy: ₹178,800"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Details of Unit Cost & Subsidy Amount for Sprinkler/drip Irrigation Equipment Applicable to Different Size of Holdings:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The “Category” is in “Hectare”."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Unit Cost and the Subsidy Amount are in Rupees (₹)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: Up to 1.00; Unit Cost: ₹60,000; Subsidy: ₹24,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 1 up to 2.00; Unit Cost: ₹120,000; Subsidy: ₹48,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 2 up to 3.00; Unit Cost: ₹180,000; Subsidy: ₹72,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 3 up to 4.00; Unit Cost: ₹240,000; Subsidy: ₹96,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 4 up to 5.00; Unit Cost: ₹300,000; Subsidy: ₹120,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 5 up to 6.00; Unit Cost: ₹360,000; Subsidy: ₹144,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 6 up to 7.00; Unit Cost: ₹420,000; Subsidy: ₹168,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 7 up to 8.00; Unit Cost: ₹460,000; Subsidy: ₹184,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 8 up to 9.00; Unit Cost: ₹520,000; Subsidy: ₹208,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Category: > 9 up to 10.00; Unit Cost: ₹580,000; Subsidy: ₹232,000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Details of the Unit Cost and Subsidy for Open Well/ Ring Well",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Activities: Open well or Ring well with or without pump for a depth of 30 feet; Unit Cost: ₹ 75,000/- per unit; Subsidy: ₹ 30,000/-"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "The growers are at liberty to (a) execute water storage structures of any dimension and or (b) purchase sprinkler units, as per their requirement. However, the quantum of subsidy shall be applicable based on the unit cost for each holding category indicated in the above tables or based on the actual cost, whichever is less."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "For obtaining Feasibility Report",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/",
+                "children": [
+                  {
+                    "text": "Official Website/Portal"
+                  }
+                ]
+              },
+              {
+                "text": " of Coffee Board."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the top ribbon, click on \"Online Services\", then click \""
+              },
+              {
+                "type": "link",
+                "link": "http://indiacoffee.org/subsidy/",
+                "children": [
+                  {
+                    "text": "Subsidy"
+                  }
+                ]
+              },
+              {
+                "text": "\". You will be taken to the Online Application Form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in all the mandatory fields of the Application Form and upload all the mandatory documents in the specified format and size."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Acknowledge and agree to the terms and conditions, declaration, and privacy policy. Click the \"Submit\" or \"Apply\" button to send your application. You'll receive a confirmation message."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Review and Inspection",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- The jurisdictional Coffee Board office will scrutinize your documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- They will conduct a field inspection as part of the process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Technical Feasibility Report (TFR)",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Once the inspection is complete and the documents are verified, the office will issue a Technical Feasibility Report (TFR) to you."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Important Note",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Ensure you obtain the TFR before commencing any activities related to the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "- Activities started before obtaining the TFR are not eligible for claiming the subsidy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "For Claiming Subsidy",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Claim Submission: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant/s should submit the subsidy claim in the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf",
+                "children": [
+                  {
+                    "text": "prescribed formats"
+                  }
+                ]
+              },
+              {
+                "text": " (in duplicate) along with the necessary documents to the jurisdictional Coffee Board office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Document Scrutiny: ",
+                "bold": true
+              },
+              {
+                "text": "The concerned office will scrutinize the documents provided by the applicant."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Field Inspection: ",
+                "bold": true
+              },
+              {
+                "text": "The office will carry out a field inspection to validate the claims made."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Physical Verification Report: ",
+                "bold": true
+              },
+              {
+                "text": "A Physical Verification Report is prepared, confirming the admissibility of the claim in all respects."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Forwarding to Deputy Director (Extn): ",
+                "bold": true
+              },
+              {
+                "text": "The office forwards the claim statement and relevant records to the concerned Deputy Director (Extn)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Claim Scrutiny by Deputy Director (Extn): ",
+                "bold": true
+              },
+              {
+                "text": "The Deputy Director (Extn) examines the claim and records to confirm the admissibility of the claim in all respects."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: Subsidy Release: ",
+                "bold": true
+              },
+              {
+                "text": "Once the claim is found eligible, the Deputy Director (Extn) releases the subsidy amount directly to the bank account of the applicant."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **For obtaining Feasibility Report**\n\n**Step 1:** Visit the [Official Website/Portal](https://coffeeboard.gov.in/) of Coffee Board.\n**Step 2:** In the top ribbon, click on &quot;Online Services&quot;, then click &quot;[Subsidy](http://indiacoffee.org/subsidy/)&quot;. You will be taken to the Online Application Form.\n**Step 3:** Fill in all the mandatory fields of the Application Form and upload all the mandatory documents in the specified format and size.\n**Step 4:** Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Acknowledge and agree to the terms and conditions, declaration, and privacy policy. Click the &quot;Submit&quot; or &quot;Apply&quot; button to send your application. You&#39;ll receive a confirmation message.\n**Step 5: Review and Inspection**\n- The jurisdictional Coffee Board office will scrutinize your documents.\n- They will conduct a field inspection as part of the process.\n**Step 6: Technical Feasibility Report (TFR)**\n- Once the inspection is complete and the documents are verified, the office will issue a Technical Feasibility Report (TFR) to you.\n<br>\n\n> **Important Note**\n\n- Ensure you obtain the TFR before commencing any activities related to the scheme.\n- Activities started before obtaining the TFR are not eligible for claiming the subsidy.\n<br>\n\n> **For Claiming Subsidy**\n\n**Step 1: Claim Submission:** The applicant/s should submit the subsidy claim in the [prescribed formats](https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf) (in duplicate) along with the necessary documents to the jurisdictional Coffee Board office.\n**Step 2: Document Scrutiny:** The concerned office will scrutinize the documents provided by the applicant.\n**Step 3: Field Inspection:** The office will carry out a field inspection to validate the claims made.\n**Step 4: Physical Verification Report:** A Physical Verification Report is prepared, confirming the admissibility of the claim in all respects.\n**Step 5: Forwarding to Deputy Director (Extn):** The office forwards the claim statement and relevant records to the concerned Deputy Director (Extn).\n**Step 6: Claim Scrutiny by Deputy Director (Extn):** The Deputy Director (Extn) examines the claim and records to confirm the admissibility of the claim in all respects.\n**Step 7: Subsidy Release:** Once the claim is found eligible, the Deputy Director (Extn) releases the subsidy amount directly to the bank account of the applicant.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. This subsidy is available to individual growers, joint owners, or family members applying jointly (limited to mother, father, wife, and children).\n1. Eligible applicants can possess coffee holdings of up to 10 hectares.\n\n<br>\n\n> **Subsidy Applicability**\n\nThe subsidy is applicable for two primary purposes:\n     (a) Water harvesting structures like water storage tanks, open wells, or ring wells.\n     (b) Procurement of irrigation equipment, including sprinkler or drip systems.\n<br>\n\n> **Subsidy Conditions**\n\nA grower who has availed subsidy for a specific activity/component cannot avail it again during the Multi-Year Thrust Plan (MTF) period unless new beneficiaries are included.\n<br>\n\n> **Subsidy Combination**\n\nThe subsidy may be availed for any one of the water harvesting structures combined with any one of the irrigation equipment during the MTF period. The subsidy amount is limited to the corresponding category of holdings.\n<br>\n\n> **Previous Subsidy History**\n\nGrowers who have benefited from a subsidy for a particular water augmentation activity within the past 10 years are not eligible for the same activity. However, they become eligible from the 11th year onwards.\n<br>\n\n> **Infrastructure Location**\n\nWater augmentation infrastructure should be created either within the coffee estate or in its vicinity, depending on the water source. The land for this purpose should be in the name of the grower or their family members (mother, father, wife, and children only).\n<br>\n\n> **Non-Traditional Areas Eligibility**\n\nNon-tribal coffee growers in Non-Traditional Areas with coffee holdings of up to 10 hectares are also eligible for this subsidy.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This subsidy is available to individual growers, joint owners, or family members applying jointly (limited to mother, father, wife, and children)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Eligible applicants can possess coffee holdings of up to 10 hectares."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Subsidy Applicability",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The subsidy is applicable for two primary purposes:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "     (a) Water harvesting structures like water storage tanks, open wells, or ring wells."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "     (b) Procurement of irrigation equipment, including sprinkler or drip systems."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Subsidy Conditions",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A grower who has availed subsidy for a specific activity/component cannot avail it again during the Multi-Year Thrust Plan (MTF) period unless new beneficiaries are included."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Subsidy Combination",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The subsidy may be availed for any one of the water harvesting structures combined with any one of the irrigation equipment during the MTF period. The subsidy amount is limited to the corresponding category of holdings."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Previous Subsidy History",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Growers who have benefited from a subsidy for a particular water augmentation activity within the past 10 years are not eligible for the same activity. However, they become eligible from the 11th year onwards."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Infrastructure Location",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Water augmentation infrastructure should be created either within the coffee estate or in its vicinity, depending on the water source. The land for this purpose should be in the name of the grower or their family members (mother, father, wife, and children only)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Non-Traditional Areas Eligibility",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Non-tribal coffee growers in Non-Traditional Areas with coffee holdings of up to 10 hectares are also eligible for this subsidy."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dsctawa"
+}

@@ -1,0 +1,247 @@
+{
+  "_id": "68f8bda8a4de653fd43e642d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Pump Connection"
+      ],
+      "schemeName": "Mukhyamantri Krishak Mitra Yojana",
+      "schemeShortTitle": "MKMY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce97ad6d1a3bde468537d",
+          "label": "Utility & Sanitation"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Electricity",
+          "label": "Electricity"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300010,
+        "label": "Energy Department"
+      },
+      "slug": "mkmy",
+      "briefDescription": "The scheme aims to create necessary infrastructure by the distribution company for providing permanent pump connections to farmers or groups of farmers.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=966"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Mukhyamantri Krushak Mitra Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to create infrastructure for permanent agricultural pump connections through the distribution company. The scheme provides grants and cost-sharing support to farmers and distribution companies for infrastructure development.\n<br>\n\n",
+      "benefits_md": "\n- **Cost Sharing Support:** Only 50% of the infrastructure development cost will be borne by the concerned farmer or group of farmers.\n\n- **Government Grant:** 40% of the cost will be provided directly by the State Government to the power distribution company as a grant.\n<br>\n\n",
+      "briefDescription": "The scheme aims to create necessary infrastructure by the distribution company for providing permanent pump connections to farmers or groups of farmers.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Mukhyamantri Krushak Mitra Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to create infrastructure for permanent agricultural pump connections through the distribution company. The scheme provides grants and cost-sharing support to farmers and distribution companies for infrastructure development."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cost Sharing Support:",
+                  "bold": true
+                },
+                {
+                  "text": " Only 50% of the infrastructure development cost will be borne by the concerned farmer or group of farmers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Government Grant:",
+                  "bold": true
+                },
+                {
+                  "text": " 40% of the cost will be provided directly by the State Government to the power distribution company as a grant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the official "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://smartbijlee.mpez.co.in/view/ltnsc/lt_nsc_mukhyamantri_krushak_mitra_yojana_home_page.php",
+                    "children": [
+                      {
+                        "text": "website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ". "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Choose the applicant type and proceed with the \"Click Here\" option."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in all the required details in the online application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Verify the details, accept the Terms & Conditions, then click on \"Submit\"."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the official [website](https://smartbijlee.mpez.co.in/view/ltnsc/lt_nsc_mukhyamantri_krushak_mitra_yojana_home_page.php). \n**Step 2:** Choose the applicant type and proceed with the &amp;quot;Click Here&amp;quot; option.\n**Step 3:** Fill in all the required details in the online application form.\n**Step 4:** Verify the details, accept the Terms &amp;amp; Conditions, then click on &amp;quot;Submit&amp;quot;.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a landholding farmer/group-farmer.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a landholding farmer/group-farmer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mkmy"
+}

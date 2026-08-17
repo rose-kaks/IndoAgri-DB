@@ -1,0 +1,399 @@
+{
+  "_id": "652e6baa2a298fe1b486513e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Husbandry",
+        "Animal Health",
+        "Livestock Diseases"
+      ],
+      "schemeName": "Livestock Health and Diseases Control",
+      "schemeShortTitle": "LHADC",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 1572,
+        "label": "Ministry of Fisheries,Animal Husbandry and Dairying"
+      },
+      "nodalDepartmentName": {
+        "value": 121225,
+        "label": "Department of Animal Husbandry & Dairying"
+      },
+      "slug": "lhadc",
+      "briefDescription": "The Livestock Health and Diseases Control (LH&DC) scheme is a Centrally Sponsored Scheme (CSS) implemented by the Department of Animal Husbandry and Dairying (DAHD), Ministry of Agriculture and Farmers' Welfare, Government of India."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://dahd.gov.in/schemes-programmes/lhdcp"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "**Objectives** \nTo implement Critical Animal disease control programme to eradicate PPR by 2030 by vaccinating all sheep and goats and to control Classical Swine Fever (CSF) by vaccinating the entire pig population To provide veterinary services at the farmers’ doorstep through Mobile Veterinary Units (MVUs) To assist States/UTs for Control of Animal Disease (ASCAD) by prevention &amp;amp; control of important livestock and poultry diseases prevalent in different States / UTs as per the State /UT’s priorities.\n&lt;br&gt;\n\nThe LH&amp;amp;DC scheme covers a following activities:\n\n  - Prophylactic vaccination programmes against various livestock and poultry diseases.\n  - Disease surveillance and early detection.\n  - Control and eradication of livestock diseases.\n  - Capacity building of veterinary personnel.\n  - Strengthening of veterinary infrastructure.\n\n&lt;br&gt;\n\n**Critical Animal Disease Control Programme** \n\n   1. Peste des Petits Ruminants Eradication Programme (PPR-EP).\n   1. Classical Swine Fever Control Programme (CSF-CP).\n\n&lt;br&gt;\n\n**Scheme Implementation Strategy** \n\n   1. State / UT to identify and designate suitable agency as SIA / LDB (preferably same as in NADCP).\n   1. State / UT / SIA shall develop further guidelines for implementation of the Scheme delineating roles and responsibilities of all functionaries at different levels.\n\n",
+      "benefits_md": "\n1. **Improved animal health and productivity**: To protect livestock from diseases, which leads to improved animal health and productivity.1. **Reduced economic losses:** To reduce economic losses to farmers due to livestock diseases.1. **Improved food security:** To improve food security by ensuring a steady supply of livestock products.1. **Increased employment opportunities:** To increased employment opportunities in the livestock sector.1. **Improved rural livelihood:** To improve the livelihoods of rural people who depend on livestock for their income.\n",
+      "briefDescription": "The Livestock Health and Diseases Control (LH&DC) scheme is a Centrally Sponsored Scheme (CSS) implemented by the Department of Animal Husbandry and Dairying (DAHD), Ministry of Agriculture and Farmers' Welfare, Government of India.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objectives ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To implement Critical Animal disease control programme to eradicate PPR by 2030 by vaccinating all sheep and goats and to control Classical Swine Fever (CSF) by vaccinating the entire pig population To provide veterinary services at the farmers’ doorstep through Mobile Veterinary Units (MVUs) To assist States/UTs for Control of Animal Disease (ASCAD) by prevention & control of important livestock and poultry diseases prevalent in different States / UTs as per the State /UT’s priorities."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The LH&DC scheme covers a following activities:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Prophylactic vaccination programmes against various livestock and poultry diseases."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Disease surveillance and early detection."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Control and eradication of livestock diseases."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Capacity building of veterinary personnel."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Strengthening of veterinary infrastructure."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Critical Animal Disease Control Programme ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Peste des Petits Ruminants Eradication Programme (PPR-EP)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Classical Swine Fever Control Programme (CSF-CP)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Scheme Implementation Strategy "
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "State / UT to identify and designate suitable agency as SIA / LDB (preferably same as in NADCP)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "State / UT / SIA shall develop further guidelines for implementation of the Scheme delineating roles and responsibilities of all functionaries at different levels."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Improved animal health and productivity",
+                  "bold": true
+                },
+                {
+                  "text": ": To protect livestock from diseases, which leads to improved animal health and productivity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reduced economic losses:",
+                  "bold": true
+                },
+                {
+                  "text": " To reduce economic losses to farmers due to livestock diseases."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Improved food security: ",
+                  "bold": true
+                },
+                {
+                  "text": "To improve food security by ensuring a steady supply of livestock products."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increased employment opportunities:",
+                  "bold": true
+                },
+                {
+                  "text": " To increased employment opportunities in the livestock sector."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Improved rural livelihood:",
+                  "bold": true
+                },
+                {
+                  "text": " To improve the livelihoods of rural people who depend on livestock for their income."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Contact local veterinary office or the Department of Animal Husbandry and Dairying in state."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Get the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out the application form with required details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit it to the concerned authority."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the required documents."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Contact local veterinary office or the Department of Animal Husbandry and Dairying in state.\n1. Get the application form.\n1. Fill out the application form with required details.\n1. Submit it to the concerned authority.\n1. Attach the required documents.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Beneficiary must be a bona fide farmer or livestock owner.\n1. Beneficiary must have a valid livestock ownership document.\n1. Beneficiary&#39;s livestock must be used for commercial purposes.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary must be a bona fide farmer or livestock owner."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary must have a valid livestock ownership document."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary's livestock must be used for commercial purposes."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "lhadc"
+}

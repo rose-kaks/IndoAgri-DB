@@ -1,0 +1,474 @@
+{
+  "_id": "688320c24adcbd03186f0a06",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Post-Harvest Management",
+        "Horticulture",
+        "Market Development"
+      ],
+      "schemeName": "Mission for Integrated Horticulture Development (MIDH)",
+      "schemeShortTitle": "MFIHDG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "mfihdg",
+      "briefDescription": "The scheme \"Mission for Integrated Horticulture Development (MIDH)\" is a centrally sponsored scheme that aims to promote growth in the horticulture sector through financial and technical support to farmers for cultivation, post-harvest management, and market linkage development."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 350)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Mission for Integrated Horticulture Development (MIDH)&amp;quot; is a centrally sponsored scheme that aims to ensure the holistic development of horticulture by providing financial assistance and technical support to farmers for the cultivation of fruits, vegetables, spices, flowers, and other horticultural crops, along with promoting modern technologies, post-harvest management, and value addition. The scheme promotes cluster planting, renovation of old gardens, use of advanced technologies such as protected cultivation, integrated pest and nutrient management, and horticultural mechanization to enhance production and sustainability in alignment with regional agro-climatic conditions.\n<br>\n\n",
+      "benefits_md": "\n  - **Crop Development and Production:** Support programs are provided for planting and increasing the production of diverse horticultural crops, including fruits, vegetables, pepper, spices, and flower crops, tailored to different regions and agro-climates within the state.  - **Technological Promotion:** The scheme promotes and extends the use of modern technology in horticulture.  - **Propagation Support:** Support programs are available for grafting and stem raising, contributing to better crop propagation.  - **Post-Harvest Management and Value Addition:** Assistance is provided for post-harvest management processes and value addition initiatives, ensuring better returns for produce.  - **Market System Development:** Financial assistance is extended to individuals and the private sector for the development of collection and market systems, aiming for comprehensive growth in horticulture.  - **Specific Component Inclusion:** The scheme primarily includes components such as- Cluster planting of new fruit, flower, vegetable, aromatic, and spice crops; Renovation of old gardens; Horticultural mechanization; Integrated fertilizer pest control management; Protected cultivation for horticultural crops; Mulching and the use of bird nets, etc.\n<br>\n\n",
+      "briefDescription": "The scheme \"Mission for Integrated Horticulture Development (MIDH)\" is a centrally sponsored scheme that aims to promote growth in the horticulture sector through financial and technical support to farmers for cultivation, post-harvest management, and market linkage development.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Mission for Integrated Horticulture Development (MIDH)\" is a centrally sponsored scheme that aims to ensure the holistic development of horticulture by providing financial assistance and technical support to farmers for the cultivation of fruits, vegetables, spices, flowers, and other horticultural crops, along with promoting modern technologies, post-harvest management, and value addition. The scheme promotes cluster planting, renovation of old gardens, use of advanced technologies such as protected cultivation, integrated pest and nutrient management, and horticultural mechanization to enhance production and sustainability in alignment with regional agro-climatic conditions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Crop Development and Production:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Support programs are provided for planting and increasing the production of diverse horticultural crops, including fruits, vegetables, pepper, spices, and flower crops, tailored to different regions and agro-climates within the state."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Technological Promotion:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The scheme promotes and extends the use of modern technology in horticulture."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Propagation Support:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Support programs are available for grafting and stem raising, contributing to better crop propagation."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Post-Harvest Management and Value Addition:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Assistance is provided for post-harvest management processes and value addition initiatives, ensuring better returns for produce."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Market System Development:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Financial assistance is extended to individuals and the private sector for the development of collection and market systems, aiming for comprehensive growth in horticulture."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Specific Component Inclusion: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "The scheme primarily includes components such as- Cluster planting of new fruit, flower, vegetable, aromatic, and spice crops; Renovation of old gardens; Horticultural mechanization; Integrated fertilizer pest control management; Protected cultivation for horticultural crops; Mulching and the use of bird nets, etc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "align_justify",
+                    "children": [
+                      {
+                        "type": "align_justify",
+                        "children": [
+                          {
+                            "type": "align_justify",
+                            "children": [
+                              {
+                                "type": "block_quote",
+                                "children": [
+                                  {
+                                    "text": "Registration Process:",
+                                    "bold": true
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 1: ",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": "The applicant may visit and apply online at the "
+                                  },
+                                  {
+                                    "type": "link",
+                                    "link": "https://ikhedut.gujarat.gov.in/",
+                                    "children": [
+                                      {
+                                        "text": "I-Khedut"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "text": " Portal."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 2:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 3:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 4:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "block_quote",
+                                "children": [
+                                  {
+                                    "text": "Login Process:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 1:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " The applicant may visit and apply online at the "
+                                  },
+                                  {
+                                    "type": "link",
+                                    "link": "https://ikhedut.gujarat.gov.in/site/",
+                                    "children": [
+                                      {
+                                        "text": "I-Khedut"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "text": " Portal."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 2:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 3:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 4:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Click on the \"Apply New\" button and submit a new application."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 5:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 6:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Once the application is done, confirm it."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "paragraph",
+                                "children": [
+                                  {
+                                    "text": "Step 7:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " Take a printout of the confirmed application."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "block_quote",
+                                "children": [
+                                  {
+                                    "text": "Contact Us:",
+                                    "bold": true
+                                  },
+                                  {
+                                    "text": " "
+                                  },
+                                  {
+                                    "type": "link",
+                                    "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                                    "children": [
+                                      {
+                                        "text": "Click here"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "text": "."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "&amp;amp;amp;amp;gt; **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/) Portal.\n**Step 2:** Click on &amp;amp;amp;amp;amp;#39;Login&amp;amp;amp;amp;amp;#39; from the top right-hand side, then click on &amp;amp;amp;amp;amp;quot;Beneficiary Registration&amp;amp;amp;amp;amp;quot; and select any one from the &amp;amp;amp;amp;amp;#39;Farmer&amp;amp;amp;amp;amp;#39; or &amp;amp;amp;amp;amp;#39;Institutional&amp;amp;amp;amp;amp;#39; or &amp;amp;amp;amp;amp;#39;Except For the Farmer&amp;amp;amp;amp;amp;#39; as the Beneficiary Type.\n**Step 3:** Select the District, Taluka, and Village, choose &amp;amp;amp;amp;amp;#39;what type of account holder you are?&amp;amp;amp;amp;amp;#39;, enter your Account Number and Name, solve the Captcha, and click &amp;amp;amp;amp;amp;#39;Save and Next&amp;amp;amp;amp;amp;#39;.\n**Step 4:** Enter your Mobile Number and Email address, click &amp;amp;amp;amp;amp;#39;Send OTP&amp;amp;amp;amp;amp;#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &amp;amp;amp;amp;amp;#39;Submit&amp;amp;amp;amp;amp;#39;.\n&amp;amp;amp;amp;gt; **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/site/) Portal.\n**Step 2:** Click on &amp;amp;amp;amp;amp;#39;Login&amp;amp;amp;amp;amp;#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &amp;amp;amp;amp;amp;quot;Apply New&amp;amp;amp;amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;amp;amp;amp;quot;Update Application&amp;amp;amp;amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n&amp;amp;amp;amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant should be a farmer\n  -  The applicant should be a resident of Gujarat.\n  - The applicant should intend to cultivate horticultural crops or undertake related activities.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": " The applicant should be a resident of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should intend to cultivate horticultural crops or undertake related activities."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mfihdg"
+}

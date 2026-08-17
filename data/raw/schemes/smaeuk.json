@@ -1,0 +1,283 @@
+{
+  "_id": "68d232fbf95e55ec5806a299",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Agricultural",
+        "Farmer",
+        "SMAE",
+        "Kisan Award",
+        "Kisan Ratna",
+        "Kisan Shri"
+      ],
+      "schemeName": "Sub-Mission on Agricultural Extension (SMAE)",
+      "schemeShortTitle": "SMAEUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000001,
+        "label": "Agriculture Department"
+      },
+      "slug": "smaeuk",
+      "briefDescription": "The scheme aims to promote the adoption of modern and scientific farming practices among farmers across the state through continuous training, practical demonstrations, and exposure visits."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 196)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Sub-Mission on Agricultural Extension” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote the adoption of modern and scientific farming practices among farmers across the state through continuous training, practical demonstrations, and exposure visits.\n<br>\n\n",
+      "benefits_md": "Farmers are periodically trained in modern agricultural practices. Agricultural exhibitions, fairs, and farmer seminars are organized, and farmers are also taken on exposure visits to enhance their knowledge and skills. Additionally, farmer–scientist interactions are conducted to facilitate the exchange of ideas and innovations.\n**Farm School:** Free seeds, fertilizers, and chemicals are provided to farmers for demonstration purposes, and training is imparted to a group of 30 farmers at each Farm School.\n**Progressive farmers who demonstrate excellence and innovation in agriculture are recognized and rewarded. Along with a certificate, the following cash awards are given:**\n\n  - Block Level: ₹10,000 – Kisan Shri\n  - District Level: ₹25,000 – Kisan Bhushan\n  - State Level: ₹50,000 – Kisan Ratna\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote the adoption of modern and scientific farming practices among farmers across the state through continuous training, practical demonstrations, and exposure visits.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Sub-Mission on Agricultural Extension” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote the adoption of modern and scientific farming practices among farmers across the state through continuous training, practical demonstrations, and exposure visits."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Farmers are periodically trained in modern agricultural practices. Agricultural exhibitions, fairs, and farmer seminars are organized, and farmers are also taken on exposure visits to enhance their knowledge and skills. Additionally, farmer–scientist interactions are conducted to facilitate the exchange of ideas and innovations."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Farm School:",
+                  "bold": true
+                },
+                {
+                  "text": " Free seeds, fertilizers, and chemicals are provided to farmers for demonstration purposes, and training is imparted to a group of 30 farmers at each Farm School."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Progressive farmers who demonstrate excellence and innovation in agriculture are recognized and rewarded. Along with a certificate, the following cash awards are given:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Block Level: ₹10,000 – Kisan Shri"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "District Level: ₹25,000 – Kisan Bhushan"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "State Level: ₹50,000 – Kisan Ratna"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "If a farmer wishes to participate in training programs, exposure visits, or interactions with agricultural scientists, they can apply by submitting a written request to the Nyaya Panchayat or Assistant Agriculture Officer at the district level, the Assistant Agriculture Officer at the development block level, the Agriculture and Soil Conservation Officer at the unit level, or the Chief Agriculture Officer/Project Director (ATMA) at the district level. Upon receiving the application, the department arranges training through the Krishi Vigyan Kendra or other relevant institutions in the area."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To be considered for the Kisan Award, the district Agriculture Offices publish advertisements in newspapers. After the advertisement, applications can be obtained from the ADO Agriculture, Development Block Agriculture Office, or District Level Agriculture Office. Applicants are required to submit the completed application within the stipulated period along with relevant documents, including Aadhaar card, residence certificate, bank passbook, mobile number, certificates of notable work in agriculture, training certificates, proof of visits outside the state (if any), soil health card or animal breed improvement card, Kisan Credit Card details (if held), proof of crop or animal insurance (if applicable), a self-attested passport-sized photograph, details of membership in any committee or organization (if applicable), and information regarding crop production, profits, and landholdings."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Following submission, the selection of farmers is conducted in an open meeting of the Farmers Advisory Committee at the block level, in the presence of departmental officers and public representatives. The final approval is granted in the ATMA Governing Body Meeting, which is chaired by the District Magistrate."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - If a farmer wishes to participate in training programs, exposure visits, or interactions with agricultural scientists, they can apply by submitting a written request to the Nyaya Panchayat or Assistant Agriculture Officer at the district level, the Assistant Agriculture Officer at the development block level, the Agriculture and Soil Conservation Officer at the unit level, or the Chief Agriculture Officer/Project Director (ATMA) at the district level. Upon receiving the application, the department arranges training through the Krishi Vigyan Kendra or other relevant institutions in the area.\n  - To be considered for the Kisan Award, the district Agriculture Offices publish advertisements in newspapers. After the advertisement, applications can be obtained from the ADO Agriculture, Development Block Agriculture Office, or District Level Agriculture Office. Applicants are required to submit the completed application within the stipulated period along with relevant documents, including Aadhaar card, residence certificate, bank passbook, mobile number, certificates of notable work in agriculture, training certificates, proof of visits outside the state (if any), soil health card or animal breed improvement card, Kisan Credit Card details (if held), proof of crop or animal insurance (if applicable), a self-attested passport-sized photograph, details of membership in any committee or organization (if applicable), and information regarding crop production, profits, and landholdings.\n  - Following submission, the selection of farmers is conducted in an open meeting of the Farmers Advisory Committee at the block level, in the presence of departmental officers and public representatives. The final approval is granted in the ATMA Governing Body Meeting, which is chaired by the District Magistrate.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a farmer.\n   1. The farmer must have cultivable land.\n   1. The farmer’s name must be duly registered in the relevant land records.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The farmer must have cultivable land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The farmer’s name must be duly registered in the relevant land records."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "smaeuk"
+}

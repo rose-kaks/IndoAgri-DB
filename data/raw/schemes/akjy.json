@@ -1,0 +1,198 @@
+{
+  "_id": "68f8b110a4de653fd43e31e4",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Agricultural Pump"
+      ],
+      "schemeName": "Atal Kisan Jyoti Yojana",
+      "schemeShortTitle": "AKJY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce97ad6d1a3bde468537d",
+          "label": "Utility & Sanitation"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Electricity",
+          "label": "Electricity"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300010,
+        "label": "Energy Department"
+      },
+      "slug": "akjy",
+      "briefDescription": "The scheme aims to provide affordable electricity to farmers in Madhya Pradesh by offering power supply at concessional rates."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=598"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Atal Kisan Jyoti Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to provide concessional electricity to farmers through a flat rate power supply of ₹750/- per horsepower per year to metered agricultural pump consumers up to 10 horsepower.\n<br>\n\n",
+      "benefits_md": "Electricity Supply at Concessional Rate: Farmers having metered permanent agricultural pumps up to 10 horsepower are provided electricity at a flat rate of ₹750/- per horsepower per year.\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide affordable electricity to farmers in Madhya Pradesh by offering power supply at concessional rates.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Atal Kisan Jyoti Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to provide concessional electricity to farmers through a flat rate power supply of ₹750/- per horsepower per year to metered agricultural pump consumers up to 10 horsepower."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electricity Supply at Concessional Rate: Farmers having metered permanent agricultural pumps up to 10 horsepower are provided electricity at a flat rate of ₹750/- per horsepower per year."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The benefit will be automatically provided to eligible consumers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- The benefit will be automatically provided to eligible consumers.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be a permanent agricultural pump consumer.\n  - The applicant must have a metered connection.\n  - The applicant’s pump capacity should be up to 10 horsepower.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a permanent agricultural pump consumer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have a metered connection."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant’s pump capacity should be up to 10 horsepower."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "akjy"
+}

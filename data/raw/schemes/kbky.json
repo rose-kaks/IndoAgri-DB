@@ -1,0 +1,288 @@
+{
+  "_id": "65cc428aed4030e118d8e3f8",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farming",
+        "Farmer",
+        "Farm",
+        "Land",
+        "Financial Support"
+      ],
+      "schemeName": "Krshak Prashikshan Tatha Bhraman Karyakram",
+      "schemeShortTitle": "KPBKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2015-10-20",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "kbky",
+      "briefDescription": "Under the scheme, Horticulture and Food Processing Department provide visit to the different location to make the farmers aware of the new technologies of agronomy by giving them tours."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.mphorticulture.gov.in/sites/default/files/krashak%20prashikshan.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE.pdf"
+        },
+        {
+          "title": "Registration",
+          "url": "https://mpfsts.mp.gov.in/mphd/#/new-application"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Krishak Parisharam Bhraman Karyakram Yojana under the Horticulture and Food Processing Department of Madhya Pradesh, provide tour to the different countries and states/divisions/districts/trends outside the development block. To attract the farmers towards the production of horticulture crops by giving tours to the farmers regarding horticulture crops.\n<br>\n\n> **Objective:**\n\n\n1. To expose farmers to diverse agricultural technologies, practices, and innovations.\n1. Organize visits to different agricultural fields, research institutions, and agricultural universities.\n1. Facilitate knowledge and experience exchange among farmers.\n1. Promote entrepreneurship and innovation in the agriculture sector.\n\n",
+      "benefits_md": "\n1. Farmer training within the state : ₹1,000/- per farmer per month (maximum 7 days)\n1. Farmer training outside the state : ₹1,500/- per farmer per day.\n1. Exposure visit outside the state to observe new technology (new component) : ₹1,500/- per farmer per day.\n1. A total of ₹12,000/- for 20 trainees in one-day farmer training and tour, i.e. maximum expenditure per farmer is ₹500/- and honorarium to the host farmer is ₹100/-, thus the total maximum expenditure is Rs 600/- per farmer.\n\n",
+      "briefDescription": "Under the scheme, Horticulture and Food Processing Department provide visit to the different location to make the farmers aware of the new technologies of agronomy by giving them tours.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Krishak Parisharam Bhraman Karyakram Yojana under the Horticulture and Food Processing Department of Madhya Pradesh, provide tour to the different countries and states/divisions/districts/trends outside the development block. To attract the farmers towards the production of horticulture crops by giving tours to the farmers regarding horticulture crops."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To expose farmers to diverse agricultural technologies, practices, and innovations."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Organize visits to different agricultural fields, research institutions, and agricultural universities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Facilitate knowledge and experience exchange among farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promote entrepreneurship and innovation in the agriculture sector."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmer training within the state : ₹1,000/- per farmer per month (maximum 7 days)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmer training outside the state : ₹1,500/- per farmer per day."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Exposure visit outside the state to observe new technology (new component) : ₹1,500/- per farmer per day."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A total of ₹12,000/- for 20 trainees in one-day farmer training and tour, i.e. maximum expenditure per farmer is ₹500/- and honorarium to the host farmer is ₹100/-, thus the total maximum expenditure is Rs 600/- per farmer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Applicants have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex",
+                "children": [
+                  {
+                    "text": "official portal."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on \""
+              },
+              {
+                "type": "link",
+                "link": "https://mpfsts.mp.gov.in/mphd/#/new-application",
+                "children": [
+                  {
+                    "text": "New Registration"
+                  }
+                ]
+              },
+              {
+                "text": "\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Enter your mobile number and click on OTP Send."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: After authentication via OTP, fill out the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Upload the documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: After, filling all the information click on the submit button."
+              }
+            ]
+          }
+        ],
+        "process_md": "Step 1: Applicants have to visit the [official portal.](https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex)\nStep 2: Click on &quot;[New Registration](https://mpfsts.mp.gov.in/mphd/#/new-application)&quot;.\nStep 3: Enter your mobile number and click on OTP Send.\nStep 4: After authentication via OTP, fill out the required details.\nStep 5: Upload the documents.\nStep 6: After, filling all the information click on the submit button.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. This scheme will apply to all sections.\n1. Farmers of all classes who cultivate crops.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This scheme will apply to all sections."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers of all classes who cultivate crops."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kbky"
+}

@@ -1,0 +1,315 @@
+{
+  "_id": "68077529d9f3c4b3871a3dfe",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Seed Supply",
+        "Fodder"
+      ],
+      "schemeName": "Scheme for Supply of Improved Seeds for Fodder",
+      "schemeShortTitle": "SFSOISF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "sfsoisf",
+      "briefDescription": "The \"Scheme for Supply of Improved Seeds for Fodder\" aims to supply improved quality fodder seeds to registered Gaushalas and Panjarapols to ensure round-the-year green fodder availability for livestock.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=39qrRafhk/+DT2MD43m3eA==&domain=A36Rf7FTT/556gX2TyXKFw=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Scheme for Supply of Improved Seeds for Fodder&amp;quot; launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat, aims to support institutions like Gaushalas and Panjarapols by providing them with improved fodder seeds such as maize, sorghum, oat, and lucerne. This encourages the cultivation of nutritious green fodder, especially on grazing lands (gauchar lands), thereby enhancing livestock health and productivity.\n",
+      "benefits_md": "\n- Maize: Up to 10 kits (5 kg each)\n\n\n- Sorghum: Up to 50 kits (5 kg each)\n- Oats: Up to 5 kits (5 kg each)\n- Lucerne: Up to 20 kits (2 kg each)\n\n",
+      "briefDescription": "The \"Scheme for Supply of Improved Seeds for Fodder\" aims to supply improved quality fodder seeds to registered Gaushalas and Panjarapols to ensure round-the-year green fodder availability for livestock.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Scheme for Supply of Improved Seeds for Fodder\" launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, aims to support institutions like Gaushalas and Panjarapols by providing them with improved fodder seeds such as maize, sorghum, oat, and lucerne. This encourages the cultivation of nutritious green fodder, especially on grazing lands (gauchar lands), thereby enhancing livestock health and productivity."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maize: Up to 10 kits (5 kg each)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sorghum: Up to 50 kits (5 kg each)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Oats: Up to 5 kits (5 kg each)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Lucerne: Up to 20 kits (2 kg each)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                    "children": [
+                      {
+                        "text": "GGVB’s nodal officer"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the concerned district with the necessary documents listed in the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 8:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                    "children": [
+                      {
+                        "text": "Click here."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the [GGVB’s nodal officer](https://gauseva.gujarat.gov.in/Home/Address) of the concerned district with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Panjrapol must be registered under the Charity Act.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Panjrapol must be registered under the Charity Act."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sfsoisf"
+}

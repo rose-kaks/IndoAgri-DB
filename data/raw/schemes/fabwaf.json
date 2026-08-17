@@ -1,0 +1,299 @@
+{
+  "_id": "656ee89853ed274f6a9182fa",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000017,
+        "label": "Fisheries Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Fishermen",
+        "Fish",
+        "Farming",
+        "Aquaculture",
+        "Subsidy"
+      ],
+      "schemeName": "Financial Assistance to Brackish Water Aquaculture Farms",
+      "schemeShortTitle": "FABWAF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "schemeFor": "Individual",
+      "slug": "fabwaf",
+      "briefDescription": "Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.goa.gov.in/schemes-services/"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+        },
+        {
+          "title": "Application Form For Construction And Renovation Of Farm",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Const-1.pdf"
+        },
+        {
+          "title": "Application Form For Purchase Of Feed",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Feed-1.pdf"
+        },
+        {
+          "title": "Application Form For Purchase Of Farming Equipment",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Equip-1.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "“Financial Assistance to Brackish Water Aquaculture Farms” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme. The applications are accepted only in offline mode.\n",
+      "benefits_md": "> **Financial Assistance for Construction &amp; Renovation of Farm**\n\n25% subsidy, limited to ₹2,00,000 per hectare.\n> **Financial Assistance for Purchase of Farming Equipment**\n\n50% subsidy, limited to ₹1,00,000 per hectare.\n> **Financial Assistance for the Purchase of Feed**\n\n25% subsidy of the cost of feed, limited to ₹30,000 per crop per hectare for 2 crops in a year.\n",
+      "briefDescription": "Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Financial Assistance to Brackish Water Aquaculture Farms” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme. The applications are accepted only in offline mode."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance for Construction & Renovation of Farm",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "25% subsidy, limited to ₹2,00,000 per hectare."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance for Purchase of Farming Equipment",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "50% subsidy, limited to ₹1,00,000 per hectare."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance for the Purchase of Feed",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "25% subsidy of the cost of feed, limited to ₹30,000 per crop per hectare for 2 crops in a year."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should take print of the prescribed format of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+              },
+              {
+                "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "BDO Office/ Sub-Offices"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": " of the Department of Fisheries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Grievance Redressal",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "Grievance Redressal Officer"
+                  }
+                ]
+              },
+              {
+                "text": ". The grievance can also be lodged on the link "
+              },
+              {
+                "text": "dir-fish.goa@nic.in",
+                "bold": true
+              },
+              {
+                "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should take print of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a farmer having a water spread area of 2 hectares or less.\n- The farms owned by the applicant should be licensed by the Coastal Aquaculture Authority. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer having a water spread area of 2 hectares or less."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farms owned by the applicant should be licensed by the Coastal Aquaculture Authority. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fabwaf"
+}

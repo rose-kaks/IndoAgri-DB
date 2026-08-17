@@ -1,0 +1,343 @@
+{
+  "_id": "6a34e0d0da5ba83f4bdfec0d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Small Cardamom",
+        "Large Cardamom",
+        "Turmeric",
+        "Spices Board"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement: Polisher for Small Cardamom, Large Cardamom, Turmeric, etc (nos)",
+      "schemeShortTitle": "ISFEPQISARADOCPHIPFSCLCTW",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "isfepqisaradocphipfsclctw",
+      "briefDescription": "The scheme aims to encourage spice growers to adopt proper polishing methods for spices such as small cardamom, large cardamom, and turmeric to improve their appearance, quality, and marketability."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://serviceonline.gov.in/dbt/login.do"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to encourage spice growers to adopt proper polishing methods for spices such as small cardamom, large cardamom, and turmeric to improve their appearance, quality, and marketability.",
+      "detailedDescription_md": "The Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement – Polisher for Small Cardamom, Large Cardamom, Turmeric, etc. (Nos.) is implemented by the Spices Board, India, under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage spice growers to adopt proper polishing methods for spices such as small cardamom, large cardamom, and turmeric to improve their appearance, quality, and marketability. By promoting the use of modern polishing equipment, the scheme helps produce high-quality spices that meet export standards and enhances the competitiveness of Indian spices in international markets. The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+      "benefits_md": "\n1. 50 % of cost of unit, subject to a maximum of ₹ 94,000/- per unit for General Category and 75% subject to maximum of ₹ 1,40,000 per unit for NE/SC/ST &amp; 90% Spice Producer&#39;s Groups in Identified Clusters subjected to maximum of ₹ 1,70,000/-\n1. Individual farmers having minimum of 0.40 ha - 8 ha of spices.\n1. Assistance for groups/FPOs will be as in QGBG\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement – Polisher for Small Cardamom, Large Cardamom, Turmeric, etc. (Nos.) is implemented by the Spices Board, India, under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage spice growers to adopt proper polishing methods for spices such as small cardamom, large cardamom, and turmeric to improve their appearance, quality, and marketability. By promoting the use of modern polishing equipment, the scheme helps produce high-quality spices that meet export standards and enhances the competitiveness of Indian spices in international markets. The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50 % of cost of unit, subject to a maximum of ₹ 94,000/- per unit for General Category and 75% subject to maximum of ₹ 1,40,000 per unit for NE/SC/ST & 90% Spice Producer's Groups in Identified Clusters subjected to maximum of ₹ 1,70,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individual farmers having minimum of 0.40 ha - 8 ha of spices."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for groups/FPOs will be as in QGBG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicesPlus"
+                  }
+                ]
+              },
+              {
+                "text": " website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on the “"
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                "children": [
+                  {
+                    "text": "Register” "
+                  }
+                ]
+              },
+              {
+                "text": "option on the homepage."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Review all details carefully and submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                "children": [
+                  {
+                    "text": "“Login.”"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Enter your Email ID, Password, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Select the relevant service/scheme name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Fill in the required details in the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Submit the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.All spice growing States and regions in India/UT\n2.Designated Officials will conduct final inspection and recommend the eligible cases.\n> The facility can be used for polishing other suitable spices also and for availing assistance necessary approval may be taken from Director(Dev.) Spices Board with recommendation of Regional Officer.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.All spice growing States and regions in India/UT"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.Designated Officials will conduct final inspection and recommend the eligible cases."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "The facility can be used for polishing other suitable spices also and for availing assistance necessary approval may be taken from Director(Dev.) Spices Board with recommendation of Regional Officer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isfepqisaradocphipfsclctw"
+}

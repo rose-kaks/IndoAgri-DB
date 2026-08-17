@@ -1,0 +1,258 @@
+{
+  "_id": "65cb397fcd96dc5e07519cb6",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Plant",
+        "Garden",
+        "Coconut",
+        "Seed",
+        "Financial Assistance",
+        "Farmer"
+      ],
+      "schemeName": "Replanting & Rejuvenation of Coconut Garden\" by the Coconut Development Board",
+      "schemeShortTitle": "RRCGCDB",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Wildlife and biodiversity",
+          "label": "Wildlife and biodiversity"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "rrcgcdb",
+      "briefDescription": "Through the scheme “Replanting & Rejuvenation of Coconut Garden (R&R)\" by the Coconut Development Board, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the cutting & removal, replanting, and for integrated management practices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Standard Operating Procedure",
+          "url": "https://agri.py.gov.in/sites/default/files/schemes/Horticulture%20SOP.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Through the scheme “Replanting & Rejuvenation of Coconut Garden (R&R)\" by the Coconut Development Board, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the cutting & removal, replanting, and for integrated management practices.",
+      "detailedDescription_md": "The scheme “Replanting &amp; Rejuvenation of Coconut Garden (R&amp;R)&quot; by the Coconut Development Board was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the cutting &amp; removal, replanting, and for integrated management practices.\n",
+      "benefits_md": "\n- **Cutting &amp; Removal** @ ₹ 1,000/‐ per palm subject to a maximum of ₹ 32,000/ per hectare.  - **Assistance for Replanting** @ ₹ 40 per seedling subject to a maximum of ₹ 4,000.- **Integrated Management Practices** @ ₹ 17,500/‐ per hectare in two annual installments, for upto 4 hectares per farmer.- Seasonality: Annually.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Replanting & Rejuvenation of Coconut Garden (R&R)\" by the Coconut Development Board was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the cutting & removal, replanting, and for integrated management practices."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cutting & Removal",
+                  "bold": true
+                },
+                {
+                  "text": " @ ₹ 1,000/‐ per palm subject to a maximum of ₹ 32,000/ per hectare.  "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for Replanting",
+                  "bold": true
+                },
+                {
+                  "text": " @ ₹ 40 per seedling subject to a maximum of ₹ 4,000."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Integrated Management Practices",
+                  "bold": true
+                },
+                {
+                  "text": " @ ₹ 17,500/‐ per hectare in two annual installments, for upto 4 hectares per farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Seasonality: Annually."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/emailcontact.html",
+                "children": [
+                  {
+                    "text": "Uzhavar Udhaviyagam (Farmers' Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)"
+                  }
+                ]
+              },
+              {
+                "text": " and request a hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the Agricultural Officer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Uzhavar Udhaviyagam (Farmers&#39; Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)](https://agri.py.gov.in/emailcontact.html) and request a hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf) of the application form from the Agricultural Officer.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "All categories of coconut farmers with farmer&#39;s identity cards/ authenticated land records/documents are eligible.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All categories of coconut farmers with farmer's identity cards/ authenticated land records/documents are eligible."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rrcgcdb"
+}

@@ -1,0 +1,259 @@
+{
+  "_id": "66d83afc926d5490dea2dbab",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Seed Distribution",
+        "Gypsum",
+        "Oil Seeds",
+        "Subsidy"
+      ],
+      "schemeName": "Distribution of Gypsum-Oil Seeds",
+      "schemeShortTitle": "DOGOS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 3333332,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "dogos",
+      "briefDescription": "The \"Distribution of Gypsum-Oil Seeds\" scheme provides a subsidy on the cost of gypsum material and transportation cost, to farmers who produce and supply Foundation and Certified Class seeds.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/7618"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The \"Distribution of Gypsum-Oil Seeds\" scheme provides a subsidy on the cost of gypsum material and transportation cost, to farmers who produce and supply Foundation and Certified Class seeds.\n\n",
+      "detailedDescription_md": "The “Distribution of Gypsum-Oil Seeds” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides financial assistance to farmers by subsidizing 50% of the cost of gypsum material and transportation costs. The subsidy is available to farmers who produce and supply Foundation and Certified Class seeds to the Department of Agriculture.\n",
+      "benefits_md": "**Financial Assistance:** 50% of the cost of material plus transport limited to ₹750/- per ha whichever is less.\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Distribution of Gypsum-Oil Seeds” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides financial assistance to farmers by subsidizing 50% of the cost of gypsum material and transportation costs. The subsidy is available to farmers who produce and supply Foundation and Certified Class seeds to the Department of Agriculture."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Financial Assistance: ",
+              "bold": true
+            },
+            {
+              "text": "50% of the cost of material plus transport limited to ₹750/- per ha whichever is less."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Collect the application form from the nearest Agricultural Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the form to the concerned office:"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Village Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the application to the Assistant Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Block Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "District Level: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit to the Joint Director of Agriculture."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n&lt;br&gt;\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be engaged in seed production.\n  - The beneficiary should produce and supply Foundation and Certified Class seeds to the Department.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a Farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a resident of Tamil Nadu."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be engaged in seed production."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should produce and supply Foundation and Certified Class seeds to the Department."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dogos"
+}

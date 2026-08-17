@@ -1,0 +1,651 @@
+{
+  "_id": "65f284a0da55878ebe2499e3",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Farming",
+        "Farmer",
+        "Khet Talai",
+        "Development"
+      ],
+      "schemeName": "Khet Talai",
+      "schemeShortTitle": "KT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "kt",
+      "briefDescription": "Under the Khet Talai scheme, the Rajasthan Government gives subsidies to the farmers on the construction of farm ponds so that the farmers can collect rainwater and irrigate their fields by making farm ponds in their fields."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+        },
+        {
+          "title": "Registration",
+          "url": "https://sso.rajasthan.gov.in/register"
+        },
+        {
+          "title": "Log In",
+          "url": "https://sso.rajasthan.gov.in/signin"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Khet Talai Yojana under the Agriculture Department of  Rajasthan Government, The biggest problem for farmers in Rajasthan is water for irrigation. One solution to this problem is a farm pond or in other words, a farm pond, by which the farmer can collect rainwater and use it for irrigation, but all the farmers get it constructed. Therefore, the state government gives a subsidy to the farmers on the construction of farm ponds so that the farmers can collect rainwater and irrigate their fields by making farm ponds in their fields.\n<br>\n\n> **Other important points**\n\n\n1. After the application, administrative approval for the construction of the farm pond will be issued by the Agriculture Department.\n1. Information about this will be received through mobile message/agriculture supervisor.\n1. Spot verification will be done by the department before and after the construction of Khet Talai.\n1. The grant amount will be deposited directly into the farmer&#39;s account.\n\n",
+      "benefits_md": "\n   1. Scheduled Caste (SC) and Scheduled Tribes (ST), small, and marginal farmers will get 70 percent of the unit cost or a maximum of ₹73,500/- on raw form pounds and 90 percent or ₹1,35,000/- on plastic lining form pounds and other category farmers. \n   1. The subsidy is available on 60 percent of the cost or a maximum of ₹63,000/- on raw form pounds and 80 percent or ₹1,20,000/- on plastic lining form pounds, whichever is less.\n\n&lt;br&gt;\n\n&gt; **The subsidy is payable only on farm ponds of a minimum 400 cubic meter capacity.**\n\n",
+      "briefDescription": "Under the Khet Talai scheme, the Rajasthan Government gives subsidies to the farmers on the construction of farm ponds so that the farmers can collect rainwater and irrigate their fields by making farm ponds in their fields.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Khet Talai Yojana under the Agriculture Department of  Rajasthan Government, The biggest problem for farmers in Rajasthan is water for irrigation. One solution to this problem is a farm pond or in other words, a farm pond, by which the farmer can collect rainwater and use it for irrigation, but all the farmers get it constructed. Therefore, the state government gives a subsidy to the farmers on the construction of farm ponds so that the farmers can collect rainwater and irrigate their fields by making farm ponds in their fields."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Other important points",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "After the application, administrative approval for the construction of the farm pond will be issued by the Agriculture Department."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Information about this will be received through mobile message/agriculture supervisor."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Spot verification will be done by the department before and after the construction of Khet Talai."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grant amount will be deposited directly into the farmer's account."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Scheduled Caste (SC) and Scheduled Tribes (ST), small, and marginal farmers will get 70 percent of the unit cost or a maximum of ₹73,500/- on raw form pounds and 90 percent or ₹1,35,000/- on plastic lining form pounds and other category farmers. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The subsidy is available on 60 percent of the cost or a maximum of ₹63,000/- on raw form pounds and 80 percent or ₹1,20,000/- on plastic lining form pounds, whichever is less."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "The subsidy is payable only on farm ponds of a minimum 400 cubic meter capacity.",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the option “"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/register",
+                "children": [
+                  {
+                    "text": "Register"
+                  }
+                ]
+              },
+              {
+                "text": "”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "  Citizen"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Select your name, the name of the head of the family and all the other members and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "ul_list",
+                        "children": [
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "A new link appear on screen, now click on new SSO link."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "SSO id will appear on screen, now create the password."
+                              }
+                            ]
+                          },
+                          {
+                            "type": "list_item",
+                            "children": [
+                              {
+                                "text": "Enter Mobile number, click on registration."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Complete the registration process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Apply",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Applicant have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/signin",
+                "children": [
+                  {
+                    "text": "official portal"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " After login, dashboard"
+              },
+              {
+                "type": "link",
+                "link": "https://sso.rajasthan.gov.in/dashboard",
+                "children": [
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “ RAJ-KISAN ” option. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " In \"Farmer\", click on \"Application Entry Request\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Enter the \"Bhamashah Family ID\"  or \"Janaadhaar\" and search.  "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " Select the person's name and scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Complete the Aadhaar Authentication and click on Get details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-8:",
+                "bold": true
+              },
+              {
+                "text": " Provide the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Pensioner Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Bank Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Disability Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Verification Details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            - Upload Documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-9:",
+                "bold": true
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, dashboard[ ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah Family ID&quot;  or &quot;Janaadhaar&quot; and search.  \n**Step-6:** Select the person&#39;s name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a Farmer.\n1. The applicant should be a native of Rajasthan.\n1. The applicant farmer should have a minimum cultivable land of 0.3 hectares at one place in his name.\n1. In the case of the joint account holder, the minimum land in one place should be 0.5 hectares.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant farmer should have a minimum cultivable land of 0.3 hectares at one place in his name."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In the case of the joint account holder, the minimum land in one place should be 0.5 hectares."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kt"
+}

@@ -1,0 +1,570 @@
+{
+  "_id": "652d0af02a298fe1b48545cd",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Tea",
+        "Plantation",
+        "Agriculture",
+        "Farmer",
+        "Subsidy"
+      ],
+      "schemeName": "Tea Development and Promotion Scheme (TDPS): Plantation Development for Small Tea Growers (PDSTG): Mechanization for Individual Small Growers",
+      "schemeShortTitle": "TDPS:PDSTG:MISG",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Infra",
+      "slug": "tdpspdstgmisg",
+      "briefDescription": "The objective of this component is to increase the production, productivity and quality of tea, overall development of small tea growers to help them move up in the value chain, sustainability of production by promoting organic tea cultivation& climate resilient tea and to make them self-reliant."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.teaboard.gov.in/pdf/Approved_modalitites_Guidelines_pdf4268.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Government of India has conveyed its approval for the Tea Board’s Scheme “Tea Development &amp;amp; Promotion Scheme” for implementation during the 15th Finance Commission (2021-26). The scheme has seven major components covering the broad areas of the Tea Board’s operation for the overall protection, growth &amp;amp; sustenance of the Indian Tea Industry.\n&lt;br&gt;\n\nThe objective of the scheme is to improve the production, productivity, and quality of Indian teas in order to remain competitive in global markets, focus on the development of the small tea growers, their collectivization for moving up in the value chain, value addition in teas for better price realization and share in export markets, explore the potential of tea grown in the North Eastern States, focus on improving the per capita consumption of tea, improving tea exports from India to high-value markets, encouraging research and development and other technological innovation to bring transparency in the entire supply chain as envisaged in the Tea Act, 1953.\n&lt;br&gt;\n\n&gt; **&amp;quot;Plantation Development for Small Tea Growers (PDSTG)&amp;quot; Component of the TDPS**\n\nThe objective of this component is to increase the production, productivity and quality of tea, overall development of small tea growers to help them move up in the value chain, sustainability of production by promoting organic tea cultivation&amp;amp; climate resilient tea and to make them self-reliant by setting up their own processing units. \n",
+      "benefits_md": "> **Equipment and Scale of Assistance** \n\n\n- **Equipment:** Pruning Machine; **Ceiling Limit (₹):** 30,000; **Other Eligibility:** One (1) Machine for each / upto 5.00 ha of tea area- **Equipment:** Mechanical Harvester; **Ceiling Limit (₹):** Single Man Harvester @ 25,000; Double Man Harvester @ 40,000; **Other Eligibility:** For each / up to 10.00 ha of tea area- **Equipment:** Power Sprayer; **Ceiling Limit (₹):** 15,000; **Other Eligibility:** For each / up to 5.00 ha of tea area- **Equipment:** Brush Cutter; **Ceiling Limit (₹):** 28,000; **Other Eligibility:** For each / up to 10.00 ha of tea area- **Equipment:** Plucking Shear; **Ceiling Limit (₹):** 550; **Other Eligibility:** For each/ up to 0.40 Ha of tea area\n<br>\n\n> **Mode of Payment**\n\nAll payments will be through electronic mode i.e., RTGS/NEFT/PFMS.\n",
+      "exclusions_md": "In the event of a change in the ownership of the tea garden before the completion of disbursement of the sanctioned subsidy amount, the transferor/seller of the tea garden shall cease to receive any further subsidy remaining to be paid by the Tea Board after the transfer/sale is affected.\n",
+      "briefDescription": "The objective of this component is to increase the production, productivity and quality of tea, overall development of small tea growers to help them move up in the value chain, sustainability of production by promoting organic tea cultivation& climate resilient tea and to make them self-reliant.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Government of India has conveyed its approval for the Tea Board’s Scheme “Tea Development & Promotion Scheme” for implementation during the 15th Finance Commission (2021-26). The scheme has seven major components covering the broad areas of the Tea Board’s operation for the overall protection, growth & sustenance of the Indian Tea Industry."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of the scheme is to improve the production, productivity, and quality of Indian teas in order to remain competitive in global markets, focus on the development of the small tea growers, their collectivization for moving up in the value chain, value addition in teas for better price realization and share in export markets, explore the potential of tea grown in the North Eastern States, focus on improving the per capita consumption of tea, improving tea exports from India to high-value markets, encouraging research and development and other technological innovation to bring transparency in the entire supply chain as envisaged in the Tea Act, 1953."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "\"Plantation Development for Small Tea Growers (PDSTG)\" Component of the TDPS",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The objective of this component is to increase the production, productivity and quality of tea, overall development of small tea growers to help them move up in the value chain, sustainability of production by promoting organic tea cultivation& climate resilient tea and to make them self-reliant by setting up their own processing units. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Equipment and Scale of Assistance ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Equipment: ",
+                  "bold": true
+                },
+                {
+                  "text": "Pruning Machine; "
+                },
+                {
+                  "text": "Ceiling Limit (₹): ",
+                  "bold": true
+                },
+                {
+                  "text": "30,000; "
+                },
+                {
+                  "text": "Other Eligibility: ",
+                  "bold": true
+                },
+                {
+                  "text": "One (1) Machine for each / upto 5.00 ha of tea area"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Equipment: ",
+                  "bold": true
+                },
+                {
+                  "text": "Mechanical Harvester; "
+                },
+                {
+                  "text": "Ceiling Limit (₹): ",
+                  "bold": true
+                },
+                {
+                  "text": "Single Man Harvester @ 25,000; Double Man Harvester @ 40,000; "
+                },
+                {
+                  "text": "Other Eligibility: ",
+                  "bold": true
+                },
+                {
+                  "text": "For each / up to 10.00 ha of tea area"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Equipment: ",
+                  "bold": true
+                },
+                {
+                  "text": "Power Sprayer; "
+                },
+                {
+                  "text": "Ceiling Limit (₹): ",
+                  "bold": true
+                },
+                {
+                  "text": "15,000; "
+                },
+                {
+                  "text": "Other Eligibility: ",
+                  "bold": true
+                },
+                {
+                  "text": "For each / up to 5.00 ha of tea area"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Equipment: ",
+                  "bold": true
+                },
+                {
+                  "text": "Brush Cutter; "
+                },
+                {
+                  "text": "Ceiling Limit (₹):",
+                  "bold": true
+                },
+                {
+                  "text": " 28,000; "
+                },
+                {
+                  "text": "Other Eligibility: ",
+                  "bold": true
+                },
+                {
+                  "text": "For each / up to 10.00 ha of tea area"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Equipment:",
+                  "bold": true
+                },
+                {
+                  "text": " Plucking Shear; "
+                },
+                {
+                  "text": "Ceiling Limit (₹):",
+                  "bold": true
+                },
+                {
+                  "text": " 550; "
+                },
+                {
+                  "text": "Other Eligibility: ",
+                  "bold": true
+                },
+                {
+                  "text": "For each/ up to 0.40 Ha of tea area"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Payment",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All payments will be through electronic mode i.e., RTGS/NEFT/PFMS."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the event of a change in the ownership of the tea garden before the completion of disbursement of the sanctioned subsidy amount, the transferor/seller of the tea garden shall cease to receive any further subsidy remaining to be paid by the Tea Board after the transfer/sale is affected."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Step 1: Registration",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://onlineapps.teaboard.gov.in/",
+                    "children": [
+                      {
+                        "text": "official portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the Tea Board."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "To create an account, click on the \"Register\" or \"Sign Up\" button. You'll be asked to provide information such as Name, date of birth, Gender, Mobile Number and Email Address."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Choose a username and password. Ensure the password meets security requirements."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After providing your details, you will receive a One-Time Password (OTP) on your registered mobile number and email. Enter the OTP to verify your identity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Step 3: Application",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Use the credentials you created during registration to log in. Once logged in, you'll access your user dashboard. Navigate to the Online Application Form of the Scheme. In the application form, fill in all the mandatory fields and upload the necessary documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Carefully review all the information provided and the documents uploaded. Make any necessary corrections."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Acknowledge and agree to the terms and conditions, declaration, and privacy policy."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click the \"Submit\" button to send your application. After the successful submission of the application, an acknowledgement will be generated by the system."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Step 4: Check Application Status",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "You can track your application status on your dashboard using the Application Reference ID."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The portal may provide updates via email or SMS regarding your application status."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE: ",
+                "bold": true
+              },
+              {
+                "text": "Only one application under each component will be considered, however, the applicant may apply for more than one activity in a single application as per the eligibility."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Fee",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "All the applications shall be accompanied by a non-refundable application fee of ₹ 100/- (Rupees one hundred only) + GST (Exempted for SC, ST, female and differently-abled persons). No application will be accepted without payment of application fees except for exempted stakeholders."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Step 1: Registration**\n\n\n1. Visit the [official portal](https://onlineapps.teaboard.gov.in/) of the Tea Board.1. To create an account, click on the &quot;Register&quot; or &quot;Sign Up&quot; button. You&#39;ll be asked to provide information such as Name, date of birth, Gender, Mobile Number and Email Address.\n1. Choose a username and password. Ensure the password meets security requirements.\n1. After providing your details, you will receive a One-Time Password (OTP) on your registered mobile number and email. Enter the OTP to verify your identity.\n\n<br>\n\n> **Step 3: Application**\n\n\n1. Use the credentials you created during registration to log in. Once logged in, you&#39;ll access your user dashboard. Navigate to the Online Application Form of the Scheme. In the application form, fill in all the mandatory fields and upload the necessary documents.\n1. Carefully review all the information provided and the documents uploaded. Make any necessary corrections.\n1. Acknowledge and agree to the terms and conditions, declaration, and privacy policy.\n1. Click the &quot;Submit&quot; button to send your application. After the successful submission of the application, an acknowledgement will be generated by the system.\n\n<br>\n\n> **Step 4: Check Application Status**\n\n\n1. You can track your application status on your dashboard using the Application Reference ID.\n1. The portal may provide updates via email or SMS regarding your application status.\n\n<br>\n\n**NOTE:** Only one application under each component will be considered, however, the applicant may apply for more than one activity in a single application as per the eligibility.\n<br>\n\n**Application Fee**\nAll the applications shall be accompanied by a non-refundable application fee of ₹ 100/- (Rupees one hundred only) + GST (Exempted for SC, ST, female and differently-abled persons). No application will be accepted without payment of application fees except for exempted stakeholders.\n"
+      },
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The physical receipt of the application in the field offices (ZO/ROs/SROs/HQ) will be permitted by the Competent Authority till such time the online platform is not ready. The Competent Authority at its discretion may accept the physical submission of the application till such time the online platform is not ready for the use of stakeholders. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "All the applications shall be accompanied by a non-refundable application fee of ₹ 100/- (Rupees one hundred only) + GST (Exempted for SC, ST, female and differently-abled persons). No application will be accepted without payment of application fees except for exempted stakeholders."
+              }
+            ]
+          }
+        ],
+        "process_md": "The physical receipt of the application in the field offices (ZO/ROs/SROs/HQ) will be permitted by the Competent Authority till such time the online platform is not ready. The Competent Authority at its discretion may accept the physical submission of the application till such time the online platform is not ready for the use of stakeholders. \n<br>\n\nAll the applications shall be accompanied by a non-refundable application fee of ₹ 100/- (Rupees one hundred only) + GST (Exempted for SC, ST, female and differently-abled persons). No application will be accepted without payment of application fees except for exempted stakeholders.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The applicants can be small tea growers including members of self-help groups and Farmers&#39; Producer Organizations.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicants can be small tea growers including members of self-help groups and Farmers' Producer Organizations."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tdpspdstgmisg"
+}

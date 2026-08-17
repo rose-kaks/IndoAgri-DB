@@ -1,0 +1,430 @@
+{
+  "_id": "6421b8fc81977024cd596cf1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Goat Farming Scheme",
+        "Animal Husbandry",
+        "Financial Assistance",
+        "Rural Development"
+      ],
+      "schemeName": "Krishak Bakri Palan Yojna",
+      "schemeShortTitle": "KBPYY",
+      "implementingAgency": "Department Of Animal Husbandry",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 2,
+        "label": "Himachal Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 21111113,
+        "label": "Animal Husbandry Department, Himachal Pradesh"
+      },
+      "schemeFor": "Individual",
+      "slug": "kbpyy",
+      "briefDescription": "The Department of Animal Husbandry, Government of Himachal Pradesh has introduced a scheme named \"Krishak Bakri Palan Yojna\" with the aim to increase income generation opportunities for economically weaker segments of the society as well as to increase meat production."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Department of Animal Husbandry, Government of Himachal Pradesh has introduced a scheme named &amp;quot;**Krishak Bakri Palan Yojna**&amp;quot; with the aim to increase income generation opportunities for economically weaker segments of the society as well as to increase meat production. Goat farming is a traditional occupation of economically weaker segments of the society (small and marginal farmers, mainly nomads and landless laborer&amp;#39;s) in Himachal Pradesh. This species is considered to be major source of economic sustenance for these categories of people. Adaptability of goats to wide range of agro climatic conditions has rendered it suitable for poor farmers. Under this scheme it has been proposed to distribute units of 11 goats (10 females +1male), 5 goats (4 females +1 male) and 3 goats (2 females +1 male) of Beetal/Sirohi/Jamanapari/White Himalayan breeds on 60% subsidy.\n**Objectives of this scheme:**\n\n   1. **Increase Income Generation:** The scheme aims to enhance income generation opportunities for economically weaker sections through goat farming.   1. **Boost Meat Production:** By providing high-quality goat breeds, the scheme aims to increase meat production in the state.   1. **Support Economically Disadvantaged Families:** The scheme offers a 60% subsidy on goat units, making it easier for financially weaker families to start goat farming.   1. **Promote Rural Development:** Encouraging goat farming contributes to the overall development of rural areas in Himachal Pradesh.   1. **Ensure Sustainable Livelihoods:** The scheme provides a sustainable livelihood to small farmers and landless laborers, reducing their economic vulnerability.\n",
+      "benefits_md": "\n1. **Financial Assistance:** Farmers receive goat units on a 60% subsidy, significantly reducing the initial investment required for goat farming.1. **Improved Livelihoods:** The scheme helps improve the livelihoods of small farmers by providing a steady source of income through goat farming.1. **Increased Meat Production:** By distributing high-quality goat breeds, the scheme boosts meat production in the state, contributing to the local economy.1. **Sustainable Farming Practices:** The scheme promotes sustainable farming practices, ensuring long-term economic benefits for farmers.1. **Empowerment of Marginalized Communities:** By targeting economically weaker sections, the scheme empowers marginalized communities, promoting social and economic inclusion.\n<br>\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The Department of Animal Husbandry, Government of Himachal Pradesh has introduced a scheme named \"Krishak Bakri Palan Yojna\" with the aim to increase income generation opportunities for economically weaker segments of the society as well as to increase meat production.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Department of Animal Husbandry, Government of Himachal Pradesh has introduced a scheme named \""
+                },
+                {
+                  "text": "Krishak Bakri Palan Yojna",
+                  "bold": true
+                },
+                {
+                  "text": "\" with the aim to increase income generation opportunities for economically weaker segments of the society as well as to increase meat production. Goat farming is a traditional occupation of economically weaker segments of the society (small and marginal farmers, mainly nomads and landless laborer's) in Himachal Pradesh. This species is considered to be major source of economic sustenance for these categories of people. Adaptability of goats to wide range of agro climatic conditions has rendered it suitable for poor farmers. Under this scheme it has been proposed to distribute units of 11 goats (10 females +1male), 5 goats (4 females +1 male) and 3 goats (2 females +1 male) of Beetal/Sirohi/Jamanapari/White Himalayan breeds on 60% subsidy."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objectives of this scheme:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Increase Income Generation:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The scheme aims to enhance income generation opportunities for economically weaker sections through goat farming."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Boost Meat Production:",
+                      "bold": true
+                    },
+                    {
+                      "text": " By providing high-quality goat breeds, the scheme aims to increase meat production in the state."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Support Economically Disadvantaged Families:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The scheme offers a 60% subsidy on goat units, making it easier for financially weaker families to start goat farming."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Promote Rural Development:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Encouraging goat farming contributes to the overall development of rural areas in Himachal Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Ensure Sustainable Livelihoods:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The scheme provides a sustainable livelihood to small farmers and landless laborers, reducing their economic vulnerability."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Assistance:",
+                  "bold": true
+                },
+                {
+                  "text": " Farmers receive goat units on a 60% subsidy, significantly reducing the initial investment required for goat farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Improved Livelihoods: ",
+                  "bold": true
+                },
+                {
+                  "text": "The scheme helps improve the livelihoods of small farmers by providing a steady source of income through goat farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increased Meat Production:",
+                  "bold": true
+                },
+                {
+                  "text": " By distributing high-quality goat breeds, the scheme boosts meat production in the state, contributing to the local economy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sustainable Farming Practices:",
+                  "bold": true
+                },
+                {
+                  "text": " The scheme promotes sustainable farming practices, ensuring long-term economic benefits for farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Empowerment of Marginalized Communities:",
+                  "bold": true
+                },
+                {
+                  "text": " By targeting economically weaker sections, the scheme empowers marginalized communities, promoting social and economic inclusion."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Visit the official "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna",
+                        "children": [
+                          {
+                            "text": "website",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": " of the Department of Animal Husbandry."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "On reading the detailed guidelines, if the eligibility criteria meets, the applicant may scroll down the page and click on the checkbox \"I am agree with the terms & Conditions\" and then click \"Apply Now\" button."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "On clicking, online "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://hpahdbt.hp.gov.in/Home/registrationformbakripalan",
+                        "children": [
+                          {
+                            "text": "application form",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": " will open."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant fills the complete form by uploading the required documents and click submit."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n   1. Visit the official [**website**](https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna) of the Department of Animal Husbandry.   1. On reading the detailed guidelines, if the eligibility criteria meets, the applicant may scroll down the page and click on the checkbox &amp;quot;I am agree with the terms &amp;amp; Conditions&amp;quot; and then click &amp;quot;Apply Now&amp;quot; button.\n   1. On clicking, online [**application form**](https://hpahdbt.hp.gov.in/Home/registrationformbakripalan) will open.   1. The applicant fills the complete form by uploading the required documents and click submit.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Farmers belonging to all categories like general/SC/ST/BPL/Women and Landless persons of Himachal Pradesh are eligible. \n   1. Training/awareness in skills of goat husbandry is mandatory for all applicants. Concerned Senior Veterinary Officer will provide training to interested persons/applicants.\n   1. Training/awareness in skills of goat husbandry is mandatory for all applicants. Concerned Senior Veterinary Officer will provide training to interested persons/applicants.\n\n**The preference will be given to:**\n\n   1. Unemployed SC, ST, Women and General category persons. At least 30 percent beneficiaries should be women.\n   1. Families where no member is in Government job.\n   1. Persons with annual income not exceeding 2 lakh per annum.\n   1. Persons/farmers who have built their own goat sheds or built under MGNREGA.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers belonging to all categories like general/SC/ST/BPL/Women and Landless persons of Himachal Pradesh are eligible. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training/awareness in skills of goat husbandry is mandatory for all applicants. Concerned Senior Veterinary Officer will provide training to interested persons/applicants."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training/awareness in skills of goat husbandry is mandatory for all applicants. Concerned Senior Veterinary Officer will provide training to interested persons/applicants."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The preference will be given to:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Unemployed SC, ST, Women and General category persons. At least 30 percent beneficiaries should be women."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Families where no member is in Government job."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Persons with annual income not exceeding 2 lakh per annum."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Persons/farmers who have built their own goat sheds or built under MGNREGA."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kbpyy"
+}

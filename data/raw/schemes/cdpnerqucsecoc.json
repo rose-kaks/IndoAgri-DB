@@ -1,0 +1,280 @@
+{
+  "_id": "654db6a05838968fc389192e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification",
+      "schemeShortTitle": "CDPNER:QUC:SECOC",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "slug": "cdpnerqucsecoc",
+      "briefDescription": "The scheme aims to encourage coffee growers to improve quality for higher returns and improve access to high-value specialty markets through the production of eco-certified coffees. It also encourages small growers to form groups/collectives to take up eco-certification."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines, Application And Declaration Form",
+          "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+        },
+        {
+          "title": "Grower's Registration (UMANG)",
+          "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://coffeeboard.gov.in/contact-us.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification&quot; is a Sub-Component of the Scheme &quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to encourage coffee growers to improve quality for higher returns and improve access to high-value specialty markets through the production of eco-certified coffees. An allied objective of this scheme is to encourage small growers to form groups/collectives for taking up eco-certification that will facilitate the creation of common facilities in the future.\n",
+      "benefits_md": "> **Scale of Subsidy**\n\n**For Organic Certification:** 75% of the certification cost spread over 3 years or the Conversion period, whichever is less during the MTF period.\n**For Other Eco-Certifications:** 75% of the certification cost for one year during the MTF period.\n**NOTE:** This incentive is provided only as backend support for those who obtain certification of their estates. However, in the case of organic certification, the costs incurred towards certification during in-conversion period are also eligible for support.\n",
+      "briefDescription": "The scheme aims to encourage coffee growers to improve quality for higher returns and improve access to high-value specialty markets through the production of eco-certified coffees. It also encourages small growers to form groups/collectives to take up eco-certification.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to encourage coffee growers to improve quality for higher returns and improve access to high-value specialty markets through the production of eco-certified coffees. An allied objective of this scheme is to encourage small growers to form groups/collectives for taking up eco-certification that will facilitate the creation of common facilities in the future."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Scale of Subsidy",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Organic Certification: ",
+              "bold": true
+            },
+            {
+              "text": "75% of the certification cost spread over 3 years or the Conversion period, whichever is less during the MTF period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Other Eco-Certifications: ",
+              "bold": true
+            },
+            {
+              "text": "75% of the certification cost for one year during the MTF period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "This incentive is provided only as backend support for those who obtain certification of their estates. However, in the case of organic certification, the costs incurred towards certification during in-conversion period are also eligible for support."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Procedure for Claiming Subsidy",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Certification Completion and Documentation",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After obtaining certification by the accredited certification body/agency, the SHG/growers' group of tribal growers shall submit the following documents to the concerned office of the JLO/SLO of the Coffee Board."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Submission to Coffee Board Office",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The concerned JLO/SLO will scrutinize the documents, carry out field inspection for verification of books and records."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Review and Verification",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The JLO/SLO shall forward the claim along with the Physical Verification Report and other relevant records to the concerned Deputy Director (Extn)/Joint Director (Extn)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Approval and Subsidy Disbursement",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Deputy Director (Extn.)/Joint Director (Extn) after scrutinizing the claim and records and on confirmation about the admissibility of the claim in all respects will release the subsidy amount to the beneficiary."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Procedure for Claiming Subsidy**\n\n**Step 1: Certification Completion and Documentation**\nAfter obtaining certification by the accredited certification body/agency, the SHG/growers&#39; group of tribal growers shall submit the following documents to the concerned office of the JLO/SLO of the Coffee Board.\n**Step 2: Submission to Coffee Board Office**\nThe concerned JLO/SLO will scrutinize the documents, carry out field inspection for verification of books and records.\n**Step 3: Review and Verification**\nThe JLO/SLO shall forward the claim along with the Physical Verification Report and other relevant records to the concerned Deputy Director (Extn)/Joint Director (Extn).\n**Step 4: Approval and Subsidy Disbursement**\nThe Deputy Director (Extn.)/Joint Director (Extn) after scrutinizing the claim and records and on confirmation about the admissibility of the claim in all respects will release the subsidy amount to the beneficiary.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicants should be SHGs/collectives of tribal growers who obtain certification of their plantations for various sustainability and quality standards.\n1. The applicant can access support only for certification of estates as per Organic, Fair Trade, Rainforest Alliance, UTZ Certified, Bird friendly/Shade grown coffee standards, or any other certification programs equivalent to the above programs.\n1. The applicant claiming support for Eco/organic certification should have been certified as per the National Programme for Organic Production (NPOP) standards, even if they are certified as per various international standards like EU Regulation, NOP (National Organic Programme of USA), JAS (Japanese Agriculture Standards), etc.\n1. The applicant should obtain the Certificate only from the Certification Agencies accredited by the respective Certification Programmes during the MTF period.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicants should be SHGs/collectives of tribal growers who obtain certification of their plantations for various sustainability and quality standards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant can access support only for certification of estates as per Organic, Fair Trade, Rainforest Alliance, UTZ Certified, Bird friendly/Shade grown coffee standards, or any other certification programs equivalent to the above programs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant claiming support for Eco/organic certification should have been certified as per the National Programme for Organic Production (NPOP) standards, even if they are certified as per various international standards like EU Regulation, NOP (National Organic Programme of USA), JAS (Japanese Agriculture Standards), etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should obtain the Certificate only from the Certification Agencies accredited by the respective Certification Programmes during the MTF period."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cdpnerqucsecoc"
+}

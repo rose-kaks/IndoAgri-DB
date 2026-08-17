@@ -1,0 +1,338 @@
+{
+  "_id": "65cddbfeed4030e118da6e07",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Subsidy",
+        "Cultivation",
+        "Fodder",
+        "Farmer",
+        "Agriculture"
+      ],
+      "schemeName": "\"Subsidy for Cultivation of Fodder Crops\" Component of the \"Crop Production Technology\" Scheme",
+      "schemeShortTitle": "SCFC-CPT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "scfc-cpt",
+      "briefDescription": "The \"Subsidy for Cultivation of Fodder Crops\" scheme was introduced by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Citizen's Charter",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://agri.py.gov.in/sites/default/files/forms/Fodder.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The \"Subsidy for Cultivation of Fodder Crops\" scheme was introduced by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region.",
+      "detailedDescription_md": "The &quot;Subsidy for Cultivation of Fodder Crops&quot; component of the &quot;Crop Production Technology&quot; scheme was introduced by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region.\n",
+      "benefits_md": "Cash Incentives @ ₹12,500/hectare.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Subsidy for Cultivation of Fodder Crops\" component of the \"Crop Production Technology\" scheme was introduced by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cash Incentives @ ₹12,500/hectare."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the prescribed format of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Agricultural Officers ("
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://agri.py.gov.in/emailcontact.html",
+                    "children": [
+                      {
+                        "text": "Uzhavar Udhaviyagam"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ")."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://agri.py.gov.in/emailcontact.html",
+                    "children": [
+                      {
+                        "text": "Office "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "of the Deputy Director of Agriculture (Inputs), Thattanchavady."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+                    "children": [
+                      {
+                        "text": "Office "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "of the Deputy Director of Agriculture (T&V), Bahour, Villianur, Madagadipet."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+                    "children": [
+                      {
+                        "text": "Office"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the Joint Director of Agriculture (T&V), Bahour, Villianur."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "OR"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The interested applicant should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/forms/Fodder.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " "
+              },
+              {
+                "type": "link",
+                "link": "https://wcd.py.gov.in/sites/default/files/wcdmarrigeofpoorbride.pdf",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "text": "of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 2: "
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the prescribed format of the application form from the concerned authority.\n\n- Agricultural Officers ([Uzhavar Udhaviyagam](https://agri.py.gov.in/emailcontact.html)).- [Office ](https://agri.py.gov.in/emailcontact.html)of the Deputy Director of Agriculture (Inputs), Thattanchavady.- [Office ](https://agri.py.gov.in/sites/default/files/citchart/response.pdf)of the Deputy Director of Agriculture (T&amp;V), Bahour, Villianur, Madagadipet.- [Office](https://agri.py.gov.in/sites/default/files/citchart/response.pdf) of the Joint Director of Agriculture (T&amp;V), Bahour, Villianur.\nOR\nThe interested applicant should take print of the [prescribed format](https://agri.py.gov.in/sites/default/files/forms/Fodder.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a resident/native of Puducherry.\n- The applicant should be residing in the Puducherry region.\n- The applicant should be a Farmer.\n- The applicant should be cultivating fodder in the Puducherry region.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident/native of Puducherry."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be residing in the Puducherry region."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be cultivating fodder in the Puducherry region."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "scfc-cpt"
+}

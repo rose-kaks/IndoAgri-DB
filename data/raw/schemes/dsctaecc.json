@@ -1,0 +1,302 @@
+{
+  "_id": "65439c49ca66628dc29d1116",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Coffee",
+        "Farmer",
+        "Agriculture",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "Development Support for Coffee in Traditional Areas: Eco-certification of Coffee",
+      "schemeShortTitle": "DSCTA:ECC",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "slug": "dsctaecc",
+      "briefDescription": "The objective of this scheme is to enable coffee growers to access high-value specialty markets and earn better returns by producing eco-certified coffee that meets established environmental and quality standards, ensuring transparency about the conditions under which the coffee is produced."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines & Application Form",
+          "url": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf"
+        },
+        {
+          "title": "Grower's Registration (UMANG)",
+          "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Development Support for Coffee in Traditional Areas: Eco-certification of Coffee&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to encourage coffee growers to access high-value specialty markets through production of eco-certified coffees so as to realize higher returns by adhering to a set of standards which help in communication of quality, traceability, social, environmental and financial conditions surrounding the production of coffee.\n",
+      "benefits_md": "> **Extent of Support/ Subsidy**\n\n**Certification Support:** 50% of the certification cost, subject to a maximum of ₹50,000 (Rupees 50,000) per individual grower/grower groups. In the case of Organic certification, spread over a period of 3 years or the conversion period, whichever is less; in the case of other certificates, one year, during the Mission for Integrated Development of Horticulture (MIDH) period.\n**Additional Support for SC/ST Community:** Individual coffee growers belonging to the Scheduled Caste/Scheduled Tribe (SC/ST) community with a coffee holding size of up to 4.00 hectares are eligible for an additional 10% of the certification cost, subject to a maximum of ₹55,000 (Rupees 55,000) per grower during the MIDH period.\n",
+      "briefDescription": "The objective of this scheme is to enable coffee growers to access high-value specialty markets and earn better returns by producing eco-certified coffee that meets established environmental and quality standards, ensuring transparency about the conditions under which the coffee is produced.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Development Support for Coffee in Traditional Areas: Eco-certification of Coffee\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to encourage coffee growers to access high-value specialty markets through production of eco-certified coffees so as to realize higher returns by adhering to a set of standards which help in communication of quality, traceability, social, environmental and financial conditions surrounding the production of coffee."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Extent of Support/ Subsidy",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Certification Support: ",
+              "bold": true
+            },
+            {
+              "text": "50% of the certification cost, subject to a maximum of ₹50,000 (Rupees 50,000) per individual grower/grower groups. In the case of Organic certification, spread over a period of 3 years or the conversion period, whichever is less; in the case of other certificates, one year, during the Mission for Integrated Development of Horticulture (MIDH) period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Additional Support for SC/ST Community: ",
+              "bold": true
+            },
+            {
+              "text": "Individual coffee growers belonging to the Scheduled Caste/Scheduled Tribe (SC/ST) community with a coffee holding size of up to 4.00 hectares are eligible for an additional 10% of the certification cost, subject to a maximum of ₹55,000 (Rupees 55,000) per grower during the MIDH period."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Procedure for Claiming Subsidy",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Application Submission: ",
+                "bold": true
+              },
+              {
+                "text": "After obtaining certification from an accredited certification body/agency, the grower/grower groups must submit their application along with a copy of the certificate and other relevant documents to the concerned jurisdictional Coffee Board office during the same financial year as the completion of the activity, as far as possible."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Document Scrutiny: ",
+                "bold": true
+              },
+              {
+                "text": "The concerned office will scrutinize the documents and conduct field inspections to verify books and records."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Forwarding the Claim: ",
+                "bold": true
+              },
+              {
+                "text": "The Joint Liaison Officer (JLO) / State Liaison Officer (SLO) shall forward the claim along with the Physical Verification Report and other relevant records to the concerned Deputy Director (Extn)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Subsidy Release:",
+                "bold": true
+              },
+              {
+                "text": " The Deputy Director (Extn.), after scrutinizing the claim and records and confirming the admissibility of the claim in all respects, will release the subsidy amount to the beneficiary's bank account through National Electronic Funds Transfer (NEFT)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE: ",
+                "bold": true
+              },
+              {
+                "text": "This incentive provides backend support only to those who obtain certification for their estates."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Procedure for Claiming Subsidy**\n\n**Step 1: Application Submission:** After obtaining certification from an accredited certification body/agency, the grower/grower groups must submit their application along with a copy of the certificate and other relevant documents to the concerned jurisdictional Coffee Board office during the same financial year as the completion of the activity, as far as possible.\n**Step 2: Document Scrutiny:** The concerned office will scrutinize the documents and conduct field inspections to verify books and records.\n**Step 3: Forwarding the Claim:** The Joint Liaison Officer (JLO) / State Liaison Officer (SLO) shall forward the claim along with the Physical Verification Report and other relevant records to the concerned Deputy Director (Extn).\n**Step 4: Subsidy Release:** The Deputy Director (Extn.), after scrutinizing the claim and records and confirming the admissibility of the claim in all respects, will release the subsidy amount to the beneficiary&#39;s bank account through National Electronic Funds Transfer (NEFT).\n**NOTE:** This incentive provides backend support only to those who obtain certification for their estates.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The individual grower should own up to 10 hectares of coffee holding.\n1. The group of small growers such as SHGs or collectives should obtain certification for sustainability and quality standards.\n1. The grower should not have availed subsidy for the same activity during the Mission for Integrated Development of Horticulture period unless new beneficiaries are covered.\n1. The grower or group should obtain certification under recognized programs such as Organic, Fair Trade, Rainforest Alliance, UTZ Certified, or Bird Friendly/Shade Grown coffee standards.\n1. The grower claiming support for organic certification should be certified under the National Programme for Organic Production standards.\n1. The grower or group should obtain certification only from agencies accredited by the respective certification programs.\n1. The non-tribal grower in non-traditional areas should have a coffee holding of up to 10 hectares.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The individual grower should own up to 10 hectares of coffee holding."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The group of small growers such as SHGs or collectives should obtain certification for sustainability and quality standards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grower should not have availed subsidy for the same activity during the Mission for Integrated Development of Horticulture period unless new beneficiaries are covered."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grower or group should obtain certification under recognized programs such as Organic, Fair Trade, Rainforest Alliance, UTZ Certified, or Bird Friendly/Shade Grown coffee standards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grower claiming support for organic certification should be certified under the National Programme for Organic Production standards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grower or group should obtain certification only from agencies accredited by the respective certification programs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The non-tribal grower in non-traditional areas should have a coffee holding of up to 10 hectares."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dsctaecc"
+}

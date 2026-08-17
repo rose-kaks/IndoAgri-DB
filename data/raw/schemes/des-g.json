@@ -1,0 +1,474 @@
+{
+  "_id": "6911ccecebc4cde4e98e4605",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Dairy",
+        "Subsidy",
+        "Equipment",
+        "Livestock",
+        "Agriculture",
+        "Machinery"
+      ],
+      "schemeName": "Dairy Equipment Scheme",
+      "schemeShortTitle": "DES-G",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "nodalDepartmentName": {
+        "value": 30000003,
+        "label": "Animal Husbandry & Veterinary Services Department"
+      },
+      "slug": "des-g",
+      "briefDescription": "The scheme aims to help Goan dairy farmers purchase essential equipment by offering a 75% subsidy on approved dairy machinery, promoting efficiency and productivity in dairy farming."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://goaprintingpress.gov.in/downloads/1920/1920-16-SI-OG-0.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Dairy Equipment Scheme” was launched by the Directorate of Animal Husbandry and Veterinary Services, Government of Goa. The scheme aims to assist farmers in procuring dairy equipment, reduce manual labour, and give a boost to the dairy industry. It addresses the practical difficulties faced by dairy farmers in purchasing essential equipment and aims to mechanise dairy operations. The scheme provides financial assistance in the form of a subsidy of 75% of the permissible cost for purchasing new dairy equipment, subject to a maximum limit. The applications are accepted offline through local Veterinary Officers or Assistant Directors.\n<br>\n\n",
+      "benefits_md": "\n- Subsidy provided for the purchase of new dairy equipment or implements.\n- Subsidy at 75% of the permissible cost limited to ₹2,00,000/- on total equipment purchased.\n- Equipment permissible cost ranges between ₹180/- and ₹70,000/- per unit as per category and quantity of milch animals owned.\n- Maximum total subsidy limited to ₹2,00,000/- per beneficiary.\n- Subsidy amount is directly credited to the beneficiary’s bank account through Electronic Clearance System (ECS).\n\n_*Subsidy is available only for new equipment that is not previously subsidised under any other Government scheme._\n_*Subsidy applicable for equipment purchased from authorised dealers registered with the Directorate of Animal Husbandry and Veterinary Services, Government of Goa._\n<br>\n\n> ***Conditions for Availment***\n\n\n- Purchase approval from Directorate, submission of bills, photographs of installed equipment, and adherence to scheme guidelines.\n- Beneficiary must maintain the equipment and not sell or transfer it for at least 42 months (3.5 years) from the date of subsidy release.\n\n_*Breach of terms permits Government to recover subsidy through other incentives or revenue code._\n<br>\n\n",
+      "exclusions_md": "Subsidy is not available for equipment that are previously subsidised under any other Government scheme.\n<br>\n\n",
+      "briefDescription": "The scheme aims to help Goan dairy farmers purchase essential equipment by offering a 75% subsidy on approved dairy machinery, promoting efficiency and productivity in dairy farming.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Dairy Equipment Scheme” was launched by the Directorate of Animal Husbandry and Veterinary Services, Government of Goa. The scheme aims to assist farmers in procuring dairy equipment, reduce manual labour, and give a boost to the dairy industry. It addresses the practical difficulties faced by dairy farmers in purchasing essential equipment and aims to mechanise dairy operations. The scheme provides financial assistance in the form of a subsidy of 75% of the permissible cost for purchasing new dairy equipment, subject to a maximum limit. The applications are accepted offline through local Veterinary Officers or Assistant Directors."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy provided for the purchase of new dairy equipment or implements."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy at 75% of the permissible cost limited to ₹2,00,000/- on total equipment purchased."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Equipment permissible cost ranges between ₹180/- and ₹70,000/- per unit as per category and quantity of milch animals owned."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum total subsidy limited to ₹2,00,000/- per beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy amount is directly credited to the beneficiary’s bank account through Electronic Clearance System (ECS)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Subsidy is available only for new equipment that is not previously subsidised under any other Government scheme.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Subsidy applicable for equipment purchased from authorised dealers registered with the Directorate of Animal Husbandry and Veterinary Services, Government of Goa.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Conditions for Availment",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Purchase approval from Directorate, submission of bills, photographs of installed equipment, and adherence to scheme guidelines."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary must maintain the equipment and not sell or transfer it for at least 42 months (3.5 years) from the date of subsidy release."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Breach of terms permits Government to recover subsidy through other incentives or revenue code.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy is not available for equipment that are previously subsidised under any other Government scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The interested applicant should take a printout of the "
+              },
+              {
+                "type": "link",
+                "link": "https://goaprintingpress.gov.in/downloads/1920/1920-16-SI-OG-0.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the local Veterinary Officer or Assistant Director."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Post-Application Processes",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The concerned Officer verifies the documents and forwards the application to the Directorate of Animal Husbandry & Veterinary Services, Patto, Panaji within 30 days of receipt."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Upon approval by the Directorate, the applicant receives permission to purchase the equipment. The approval remains valid for one year."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The beneficiary purchases the approved equipment from authorised dealers and submits original purchase receipts and certified photographs to the local Officer within 90 days."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The local Officer verifies the installation and forwards verified bills and photographs to the Head Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The Directorate processes the claim and releases the subsidy directly to the beneficiary’s bank account within a maximum period of 60 days."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The local Officer maintains a register of all equipment purchased under the scheme for record and audit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should take a printout of the [prescribed format](https://goaprintingpress.gov.in/downloads/1920/1920-16-SI-OG-0.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the local Veterinary Officer or Assistant Director.\n##### ***Post-Application Processes***\n**Step 1:** The concerned Officer verifies the documents and forwards the application to the Directorate of Animal Husbandry &amp; Veterinary Services, Patto, Panaji within 30 days of receipt.\n**Step 2:** Upon approval by the Directorate, the applicant receives permission to purchase the equipment. The approval remains valid for one year.\n**Step 3:** The beneficiary purchases the approved equipment from authorised dealers and submits original purchase receipts and certified photographs to the local Officer within 90 days.\n**Step 4:** The local Officer verifies the installation and forwards verified bills and photographs to the Head Office.\n**Step 5:** The Directorate processes the claim and releases the subsidy directly to the beneficiary’s bank account within a maximum period of 60 days.\n**Step 6:** The local Officer maintains a register of all equipment purchased under the scheme for record and audit.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a farmer owning dairy milch animals.\n- The applicant must be a bona fide resident of Goa for at least the preceding 5 years.\n- The applicant must own cattle shed with milch animals within the State of Goa.\n- The applicant must not have claimed subsidy for the same items under any other scheme.\n- The applicant must obtain prior approval from the Directorate before purchasing the equipment.\n- The applicant must purchase only new equipment from authorised registered dealers located in Goa offering after-sales services.\n\n**Eligible Equipment:** Generator Set, Chaff Cutter, Animal Shed Washer, Spray Pump, Dehorner, Hoof Trimmer, Hoof Trimming Knife Set, Milking Machine (Single or Double Cluster), Cluster Can Assembly, Calf Nipple Bucket, Treatment Crate, Milk Cans, Nylon Ropes, Fans for Cow Shed, Pvc Pipeline for Dung Disposal, Wheelbarrow, Water Storage Tank, Sickles, Pickaxe, Gamelas, Rubber Mats, Wall-mounted or Pedestal Industrial Fans.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer owning dairy milch animals."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a bona fide resident of Goa for at least the preceding 5 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must own cattle shed with milch animals within the State of Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not have claimed subsidy for the same items under any other scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must obtain prior approval from the Directorate before purchasing the equipment."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must purchase only new equipment from authorised registered dealers located in Goa offering after-sales services."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligible Equipment:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Generator Set, Chaff Cutter, Animal Shed Washer, Spray Pump, Dehorner, Hoof Trimmer, Hoof Trimming Knife Set, Milking Machine (Single or Double Cluster), Cluster Can Assembly, Calf Nipple Bucket, Treatment Crate, Milk Cans, Nylon Ropes, Fans for Cow Shed, Pvc Pipeline for Dung Disposal, Wheelbarrow, Water Storage Tank, Sickles, Pickaxe, Gamelas, Rubber Mats, Wall-mounted or Pedestal Industrial Fans."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "des-g"
+}

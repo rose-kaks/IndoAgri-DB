@@ -1,0 +1,1036 @@
+{
+  "_id": "63eb4d0ce641c9fd5c75d94f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "APMC",
+        "Electronic Trading",
+        "E-payment",
+        "E-bidding"
+      ],
+      "schemeName": "National Agriculture Market",
+      "schemeShortTitle": "E-NAM",
+      "implementingAgency": "Small Farmers Agri Business Consortium",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2016-04-14",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 511,
+        "label": "Department of Agriculture and Cooperation"
+      },
+      "slug": "e-nam",
+      "briefDescription": "Launched on 14th April 2016, e-NAM is a pan-India electronic trading platform that links existing mandis to create a unified online market for agricultural commodities, promoting “One Nation One Market” and enabling transparent, efficient, and nationwide agri-trade."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://enam.gov.in/web/docs/namguidelines.pdf"
+        },
+        {
+          "title": "Registration",
+          "url": "https://enam.gov.in/web/resources/registration-guideline"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;e-National Agriculture Market (e-NAM)&quot; is a pan-India electronic trading platform launched on 14th April 2016 to integrate APMC mandis across the country under the “One Nation One Market” initiative. Implemented by the Small Farmers Agribusiness Consortium (SFAC) under the Ministry of Agriculture and Farmers’ Welfare, the platform provides online trading facilities for agricultural commodities. It offers services such as commodity arrival information, quality assaying, e-bidding, and direct e-payment to farmers through a single-window system. The scheme aims to improve transparency, efficiency, and better price discovery in agricultural marketing. In Jammu &amp; Kashmir, 11 mandis have been integrated with the e-NAM platform since May 2020.\n<br>\n\n",
+      "benefits_md": ">  **For Farmers:**\n\n\n- Access to Pan-India Markets through a digital trading platform.\n- Real-time Price Discovery based on demand and supply.\n- Transparency in auction and payment processes.\n- Better Prices through wider buyer participation.\n- Online Payment directly to farmers&#39; bank accounts.\n- Free Quality Testing (Assaying) of produce in markets.\n- Reduced Information Asymmetry—farmers can see prices and make informed decisions.\n\n> **For Markets (APMCs/RMCs):**\n\n\n- One-time Grant of up to ₹30 lakh per market for hardware, internet, assaying labs, etc.\n- Free e-NAM Software is provided with customization for each state.\n- Support Staff (1 person per market) provided for 1 year at no cost.\n- Provision to use Cold Storages &amp; Warehouses as market sub-yards.\n- Infrastructure Support for setting up:\n\n\n\n   1. e-auction halls.\n   1. assaying labs.\n   1. electronic weighbridges.\n   1. training facilities.\n\n\n> **For State Governments / UTs:**\n\n\n- Eligibility for Central Funding upon adopting key APMC Act reforms:\n\n   1. Single trading license for the state.\n   1. Single-point market fee.\n   1. Legal provision for e-trading.\n\n- Support for Soil Testing Labs (STLs) under related schemes (NMSA/RKVY).\n- Training, Dispute Resolution Mechanism, and linking more markets to e-NAM.\n\n<br>\n\n",
+      "briefDescription": "Launched on 14th April 2016, e-NAM is a pan-India electronic trading platform that links existing mandis to create a unified online market for agricultural commodities, promoting “One Nation One Market” and enabling transparent, efficient, and nationwide agri-trade.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"e-National Agriculture Market (e-NAM)\" is a pan-India electronic trading platform launched on 14th April 2016 to integrate APMC mandis across the country under the “One Nation One Market” initiative. Implemented by the Small Farmers Agribusiness Consortium (SFAC) under the Ministry of Agriculture and Farmers’ Welfare, the platform provides online trading facilities for agricultural commodities. It offers services such as commodity arrival information, quality assaying, e-bidding, and direct e-payment to farmers through a single-window system. The scheme aims to improve transparency, efficiency, and better price discovery in agricultural marketing. In Jammu & Kashmir, 11 mandis have been integrated with the e-NAM platform since May 2020."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": " For Farmers:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Access to Pan-India Markets through a digital trading platform."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Real-time Price Discovery based on demand and supply."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Transparency in auction and payment processes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Better Prices through wider buyer participation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Online Payment directly to farmers' bank accounts."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free Quality Testing (Assaying) of produce in markets."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reduced Information Asymmetry—farmers can see prices and make informed decisions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "For Markets (APMCs/RMCs):",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One-time Grant of up to ₹30 lakh per market for hardware, internet, assaying labs, etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Free e-NAM Software is provided with customization for each state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support Staff (1 person per market) provided for 1 year at no cost."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision to use Cold Storages & Warehouses as market sub-yards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Infrastructure Support for setting up:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "e-auction halls."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "assaying labs."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "electronic weighbridges."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "training facilities."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "For State Governments / UTs:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Eligibility for Central Funding upon adopting key APMC Act reforms:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Single trading license for the state."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Single-point market fee."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Legal provision for e-trading."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for Soil Testing Labs (STLs) under related schemes (NMSA/RKVY)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Training, Dispute Resolution Mechanism, and linking more markets to e-NAM."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Guidelines for farmers:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Users can register by Clicking "
+                      },
+                      {
+                        "type": "link",
+                        "link": "http://enam.gov.in/NAMV2/home/other_register.html",
+                        "children": [
+                          {
+                            "text": "here",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Select “Registration Type” as “Farmer” and select the desired “APMC”."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Provide a valid email ID, as you will receive your Login ID and Password on it."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Once successfully registered, you will receive a login ID and a temporary password at the given email."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Log in to the dashboard by clicking the icon on "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://www.enam.gov.in/web/",
+                        "children": [
+                          {
+                            "text": "www.enam.gov.in/web",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": ". "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "You will see a flashing message on the dashboard: “Click here to register with APMC.”"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Click on the flashing link, which will redirect you to the registration page for filling or updating details."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Your application will be sent for approval to your selected APMC after KYC is completed."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After successfully logging in to your dashboard, you will be able to see all APMC address details."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After successful submission, the user will receive an email confirming that the application has been submitted to the concerned APMC, with the status shown as Submitted, In Progress, Approved, or Rejected."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Once approved by the APMC, you will receive your eNAM Farmer Permanent Login ID (e.g., HR866F00001) and password for complete access to the e-NAM platform at your registered email address."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Alternatively, you can contact your respective Mandi/APMC for the same."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Guidelines for Trades:",
+                "underline": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Users will have to register by visiting "
+                      },
+                      {
+                        "type": "link",
+                        "link": "http://enam.gov.in/NAMV2/home/other_register.html",
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "http://enam.gov.in/NAMV2/home/other_register.html"
+                          }
+                        ]
+                      },
+                      {
+                        "bold": true,
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Select “Registration Type” as “Trader” and choose the appropriate “APMC” or State Level option. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Provide your passport-size photograph and correct email ID to receive your login ID and password at the same address."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After successful registration, you will receive your login ID and a temporary password at your provided email ID."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Log in to the dashboard by clicking the icon on "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://www.enam.gov.in/web/",
+                        "children": [
+                          {
+                            "text": "www.enam.gov.in",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Then you will see a flashing message on the dashboard: “Click here to register with APMC.”"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Click on the flashing link, which will redirect you to the registration page for filling or updating details."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Your application will be submitted for approval to your selected APMC or SAMB (in case of a Unified License)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After successfully logging in to your dashboard, you will be able to see the arrivals and trade activities happening in the APMC for notified commodities in eNAM."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "You will see a flashing message on the dashboard: “Click on the link.”"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": " It will redirect you to the registration page to submit your license and KYC details as a trader."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Your details will be submitted for approval by your selected APMC."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Once successfully submitted, you will receive an email confirming the status of the application as Submitted, In Progress, Approved, or Rejected."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Its status can be viewed by logging in to the dashboard, as explained earlier."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For a permanent login ID (e.g., HR866T00001) and password, visit your respective Mandi/APMC and verify your license number."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After successful approval by the APMC, eNAM Trader/CA IDs and passwords will be sent to the provided email address."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Trader/CA users can participate in online trade using the provided login ID and password."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "For FPOs/FPCs: ",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": "FPOs/FPCs can register on e-NAM Portal via the website ("
+              },
+              {
+                "type": "link",
+                "link": "https://www.enam.gov.in/web/",
+                "children": [
+                  {
+                    "text": "www.enam.gov.in",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "text": ") or mobile app or provide following details at the nearest e-NAM mandi:"
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Name of your FPOs/FPCs."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Name, address, email ID, and contact number of the authorized person (MD/CEO/Manager)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Bank account details (Name of bank, branch, account number, IFSC code)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "For Mandi Board: ",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": "States (State Agricultural Marketing Boards) interested in integrating their mandis with NAM are required to carry out the following reforms in their APMC Act:"
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Provide for a single (unified) trading license valid across the state."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Implement a single-point levy of market fees across the state."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Include provisions for e-auction/e-trading as modes of price discovery."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration Guidelines for farmers:**\n\n\n\n   1. Users can register by Clicking [**here**](http://enam.gov.in/NAMV2/home/other_register.html).   1. Select “Registration Type” as “Farmer” and select the desired “APMC”.\n   1. Provide a valid email ID, as you will receive your Login ID and Password on it.\n   1. Once successfully registered, you will receive a login ID and a temporary password at the given email.\n   1. Log in to the dashboard by clicking the icon on [**www.enam.gov.in/web**](https://www.enam.gov.in/web/).    1. You will see a flashing message on the dashboard: “Click here to register with APMC.”\n   1. Click on the flashing link, which will redirect you to the registration page for filling or updating details.\n   1. Your application will be sent for approval to your selected APMC after KYC is completed.\n   1. After successfully logging in to your dashboard, you will be able to see all APMC address details.\n   1. After successful submission, the user will receive an email confirming that the application has been submitted to the concerned APMC, with the status shown as Submitted, In Progress, Approved, or Rejected.\n   1. Once approved by the APMC, you will receive your eNAM Farmer Permanent Login ID (e.g., HR866F00001) and password for complete access to the e-NAM platform at your registered email address.\n   1. Alternatively, you can contact your respective Mandi/APMC for the same.\n\n\n> **Registration Guidelines for Trades:**\n\n\n\n   1. Users will have to register by visiting [**http://enam.gov.in/NAMV2/home/other_register.html**](http://enam.gov.in/NAMV2/home/other_register.html)**.**   1. Select “Registration Type” as “Trader” and choose the appropriate “APMC” or State Level option. \n   1. Provide your passport-size photograph and correct email ID to receive your login ID and password at the same address.\n   1. After successful registration, you will receive your login ID and a temporary password at your provided email ID.\n   1. Log in to the dashboard by clicking the icon on [**www.enam.gov.in**](https://www.enam.gov.in/web/).   1. Then you will see a flashing message on the dashboard: “Click here to register with APMC.”\n   1. Click on the flashing link, which will redirect you to the registration page for filling or updating details.\n   1. Your application will be submitted for approval to your selected APMC or SAMB (in case of a Unified License).\n   1. After successfully logging in to your dashboard, you will be able to see the arrivals and trade activities happening in the APMC for notified commodities in eNAM.\n   1. You will see a flashing message on the dashboard: “Click on the link.”\n   1.  It will redirect you to the registration page to submit your license and KYC details as a trader.\n   1. Your details will be submitted for approval by your selected APMC.\n   1. Once successfully submitted, you will receive an email confirming the status of the application as Submitted, In Progress, Approved, or Rejected.\n   1. Its status can be viewed by logging in to the dashboard, as explained earlier.\n   1. For a permanent login ID (e.g., HR866T00001) and password, visit your respective Mandi/APMC and verify your license number.\n   1. After successful approval by the APMC, eNAM Trader/CA IDs and passwords will be sent to the provided email address.\n   1. Trader/CA users can participate in online trade using the provided login ID and password.\n\n\n<br>\n\n> **For FPOs/FPCs:** FPOs/FPCs can register on e-NAM Portal via the website ([**www.enam.gov.in**](https://www.enam.gov.in/web/)) or mobile app or provide following details at the nearest e-NAM mandi:\n\n\n\n   1. Name of your FPOs/FPCs.\n   1. Name, address, email ID, and contact number of the authorized person (MD/CEO/Manager).\n   1. Bank account details (Name of bank, branch, account number, IFSC code).\n\n\n<br>\n\n> **For Mandi Board:** States (State Agricultural Marketing Boards) interested in integrating their mandis with NAM are required to carry out the following reforms in their APMC Act:\n\n\n\n   1. Provide for a single (unified) trading license valid across the state.\n   1. Implement a single-point levy of market fees across the state.\n   1. Include provisions for e-auction/e-trading as modes of price discovery.\n\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant State/UT must allow a single trading license valid across the State, issued through suitable legislation or executive orders.\n\n  - The process should be liberal, without barriers like high deposits, quantity restrictions, or mandatory purchase centers.\n\n1. The applicant State/UT must ensure single-point levy of market fee, applicable only at the first wholesale transaction.\n\n  - No additional charges should be levied on subsequent wholesale transactions of the same produce.\n\n1. The applicant State/UT must provide legal and infrastructural support for e-auction/e-trading, through relevant amendments or executive provisions.\n\n  - The applicant must submit proposals in the prescribed format and fulfill all three core reforms above to be eligible for the one-time grant for infrastructure setup (hardware, internet, assaying equipment, etc.).\n\n1. The applicant must commit to:\n\n  - Trading 100% of selected commodities through e-NAM in the proposed markets.\n  - Providing or linking markets to Soil Testing Laboratories (STLs).\n  - Covering extra implementation costs beyond the sanctioned amount.\n  - Bearing costs of software maintenance after 5 years.\n  - Registering the implementing agency on the PFMS portal and submitting necessary bank details to the Department.\n\n1. The applicant State/UT, if lacking an APMC Act or not enforcing it, must:\n\n  - Identify an appropriate institution/organization.\n  - Frame enforceable guidelines to enable e-trading, including trader registration, transaction norms, and infrastructure provisioning.\n\n1. The applicant private market, if applying, must:\n\n\n\n  - Be recommended by the concerned authority.\n  - Provide all necessary infrastructure and services (e.g., analyst, assaying facilities) at its own expense.\n\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The applicant State/UT must allow a single trading license valid across the State, issued through suitable legislation or executive orders."
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "The process should be liberal, without barriers like high deposits, quantity restrictions, or mandatory purchase centers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The applicant State/UT must ensure single-point levy of market fee, applicable only at the first wholesale transaction."
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "No additional charges should be levied on subsequent wholesale transactions of the same produce."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The applicant State/UT must provide legal and infrastructural support for e-auction/e-trading, through relevant amendments or executive provisions."
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "The applicant must submit proposals in the prescribed format and fulfill all three core reforms above to be eligible for the one-time grant for infrastructure setup (hardware, internet, assaying equipment, etc.)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The applicant must commit to:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Trading 100% of selected commodities through e-NAM in the proposed markets."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Providing or linking markets to Soil Testing Laboratories (STLs)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Covering extra implementation costs beyond the sanctioned amount."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Bearing costs of software maintenance after 5 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Registering the implementing agency on the PFMS portal and submitting necessary bank details to the Department."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The applicant State/UT, if lacking an APMC Act or not enforcing it, must:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Identify an appropriate institution/organization."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Frame enforceable guidelines to enable e-trading, including trader registration, transaction norms, and infrastructure provisioning."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The applicant private market, if applying, must:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Be recommended by the concerned authority."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Provide all necessary infrastructure and services (e.g., analyst, assaying facilities) at its own expense."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "e-nam"
+}

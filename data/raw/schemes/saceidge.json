@@ -1,0 +1,373 @@
+{
+  "_id": "679b13a5e128bbaf340028f0",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Entrepreneurship",
+        "Environment Infrastructure",
+        "Development Of Green Estate"
+      ],
+      "schemeName": "Scheme of Assistance for Common Environment Infrastructure: Scheme for Development of Green Estate",
+      "schemeShortTitle": "SACEIDGE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": "2020-08-07",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "industries",
+          "label": "Industries"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444452,
+        "label": "Industries and Mines Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeCloseDate": "2025-08-06",
+      "schemeFor": "Infra",
+      "slug": "saceidge",
+      "briefDescription": "The \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance.",
+      "detailedDescription_md": "The &amp;quot;Scheme of Assistance for Common Environment Infrastructure&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.\nThe component “Scheme for Development of Green Estate” aims to support the relocation or retrofitting of polluting industrial units to designated green estates. The initiative focuses on reducing environmental pollution by providing necessary infrastructure support, ensuring compliance with environmental norms, and promoting sustainable industrial growth.\n",
+      "benefits_md": "<br>\n\n**Activity****Assistance**Assistance for preparation of site master plan for relocation /retrofitting of existing polluting industrial units into Green Industrial estate as per the direction of GPCB/MoEF by recognized Science &amp;amp;amp;amp; Engineering Colleges of the State, IITs, NITs, Scientific and R &amp;amp;amp;amp; D institutions, GEMI, GCPC etc.75% assistance maximum ₹80,00,000/-.Assistance for setup /relocation /retrofitting of existing polluting industrial units into Green Industrial estate25% of capital cost or maximum ₹25,00,00,000/-.<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Scheme of Assistance for Common Environment Infrastructure\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The component “Scheme for Development of Green Estate” aims to support the relocation or retrofitting of polluting industrial units to designated green estates. The initiative focuses on reducing environmental pollution by providing necessary infrastructure support, ensuring compliance with environmental norms, and promoting sustainable industrial growth."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Activity",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Assistance",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Assistance for preparation of site master plan for relocation /retrofitting of existing polluting industrial units into Green Industrial estate as per the direction of GPCB/MoEF by recognized Science & Engineering Colleges of the State, IITs, NITs, Scientific and R & D institutions, GEMI, GCPC etc."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75% assistance maximum ₹80,00,000/-."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Assistance for setup /relocation /retrofitting of existing polluting industrial units into Green Industrial estate"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "25% of capital cost or maximum ₹25,00,00,000/-."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "align_justify",
+                    "children": [
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "Step 1:",
+                            "bold": true
+                          },
+                          {
+                            "text": " Prepare a Detailed Project Report (DPR)."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "Step 2: ",
+                            "bold": true
+                          },
+                          {
+                            "text": "Fill out the "
+                          },
+                          {
+                            "type": "link",
+                            "link": "https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf",
+                            "children": [
+                              {
+                                "text": "prescribed application form"
+                              }
+                            ]
+                          },
+                          {
+                            "text": "."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "Step 3: ",
+                            "bold": true
+                          },
+                          {
+                            "text": "Submit the application with the required documents to the "
+                          },
+                          {
+                            "type": "link",
+                            "link": "https://ic.gujarat.gov.in/ic-contact.aspx",
+                            "children": [
+                              {
+                                "text": "Industries Commissionerate"
+                              }
+                            ]
+                          },
+                          {
+                            "text": "."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "children": [
+                          {
+                            "text": "Step 4: ",
+                            "bold": true
+                          },
+                          {
+                            "text": "Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "block_quote",
+                        "children": [
+                          {
+                            "text": "Helpdesk",
+                            "bold": true,
+                            "underline": true
+                          },
+                          {
+                            "bold": true,
+                            "text": ": "
+                          },
+                          {
+                            "type": "link",
+                            "link": "https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static",
+                            "children": [
+                              {
+                                "text": "Contact Here"
+                              }
+                            ]
+                          },
+                          {
+                            "text": ""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n**Step 1:** Prepare a Detailed Project Report (DPR).\n**Step 2:** Fill out the [prescribed application form](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf).\n**Step 3:** Submit the application with the required documents to the [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx).\n**Step 4:** Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.\n&amp;gt; **Helpdesk****:** [Contact Here](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)\n\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - Industries Commissioner, based on GPCB’s recommendation, will appoint a professional agency for assessing relocation needs.\n  - The professional agency will evaluate pollution load, effluent quality, and overall environmental benefits.\n  - The study report must be approved by the SLEC committee before project execution.\n  - Any institution or group of industries with polluting industrial units recommended for relocation or retrofitting by GPCB is eligible.\n  - Infrastructure expenditures for internal roads, power distribution, communication, water supply, sewage, effluent treatment, and other approved facilities are eligible for financial support.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Industries Commissioner, based on GPCB’s recommendation, will appoint a professional agency for assessing relocation needs."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The professional agency will evaluate pollution load, effluent quality, and overall environmental benefits."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The study report must be approved by the SLEC committee before project execution."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any institution or group of industries with polluting industrial units recommended for relocation or retrofitting by GPCB is eligible."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Infrastructure expenditures for internal roads, power distribution, communication, water supply, sewage, effluent treatment, and other approved facilities are eligible for financial support."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "saceidge"
+}

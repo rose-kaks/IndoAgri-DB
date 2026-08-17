@@ -1,0 +1,301 @@
+{
+  "_id": "6462fece84254e8304cfd45e",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 12,
+        "label": "Arunachal Pradesh"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 12111112,
+        "label": "Agriculture and Marketing Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Soil health",
+          "label": "Soil health"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "District Agriculture Office",
+      "tags": [
+        "Farmer",
+        "Horticulture",
+        "Self-employment",
+        "Tea",
+        "Rubber",
+        "Financial Assistance"
+      ],
+      "schemeName": "Chief Minister’s Shasakt Kisan Yojana",
+      "schemeShortTitle": "CM-SKY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "cm-sky",
+      "briefDescription": "The Govt. of Arunachal Pradesh started the scheme “Chief Minister’s Shasakt Kisan Yojana (CM-SKY)” for uplifting the status of women, marginal and small farmers of the State for self-employment generation & commercialization of Horticulture activities to double their income."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Website",
+          "url": "https://westsiang.nic.in/scheme-category/chief-ministers-sashakt-kisan-yojana-cm-sky/"
+        },
+        {
+          "title": "Guideline",
+          "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The Govt. of Arunachal Pradesh started the scheme “Chief Minister’s Shasakt Kisan Yojana (CM-SKY)” for uplifting the status of women, marginal and small farmers of the State for self-employment generation & commercialization of Horticulture activities to double their income.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "To increase production and productivity and also to maintain a marketable surplus of major fruit crops in the State as well as to double farmer’s income, the government has adopted region-wise feasible and need-based Horticulture activities in the various districts of Arunachal Pradesh under budget announcement during the financial year 2019-20, targeted up to 2021-22."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "      The main aim of the government scheme is to uplift the status of women, marginal and small farmers of the state for self-employment generation & commercialization of horticulture activities to double their income as per immediate felt needs of the farmers, according to thrust areas enumerated district-wise on suitable crops grown in the specific areas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Important Features:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tInputs are provided to farmers for tea, rubber, and double cropping, per hectare"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tCrops under double cropping are selected based on soil testing"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.\tUnder this scheme, cash assistance will be provided by the State Government for tea and rubber plantation:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    •\t₹1.00 lakh per hectare for tea plantation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    •\t₹80,000 per hectare for rubber plantation"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.\tProvision of seedlings and planting material"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.\tProvision of Fencing Material – Barbed wire, nails, GI angle post, etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4.\tTools and implement for tea, rubber, and double cropping farming like Khurpi, spade, dao, and sprayer machine."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5.\tCultivation assistance for land development – manure and fertilizer, plant protection chemicals."
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "To increase production and productivity and also to maintain a marketable surplus of major fruit crops in the State as well as to double farmer’s income, the government has adopted region-wise feasible and need-based Horticulture activities in the various districts of Arunachal Pradesh under budget announcement during the financial year 2019-20, targeted up to 2021-22.\n**Objective:**\n      The main aim of the government scheme is to uplift the status of women, marginal and small farmers of the state for self-employment generation &amp;amp; commercialization of horticulture activities to double their income as per immediate felt needs of the farmers, according to thrust areas enumerated district-wise on suitable crops grown in the specific areas.\n**Important Features:**\n•\tInputs are provided to farmers for tea, rubber, and double cropping, per hectare\n•\tCrops under double cropping are selected based on soil testing\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may contact Deputy Commissioner (DADS)/District Agriculture Officer/ Nearest Agriculture Development Officer/ Agriculture field assistant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applications in the prescribed format are received from various circles through ADAs/ADOs."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant must ensure that the filled information should be correct before submitting the application form to the concerned department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The final selection of beneficiaries is done through the selection Committee under the Chairmanship of the District Collector (DC)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.\tThe applicant/farmer should be a permanent resident of Arunachal Pradesh.\n2.\tThe applicant should be a progressive farmer of any area/field.\n3.\tAll categories of farmers are eligible to apply under the scheme.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.\tThe applicant/farmer should be a permanent resident of Arunachal Pradesh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.\tThe applicant should be a progressive farmer of any area/field."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.\tAll categories of farmers are eligible to apply under the scheme."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cm-sky"
+}

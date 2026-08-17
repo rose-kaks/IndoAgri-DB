@@ -1,0 +1,333 @@
+{
+  "_id": "68b578bc362154c31e1be7cd",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Student",
+        "Electric Scooter Subsidy",
+        "Electric Vehicle",
+        "Renewable Energy"
+      ],
+      "schemeName": "Subsidy for Battery Operated 2-Wheelers",
+      "schemeShortTitle": "SFBOTW",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444470,
+        "label": "Climate Change Department"
+      },
+      "slug": "sfbotw",
+      "briefDescription": "This scheme is introduced by the Climate Change Department, Gujarat, aims to promote renewable energy and clean transportation by providing a subsidy to students for the purchase of battery-operated two-wheelers from authorized manufacturers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 622)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        },
+        {
+          "title": "Model Wise Price List",
+          "url": "https://geda.gujarat.gov.in/Gallery/Media_Gallery/22W_Price_List.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Subsidy for Battery Operated 2-Wheelers&amp;quot; by the Climate Change Department, Gujarat, aims to encourage the use of clean energy vehicles among the youth by offering financial support to students from Class 9th to 12th, as well as college students, for purchasing battery-operated two-wheelers of their choice from GEDA-authorized manufacturers through their dealers. The scheme is designed to reduce pollution, promote renewable energy adoption, and create awareness about sustainable transport among the younger generation.\n<br>\n\n",
+      "benefits_md": "\n- **Subsidy Assistance:** Each eligible student receives a subsidy of ₹12,000/- for the purchase of a battery-operated two-wheeler.\n<br>\n\n",
+      "briefDescription": "This scheme is introduced by the Climate Change Department, Gujarat, aims to promote renewable energy and clean transportation by providing a subsidy to students for the purchase of battery-operated two-wheelers from authorized manufacturers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Subsidy for Battery Operated 2-Wheelers\" by the Climate Change Department, Gujarat, aims to encourage the use of clean energy vehicles among the youth by offering financial support to students from Class 9th to 12th, as well as college students, for purchasing battery-operated two-wheelers of their choice from GEDA-authorized manufacturers through their dealers. The scheme is designed to reduce pollution, promote renewable energy adoption, and create awareness about sustainable transport among the younger generation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy Assistance: ",
+                  "bold": true
+                },
+                {
+                  "text": "Each eligible student receives a subsidy of ₹12,000/- for the purchase of a battery-operated two-wheeler."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should download the prescribed format of the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://geda.gujarat.gov.in/Gallery/Media_Gallery/BO2W_application_Form_24_25.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the supporting documents to the below mentioned address."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Gujarat Energy Development Agency",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "4th floor, Block No. 11 & 12",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Udyog Bhavan",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Sector -11",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Gandhinagar-382 017, Gujarat, India",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Phone : +91-079-23257251, 23257253",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Fax : +91-079-23257255, 23247097",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Email : info-geda-gnr@gujarat.gov.in",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "For Common Inquiries : director@geda.org.in",
+                    "bold": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should download the prescribed format of the [application form](https://geda.gujarat.gov.in/Gallery/Media_Gallery/BO2W_application_Form_24_25.pdf).\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the below mentioned address.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n&gt; **Gujarat Energy Development Agency**\n\n&gt; **4th floor, Block No. 11 &amp;amp; 12**\n\n&gt; **Udyog Bhavan**\n\n&gt; **Sector -11**\n\n&gt; **Gandhinagar-382 017, Gujarat, India**\n\n&gt; **Phone : +91-079-23257251, 23257253**\n\n&gt; **Fax : +91-079-23257255, 23247097**\n\n&gt; **Email : info-geda-gnr@gujarat.gov.in**\n\n&gt; **For Common Inquiries : director@geda.org.in**\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a student.\n   1. The applicant must be studying in Class 9th to 12th in the state or be a college student.\n   1. The applicant must purchase a battery-operated two-wheeler only from GEDA-authorized manufacturers through registered dealers.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a student."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be studying in Class 9th to 12th in the state or be a college student."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must purchase a battery-operated two-wheeler only from GEDA-authorized manufacturers through registered dealers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sfbotw"
+}

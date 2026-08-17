@@ -1,0 +1,245 @@
+{
+  "_id": "6888b106521292893e626fe0",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Irrigation",
+        "Co-operative Irrigation Societies",
+        "Farm Productivity",
+        "Water Distribution"
+      ],
+      "schemeName": "Assistance to Co-operative Irrigation Societies M. N. R.-10 (General Area)",
+      "schemeShortTitle": "ATCISG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "atcisg",
+      "briefDescription": "The scheme \"Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)\"  aims to increase agricultural production by supporting irrigation cooperative societies through the provision of pumps and electric motors for efficient water distribution."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 81)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance agricultural yield in the state by offering assistance to irrigation cooperative societies formed by farmers of a common area. The support involves establishing water distribution systems using pumps and electric motors on wells and agar creeks to facilitate effective irrigation.\n<br>\n\n",
+      "benefits_md": "\n- **Monetary Benefit:** Financial assistance for setting up irrigation infrastructure (such as pumps and motors) for cooperative societies.\n<br>\n\n",
+      "briefDescription": "The scheme \"Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)\"  aims to increase agricultural production by supporting irrigation cooperative societies through the provision of pumps and electric motors for efficient water distribution.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance agricultural yield in the state by offering assistance to irrigation cooperative societies formed by farmers of a common area. The support involves establishing water distribution systems using pumps and electric motors on wells and agar creeks to facilitate effective irrigation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Monetary Benefit:",
+                  "bold": true
+                },
+                {
+                  "text": " Financial assistance for setting up irrigation infrastructure (such as pumps and motors) for cooperative societies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit the District Registrar's Office and request a hard copy of the prescribed format of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the District Registrar&#39;s Office and request a hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - Cooperative irrigation societies formed by small and marginal farmers, or any other farmers, are eligible under this scheme.\n  - The society should be located within the state of Gujarat.\n  - The Scheme is applicable to the General category.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Cooperative irrigation societies formed by small and marginal farmers, or any other farmers, are eligible under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The society should be located within the state of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Scheme is applicable to the General category."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "atcisg"
+}

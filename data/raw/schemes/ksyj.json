@@ -1,0 +1,365 @@
+{
+  "_id": "678cf3e8a447d8d61660f0c7",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmers",
+        "Subsidy",
+        "Solar Units",
+        "Self-help Group"
+      ],
+      "schemeName": "Kisan Samriddhi Yojana Jharkhand",
+      "schemeShortTitle": "KSYJ",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000027,
+        "label": "Department of Agriculture, Animal Husbandry & Co-operative"
+      },
+      "schemeFor": "Individual",
+      "slug": "ksyj",
+      "briefDescription": "The \"Kisan Samriddhi Yojana\" by the Department of Agriculture, Animal Husbandry & Cooperative, Government of Jharkhand, promotes solar-powered irrigation systems to reduce agricultural costs and dependency on fossil fuels. Farmers receive up to 90% subsidy for solar units under this initiative."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://ksy.jharkhand.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Kisan Samriddhi Yojana&quot; by the Department of Agriculture, Animal Husbandry &amp; Cooperative, Government of Jharkhand, aims to promote solar energy-powered irrigation systems to reduce dependency on fossil fuels and lower agricultural costs. Through this scheme, farmers receive up to 90% subsidy for solar irrigation units, enhancing their income and fostering sustainable agricultural practices.\n",
+      "benefits_md": "\n1. Farmers receive a 90% subsidy on solar-powered irrigation units, reducing their agricultural costs.\n1. Two types of solar units are available: 5 HP fixed and 2 HP portable, catering to varied irrigation needs.\n1. Solar units eliminate the need for electricity or diesel, ensuring year-round irrigation.\n1. The portable 2 HP unit is mobile, making it suitable for multi-location usage.\n1. Reduced maintenance costs for solar-powered systems.\n1. Encourages sustainable energy use, contributing to environmental conservation.\n\n",
+      "briefDescription": "The \"Kisan Samriddhi Yojana\" by the Department of Agriculture, Animal Husbandry & Cooperative, Government of Jharkhand, promotes solar-powered irrigation systems to reduce agricultural costs and dependency on fossil fuels. Farmers receive up to 90% subsidy for solar units under this initiative.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Kisan Samriddhi Yojana\" by the Department of Agriculture, Animal Husbandry & Cooperative, Government of Jharkhand, aims to promote solar energy-powered irrigation systems to reduce dependency on fossil fuels and lower agricultural costs. Through this scheme, farmers receive up to 90% subsidy for solar irrigation units, enhancing their income and fostering sustainable agricultural practices."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers receive a 90% subsidy on solar-powered irrigation units, reducing their agricultural costs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Two types of solar units are available: 5 HP fixed and 2 HP portable, catering to varied irrigation needs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Solar units eliminate the need for electricity or diesel, ensuring year-round irrigation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The portable 2 HP unit is mobile, making it suitable for multi-location usage."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reduced maintenance costs for solar-powered systems."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encourages sustainable energy use, contributing to environmental conservation."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE: ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants must link their ration card with Aadhaar for e-KYC verification."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Pay the 10% contribution fee as per the unit cost."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Group Registration Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-1: "
+              },
+              {
+                "text": "The applicant may visit the official website \""
+              },
+              {
+                "type": "link",
+                "link": "https://ksy.jharkhand.gov.in",
+                "children": [
+                  {
+                    "text": "Kisan Samriddhi Yojna"
+                  }
+                ]
+              },
+              {
+                "text": "\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on \"Group Registration\" and fill the details like: Group Type, Group Name, Enter Group Name, Registration Number, GST/PAN/TAN Number, Registration Date etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Click on \"Submit\""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step-1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step-2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step-3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n**NOTE:** \n\n- Applicants must link their ration card with Aadhaar for e-KYC verification.\n- Pay the 10% contribution fee as per the unit cost.\n\n**Group Registration Process:**\n**Step-1:** The applicant may visit the official website &quot;[Kisan Samriddhi Yojna](https://ksy.jharkhand.gov.in)&quot;\n**Step-2:** Click on &quot;Group Registration&quot; and fill the details like: Group Type, Group Name, Enter Group Name, Registration Number, GST/PAN/TAN Number, Registration Date etc.\n**Step-3:** Click on &quot;Submit&quot;\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a farmer, self-help group, cooperative, or farmer producer organization registered in Jharkhand.\n1. The applicant must have a valid Aadhaar card and Aadhaar-linked mobile number.\n1. A registered office of the group/organization must be located in Jharkhand.\n1. The applicant must own or have access to land near a water source.\n1. Only one member per family is eligible for benefits.\n1. The applicant should be aged 18 years or above.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer, self-help group, cooperative, or farmer producer organization registered in Jharkhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a valid Aadhaar card and Aadhaar-linked mobile number."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A registered office of the group/organization must be located in Jharkhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must own or have access to land near a water source."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Only one member per family is eligible for benefits."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be aged 18 years or above."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ksyj"
+}

@@ -1,0 +1,406 @@
+{
+  "_id": "6a0c3ce34b58867f4f3dfb0f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Manufacturer",
+        "Producer",
+        "Importer",
+        "Exporter",
+        "Certification",
+        "Compliance",
+        "Recognition"
+      ],
+      "schemeName": "Ecomark Scheme of India (ECOMARK)",
+      "schemeShortTitle": "ECOMARK",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 493,
+        "label": "Ministry Of Environment,forests and climate change"
+      },
+      "nodalDepartmentName": null,
+      "slug": "ecomark",
+      "briefDescription": "The scheme aims to encourage the demand for environment-friendly products that cause lesser adverse impacts on the environment. It provides an Ecomark label for products meeting specified environmental criteria to eligible producers, manufacturers, importers, and exporters."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "The Gazette Of India (11th October 2023)",
+          "url": "https://egazette.gov.in/WriteReadData/2023/249354.pdf"
+        },
+        {
+          "title": "The Gazette Of India (26th September 2024)",
+          "url": "https://moef.gov.in/storage/tender/1727787383.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Ecomark Scheme of India (ECOMARK)&quot; was launched by the Ministry of Environment, Forest and Climate Change, Government of India. The scheme provides an &quot;Ecomark&quot; label for products that meet specified environmental criteria with respect to resource consumption and environmental impacts, enabling consumers to make informed purchase decisions. The applicant must submit an application for the grant of Ecomark to the Central Pollution Control Board in Form 1. The scheme is implemented by the Central Pollution Control Board. The applications for this scheme are accepted online through the Ecomark web portal.\n<br>\n\n",
+      "benefits_md": "\n- The scheme grants an Ecomark label to the product.\n- The Ecomark granted to the product shall be valid for a period of three years or until a change in the Ecomark criteria for the product, whichever is earlier.\n\n##### ***Conditions***\n\n- Every holder of Ecomark shall submit an annual report to the Central Pollution Control Board online through the web portal on or before the 31st May of every year.\n- Every person who has been granted an Ecomark in respect of a product shall affix on such product an Ecomark label granted under these rules.\n- The holder of Ecomark shall allow the Central Pollution Control Board or the registered agencies to undertake such inspection and verification as may be considered necessary for ensuring compliance.\n- The holder of the Ecomark shall grant access to the premises in which the product concerned is produced or kept to the Central Pollution Control Board and the registered agency.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to encourage the demand for environment-friendly products that cause lesser adverse impacts on the environment. It provides an Ecomark label for products meeting specified environmental criteria to eligible producers, manufacturers, importers, and exporters.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Ecomark Scheme of India (ECOMARK)\" was launched by the Ministry of Environment, Forest and Climate Change, Government of India. The scheme provides an \"Ecomark\" label for products that meet specified environmental criteria with respect to resource consumption and environmental impacts, enabling consumers to make informed purchase decisions. The applicant must submit an application for the grant of Ecomark to the Central Pollution Control Board in Form 1. The scheme is implemented by the Central Pollution Control Board. The applications for this scheme are accepted online through the Ecomark web portal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme grants an Ecomark label to the product."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Ecomark granted to the product shall be valid for a period of three years or until a change in the Ecomark criteria for the product, whichever is earlier."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Every holder of Ecomark shall submit an annual report to the Central Pollution Control Board online through the web portal on or before the 31st May of every year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Every person who has been granted an Ecomark in respect of a product shall affix on such product an Ecomark label granted under these rules."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The holder of Ecomark shall allow the Central Pollution Control Board or the registered agencies to undertake such inspection and verification as may be considered necessary for ensuring compliance."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The holder of the Ecomark shall grant access to the premises in which the product concerned is produced or kept to the Central Pollution Control Board and the registered agency."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Accessing the Ecomark Portal",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant must access the "
+              },
+              {
+                "type": "link",
+                "link": "https://cpcb.nic.in/ecomark-licence/",
+                "children": [
+                  {
+                    "text": "centralized online Ecomark web portal"
+                  }
+                ]
+              },
+              {
+                "text": " developed by the Central Pollution Control Board for making applications and tracking Ecomark certification."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Submitting the Application Form",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant must fill and submit an application for the grant of Ecomark for a product which complies with the specified conditions to the Central Pollution Control Board."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Verification of the Product",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "On receipt of the application, the Central Pollution Control Board shall, by itself or through a designated Verifier, verify whether the product complies with the required environmental conditions."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Preparation and Submission of the Report",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After making such verification, the Central Pollution Control Board or the Verifier shall prepare a report and submit it within a period of sixty days from the date of such verification."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Grant of the Ecomark Certificate",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "On receipt of the verification report, if the Central Pollution Control Board is satisfied that the product complies with the conditions, it may grant the Ecomark to the product."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### **Step 1:****** ***Accessing the Ecomark Portal***\nThe applicant must access the [centralized online Ecomark web portal](https://cpcb.nic.in/ecomark-licence/) developed by the Central Pollution Control Board for making applications and tracking Ecomark certification.\n##### **Step 2:****** ***Submitting the Application Form***\nThe applicant must fill and submit an application for the grant of Ecomark for a product which complies with the specified conditions to the Central Pollution Control Board.\n##### **Step 3:****** ***Verification of the Product***\nOn receipt of the application, the Central Pollution Control Board shall, by itself or through a designated Verifier, verify whether the product complies with the required environmental conditions.\n##### **Step 4:****** ***Preparation and Submission of the Report***\nAfter making such verification, the Central Pollution Control Board or the Verifier shall prepare a report and submit it within a period of sixty days from the date of such verification.\n##### **Step 5:****** ***Grant of the Ecomark Certificate***\nOn receipt of the verification report, if the Central Pollution Control Board is satisfied that the product complies with the conditions, it may grant the Ecomark to the product.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a producer, manufacturer, exporter, or importer of products specified under the First Schedule of the rules.\n- The applicant must have a license or a certificate of conformity of Indian Standards granted under the Bureau of Indian Standards Act, 2016.\n- The applicant must comply with the mandate of the Quality Control Orders issued by the Central Government, if applicable.\n- The applicant must fulfill the criteria for the grant of Ecomark specified under the corresponding entries of the First Schedule.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a producer, manufacturer, exporter, or importer of products specified under the First Schedule of the rules."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a license or a certificate of conformity of Indian Standards granted under the Bureau of Indian Standards Act, 2016."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must comply with the mandate of the Quality Control Orders issued by the Central Government, if applicable."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must fulfill the criteria for the grant of Ecomark specified under the corresponding entries of the First Schedule."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ecomark"
+}

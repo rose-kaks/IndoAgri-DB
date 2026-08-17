@@ -1,0 +1,238 @@
+{
+  "_id": "6919b20b2afa7f7941fabe9c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Food Processing Unit",
+        "Value Addition",
+        "Subsidy",
+        "Entrepreneur"
+      ],
+      "schemeName": "Food Processing and Value Addition Management",
+      "schemeShortTitle": "FPVAM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "industries",
+          "label": "Industries"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "fpvam",
+      "briefDescription": "The scheme aims to promote the establishment of food processing units in Uttarakhand, enhance value addition in agricultural and horticultural products, support entrepreneurs with financial assistance, and strengthen the state’s food processing ecosystem."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 218)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Food Processing and Value Addition Management” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote the establishment of food processing units in Uttarakhand, enhance value addition in agricultural and horticultural products, support entrepreneurs with financial assistance, and strengthen the state’s food processing ecosystem.\n<br>\n\n",
+      "benefits_md": "Under this scheme, for setting up new food processing units, 50% of the project cost, up to a maximum of ₹400.00 lakh (₹4 crore), is provided as government assistance/subsidy.\nThe department is in the process of uploading previously approved proposals on its website, similar to the MSME model, to make it easier for interested companies, firms, or promoters to prepare their proposals.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote the establishment of food processing units in Uttarakhand, enhance value addition in agricultural and horticultural products, support entrepreneurs with financial assistance, and strengthen the state’s food processing ecosystem.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Food Processing and Value Addition Management” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote the establishment of food processing units in Uttarakhand, enhance value addition in agricultural and horticultural products, support entrepreneurs with financial assistance, and strengthen the state’s food processing ecosystem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, for setting up new food processing units, 50% of the project cost, up to a maximum of ₹400.00 lakh (₹4 crore), is provided as government assistance/subsidy."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The department is in the process of uploading previously approved proposals on its website, similar to the MSME model, to make it easier for interested companies, firms, or promoters to prepare their proposals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The application form can be obtained from the officers/personnel working in the Horticulture Mobile team centres, or it can also be downloaded from the department's website "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://shm.uk.gov.in/",
+                        "children": [
+                          {
+                            "text": "https://shm.uk.gov.in"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ". The application/proposal must be accompanied by documents covering the 29 points outlined in the checklist, including: application in the prescribed format, DPR, promoter's permanent residence certificate, organization's biodata, unit area address, bank/institution appraising the project proposal, proof of appraisal by the bank/financial institution, NOC from the Fire Department, land records in the organization's name, land conversion certificate, company/institution's boilerage, raw material procurement, details of the unit's products, contracts with farmers, site plan, FSSAI certification, employment generation certificate, details of civil works certified by a civil engineer, quotations from suppliers of plant machinery and equipment certified by a chartered mechanical engineer, supplier quotations for machinery purchases, marketing strategy for production, process flow chart, details of unit implementation, ₹100/- affidavit, funding, project cost, and eligibility."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "In case of difficulty completing the application/proposal, personnel at the Horticulture Mobile team Centres will assist the applicant. The completed application must be submitted to the office. Before applying for the project, the entrepreneur or institution must submit the loan appraisal to the bank."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The relevant proposals are then forwarded directly to the Mission Directorate by the Horticulture Mobile team Centre personnel. Once the Directorate approves the proposals, the entrepreneur receives an acceptance letter and is informed by telephone. During this period, the entrepreneur is required to get the loan approved, with departmental officers providing necessary assistance. After loan approval, the information must be submitted to the department."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The food processing unit is established with the technical assistance and supervision of departmental officers. Upon completion, a joint inspection is conducted by the departmental team, and after satisfactory verification, the appropriate subsidy is disbursed into the entrepreneur's bank account."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The application form can be obtained from the officers/personnel working in the Horticulture Mobile team centres, or it can also be downloaded from the department&amp;#39;s website [https://shm.uk.gov.in](https://shm.uk.gov.in/). The application/proposal must be accompanied by documents covering the 29 points outlined in the checklist, including: application in the prescribed format, DPR, promoter&amp;#39;s permanent residence certificate, organization&amp;#39;s biodata, unit area address, bank/institution appraising the project proposal, proof of appraisal by the bank/financial institution, NOC from the Fire Department, land records in the organization&amp;#39;s name, land conversion certificate, company/institution&amp;#39;s boilerage, raw material procurement, details of the unit&amp;#39;s products, contracts with farmers, site plan, FSSAI certification, employment generation certificate, details of civil works certified by a civil engineer, quotations from suppliers of plant machinery and equipment certified by a chartered mechanical engineer, supplier quotations for machinery purchases, marketing strategy for production, process flow chart, details of unit implementation, ₹100/- affidavit, funding, project cost, and eligibility.  - In case of difficulty completing the application/proposal, personnel at the Horticulture Mobile team Centres will assist the applicant. The completed application must be submitted to the office. Before applying for the project, the entrepreneur or institution must submit the loan appraisal to the bank.\n  - The relevant proposals are then forwarded directly to the Mission Directorate by the Horticulture Mobile team Centre personnel. Once the Directorate approves the proposals, the entrepreneur receives an acceptance letter and is informed by telephone. During this period, the entrepreneur is required to get the loan approved, with departmental officers providing necessary assistance. After loan approval, the information must be submitted to the department.\n  - The food processing unit is established with the technical assistance and supervision of departmental officers. Upon completion, a joint inspection is conducted by the departmental team, and after satisfactory verification, the appropriate subsidy is disbursed into the entrepreneur&amp;#39;s bank account.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Companies, firms, and promoters interested in setting up food processing units in Uttarakhand are eligible to receive assistance under this scheme.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Companies, firms, and promoters interested in setting up food processing units in Uttarakhand are eligible to receive assistance under this scheme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fpvam"
+}

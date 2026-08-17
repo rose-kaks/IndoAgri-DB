@@ -1,0 +1,481 @@
+{
+  "_id": "6687d74e9a7d5c52344958d8",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Gene",
+        "Sheep",
+        "Goat",
+        "Buffalo",
+        "Semen",
+        "Bank"
+      ],
+      "schemeName": "National Livestock Mission: Establishment of State Semen Bank ",
+      "schemeShortTitle": "NLMESSB",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "state-government",
+          "label": "State Government"
+        }
+      ],
+      "nodalMinistryName": {
+        "value": 1572,
+        "label": "Ministry of Fisheries,Animal Husbandry and Dairying"
+      },
+      "nodalDepartmentName": {
+        "value": 121225,
+        "label": "Department of Animal Husbandry & Dairying"
+      },
+      "schemeFor": "Infra",
+      "slug": "essb",
+      "briefDescription": "\"Establishment of State Semen Bank (Genetic Improvement of Sheep and Goat breeds)\" aims at the genetic improvement of sheep/goat breeds through selective breeding by propagation of superior male germplasm through artificial insemination. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.dahd.gov.in/sites/default/files/2023-11/NLMGuidelinesFinalApprovedByEC.pdf"
+        },
+        {
+          "title": "Leaflet",
+          "url": "https://www.dahd.gov.in/sites/default/files/2023-07/NLM-Leaflet-E.pdf"
+        },
+        {
+          "title": "Application Steps",
+          "url": "https://www.nlm.udyamimitra.in/Home/PreApplication"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://www.nlm.udyamimitra.in/Default/ViewFile/?id=NLM_Application_form_for_entreprenuers.docx&path=MiscFiles"
+        },
+        {
+          "title": "Documents Required",
+          "url": "https://www.nlm.udyamimitra.in/Default/ViewFile/?id=NLM_List_of_Documents.docx&path=MiscFiles"
+        },
+        {
+          "title": "FAQs",
+          "url": "https://www.nlm.udyamimitra.in/FAQ"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Launched in the Financial Year 2014-15, the scheme &quot;National Livestock Mission&quot; by the Department of Animal Husbandry &amp; Dairying, Ministry of Fisheries, Animal Husbandry and Dairying, aims towards employment generation, entrepreneurship development, increase in per animal productivity and thus targeting increased production of meat, goat milk, egg and wool. The excess production will help in the export earnings after meeting the domestic demands. The concept of the NLM Scheme is to develop the entrepreneur in order to create the forward and backward linkage for the produce available in the unorganized sector and to link with the organized sector.\n<br>\n\n&quot;Establishment of State Semen Bank (Genetic Improvement of Sheep and Goat breeds)&quot; is a component of the &quot;Sub-mission on Breed Development of Livestock and Poultry&quot; scheme of the National Livestock Mission. The objective of this component is the genetic improvement of sheep/goat breeds through selective breeding by propagation of superior male germplasm through artificial insemination. For propagation of Artificial Insemination Technology for goats through frozen semen, there will be a requirement of storage depot at the state level for onward supply of goat frozen semen to the AI centres. The State Semen Bank working for storing cattle and buffalo frozen semen can work as the semen bank for goats also. Therefore, one time assistance will be provided for strengthening the existing state semen bank for goat frozen semen storing by providing equipment and storing containers.\n",
+      "benefits_md": "\n1. One-time assistance of up to ₹ 10,00,000/- will be provided to the state for strengthening of existing cattle and buffalo semen bank to store and distribute goat frozen semen.\n1. The assistance will be provided for procurement of equipment like cryo-container and other related equipment.\n\n",
+      "briefDescription": "\"Establishment of State Semen Bank (Genetic Improvement of Sheep and Goat breeds)\" aims at the genetic improvement of sheep/goat breeds through selective breeding by propagation of superior male germplasm through artificial insemination. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Launched in the Financial Year 2014-15, the scheme \"National Livestock Mission\" by the Department of Animal Husbandry & Dairying, Ministry of Fisheries, Animal Husbandry and Dairying, aims towards employment generation, entrepreneurship development, increase in per animal productivity and thus targeting increased production of meat, goat milk, egg and wool. The excess production will help in the export earnings after meeting the domestic demands. The concept of the NLM Scheme is to develop the entrepreneur in order to create the forward and backward linkage for the produce available in the unorganized sector and to link with the organized sector."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Establishment of State Semen Bank (Genetic Improvement of Sheep and Goat breeds)\" is a component of the \"Sub-mission on Breed Development of Livestock and Poultry\" scheme of the National Livestock Mission. The objective of this component is the genetic improvement of sheep/goat breeds through selective breeding by propagation of superior male germplasm through artificial insemination. For propagation of Artificial Insemination Technology for goats through frozen semen, there will be a requirement of storage depot at the state level for onward supply of goat frozen semen to the AI centres. The State Semen Bank working for storing cattle and buffalo frozen semen can work as the semen bank for goats also. Therefore, one time assistance will be provided for strengthening the existing state semen bank for goat frozen semen storing by providing equipment and storing containers."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One-time assistance of up to ₹ 10,00,000/- will be provided to the state for strengthening of existing cattle and buffalo semen bank to store and distribute goat frozen semen."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The assistance will be provided for procurement of equipment like cryo-container and other related equipment."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://nlm.udyamimitra.in/",
+                "children": [
+                  {
+                    "text": "Official Website"
+                  }
+                ]
+              },
+              {
+                "text": " of \"National Livestock Mission\" and click \""
+              },
+              {
+                "type": "link",
+                "link": "https://nlm.udyamimitra.in/Login/Login",
+                "children": [
+                  {
+                    "text": "Apply Here"
+                  }
+                ]
+              },
+              {
+                "text": "\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The following methods of Logging In will be displayed:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Login as Entrepreneur"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Login as Government / Other Agencies"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Login as Research & Innovation"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login to the website using your preferred method."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": "Agree to the \"Declaration & Authorization\" by ticking the checkbox. Provide the Date & Place, and finally click \"Submit\"."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Post-Application Processes",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": "Screening of application by State Implementing Agency (SIA)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "SIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " Loan sanction by Lender"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal deligent process. After sanctioning the loan, Lender will upload sanction letter on the portal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "underline": true,
+                "bold": true
+              },
+              {
+                "text": " Recommendation from State Level Executive Committee (SLEC)",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry & Dairying)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "underline": true,
+                "bold": true
+              },
+              {
+                "text": " Approval of subsidy by DAHD",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "DAHD will approve the subsidy and will mark the approval of the same on portal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "underline": true,
+                "bold": true
+              },
+              {
+                "text": " Disbursement and release of subsidy",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Track Application Status",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You can check your application status from the \"TRACK STATUS\" tab available in the upper right corner of the portal"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Help and Support",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you encounter any issues or have questions, visit the \""
+              },
+              {
+                "type": "link",
+                "link": "https://nlm.udyamimitra.in/Home/Contact",
+                "children": [
+                  {
+                    "text": "Contact Us"
+                  }
+                ]
+              },
+              {
+                "text": "\" page."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [Official Website](https://nlm.udyamimitra.in/) of &quot;National Livestock Mission&quot; and click &quot;[Apply Here](https://nlm.udyamimitra.in/Login/Login)&quot;.\n**Step 2:** The following methods of Logging In will be displayed:\n\n- Login as Entrepreneur\n- Login as Government / Other Agencies\n- Login as Research &amp; Innovation\n\nLogin to the website using your preferred method.\n**Step 3:** On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. \n**Step 4:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\n**Step 5:** Agree to the &quot;Declaration &amp; Authorization&quot; by ticking the checkbox. Provide the Date &amp; Place, and finally click &quot;Submit&quot;.\n> **Post-Application Processes**\n\n**Step 1:** **Screening of application by State Implementing Agency (SIA)**\nSIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc.\n**Step 2:** **Loan sanction by Lender**\nAfter the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal deligent process. After sanctioning the loan, Lender will upload sanction letter on the portal.\n**Step 3:** **Recommendation from State Level Executive Committee (SLEC)**\nOnce the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry &amp; Dairying).\n**Step 4:** **Approval of subsidy by DAHD**\nDAHD will approve the subsidy and will mark the approval of the same on portal.\n**Step 5:** **Disbursement and release of subsidy**\nAfter compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries.\n**Track Application Status**\nYou can check your application status from the &quot;TRACK STATUS&quot; tab available in the upper right corner of the portal\n**Help and Support**\nIf you encounter any issues or have questions, visit the &quot;[Contact Us](https://nlm.udyamimitra.in/Home/Contact)&quot; page.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**The following entities are eligible -**  \n\n- State Livestock Agencies.\n- Animal Husbandry Department, State Government.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following entities are eligible -  ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State Livestock Agencies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Animal Husbandry Department, State Government."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "essb"
+}

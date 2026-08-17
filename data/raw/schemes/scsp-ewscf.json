@@ -1,0 +1,247 @@
+{
+  "_id": "68e5042a3b495cdf4caa7680",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Scheduled Caste",
+        "Electricity",
+        "Agriculture",
+        "Rural"
+      ],
+      "schemeName": "Scheduled Caste Sub Plan (SCSP): Electrification of Wells of Scheduled Caste Farmers",
+      "schemeShortTitle": "SCSP-EWSCF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce97ad6d1a3bde468537d",
+          "label": "Utility & Sanitation"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Electricity",
+          "label": "Electricity"
+        },
+        {
+          "value": "Local services",
+          "label": "Local services"
+        },
+        {
+          "value": "Water supply",
+          "label": "Water supply"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444445,
+        "label": "Energy and Petro Chemicals Department"
+      },
+      "slug": "scsp-ewscf",
+      "briefDescription": "The scheme aims to provide agricultural electricity connections on a priority basis to Scheduled Caste farmers. Benefits include electrification of wells and free domestic electricity connections for Scheduled Caste farmers and beneficiaries across Gujarat."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Mari Yojana)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        },
+        {
+          "title": "Scheduled Castes Sub Plan (2020-21)",
+          "url": "https://sje.gujarat.gov.in/assets/downloads/SCSP_202021_09072021.pdf"
+        },
+        {
+          "title": "Department's Website",
+          "url": "https://guj-epd.gujarat.gov.in/Home/BlogDetailsPage/57"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Scheduled Caste Sub Plan (SCSP): Electrification of Wells of Scheduled Caste Farmers&quot; was launched by the Energy and Petrochemicals Department, Government of Gujarat, with financial allocation starting from the year 2016-17, to provide agricultural electricity connection to Scheduled Caste farmers on a priority basis. The scheme provides electrification of agriculture wells of Scheduled Caste Farmers. Free domestic electricity connections are also provided to Scheduled Caste beneficiaries. The applicant must be a Scheduled Caste farmer. The applications for this scheme are accepted at the Subdivisional Office or via the All Discom Website.\n<br>\n\n",
+      "benefits_md": "Electrification of agriculture wells of the farmer.\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide agricultural electricity connections on a priority basis to Scheduled Caste farmers. Benefits include electrification of wells and free domestic electricity connections for Scheduled Caste farmers and beneficiaries across Gujarat.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Scheduled Caste Sub Plan (SCSP): Electrification of Wells of Scheduled Caste Farmers\" was launched by the Energy and Petrochemicals Department, Government of Gujarat, with financial allocation starting from the year 2016-17, to provide agricultural electricity connection to Scheduled Caste farmers on a priority basis. The scheme provides electrification of agriculture wells of Scheduled Caste Farmers. Free domestic electricity connections are also provided to Scheduled Caste beneficiaries. The applicant must be a Scheduled Caste farmer. The applications for this scheme are accepted at the Subdivisional Office or via the All Discom Website."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electrification of agriculture wells of the farmer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The application form required for this scheme can be obtained free of cost from the Discom Website. Alternatively, applicants may collect physical forms from their nearest Subdivisional Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Once the form is fully filled and all required documents are attached, the complete application must be submitted to the Subdivisional Office. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The applicants are mandated to pay the Registration Charge, Security Deposit, Agreement Fee, and Test report fee for the agricultural connection application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*The capital costs associated with High Tension (HT) lines, Low Tension (LT) lines, and Transformer centers are waived for applicants under this scheme.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The application form required for this scheme can be obtained free of cost from the Discom Website. Alternatively, applicants may collect physical forms from their nearest Subdivisional Office.\n**Step 2:** Once the form is fully filled and all required documents are attached, the complete application must be submitted to the Subdivisional Office. \n**Step 3:** The applicants are mandated to pay the Registration Charge, Security Deposit, Agreement Fee, and Test report fee for the agricultural connection application.\n_*The capital costs associated with High Tension (HT) lines, Low Tension (LT) lines, and Transformer centers are waived for applicants under this scheme._\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a resident of Gujarat.\n- The applicant must be a farmer.\n- The applicant must be from a Scheduled Caste.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Gujarat."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be from a Scheduled Caste."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "scsp-ewscf"
+}

@@ -1,0 +1,561 @@
+{
+  "_id": "6885ea5807df9b90e0854e79",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Fish Farming",
+        "Biofloc",
+        "Recirculating Aquaculture System",
+        "Employment"
+      ],
+      "schemeName": "Pradhan Mantri Matsya Sampada Yojana (PMMSY-Inland): Inputs for Freshwater Aquaculture - Gujarat",
+      "schemeShortTitle": "PMMSYIFAGUJ",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "pmmsyifaguj",
+      "briefDescription": "The scheme aims to increase inland fish production and employment through reservoir-based fish farming. The scheme offers financial assistance to individuals and groups via the iKhedut portal."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=IVf4y2kDy/hLkKH1ioD8IA==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Pradhan Mantri Matsya Sampada Yojana (PMMSY – Inland)&quot; with the component of Inputs for Freshwater Aquaculture (Including Composite Fish Culture, Scampi, Pagasius, Tilapia) introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. The scheme is implemented by the Commissioner of Fisheries of the State Governments, with 60% contribution from the Government of India and 40% from the Government of Gujarat.\n<br>\n\n> **Objective:** \n\n\n- Increase fish production by rearing fish in reservoirs and provide employment to people involved in inland fisheries activities\n- Assistance is provided for accelerating inland fish farming activities in freshwater bodies, increasing inland fish production and boosting inland fisheries. \n- Except for water bodies or ponds, in less land, less water, Biofloc with source as well, Recirculating Aquaculture System (RAS). By creating fish tanks with this method, more fish production can be obtained in less land and less water. If more beneficiaries get the benefit of the subsidy of this scheme, more fish production can be achieved with less water sources and less land.\n- Inland fish production capacity can be increased by the establishment of freshwater hatcheries. \n\n<br>\n\n",
+      "benefits_md": "\n1. The unit cost of the project for Inputs for Freshwater Aquaculture (Including Composite Fish Culture, Scampi, Pangasius, and Tilapia) is ₹4,00,000/-.\n1. Beneficiaries in the general category receive 40% of the unit cost as assistance.\n1. Women, Scheduled Caste (SC), and Scheduled Tribe (ST) beneficiaries receive 60% of the unit cost as assistance.\n1. The subsidy is jointly funded: 60% by the Government of India and 40% by the Government of Gujarat.\n\n> **Mode of Disbursement:** Assistance is paid with a 60% contribution from the Government of India and a 40% contribution from the State Governments (specifically, the Government of Gujarat as mentioned in the provided text).\n\n> **Validity:** A minimum time limit of 1 year is set for reclaiming benefits.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to increase inland fish production and employment through reservoir-based fish farming. The scheme offers financial assistance to individuals and groups via the iKhedut portal.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Pradhan Mantri Matsya Sampada Yojana (PMMSY – Inland)\" with the component of Inputs for Freshwater Aquaculture (Including Composite Fish Culture, Scampi, Pagasius, Tilapia) introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. The scheme is implemented by the Commissioner of Fisheries of the State Governments, with 60% contribution from the Government of India and 40% from the Government of Gujarat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Objective: ",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increase fish production by rearing fish in reservoirs and provide employment to people involved in inland fisheries activities"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance is provided for accelerating inland fish farming activities in freshwater bodies, increasing inland fish production and boosting inland fisheries. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Except for water bodies or ponds, in less land, less water, Biofloc with source as well, Recirculating Aquaculture System (RAS). By creating fish tanks with this method, more fish production can be obtained in less land and less water. If more beneficiaries get the benefit of the subsidy of this scheme, more fish production can be achieved with less water sources and less land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Inland fish production capacity can be increased by the establishment of freshwater hatcheries. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The unit cost of the project for Inputs for Freshwater Aquaculture (Including Composite Fish Culture, Scampi, Pangasius, and Tilapia) is ₹4,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiaries in the general category receive 40% of the unit cost as assistance."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women, Scheduled Caste (SC), and Scheduled Tribe (ST) beneficiaries receive 60% of the unit cost as assistance."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy is jointly funded: 60% by the Government of India and 40% by the Government of Gujarat."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement: ",
+              "bold": true
+            },
+            {
+              "text": "Assistance is paid with a 60% contribution from the Government of India and a 40% contribution from the State Governments (specifically, the Government of Gujarat as mentioned in the provided text)."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Validity: ",
+              "bold": true
+            },
+            {
+              "text": "A minimum time limit of 1 year is set for reclaiming benefits."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The applicant may visit and apply online at the "
+              },
+              {
+                "type": "link",
+                "link": "https://ikhedut.gujarat.gov.in/",
+                "children": [
+                  {
+                    "text": "I-Khedut Portal"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Enter the 'Company Name' and Address if you have selected 'Institutional' or 'Except For the Farmer' as the Beneficiary Type. And for all select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Enter your Mobile Number and E-mail address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Login Process: ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant may visit and apply online at the "
+              },
+              {
+                "type": "link",
+                "link": "https://ikhedut.gujarat.gov.in/",
+                "children": [
+                  {
+                    "text": "I-Khedut Portal"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Click on the \"Apply New\" button and submit a new application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true
+              },
+              {
+                "text": " Click on the \"Update Application\" button to add corrections to the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6:",
+                "bold": true
+              },
+              {
+                "text": " Once the application is done, confirm it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: ",
+                "bold": true
+              },
+              {
+                "text": "Take a printout of the confirmed application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Contact Us: ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                "children": [
+                  {
+                    "text": "Click here",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "text": ".",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side, then click on &quot;Beneficiary Registration&quot; and select any one from the &#39;Farmer&#39; or &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type.\n**Step 3:** Enter the &#39;Company Name&#39; and Address if you have selected &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type. And for all select the District, Taluka, and Village, choose &#39;what type of account holder you are?&#39;, enter your Account Number and Name, solve the Captcha, and click &#39;Save and Next&#39;.\n**Step 4:** Enter your Mobile Number and E-mail address, click &#39;Send OTP&#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &#39;Submit&#39;.\n<br>\n\n> **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &quot;Apply New&quot; button and submit a new application.\n**Step 5:** Click on the &quot;Update Application&quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n<br>\n\n> **Contact Us:** [**Click here**](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)**.**\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be an individual, society, self-help group, association, reservoir lease holder, or private entity involved in inland fisheries activities.\n1. The applicant must be above 18 years of age.\n1. The applicant must have their own bank account.\n1. The applicant must have their own private land or a minimum 10-year lease agreement for land to avail construction-related assistance on land. In case of co-owners, the consent form of co-owners must be submitted.\n1. The applicant must have a Voter ID/Ration Card/Aadhar Card/Passport as proof of identity.\n\n<br>\n\n> **Preference/Priority/Reservation/Relaxation:**\n\n\n- All categories (General, Women, Scheduled Caste, and Scheduled Tribe) will receive benefits under the Inland Schemes.\n- Scheduled Caste and Scheduled Tribe beneficiaries are required to have a Scheduled Caste/Scheduled Tribe certificate to avail benefits under the inland components.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be an individual, society, self-help group, association, reservoir lease holder, or private entity involved in inland fisheries activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be above 18 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have their own bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have their own private land or a minimum 10-year lease agreement for land to avail construction-related assistance on land. In case of co-owners, the consent form of co-owners must be submitted."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a Voter ID/Ration Card/Aadhar Card/Passport as proof of identity."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Preference/Priority/Reservation/Relaxation:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All categories (General, Women, Scheduled Caste, and Scheduled Tribe) will receive benefits under the Inland Schemes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scheduled Caste and Scheduled Tribe beneficiaries are required to have a Scheduled Caste/Scheduled Tribe certificate to avail benefits under the inland components."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pmmsyifaguj"
+}

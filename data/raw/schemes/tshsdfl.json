@@ -1,0 +1,246 @@
+{
+  "_id": "681ddfab689952af09866042",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture Training",
+        "Skill Development",
+        "Farmer"
+      ],
+      "schemeName": "Trainning Scheme for Horticulture Skill Development to Landless farm labour at Centre of Excelence of Department",
+      "schemeShortTitle": "TSHSDFL",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "tshsdfl",
+      "briefDescription": "The \"Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department\" aims to provide skill development training in horticulture to landless farm labourers through the Centres of Excellence."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 562)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        },
+        {
+          "title": "User Manual (Applicant Registration)",
+          "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, is designed to uplift landless agricultural workers by equipping them with essential horticulture skills through training. Conducted across Gujarat, the training spans a minimum of three days to a maximum of five days and includes modules like experiential learning tours, training kits, stipend, expert-led sessions, and more.\n",
+      "benefits_md": "\n- **Stipend:** ₹250/- per trainee.- **Other Facilities:** Dining facility, training literature kit, experiential education tour, trainee kit, etc.\n",
+      "briefDescription": "The \"Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department\" aims to provide skill development training in horticulture to landless farm labourers through the Centres of Excellence.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, is designed to uplift landless agricultural workers by equipping them with essential horticulture skills through training. Conducted across Gujarat, the training spans a minimum of three days to a maximum of five days and includes modules like experiential learning tours, training kits, stipend, expert-led sessions, and more."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Stipend:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹250/- per trainee."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other Facilities: ",
+                  "bold": true
+                },
+                {
+                  "text": "Dining facility, training literature kit, experiential education tour, trainee kit, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Obtain a plain paper application form from the District Office of the Deputy Director of Horticulture."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in the application form with accurate details. Attach the required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the form to the District Office of the Deputy Director of Horticulture."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Obtain a plain paper application form from the District Office of the Deputy Director of Horticulture.\n**Step 2:** Fill in the application form with accurate details. Attach the required documents.\n**Step 3:** Submit the form to the District Office of the Deputy Director of Horticulture.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant should be any of the following:\n\n\n   1. All Farmers.\n   1. Farm Labourer.\n   1. Horticulturists.\n   1. Landless Agricultural Labourers.\n\n\n  - The applicant must be a resident of Gujarat.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be any of the following:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All Farmers."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farm Labourer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Horticulturists."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Landless Agricultural Labourers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Gujarat."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tshsdfl"
+}

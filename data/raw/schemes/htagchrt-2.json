@@ -1,0 +1,416 @@
+{
+  "_id": "6614f675d7abbe47ee24a20d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Harvesting Tool",
+        "General Category",
+        "HRT-2",
+        "Farmer",
+        "Financial Assistance",
+        "FPO",
+        "FPC",
+        "FIG",
+        "SHG",
+        "Co-Operative Society"
+      ],
+      "schemeName": "Harvesting Tools Assistance for General Category (HRT-2)",
+      "schemeShortTitle": "HTAGC(HRT-2)",
+      "implementingAgency": "Directorate Of Horticulture, Government Of Gujarat",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Infra",
+      "slug": "htagchrt-2",
+      "briefDescription": "Under the scheme, financial assistance is provided to farmers belonging to the General Category as well as to FPOs (Farmers Producer Organizations), FPCs (Farmers Producer Companies), FIGs (Farmer Interest Groups), SHGs (Self-Help Groups), and Cooperative Societies for purchasing harvesting tools."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_IndividualGhatakDetails.aspx"
+        },
+        {
+          "title": "Scheme Details (Page No. 167)",
+          "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-23-24.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Under the scheme, financial assistance is provided to farmers belonging to the General Category as well as to FPOs (Farmers Producer Organizations), FPCs (Farmers Producer Companies), FIGs (Farmer Interest Groups), SHGs (Self-Help Groups), and Cooperative Societies for purchasing harvesting tools.",
+      "detailedDescription_md": "The scheme “Harvesting Tools Assistance for General Category (HRT-2)” is implemented by the Directorate of Horticulture, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under the scheme, financial assistance is provided to farmers belonging to the General Category as well as to FPOs (Farmers Producer Organizations), FPCs (Farmers Producer Companies), FIGs (Farmer Interest Groups), SHGs (Self-Help Groups), and Cooperative Societies for purchasing of different harvesting and processing equipment.\n",
+      "benefits_md": "\n   1. The General Category farmers will be eligible for assistance up to 50% of the cost of the harvesting tool or ₹1,00,000/-, whichever is less.\n   1. FPO/FPC/FIG/SHG/ Cooperative Society will be eligible for assistance of 75% of the cost of the harvesting tool or ₹1,50,000/-, whichever is less.\n\n**Note:** Unit Cost of harvesting tool should be up to ₹2,00,000/-.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Harvesting Tools Assistance for General Category (HRT-2)” is implemented by the Directorate of Horticulture, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under the scheme, financial assistance is provided to farmers belonging to the General Category as well as to FPOs (Farmers Producer Organizations), FPCs (Farmers Producer Companies), FIGs (Farmer Interest Groups), SHGs (Self-Help Groups), and Cooperative Societies for purchasing of different harvesting and processing equipment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The General Category farmers will be eligible for assistance up to 50% of the cost of the harvesting tool or ₹1,00,000/-, whichever is less."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "FPO/FPC/FIG/SHG/ Cooperative Society will be eligible for assistance of 75% of the cost of the harvesting tool or ₹1,50,000/-, whichever is less."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note: ",
+                  "bold": true
+                },
+                {
+                  "text": "Unit Cost of harvesting tool should be up to ₹2,00,000/-."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Procedure:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02",
+                    "bold": true
+                  },
+                  {
+                    "text": ": On the home page, click on ‘Schemes’ and then click on ‘Horticulture Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme ‘Harvesting Tools’ and then read the instructions for HRT-2."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 06:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 07:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 08:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a printout of the confirmed application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 09:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a printout of the online application and submit it to the office/office address mentioned on the application along with the necessary documents. Or after applying Khedut online on the iKhedut Portal, take a print of the signature/fingerprint and scan it, and upload it by clicking on the \"Upload Signed Copy of Application Print\" menu on the portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The facility to upload a scanned copy of the caste certificate is also enabled in the \"Other Document Upload\" menu wherever applicable."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " There is no need for the farmer to submit the application in person at the office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 03: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Scanned copy uploaded in PDF format should not exceed 200 KB in size."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Tracking:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx "
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Procedure:**\n\n**Step 01:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 02**: On the home page, click on ‘Schemes’ and then click on ‘Horticulture Schemes’.\n**Step 03:** Now select the scheme ‘Harvesting Tools’ and then read the instructions for HRT-2.\n**Step 04:** Click on the ‘Apply’ button and an application page will open.\n**Step 05:** Click on the &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 06:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 07:** Once the application is done, confirm it.\n**Step 08:** Take a printout of the confirmed application.\n**Step 09:** Take a printout of the online application and submit it to the office/office address mentioned on the application along with the necessary documents. Or after applying Khedut online on the iKhedut Portal, take a print of the signature/fingerprint and scan it, and upload it by clicking on the &amp;quot;Upload Signed Copy of Application Print&amp;quot; menu on the portal.\n**Note 01:** The facility to upload a scanned copy of the caste certificate is also enabled in the &amp;quot;Other Document Upload&amp;quot; menu wherever applicable.\n**Note 02:** There is no need for the farmer to submit the application in person at the office.\n**Note 03:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.\n&gt; **Application Tracking:**\n\nApplicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx ](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx)\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. The beneficiary should belong to the General Category.\n   1. The individual farmer or FPO/FPC/FIG/SHG/Co-operative society is eligible to avail benefits under the scheme.\n   1. The assistance will be available once in five years.\n   1. Equipment certified by ISO/BIS/ISI/Government recognized organizations should be purchased through an authorized dealer of that company or imported equipment.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a permanent resident of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should belong to the General Category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The individual farmer or FPO/FPC/FIG/SHG/Co-operative society is eligible to avail benefits under the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The assistance will be available once in five years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Equipment certified by ISO/BIS/ISI/Government recognized organizations should be purchased through an authorized dealer of that company or imported equipment."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "htagchrt-2"
+}

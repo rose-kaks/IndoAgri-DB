@@ -1,0 +1,324 @@
+{
+  "_id": "656f0736f2dded0c8095a1c5",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000017,
+        "label": "Fisheries Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Fishermen",
+        "Fish",
+        "Aquaculture",
+        "Subsidy",
+        "Financial Assistance"
+      ],
+      "schemeName": "Financial Assistance for setting up of Ornamental Fish Unit in Goa",
+      "schemeShortTitle": "FASUOFUG",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "schemeFor": "Individual",
+      "slug": "fasuofug",
+      "briefDescription": "“Financial Assistance for setting up of Ornamental Fish Unit in Goa” is a scheme by the Dept. of Fisheries, Govt. of Goa. Through this scheme, financial assistance is provided to eligible fishermen for setting up Breeding Units and Rearing Units. The applications are accepted only in offline mode."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.goa.gov.in/schemes-services/"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/Ornamental-1-1.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "“Financial Assistance for setting up of Ornamental Fish Unit in Goa” is a scheme by the Dept. of Fisheries, Govt. of Goa. Through this scheme, financial assistance is provided to eligible fishermen for setting up Breeding Units and Rearing Units. The applications are accepted only in offline mode.",
+      "detailedDescription_md": "“Financial Assistance for setting up of Ornamental Fish Unit in Goa” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for setting up Breeding Units and Rearing Units. The applications are accepted only in offline mode.\n",
+      "benefits_md": "**Setting Up of a Breeding Unit:** 50% of the actual cost, limited to ₹ 1,50,000/-.\n**Setting Up of a Rearing Unit:** 50% of the actual cost, limited to ₹ 1,50,000/-.\n**Setting Up of a Rearing Unit &amp; Breeding Unit:** 50% of the actual cost, limited to ₹ 2,50,000/-.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Financial Assistance for setting up of Ornamental Fish Unit in Goa” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for setting up Breeding Units and Rearing Units. The applications are accepted only in offline mode."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Setting Up of a Breeding Unit: ",
+              "bold": true
+            },
+            {
+              "text": "50% of the actual cost, limited to ₹ 1,50,000/-."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Setting Up of a Rearing Unit:",
+              "bold": true
+            },
+            {
+              "text": " 50% of the actual cost, limited to ₹ 1,50,000/-."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Setting Up of a Rearing Unit & Breeding Unit: ",
+              "bold": true
+            },
+            {
+              "text": "50% of the actual cost, limited to ₹ 2,50,000/-."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/Ornamental-1-1.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+              },
+              {
+                "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "BDO Office/ Sub-Offices"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": " of the Department of Fisheries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Grievance Redressal",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "Grievance Redressal Officer"
+                  }
+                ]
+              },
+              {
+                "text": ". The grievance can also be lodged on the link "
+              },
+              {
+                "text": "dir-fish.goa@nic.in",
+                "bold": true
+              },
+              {
+                "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should take print of the [prescribed format](https://fisheries.goa.gov.in/wp-content/uploads/2020/08/Ornamental-1-1.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a Fish Farmer/ Individual/ Registered Self Help Group/ Societies, interested in setting up of the Ornamental Fish Farming unit in Goa.\n- The applicant should be a resident of Goa for the last fifteen years.\n- The applicant should have adequate water facilities for setting up the unit.\n- The applicant should have own/ leased land, adequate to set up an ornamental unit.\n- The applicant should have undergone a training programme on Ornamental Fish Farming organized by the Fisheries Department/ MPEDA/ ICAR.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Fish Farmer/ Individual/ Registered Self Help Group/ Societies, interested in setting up of the Ornamental Fish Farming unit in Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Goa for the last fifteen years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have adequate water facilities for setting up the unit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have own/ leased land, adequate to set up an ornamental unit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have undergone a training programme on Ornamental Fish Farming organized by the Fisheries Department/ MPEDA/ ICAR."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fasuofug"
+}

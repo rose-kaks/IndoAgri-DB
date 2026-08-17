@@ -1,0 +1,412 @@
+{
+  "_id": "646331bc023a49decea9e7b2",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 12,
+        "label": "Arunachal Pradesh"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 12111112,
+        "label": "Agriculture and Marketing Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "District Agricultural Office",
+      "tags": [
+        "Farmer",
+        "Farmers Producer’s Organization",
+        "Agriculture",
+        "Financial Assistance"
+      ],
+      "schemeName": "Chief Minister’s Krishi Samuh Yojana",
+      "schemeShortTitle": "CMKSY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Infra",
+      "slug": "cmksy",
+      "briefDescription": "The Govt. of Arunachal Pradesh started the scheme “Chief Minister’s Krishi Samuh Yojana (CMKSY)” to empower the farmers through a cooperative approach by Institutionalisation of Farmers’ Producers’ Organisation and infusing timely support of good agriculture practices and marketing interventions."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Website",
+          "url": "https://westsiang.nic.in/scheme/chief-ministers-krishi-samuh-yojana-cm-ksy/"
+        },
+        {
+          "title": "Guideline",
+          "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The Govt. of Arunachal Pradesh started the scheme “Chief Minister’s Krishi Samuh Yojana (CMKSY)” to empower the farmers through a cooperative approach by Institutionalisation of Farmers’ Producers’ Organisation and infusing timely support of good agriculture practices and marketing interventions.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Institutional architecture under \"Chief Minister’s Krishi Samuh Yojana\" is based on the fund flow and expenditure mechanism. It focuses on the Formation & Nurturing of Farmers' Producer's Organizations (FPO)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       To empower the farmers through a cooperative approach by Institutionalisation of the Farmers’ Producers’ Organisation and infusing timely support of good agriculture practices and marketing interventions for better price realization and doubling the farmer’s income."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Important Features:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State and district-level society for planning, administration, implementation, and monitoring"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A digital directory of farmers associated with this organization is to be created."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Participation of FPOs in buyers and sellers meet/Agri-Horti expo across the country"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Eligible projects to be undertaken under CMKSY"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "       a.  Organic Farming Activities"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "       b.  Employment generation in Animal Husbandry Sector"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "       c.   Employment generation in Fisheries Sector"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "       d.  Activities under Agri-Horti Sector"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "       e.  Other Innovative Projects"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.\tUnder this scheme, ₹4.00 lakhs as a revolving fund to each FPOs, society, etc. is to be provided."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.\tFinancial Assistance of ₹2.50 lakhs per FPO will be provided as under:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    a.\tMobilisation of FIG/ FPO – ₹1.00 lakh"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    b.\tTraining and Management of Governing body – ₹0.90 lakh"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    c.\tFPO Registration Cost – ₹0.20 lakh"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    d.\tFPO Office Set-up – ₹0.40 lakh"
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "Institutional architecture under &amp;quot;Chief Minister’s Krishi Samuh Yojana&amp;quot; is based on the fund flow and expenditure mechanism. It focuses on the Formation &amp;amp; Nurturing of Farmers&amp;#39; Producer&amp;#39;s Organizations (FPO).\n**Objective:**\n       To empower the farmers through a cooperative approach by Institutionalisation of the Farmers’ Producers’ Organisation and infusing timely support of good agriculture practices and marketing interventions for better price realization and doubling the farmer’s income.\n**Important Features:**\n\n- State and district-level society for planning, administration, implementation, and monitoring\n- A digital directory of farmers associated with this organization is to be created.\n- Participation of FPOs in buyers and sellers meet/Agri-Horti expo across the country\n- Eligible projects to be undertaken under CMKSY\n\n       a.  Organic Farming Activities\n       b.  Employment generation in Animal Husbandry Sector\n       c.   Employment generation in Fisheries Sector\n       d.  Activities under Agri-Horti Sector\n       e.  Other Innovative Projects\n<br>\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may contact the nearest District Agricultural Officer/ Agriculture Development Officer/ Agriculture Field Assistant."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Application in the prescribed format can be received from the concerned District Agricultural Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant must ensure that the filled information should be correct before submitting the application form to the concerned office/department."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.\tThe applicant should be a permanent resident of Arunachal Pradesh.\n2.\tAll categories of farmers (Marginal, Small, Medium, and Large farmers) are eligible to apply under the scheme.\n3.\t50 FPOs either as societies or companies in the State are eligible to apply under this scheme.\n4.\tFPO should be a registered body (Opened under Societies Act, Cooperative Society Act, or Company’s Act).\n5.\tFPOs should have an active bank account for a minimum of 6 months.\n6.\tResolution of the FPO board/ Governing Council to seek revolving fund\n**Note:** Revolving funds should be used only for the purpose for which the FPO was formed viz-a-viz production, growth, and marketing.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.\tThe applicant should be a permanent resident of Arunachal Pradesh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.\tAll categories of farmers (Marginal, Small, Medium, and Large farmers) are eligible to apply under the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.\t50 FPOs either as societies or companies in the State are eligible to apply under this scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4.\tFPO should be a registered body (Opened under Societies Act, Cooperative Society Act, or Company’s Act)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5.\tFPOs should have an active bank account for a minimum of 6 months."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6.\tResolution of the FPO board/ Governing Council to seek revolving fund"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " Revolving funds should be used only for the purpose for which the FPO was formed viz-a-viz production, growth, and marketing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmksy"
+}

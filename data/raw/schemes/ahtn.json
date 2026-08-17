@@ -1,0 +1,253 @@
+{
+  "_id": "66f692657e9b228ef8ba5320",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Tribal Welfare",
+        "Animal Husbandry",
+        "Animals Health Cover",
+        "Artificial Insemination",
+        "Distribution Of Sheep Units"
+      ],
+      "schemeName": "Animal Husbandry",
+      "schemeShortTitle": "AHTN",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "nodalDepartmentName": {
+        "value": 3333331,
+        "label": "Adi Dravidar and Tribal Welfare Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "ahtn",
+      "briefDescription": "This scheme provides subsidies on the distribution of sheep units, milch animals, and calves, as well as health coverage and artificial insemination for the animals. It is targeted at Tribal communities to improve their livelihood through animal husbandry.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/26799"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Animal Husbandry” scheme by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, offers Adi Dravidar and Tribal beneficiaries various forms of support, including a 50% to 75% subsidy on sheep units, milch animals, and calves. Additionally, the scheme ensures the animals receive proper health cover, artificial insemination services, and other veterinary care.\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+      "benefits_md": "\n  - **Subsidy:** Subsidy of 50% to 75% on sheep units, milch animals, and calves.  - **Health Care Facility for Animals:** Provision of health care and veterinary services.  - **Others:** Artificial insemination for animals to improve breeding.\n&lt;br&gt;\n\n",
+      "briefDescription": "This scheme provides subsidies on the distribution of sheep units, milch animals, and calves, as well as health coverage and artificial insemination for the animals. It is targeted at Tribal communities to improve their livelihood through animal husbandry.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Animal Husbandry” scheme by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, offers Adi Dravidar and Tribal beneficiaries various forms of support, including a 50% to 75% subsidy on sheep units, milch animals, and calves. Additionally, the scheme ensures the animals receive proper health cover, artificial insemination services, and other veterinary care."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subsidy: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Subsidy of 50% to 75% on sheep units, milch animals, and calves."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Health Care Facility for Animals:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Provision of health care and veterinary services."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Others:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Artificial insemination for animals to improve breeding."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should collect the application form from the office of the Director of Adi Dravidar and the Tribal Welfare Officer/ Director of the Animal Husbandry Department or the Veterinary Hospital."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the concerned department."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should collect the application form from the office of the Director of Adi Dravidar and the Tribal Welfare Officer/ Director of the Animal Husbandry Department or the Veterinary Hospital.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned department.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The beneficiary should be a resident of Tamil Nadu.\n- The beneficiary should be a Farmer.\n- The beneficiary should belong to the Adi Dravidar/Tribal community.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be a resident of Tamil Nadu."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be a Farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should belong to the Adi Dravidar/Tribal community."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ahtn"
+}

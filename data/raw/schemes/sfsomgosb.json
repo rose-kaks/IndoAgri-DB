@@ -1,0 +1,274 @@
+{
+  "_id": "6773a5ed5fe21d75995b61bd",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal",
+        "Goat",
+        "Insurance",
+        "Financial Assistance",
+        "Subsidy"
+      ],
+      "schemeName": "Scheme for Supply of Male Goat on Subsidy Basis",
+      "schemeShortTitle": "SFSOMGOSB",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "sfsomgosb",
+      "briefDescription": "\"Male Goat Supply Scheme on Grant Basis\" aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpdah.gov.in/schemes/view/UFpqN1UvTGpzSFdSK0RxcHlLT24vdz09"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Male Goat Supply Scheme on Grant Basis&quot; by the Animal Husbandry Department, Government of Madhya Pradesh aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis. The applications for this scheme are processed through a multi-level approval system involving Gram Sabha, Janpad Panchayat, and District Panchayat. The scheme is implemented across all districts of the state.\n",
+      "benefits_md": "**Male Goat Package**\n\n- One improved breed male goat: ₹7,500/-\n- Insurance coverage (2.75% sum insured for one year): ₹206/-\n- Mineral mixture: ₹394/-\n- Training booklet and monitoring card: ₹200/-\n- Total package value: ₹8,300/-\n\n**Grant Component**\n\n- Government contribution: 75% of total cost\n- Beneficiary contribution: 25% of total cost\n\n",
+      "briefDescription": "\"Male Goat Supply Scheme on Grant Basis\" aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Male Goat Supply Scheme on Grant Basis\" by the Animal Husbandry Department, Government of Madhya Pradesh aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis. The applications for this scheme are processed through a multi-level approval system involving Gram Sabha, Janpad Panchayat, and District Panchayat. The scheme is implemented across all districts of the state."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Male Goat Package",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One improved breed male goat: ₹7,500/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Insurance coverage (2.75% sum insured for one year): ₹206/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mineral mixture: ₹394/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Training booklet and monitoring card: ₹200/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Total package value: ₹8,300/-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grant Component",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Government contribution: 75% of total cost"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary contribution: 25% of total cost"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Initial Approval",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " by the beneficiaries in Gram Sabha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Secondary Approval",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " by the Janpad Panchayat for Gram Sabha-approved beneficiaries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Final Approval",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " by the Agriculture Standing Committee of the District Panchayat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Initial Approval** by the beneficiaries in Gram Sabha.\n**Secondary Approval** by the Janpad Panchayat for Gram Sabha-approved beneficiaries.\n**Final Approval** by the Agriculture Standing Committee of the District Panchayat.\n<br>\n\nThe interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be actively involved in goat rearing.\n1. The applicant must be a goat rearer of any category.\n1. The applicant must possess a minimum of 5 goats.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be actively involved in goat rearing."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a goat rearer of any category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must possess a minimum of 5 goats."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sfsomgosb"
+}

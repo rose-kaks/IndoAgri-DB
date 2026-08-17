@@ -1,0 +1,318 @@
+{
+  "_id": "67ca93411dc65aa2df416164",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Sugar Co-operatives Factories"
+      ],
+      "schemeName": "State Government Share Capital Contribution to Co.operative Sugar Factories (Normal Area) (Tribal Area)",
+      "schemeShortTitle": "SGSCCS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "sgsccs",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to provide financial assistance in the form of a 30% share capital contribution by the State Government for setting up new sugar cooperative factories in Gujarat.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines 1",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=DNxJl5a3JCcwihu9qhzeHA==&domain=XWitJVnGypIBbPyRipp0WA=="
+        },
+        {
+          "title": "Guidelines 2",
+          "url": "https://agri.gujarat.gov.in/ViewFile?fileName=BPU15yCCFnFG3aU8EVKGJ7lSZqskxqNBMkB02hkwK3y1zCEFInSjGtFyrmJhqnAl3fpmZTBRmOldQ6vAgzImDCrKFgBHASH_HASHZEYOBfAV7pG0HASH_HASH5bPVax2B8r0r4VFZJGWV1BWHASH__HASHsHQY2DcvigGJiSVpu6CvQ=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to provide financial assistance in the form of a 30% share capital contribution by the State Government for setting up new sugar cooperative factories in Gujarat.\n\n",
+      "detailedDescription_md": "The scheme &amp;quot;State Government Share Capital Contribution to Co.operative Sugar Factories (Normal Area) (Tribal Area)&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to facilitates the establishment of new sugar cooperative factories by providing a 30% share capital contribution from the State Government. The objective is to strengthen the cooperative sugar industry and support economic development in the state.\n",
+      "benefits_md": "<br>\n\nName of the ComponentStandard of AssistanceMinimum Time Limit (in Years) for Reclaiming Benefits\tState Government share capital contribution to Co.operative Sugar Factories\tShare contribution by the State Government on the basis of 30% of the project cost to the new sugar co-operative factories to be set up in the State.\tTo the extent of 30% of the project cost to the concerned Sugar Co-operative Societies who are eligible<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"State Government Share Capital Contribution to Co.operative Sugar Factories (Normal Area) (Tribal Area)\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to facilitates the establishment of new sugar cooperative factories by providing a 30% share capital contribution from the State Government. The objective is to strengthen the cooperative sugar industry and support economic development in the state."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of the Component"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Time Limit (in Years) for Reclaiming Benefits\t"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "State Government share capital contribution to Co.operative Sugar Factories\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Share contribution by the State Government on the basis of 30% of the project cost to the new sugar co-operative factories to be set up in the State.\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To the extent of 30% of the project cost to the concerned Sugar Co-operative Societies who are eligible"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The concerned sugar co-operative societies who are eligible, should send the proposal through the District Registrar of the concerned district to the Director of Sugar, Gujarat State, Gandhinagar."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Office Address and Contact Details of District Registrar: ",
+                    "bold": true
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rcs.gujarat.gov.in/Home/DistrictRegistrar",
+                    "children": [
+                      {
+                        "text": "Click here"
+                      }
+                    ]
+                  },
+                  {
+                    "bold": true,
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Office Address and Contact Details of Director Of Sugar:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Director of sugar"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Address:",
+                "bold": true
+              },
+              {
+                "text": " Dr.Jivraj Mehta bhavan, Block No.8 ,2nd floor, Gandhinagar"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Phone: ",
+                "bold": true
+              },
+              {
+                "text": "232-53437"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Email Us:",
+                "bold": true
+              },
+              {
+                "text": " directorsugar[at]gmail[dot]com"
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- The concerned sugar co-operative societies who are eligible, should send the proposal through the District Registrar of the concerned district to the Director of Sugar, Gujarat State, Gandhinagar.\n\n<br>\n\n\n- **Office Address and Contact Details of District Registrar:** [Click here](https://rcs.gujarat.gov.in/Home/DistrictRegistrar)**.**\n\n- **Office Address and Contact Details of Director Of Sugar:**\n\n> Director of sugar\n\n> **Address:** Dr.Jivraj Mehta bhavan, Block No.8 ,2nd floor, Gandhinagar\n\n> **Phone:** 232-53437\n\n> **Email Us:** directorsugar[at]gmail[dot]com\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Newly established sugar co-operative factories shall be eligible for this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Newly established sugar co-operative factories shall be eligible for this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sgsccs"
+}

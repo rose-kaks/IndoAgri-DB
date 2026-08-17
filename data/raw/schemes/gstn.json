@@ -1,0 +1,251 @@
+{
+  "_id": "66daa72e150e9fd26bc35fdf",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Generator",
+        "Subsidy",
+        "Manufacture"
+      ],
+      "schemeName": "Generator Subsidy-Tamil Nadu",
+      "schemeShortTitle": "GSTN",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "nodalDepartmentName": {
+        "value": 3333332,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "gstn",
+      "briefDescription": "The “Generator Subsidy” scheme provides a 25% subsidy on the cost of generator sets up to 125 KVA capacity for manufacturers in Tamil Nadu.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/19674"
+        },
+        {
+          "title": "Guidelines (Refer Page No. 10)",
+          "url": "https://cms.tn.gov.in/sites/default/files/schemes/msme_14.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Generator Subsidy” scheme provides a 25% subsidy or maximum ₹1,50,000/- on the cost of generator sets up to 125 KVA capacity for manufacturers in Tamil Nadu. The subsidy must be claimed within six months from the date of purchase or installation of the generator.\n&lt;br&gt;\n\n",
+      "benefits_md": "**Quantum of Assistance:** 25% subsidy or maximum ₹1,50,000/- on the cost of generator sets (up to 125 KVA capacity).\n&lt;br&gt;\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The “Generator Subsidy” scheme provides a 25% subsidy on the cost of generator sets up to 125 KVA capacity for manufacturers in Tamil Nadu.\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Generator Subsidy” scheme provides a 25% subsidy or maximum ₹1,50,000/- on the cost of generator sets up to 125 KVA capacity for manufacturers in Tamil Nadu. The subsidy must be claimed within six months from the date of purchase or installation of the generator."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Quantum of Assistance: ",
+                  "bold": true
+                },
+                {
+                  "text": "25% subsidy or maximum ₹1,50,000/- on the cost of generator sets (up to 125 KVA capacity)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Collect and submit the application form to the below-mentioned office address:"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Regional Joint Director of Industries and Commerce Industrial Estate,"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Chennai-600 032"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Telephone: 044-22501622/22501625"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "E-mail address: rjdchn@gmail.com"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Website address: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://www.rjdchn.in/lander",
+                    "children": [
+                      {
+                        "text": "http://www.rjdchn.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Collect and submit the application form to the below-mentioned office address:\n\n&gt; Regional Joint Director of Industries and Commerce Industrial Estate,\n\n&gt; Chennai-600 032\n\n&gt; Telephone: 044-22501622/22501625\n\n&gt; E-mail address: rjdchn@gmail.com\n\n&gt; Website address: [http://www.rjdchn.in/](https://www.rjdchn.in/lander) \n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - Beneficiaries must be new and existing Micro, Small and Medium Manufacturing Enterprises.\n  - The generator set must have a capacity of up to 125 KVA.\n  - Subsidy claims must be made within six months from the date of purchase or installation.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Beneficiaries must be new and existing Micro, Small and Medium Manufacturing Enterprises."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The generator set must have a capacity of up to 125 KVA."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subsidy claims must be made within six months from the date of purchase or installation."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gstn"
+}

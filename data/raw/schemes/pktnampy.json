@@ -1,0 +1,517 @@
+{
+  "_id": "66a3510e827e45c81158503f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Fish Farmer",
+        "Financial Assistance",
+        "Ponds",
+        "Opportunities"
+      ],
+      "schemeName": "Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana",
+      "schemeShortTitle": "PKTNAMPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": "2023-07-04",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalDepartmentName": {
+        "value": 10111112,
+        "label": "Animal & Fisheries Resources Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "pktnampy",
+      "briefDescription": "The \"Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana\" aims to promote fisheries by constructing ponds and setting up related supporting units in plateau-dominated districts. The initiative is designed to create new employment opportunities and provide a means of livelihood for farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.bihar.gov.in/docs/pathari23-24.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://misfisheries.bihar.gov.in/login.aspx"
+        },
+        {
+          "title": "Login",
+          "url": "https://fisheries.bihar.gov.in/Default.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana&quot; was launched by the Animal and Fisheries Resources Department, Government of Bihar. The scheme aims to promote fisheries by constructing ponds and setting up related supporting units in plateau-dominated districts. The initiative is designed to create new employment opportunities and provide a means of livelihood for farmers.\n",
+      "benefits_md": "\n- **Maximum Subsidy per Beneficiary:** 80% of ₹16.70 lakh per acre.- **Subsidy Installments:** 60% after pond construction, 40% after installation of related units and purchase of inputs.\n",
+      "briefDescription": "The \"Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana\" aims to promote fisheries by constructing ponds and setting up related supporting units in plateau-dominated districts. The initiative is designed to create new employment opportunities and provide a means of livelihood for farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Pathari Kshetr Talab Nirman Aadharit Matsya Paalan ki Yojana\" was launched by the Animal and Fisheries Resources Department, Government of Bihar. The scheme aims to promote fisheries by constructing ponds and setting up related supporting units in plateau-dominated districts. The initiative is designed to create new employment opportunities and provide a means of livelihood for farmers."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum Subsidy per Beneficiary:",
+                  "bold": true
+                },
+                {
+                  "text": " 80% of ₹16.70 lakh per acre."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy Installments: ",
+                  "bold": true
+                },
+                {
+                  "text": "60% after pond construction, 40% after installation of related units and purchase of inputs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Select the \""
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/RegisterFisheries.aspx",
+                "children": [
+                  {
+                    "text": "Registration for Fisheries Schemes"
+                  }
+                ]
+              },
+              {
+                "text": "\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03:",
+                "bold": true
+              },
+              {
+                "text": " Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " Enter a valid 10-digit mobile number and click to send OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05:",
+                "bold": true
+              },
+              {
+                "text": " An OTP will be sent to the provided mobile number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06:",
+                "bold": true
+              },
+              {
+                "text": " Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-07:",
+                "bold": true
+              },
+              {
+                "text": " Click on the \"Login\" and enter the Registration Number and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Form Filling Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Click \"If your already register, "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/login.aspx",
+                "children": [
+                  {
+                    "text": "login here"
+                  }
+                ]
+              },
+              {
+                "text": "\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03",
+                "bold": true
+              },
+              {
+                "text": ": Select \"Scheme name\" under the \"Matsya Yojana\" option on the top menu."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " Applicant need to provide the following details :"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Details of individual (applicant/group leader)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Permanent address"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Land/pond details"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05",
+                "bold": true
+              },
+              {
+                "text": ": Upload the required documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the submit button as well print the application form and submit it to the District Fisheries Office along with attachments. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note: Download the "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/Docs/Specialpackagesapat.pdf",
+                "children": [
+                  {
+                    "text": "Affidavit form"
+                  }
+                ]
+              },
+              {
+                "text": " and "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/Docs/specialpackagesahmati.pdf",
+                "children": [
+                  {
+                    "text": "Consent form"
+                  }
+                ]
+              },
+              {
+                "text": " also attached with the application. "
+              }
+            ]
+          }
+        ],
+        "process_md": "> ***Registration Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;. \n**Step-02:** Select the &quot;[Registration for Fisheries Schemes](https://misfisheries.bihar.gov.in/RegisterFisheries.aspx)&quot;\n**Step-03:** Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.\n**Step-04:** Enter a valid 10-digit mobile number and click to send OTP.\n**Step-05:** An OTP will be sent to the provided mobile number.\n**Step-06:** Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.\n**Step-07:** Click on the &quot;Login&quot; and enter the Registration Number and Password.\n<br>\n\n> ***Application Form Filling Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;.\n**Step-02:** Click &quot;If your already register, [login here](https://misfisheries.bihar.gov.in/login.aspx)&quot;. \n**Step-03**: Select &quot;Scheme name&quot; under the &quot;Matsya Yojana&quot; option on the top menu.\n**Step-04:** Applicant need to provide the following details :\n\n\n  - Details of individual (applicant/group leader)\n  - Permanent address\n  - Bank account details\n  - Land/pond details\n\n\n**Step-05**: Upload the required documents.\n**Step-06:** Click on the submit button as well print the application form and submit it to the District Fisheries Office along with attachments. \n<br>\n\nNote: Download the [Affidavit form](https://misfisheries.bihar.gov.in/Docs/Specialpackagesapat.pdf) and [Consent form](https://misfisheries.bihar.gov.in/Docs/specialpackagesahmati.pdf) also attached with the application. \n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must own or lease land in the identified plateau-dominated districts. \n1. A person/family should construct a pond of a maximum of one acre and a minimum 0.4-acre water area i.e. 0.5-acre area.\n1. The applicant should install a concrete board on the pond. \n1. The board should be made of an iron sheet of size 4 feet x 3 feet, standing four feet at an iron angle, on which the description will be written with paint.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must own or lease land in the identified plateau-dominated districts. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A person/family should construct a pond of a maximum of one acre and a minimum 0.4-acre water area i.e. 0.5-acre area."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should install a concrete board on the pond. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The board should be made of an iron sheet of size 4 feet x 3 feet, standing four feet at an iron angle, on which the description will be written with paint."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pktnampy"
+}

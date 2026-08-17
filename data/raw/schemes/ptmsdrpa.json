@@ -1,0 +1,388 @@
+{
+  "_id": "67c142650589a4176765ced2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Agriculture",
+        "Farming",
+        "Farmer",
+        "Financial Assistance"
+      ],
+      "schemeName": "Paddy Transplantor Machine se Dhan Ropayee par Anudan",
+      "schemeShortTitle": "PTMSDRPA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2014-12-26",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 22,
+        "label": "Chhattisgarh"
+      },
+      "nodalDepartmentName": {
+        "value": 2200001,
+        "label": "Agriculture Development and Farmer Welfare and Bio-Technology Department"
+      },
+      "slug": "ptmsdrpa",
+      "briefDescription": "The scheme aims to promote mechanized paddy transplantation under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. It provides ₹3,000 per acre for land preparation, including ploughing and weeding, up to 2 hectares."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agriportal.cg.nic.in/agridept/StateScheme/1.4%20Paddy%20transStateScheme%20.pdf"
+        },
+        {
+          "title": "Website",
+          "url": "https://agriportal.cg.nic.in/PortHi/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme was launched on December 26, 2014, The Paddy Transplanter Machine Se Dhan Ropayee Par Anudan, under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. The scheme aims to promote paddy transplantation using advanced technology, expand the area under transplantation, and improve efficiency in rice cultivation.\nThe scheme is applicable across the entire state, benefiting farmers by providing financial assistance for land preparation. A grant of ₹3,000 per acre will be given for activities such as ploughing and weeding, up to a maximum limit of 2 hectares. This assistance covers the preparation of a mat-type nursery and the transplantation of paddy using a paddy transplanter machine, ensuring improved efficiency and higher yields.\n",
+      "benefits_md": "**(A) Field Preparation Expenditure per Hectare:**\n\n- Field Ploughing (5 hours @ ₹700 per hour): ₹3,500/-\n- Field Weeding (6 hours with Rotavator @ ₹700 per hour): ₹4,200/-\n- Total Field Preparation Cost: ₹7,700/-\n\n**(B) Expenditure for Seedling Preparation per Hectare:**\n\n- Plastic Sheet for Nursery (15 Kg @ ₹100 per Kg): ₹1,500/-\n- Field Weeding (6 hours with Rotavator @ ₹500 per hour): ₹3,000/-\n- Other Expenses (Soil, Manure, Sand, Water - arranged by the farmer): Not Included\n- Additional Contingencies: ₹500/-\n- Total Seedling Preparation Cost: ₹5,000/-\n\n**Total Expenditure per Hectare:**\n\n- Field Preparation (A) + Seedling Preparation (B): ₹7,700 + ₹5,000 = ₹12,500/- per hectare\n- Cost per Acre: ₹5,080/-\n\n**Subsidy Details:**\n\n- Subsidy Amount: 75% of the cost\n- Maximum Subsidy Limit: ₹3,800/- per acre\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote mechanized paddy transplantation under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. It provides ₹3,000 per acre for land preparation, including ploughing and weeding, up to 2 hectares.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme was launched on December 26, 2014, The Paddy Transplanter Machine Se Dhan Ropayee Par Anudan, under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. The scheme aims to promote paddy transplantation using advanced technology, expand the area under transplantation, and improve efficiency in rice cultivation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme is applicable across the entire state, benefiting farmers by providing financial assistance for land preparation. A grant of ₹3,000 per acre will be given for activities such as ploughing and weeding, up to a maximum limit of 2 hectares. This assistance covers the preparation of a mat-type nursery and the transplantation of paddy using a paddy transplanter machine, ensuring improved efficiency and higher yields."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(A) Field Preparation Expenditure per Hectare:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Field Ploughing (5 hours @ ₹700 per hour): ₹3,500/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Field Weeding (6 hours with Rotavator @ ₹700 per hour): ₹4,200/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Total Field Preparation Cost: ₹7,700/-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(B) Expenditure for Seedling Preparation per Hectare:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Plastic Sheet for Nursery (15 Kg @ ₹100 per Kg): ₹1,500/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Field Weeding (6 hours with Rotavator @ ₹500 per hour): ₹3,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other Expenses (Soil, Manure, Sand, Water - arranged by the farmer): Not Included"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Additional Contingencies: ₹500/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Total Seedling Preparation Cost: ₹5,000/-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Total Expenditure per Hectare:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Field Preparation (A) + Seedling Preparation (B): ₹7,700 + ₹5,000 = ₹12,500/- per hectare"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cost per Acre: ₹5,080/-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy Details:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy Amount: 75% of the cost"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum Subsidy Limit: ₹3,800/- per acre"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The interested applicant should visit (during office hours) the office of the Rural Agriculture Extension Officer and request the hard copy of the prescribed format of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Ensure that the application is submitted within the prescribed period, if any."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the office of the Rural Agriculture Extension Officer and request the hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a farmer residing in the Chhattisgarh.\n1. The applicant should be engaged in paddy cultivation.\n1. The applicant should be willing to use a paddy transplanter machine for transplantation.\n1. The applicant should be preparing a mat-type nursery for paddy transplantation.\n1. The applicant should have suitable land for ploughing and weeding.\n1. The applicant should have a cultivable area of up to 2 hectares to be eligible for the grant.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer residing in the Chhattisgarh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be engaged in paddy cultivation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be willing to use a paddy transplanter machine for transplantation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be preparing a mat-type nursery for paddy transplantation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have suitable land for ploughing and weeding."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have a cultivable area of up to 2 hectares to be eligible for the grant."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ptmsdrpa"
+}

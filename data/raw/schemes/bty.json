@@ -1,0 +1,369 @@
+{
+  "_id": "69009fecb29d98f5f7bbe7b8",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Irrigation",
+        "Subsidy",
+        "Water",
+        "Construction"
+      ],
+      "schemeName": "Balram Talab Yojana",
+      "schemeShortTitle": "BTY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300011,
+        "label": "Farmer Welfare and Agriculture Development Department"
+      },
+      "slug": "bty",
+      "briefDescription": "The scheme aims to conserve rainwater in fields to help farmers, ensuring water availability during irrigation and drought conditions. Farmers receive subsidies up to ₹1,00,000/- for pond construction."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cdn.s3waas.gov.in/s3b1d10e7bafa4421218a51b1e1f1b0ba2/uploads/2018/07/2018071785.pdf"
+        },
+        {
+          "title": "CM Helpline",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=BySchemeFor&pointvalue=1&Schemeid=92"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Balram Talab Yojana&quot; was launched by the Farmer Welfare and Agricultural Development Department, Government of Madhya Pradesh. The scheme aims to support agriculture activities on a sustainable basis by conservation of rainwater in the field, enriching surface and groundwater availability. Only those farmers who have installed drip or sprinkler sets in financial year 2017-18 or thereafter and currently in operational condition will be granted approval for subsidized pond construction.\n<br>\n\n",
+      "benefits_md": "\n- General category farmers receive 40% of the construction cost or maximum ₹80,000/- as subsidy.\n- Small and marginal farmers receive 50% of the construction cost or maximum ₹80,000/- as subsidy.\n- Scheduled Caste or Scheduled Tribe category farmers receive 75% of the construction cost or maximum ₹1,00,000/- as subsidy.\n\n##### ***Disbursement***\n\n- The subsidy will be disbursed to the beneficiary based on the progress of pond construction.\n- The subsidy will be provided within 30 days based on the evaluation by the Soil Conservation Staff.\n\n##### ***Conditions***\n\n- All conditions and eligibility must be verified by the Soil Conservation Survey Officer before subsidy benefits are provided.\n- Before providing the benefit under this scheme, verification of the land will be conducted by the Conservation Survey Officer.\n- From a security perspective, it is mandatory to install a board at the pond site to prevent drowning incidents. This must be installed at the farmer&#39;s own expense. In the absence of a board, if any accident occurs, the farmer will be solely responsible.\n\n<br>\n\n",
+      "exclusions_md": "The farmer who has already received the benefit of this scheme is not eligible.\n<br>\n\n",
+      "briefDescription": "The scheme aims to conserve rainwater in fields to help farmers, ensuring water availability during irrigation and drought conditions. Farmers receive subsidies up to ₹1,00,000/- for pond construction.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Balram Talab Yojana\" was launched by the Farmer Welfare and Agricultural Development Department, Government of Madhya Pradesh. The scheme aims to support agriculture activities on a sustainable basis by conservation of rainwater in the field, enriching surface and groundwater availability. Only those farmers who have installed drip or sprinkler sets in financial year 2017-18 or thereafter and currently in operational condition will be granted approval for subsidized pond construction."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General category farmers receive 40% of the construction cost or maximum ₹80,000/- as subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Small and marginal farmers receive 50% of the construction cost or maximum ₹80,000/- as subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scheduled Caste or Scheduled Tribe category farmers receive 75% of the construction cost or maximum ₹1,00,000/- as subsidy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Disbursement",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy will be disbursed to the beneficiary based on the progress of pond construction."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy will be provided within 30 days based on the evaluation by the Soil Conservation Staff."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All conditions and eligibility must be verified by the Soil Conservation Survey Officer before subsidy benefits are provided."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Before providing the benefit under this scheme, verification of the land will be conducted by the Conservation Survey Officer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "From a security perspective, it is mandatory to install a board at the pond site to prevent drowning incidents. This must be installed at the farmer's own expense. In the absence of a board, if any accident occurs, the farmer will be solely responsible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The farmer who has already received the benefit of this scheme is not eligible."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://farmer.mpdage.org/",
+                "children": [
+                  {
+                    "text": "MP DBT Agriculture Portal"
+                  }
+                ]
+              },
+              {
+                "text": ". Navigate to the \"पंजीकरण\" (Registration) section. Complete Aadhaar authentication using OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " On the next screen, provide your personal details: Name, Address, Mobile Number, and Land Ownership Information. Upload the following mandatory documents: Aadhaar Card, Land Records (e.g., Khasra/Khatauni), Bank Passbook, Passport-size Photo."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " On the next screen, a list of available schemes will be displayed. Select \"Balram Talab Yojana\" scheme from the list. You will be taken to the online form of the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Submit the application and note the application ID for future tracking."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [MP DBT Agriculture Portal](https://farmer.mpdage.org/). Navigate to the &quot;पंजीकरण&quot; (Registration) section. Complete Aadhaar authentication using OTP.\n**Step 2:** On the next screen, provide your personal details: Name, Address, Mobile Number, and Land Ownership Information. Upload the following mandatory documents: Aadhaar Card, Land Records (e.g., Khasra/Khatauni), Bank Passbook, Passport-size Photo.\n**Step 3:** On the next screen, a list of available schemes will be displayed. Select &quot;Balram Talab Yojana&quot; scheme from the list. You will be taken to the online form of the scheme.\n**Step 4:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size. \n**Step 5:** Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Submit the application and note the application ID for future tracking.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a permanent resident of Madhya Pradesh.\n- The applicant must possess agricultural land.\n- The applicant must have installed drip or sprinkler sets in financial year 2017-18 or thereafter, and these must be currently in operational condition, to be eligible for subsidized pond construction.\n- The applicant must construct the pond on their own land. Subsidy will not be provided for pond construction on leased land.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a permanent resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must possess agricultural land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have installed drip or sprinkler sets in financial year 2017-18 or thereafter, and these must be currently in operational condition, to be eligible for subsidized pond construction."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must construct the pond on their own land. Subsidy will not be provided for pond construction on leased land."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "bty"
+}

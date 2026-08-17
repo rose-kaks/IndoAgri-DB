@@ -1,0 +1,572 @@
+{
+  "_id": "650a82487846de4ead188613",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Organic Farming",
+        "Soil Health",
+        "Pesticide-free Agriculture",
+        "Cluster Based Farming",
+        "Bio Fertilizers"
+      ],
+      "schemeName": "Paramparagat Krishi Vikas Yojana",
+      "schemeShortTitle": "PKVY",
+      "implementingAgency": "State /UT Government",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Soil health",
+          "label": "Soil health"
+        }
+      ],
+      "schemeOpenDate": "2015-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "institution",
+          "label": "University / Institution"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 121226,
+        "label": "Department of Agriculture & Farmers Welfare"
+      },
+      "slug": "pkvy",
+      "briefDescription": "The Paramparagat Krishi Vikas Yojana (PKVY), launched in 2015, is an extended component of Soil Health Management (SHM) under the Centrally Sponsored Scheme (CSS), National Mission on Sustainable Agriculture (NMSA). "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://darpg.gov.in/sites/default/files/Paramparagat%20Krishi%20Vikas%20Yojana.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Paramparagat Krishi Vikas Yojana (PKVY)&quot; is a Centrally Sponsored Scheme implemented by the Department of Agriculture, Cooperation and Farmers Welfare, Government of India under the &quot;National Mission on Sustainable Agriculture (NMSA)&quot;. The scheme aims to promote organic farming through a cluster-based approach and Participatory Guarantee System (PGS) certification. It supports farmers in converting conventional agricultural land into organic farming systems through financial assistance for certification, organic inputs, manure management, and marketing activities. The scheme is implemented over a period of 3 years, corresponding to the 36-month conversion period from conventional to organic farming. The funding pattern is 60:40 between the Central and State Governments, 90:10 for North Eastern and Himalayan States, and 100% Central assistance for Union Territories.\n<br>\n\n",
+      "benefits_md": "> **Financial Assistance for Organic Farming Cluster:**\n\n\n- Total assistance of ₹14,95,030/- per cluster of 20 hectares (50 acres) for 3 years.\n- Maximum assistance of ₹10,00,000/- per cluster for farmer members.\n- Maximum assistance of ₹50,000/- per farmer per hectare, limited to 1 hectare per farmer.\n\n> **Participatory Guarantee System (PGS) Certification:**\n\n\n- Assistance for mobilization of farmers and formation of Local Groups.\n- Support for PGS certification and quality control activities.\n- Assistance for online registration, soil testing, field inspections, residue analysis, and certification processes.\n\n> **Conversion of Land into Organic Farming:**\n\n\n- Assistance for conversion of conventional land into organic farming.\n- Support for organic cropping systems.\n- Assistance for organic seed procurement and nursery raising.\n- Support for establishment of organic input production units.\n- Assistance for biological nitrogen harvesting plantations.\n- Support for botanical extract production units.\n\n> **Integrated Manure Management**\n\n\n- Assistance for production and use of liquid bio-fertilizers.\n- Assistance for liquid bio-pesticides.\n- Support for natural pest control practices.\n- Assistance for Phosphate Rich Organic Manure (PROM).\n- Support for vermicompost units.\n\n> **Custom Hiring Centre (CHC):**\n\n\n- Assistance for hiring agricultural implements required for organic farming operations.\n\n> **Packing, Labelling and Branding:**\n\n\n- Assistance for procurement of packing materials.\n- Support for PGS logo and hologram printing.\n- Assistance for branding and marketing of organic products.\n- Support for transportation of organic produce.\n- Assistance for participation in organic fairs.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n<br>\n\n",
+      "briefDescription": "The Paramparagat Krishi Vikas Yojana (PKVY), launched in 2015, is an extended component of Soil Health Management (SHM) under the Centrally Sponsored Scheme (CSS), National Mission on Sustainable Agriculture (NMSA). ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Paramparagat Krishi Vikas Yojana (PKVY)\" is a Centrally Sponsored Scheme implemented by the Department of Agriculture, Cooperation and Farmers Welfare, Government of India under the \"National Mission on Sustainable Agriculture (NMSA)\". The scheme aims to promote organic farming through a cluster-based approach and Participatory Guarantee System (PGS) certification. It supports farmers in converting conventional agricultural land into organic farming systems through financial assistance for certification, organic inputs, manure management, and marketing activities. The scheme is implemented over a period of 3 years, corresponding to the 36-month conversion period from conventional to organic farming. The funding pattern is 60:40 between the Central and State Governments, 90:10 for North Eastern and Himalayan States, and 100% Central assistance for Union Territories."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Assistance for Organic Farming Cluster:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Total assistance of ₹14,95,030/- per cluster of 20 hectares (50 acres) for 3 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum assistance of ₹10,00,000/- per cluster for farmer members."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum assistance of ₹50,000/- per farmer per hectare, limited to 1 hectare per farmer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Participatory Guarantee System (PGS) Certification:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for mobilization of farmers and formation of Local Groups."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for PGS certification and quality control activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for online registration, soil testing, field inspections, residue analysis, and certification processes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Conversion of Land into Organic Farming:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for conversion of conventional land into organic farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for organic cropping systems."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for organic seed procurement and nursery raising."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for establishment of organic input production units."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for biological nitrogen harvesting plantations."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for botanical extract production units."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Integrated Manure Management",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for production and use of liquid bio-fertilizers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for liquid bio-pesticides."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for natural pest control practices."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for Phosphate Rich Organic Manure (PROM)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for vermicompost units."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Custom Hiring Centre (CHC):",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for hiring agricultural implements required for organic farming operations."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Packing, Labelling and Branding:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for procurement of packing materials."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for PGS logo and hologram printing."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for branding and marketing of organic products."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for transportation of organic produce."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for participation in organic fairs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The eligible farmers form or join a Local Group under a cluster of approximately 20 hectares (50 acres)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "The Local Group submits an application to the Regional Council in the prescribed format."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "The Regional Council verifies the application and supporting documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "The Regional Council registers the Local Group under the PGS-India programme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "User ID and password are issued for registration on the PGS portal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Farmers sign the prescribed pledge and undertake organic farming practices."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: ",
+                "bold": true
+              },
+              {
+                "text": "Peer appraisals, field inspections, soil testing, and quality control activities are conducted."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 8: ",
+                "bold": true
+              },
+              {
+                "text": "The Certificate Approval Committee evaluates compliance with PGS requirements."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 9: ",
+                "bold": true
+              },
+              {
+                "text": "The Regional Council issues certification approval and Scope Certificate."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 10: ",
+                "bold": true
+              },
+              {
+                "text": "Financial assistance is released based on approved activities and implementation progress."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The eligible farmers form or join a Local Group under a cluster of approximately 20 hectares (50 acres).\n**Step 2:** The Local Group submits an application to the Regional Council in the prescribed format.\n**Step 3:** The Regional Council verifies the application and supporting documents.\n**Step 4:** The Regional Council registers the Local Group under the PGS-India programme.\n**Step 5:** User ID and password are issued for registration on the PGS portal.\n**Step 6:** Farmers sign the prescribed pledge and undertake organic farming practices.\n**Step 7:** Peer appraisals, field inspections, soil testing, and quality control activities are conducted.\n**Step 8:** The Certificate Approval Committee evaluates compliance with PGS requirements.\n**Step 9:** The Regional Council issues certification approval and Scope Certificate.\n**Step 10:** Financial assistance is released based on approved activities and implementation progress.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a farmer willing to adopt organic farming practices.\n- The applicant must be part of a cluster or Local Group formed under the Participatory Guarantee System (PGS)-India programme.\n- The applicant must be a member of a cluster covering approximately 20 hectares (50 acres) in a contiguous area.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer willing to adopt organic farming practices."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be part of a cluster or Local Group formed under the Participatory Guarantee System (PGS)-India programme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a member of a cluster covering approximately 20 hectares (50 acres) in a contiguous area."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pkvy"
+}

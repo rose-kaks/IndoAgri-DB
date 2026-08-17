@@ -1,0 +1,243 @@
+{
+  "_id": "6929906b8c1ba81ed40d4861",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Credit Card",
+        "Loan",
+        "Fishermen",
+        "Fish Farmer"
+      ],
+      "schemeName": "Kisan Credit Card Scheme for Fisheries- Chief Minister Fishermen Prosperity Scheme",
+      "schemeShortTitle": "KCCSF-CMFPS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Loan",
+          "label": "Loan"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300013,
+        "label": "Fisheries Department"
+      },
+      "slug": "kccsf-cmfps",
+      "briefDescription": "The scheme aims to provide short-term loans for fisheries. It offers zero-percent interest working capital to the fish farmers through cooperative banks."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpfisheries.gov.in/hi/yaojanaaen/maukhayamantarai-machaua-samardadhai-yaojanaa"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=977"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Kisan Credit Card Scheme for Fisheries” is a component scheme under the &quot;Chief Minister Fishermen Prosperity Scheme&quot; launched by the Fisheries Welfare and Fisheries Development Department, Government of Madhya Pradesh. Under this scheme, working capital is provided at a zero percent interest rate through cooperative banks to the fish farmers engaged in fisheries operations. The scheme offers interest subvention to ensure affordable credit for beneficiaries and reduce their financial burden. \n<br>\n\n",
+      "benefits_md": "\n- Short-term working capital loans for fisheries activities under the Kisan Credit Card (KCC) facility.\n- Fish farmers receive interest subvention, enabling access to zero-percent interest loans through cooperative banks.\n- The loan amount is determined as per bank norms and scheme provisions, based on the financial requirement of the fish farmer.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide short-term loans for fisheries. It offers zero-percent interest working capital to the fish farmers through cooperative banks.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “Kisan Credit Card Scheme for Fisheries” is a component scheme under the \"Chief Minister Fishermen Prosperity Scheme\" launched by the Fisheries Welfare and Fisheries Development Department, Government of Madhya Pradesh. Under this scheme, working capital is provided at a zero percent interest rate through cooperative banks to the fish farmers engaged in fisheries operations. The scheme offers interest subvention to ensure affordable credit for beneficiaries and reduce their financial burden. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Short-term working capital loans for fisheries activities under the Kisan Credit Card (KCC) facility."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fish farmers receive interest subvention, enabling access to zero-percent interest loans through cooperative banks."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The loan amount is determined as per bank norms and scheme provisions, based on the financial requirement of the fish farmer."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Office. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Office. \n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a landholding farmer, marginal farmer, small farmer, fish farmer, livestock owner, BPL beneficiary, unorganized worker card holder, or registered worker. \n1. The applicant must be engaged in fisheries activities.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a landholding farmer, marginal farmer, small farmer, fish farmer, livestock owner, BPL beneficiary, unorganized worker card holder, or registered worker. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be engaged in fisheries activities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kccsf-cmfps"
+}

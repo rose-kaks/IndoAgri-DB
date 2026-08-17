@@ -1,0 +1,600 @@
+{
+  "_id": "685e7924d4a46d800434f891",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Subsidy",
+        "Fish Farmer",
+        "Entrepreneurs",
+        "Fish Production",
+        "Fish",
+        "Fish Feed",
+        "Mill"
+      ],
+      "schemeName": "Pradhan Mantri Matsya Sampada Yojana: Medium Fish Feed Mill of Production Capacity of 8 Ton/Day",
+      "schemeShortTitle": "PMMSYMFFMPC8TDS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 6,
+        "label": "Haryana"
+      },
+      "nodalDepartmentName": {
+        "value": 666678,
+        "label": "Fisheries Department"
+      },
+      "slug": "mffmpc8tds",
+      "briefDescription": "The scheme aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a production capacity of 8 tons per day, benefiting entrepreneurs and fish farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=WPlZETRRqEaxawtKcTvqcQ%3d%3d"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://harfish.gov.in/technical-financial-assistance"
+        },
+        {
+          "title": "Scheme Details (Page No. 2)",
+          "url": "https://harfish.gov.in/sites/default/files/Scheme%20Brief.pdf?utm_source=chatgpt.com"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Medium Fish Feed Mill of Production Capacity of 8 Ton/Day” is a scheme component under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), implemented by the Fisheries Department, Government of Haryana. This is a Centrally Sponsored Scheme, aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a production capacity of 8 tons per day, benefiting entrepreneurs and fish farmers.\n<br>\n\n",
+      "benefits_md": "**Tangible Benefits:**\n\n- Financial assistance for setting up a fish feed mill of 8 tons/day capacity.\n- Unit cost is ₹1,00,00,000/- per unit.\n- 40% subsidy of the project cost for General Category beneficiaries (up to ₹40,00,000/-).\n- 60% subsidy of the project cost for Weaker sections/ SC/ST/Women and their co-operatives of beneficiaries (up to ₹60,00,000/-).\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a production capacity of 8 tons per day, benefiting entrepreneurs and fish farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Medium Fish Feed Mill of Production Capacity of 8 Ton/Day” is a scheme component under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), implemented by the Fisheries Department, Government of Haryana. This is a Centrally Sponsored Scheme, aims to promote fish feed self-sufficiency and affordability among fish farmers. Under this scheme, financial assistance is provided for setting up medium-sized fish feed mills with a production capacity of 8 tons per day, benefiting entrepreneurs and fish farmers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tangible Benefits:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance for setting up a fish feed mill of 8 tons/day capacity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unit cost is ₹1,00,00,000/- per unit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "40% subsidy of the project cost for General Category beneficiaries (up to ₹40,00,000/-)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "60% subsidy of the project cost for Weaker sections/ SC/ST/Women and their co-operatives of beneficiaries (up to ₹60,00,000/-)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process on Antyodaya-SARAL Portal:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the Official Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://saralharyana.gov.in/",
+                    "children": [
+                      {
+                        "text": "Antyodaya-SARAL Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Login to Apply for the Scheme:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the Official Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://saralharyana.gov.in/",
+                    "children": [
+                      {
+                        "text": "Antyodaya-SARAL Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now, select the scheme and click on “Apply for Service/Scheme”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in all the details in the online application form and click on \"Submit\"."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Track Your Service Online:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Track Application/Appeal: ",
+                        "bold": true
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://status.saralharyana.nic.in/",
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Track Ticket: ",
+                        "bold": true
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx",
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Track Your Service Through SMS:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Registered Mobile Number:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Type SARAL and send to 9954699899 to track your application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Other Mobile Number: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": " Helpline: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "0172-3968400"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Email: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "saral.haryana@gov.in"
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Fees For Service:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Government Charges: ₹0 (No Fee)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Service Charges: ₹10"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Atal Seva Kendra Charges: ₹10"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Note:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "The applicant must submit certified invoices with GST compliance for all items purchased. Bills over ₹50,000 must comply with e-Way Bill, Income Tax, and GST rules."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "The applicant must provide a CA (Chartered Accountant) certificate confirming tax-compliant payment of invoices."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&gt; **Contact Us:**\n\n **Helpline:** 0172-3968400\n**Email:** saral.haryana@gov.in\n&amp;gt; **Fees For Service:**\n\n\n  - Government Charges: ₹0 (No Fee)\n  - Service Charges: ₹10\n  - Atal Seva Kendra Charges: ₹10\n\n&amp;gt; **Note:**\n\n\n  - The applicant must submit certified invoices with GST compliance for all items purchased. Bills over ₹50,000 must comply with e-Way Bill, Income Tax, and GST rules.\n  - The applicant must provide a CA (Chartered Accountant) certificate confirming tax-compliant payment of invoices.\n\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Haryana.\n1. The applicant should possess a valid Parivar Pehchan Patra (Family ID).\n1. The applicant should ensure that the medium fish feed mill is in working condition.\n1. The applicant should ensure the feed produced from the unit is supplied at affordable price to fishers and farmers.\n1. The fish feed mill should be on land owned by the applicant or on a long-term registered lease (minimum of 10 years).\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Haryana."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess a valid Parivar Pehchan Patra (Family ID)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should ensure that the medium fish feed mill is in working condition."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should ensure the feed produced from the unit is supplied at affordable price to fishers and farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fish feed mill should be on land owned by the applicant or on a long-term registered lease (minimum of 10 years)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mffmpc8tds"
+}

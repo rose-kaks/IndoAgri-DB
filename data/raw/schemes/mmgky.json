@@ -1,0 +1,241 @@
+{
+  "_id": "690f597be8d0b796308f408e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Silage",
+        "Animal Feed",
+        "Fodder",
+        "Livestock Farmer",
+        "Cattle Rearer"
+      ],
+      "schemeName": "Mukhyamantri Ghasyari Kalyan Yojana",
+      "schemeShortTitle": "MMGKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000002,
+        "label": "Co-Operative Department"
+      },
+      "slug": "mmgky",
+      "briefDescription": "The scheme aims to provide affordable and nutritious packed silage and total mixed animal feed to livestock farmers, especially women, in the remote hilly areas of Uttarakhand. Under this scheme, silage is made available to livestock farmers at a subsidized rate of ₹2.75 per kg."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 189)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://cooperative.uk.gov.in/scheme/chief-minister-ghasiyari-kalyan-yojana/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Mukhyamantri Ghasyari Kalyan Yojana” was introduced by the Cooperative Department, Government of Uttarakhand. The scheme aims to provide affordable and nutritious packed silage and total mixed animal feed to livestock farmers, especially women, in the remote hilly areas of Uttarakhand.\n<br>\n\n",
+      "benefits_md": "\n  - Packed silage and complete mixed animal feed are prepared by blending nutrients with green maize and are made available to cattle rearers in the remote rural and hilly areas of Uttarakhand at the rate of ₹2.75 per kg. \n  - Under the scheme, a 75% subsidy is provided on the selling price of silage, which is ₹9.00 per kg, and the State Government also provides financial assistance of ₹3.00 per kg towards expenses such as loading, transportation, and handling. As a result, silage is made available to beneficiaries at a subsidized rate of ₹2.75 per kg.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide affordable and nutritious packed silage and total mixed animal feed to livestock farmers, especially women, in the remote hilly areas of Uttarakhand. Under this scheme, silage is made available to livestock farmers at a subsidized rate of ₹2.75 per kg.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Mukhyamantri Ghasyari Kalyan Yojana” was introduced by the Cooperative Department, Government of Uttarakhand. The scheme aims to provide affordable and nutritious packed silage and total mixed animal feed to livestock farmers, especially women, in the remote hilly areas of Uttarakhand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Packed silage and complete mixed animal feed are prepared by blending nutrients with green maize and are made available to cattle rearers in the remote rural and hilly areas of Uttarakhand at the rate of ₹2.75 per kg. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under the scheme, a 75% subsidy is provided on the selling price of silage, which is ₹9.00 per kg, and the State Government also provides financial assistance of ₹3.00 per kg towards expenses such as loading, transportation, and handling. As a result, silage is made available to beneficiaries at a subsidized rate of ₹2.75 per kg."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Livestock owners or women beneficiaries can request silage directly from the secretary of the concerned cooperative society by submitting a written application. Along with the application, they must provide documents verifying their residence within the committee area, including their Aadhaar card."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "In mountainous areas where cooperative societies are located far away, women can submit their subsequent requests through telephone or WhatsApp. Membership in a cooperative society is not mandatory under this scheme."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Based on the submitted request, livestock farmers or women beneficiaries will receive silage, total mixed ration, or fodder upon depositing the prescribed fee at the offices or centers of the cooperative societies."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Livestock owners or women beneficiaries can request silage directly from the secretary of the concerned cooperative society by submitting a written application. Along with the application, they must provide documents verifying their residence within the committee area, including their Aadhaar card.\n  - In mountainous areas where cooperative societies are located far away, women can submit their subsequent requests through telephone or WhatsApp. Membership in a cooperative society is not mandatory under this scheme.\n  - Based on the submitted request, livestock farmers or women beneficiaries will receive silage, total mixed ration, or fodder upon depositing the prescribed fee at the offices or centers of the cooperative societies.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be residing in a hilly area of Uttarakhand.\n   1. The applicant must be a livestock farmer or a woman engaged in livestock farming.\n   1. The scheme is applicable only in the hilly areas of Uttarakhand.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be residing in a hilly area of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a livestock farmer or a woman engaged in livestock farming."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The scheme is applicable only in the hilly areas of Uttarakhand."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mmgky"
+}

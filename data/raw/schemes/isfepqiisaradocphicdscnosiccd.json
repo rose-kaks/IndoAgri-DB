@@ -1,0 +1,335 @@
+{
+  "_id": "6a3ba5d5472b969f5a878d42",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Small Cardamom",
+        "Spices Board",
+        "Agriculture",
+        "Farming",
+        "Farmer"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement: ICCD for Small Cardamom (nos) (Improved Cardamom Curing Devices)",
+      "schemeShortTitle": "ISFEPQIISARADOCPHICDSCNOSICCD",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "isfepqiisaradocphicdscnosiccd",
+      "briefDescription": "The scheme aims to encourage cardamom growers to adopt Improved Cardamom Curing Devices (ICCD) for drying small cardamom, thereby improving the quality of the produce and making it more suitable for export."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://serviceonline.gov.in/dbt/login.do"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to encourage cardamom growers to adopt Improved Cardamom Curing Devices (ICCD) for drying small cardamom, thereby improving the quality of the produce and making it more suitable for export.",
+      "detailedDescription_md": "The Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research &amp; Development of Cardamom: Post-Harvest Improvement – Improved Cardamom Curing Devices (ICCD) for Small Cardamom (Nos.) is implemented by the Spices Board India under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage cardamom growers to adopt Improved Cardamom Curing Devices (ICCD) for drying small cardamom, thereby improving the quality of the produce and making it more suitable for export. It is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research &amp; Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+      "benefits_md": "\n- 33.33 % of cost of unit, subject to a maximum of ₹ 1,50,000/- per unit for General Category and 75% subject to maximum of ₹ 3,37,500, per unit for SC/ST &amp; 90% Spice Producer&#39;s Groups in Identified Clusters subject to maximum of ₹ 4,00,000/-\n- Registered cardamom growers having a land holding size of 0.40 ha to 8 ha Assistance for groups/FPOs will be as in QGBG\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research & Development of Cardamom: Post-Harvest Improvement – Improved Cardamom Curing Devices (ICCD) for Small Cardamom (Nos.) is implemented by the Spices Board India under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage cardamom growers to adopt Improved Cardamom Curing Devices (ICCD) for drying small cardamom, thereby improving the quality of the produce and making it more suitable for export. It is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research & Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "33.33 % of cost of unit, subject to a maximum of ₹ 1,50,000/- per unit for General Category and 75% subject to maximum of ₹ 3,37,500, per unit for SC/ST & 90% Spice Producer's Groups in Identified Clusters subject to maximum of ₹ 4,00,000/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registered cardamom growers having a land holding size of 0.40 ha to 8 ha Assistance for groups/FPOs will be as in QGBG"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicesPlus"
+                  }
+                ]
+              },
+              {
+                "text": " website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on the “"
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                "children": [
+                  {
+                    "text": "Register” "
+                  }
+                ]
+              },
+              {
+                "text": "option on the homepage."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Review all details carefully and submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                "children": [
+                  {
+                    "text": "“Login.”"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Enter your Email ID, Password, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Select the relevant service/scheme name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Fill in the required details in the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Submit the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1. The applicant should belong to Kerala, Tamil Nadu &amp; Karnataka.\n2. Designated Officials will conduct final inspection and recommend the eligible cases.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. The applicant should belong to Kerala, Tamil Nadu & Karnataka."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Designated Officials will conduct final inspection and recommend the eligible cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isfepqiisaradocphicdscnosiccd"
+}

@@ -1,0 +1,757 @@
+{
+  "_id": "68ff9bf6007cb8a8b8dd35da",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Seed",
+        "Farmer",
+        "Subsidy",
+        "Crop"
+      ],
+      "schemeName": "Annapurna Scheme: Seed Exchange Programme",
+      "schemeShortTitle": "AS-SEP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300011,
+        "label": "Farmer Welfare and Agriculture Development Department"
+      },
+      "slug": "as-sep",
+      "briefDescription": "The scheme aims to increase agricultural productivity and production for SC/ST farmers who cannot afford improved seeds. It provides high-yielding improved seed varieties, up to one hectare, in exchange for existing crop or seed, backed by a 75% subsidy with a maximum limit of ₹1,500/-."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/Annapurna.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Annapurna Scheme” was launched by the Department of Farmers Welfare and Agricultural Development, Government of Madhya Pradesh. The “Seed Exchange Programme” component of the scheme aims to improve the economic status of Scheduled Caste and Scheduled Tribe small and marginal farmers by providing them with economic assistance to access improved seeds of high-yielding foodgrain crops, thereby increasing productivity and production. The scheme is implemented by the Directorate of Agriculture through the District Panchayats, Sub-Directorate of Agriculture, and the Senior Agriculture Development Officer. The applications for this scheme are accepted by the Rural Agriculture Extension Officer based on targets set according to the population of the target groups and the district&#39;s demand.\n<br>\n\n",
+      "benefits_md": "\n- Provision of improved seeds of high-yielding varieties of foodgrain crops.\n- 75% subsidy on the actual price of the seed provided in exchange.\n- The maximum limit of the subsidy is ₹1,500/-.\n- Seeds of suitable varieties for the land and area will be provided in equal quantity compared to the seed provided by the farmer.\n- The provision is limited to a maximum area of one hectare.\n- Certified seed will be provided.\n\n<br>\n\n##### ***Conditions***\n\n- _The seeds supplied must be of the improved variety, prioritizing those that are suitable for or prevalent in the area._\n- _If certified seed is scarce, or depending on the specific crop condition, true form seed may be distributed only with the permission of the Director of Agriculture._\n- _If the farmer provides seed of a different crop for exchange, the seed given by the farmer must be worth 25% of the actual price of the certified seed of the requested crop._\n- _The improved seed provided to the farmer will not exceed the requirement for one hectare._\n- _The seed received from the beneficiary farmer must be sold through auction (Ghosh Vikray) at the local Agricultural Produce Market Committee by a designated committee._\n- _Cash received as the farmer&#39;s share or resulting from the auction of the grain provided by the farmer must be deposited into the Government Treasury by challan under Head 0401 Agriculture Work, Other Deposit - 800 Other Deposit._\n- _If a farmer who previously received seed is given seed again, it must not be for the same crop or variety provided in prior years._\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to increase agricultural productivity and production for SC/ST farmers who cannot afford improved seeds. It provides high-yielding improved seed varieties, up to one hectare, in exchange for existing crop or seed, backed by a 75% subsidy with a maximum limit of ₹1,500/-.",
+      "exclusions_md": "\n- The applicant will not be supplied improved seed exceeding the requirement for one hectare.\n- If the farmer is an existing beneficiary, the subsequent provision of seed must be for a different crop or variety than those previously supplied.\n\n<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “Annapurna Scheme” was launched by the Department of Farmers Welfare and Agricultural Development, Government of Madhya Pradesh. The “Seed Exchange Programme” component of the scheme aims to improve the economic status of Scheduled Caste and Scheduled Tribe small and marginal farmers by providing them with economic assistance to access improved seeds of high-yielding foodgrain crops, thereby increasing productivity and production. The scheme is implemented by the Directorate of Agriculture through the District Panchayats, Sub-Directorate of Agriculture, and the Senior Agriculture Development Officer. The applications for this scheme are accepted by the Rural Agriculture Extension Officer based on targets set according to the population of the target groups and the district's demand."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision of improved seeds of high-yielding varieties of foodgrain crops."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75% subsidy on the actual price of the seed provided in exchange."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The maximum limit of the subsidy is ₹1,500/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Seeds of suitable varieties for the land and area will be provided in equal quantity compared to the seed provided by the farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The provision is limited to a maximum area of one hectare."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certified seed will be provided."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The seeds supplied must be of the improved variety, prioritizing those that are suitable for or prevalent in the area.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If certified seed is scarce, or depending on the specific crop condition, true form seed may be distributed only with the permission of the Director of Agriculture.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the farmer provides seed of a different crop for exchange, the seed given by the farmer must be worth 25% of the actual price of the certified seed of the requested crop.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The improved seed provided to the farmer will not exceed the requirement for one hectare.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The seed received from the beneficiary farmer must be sold through auction (Ghosh Vikray) at the local Agricultural Produce Market Committee by a designated committee.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cash received as the farmer's share or resulting from the auction of the grain provided by the farmer must be deposited into the Government Treasury by challan under Head 0401 Agriculture Work, Other Deposit - 800 Other Deposit.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If a farmer who previously received seed is given seed again, it must not be for the same crop or variety provided in prior years.",
+                  "italic": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant will not be supplied improved seed exceeding the requirement for one hectare."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the farmer is an existing beneficiary, the subsequent provision of seed must be for a different crop or variety than those previously supplied."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Target Determination and Allotment",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Director of Agriculture determines the physical targets for the district, considering the population of small and marginal Scheduled Caste and Scheduled Tribe farmers, previous years' progress, and the demand received from the districts. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Sub-Director of Agriculture then divides the targets development-block-wise and obtains the necessary approval from the District Panchayat's Agriculture Standing Committee."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Grassroots Target Distribution and Preliminary Candidate Selection",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Sub-Director of Agriculture must inform the Sub-Divisional Agriculture Officer and the Senior Agriculture Development Officer of the approved targets. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Senior Agriculture Development Officer further divides the received targets area-wise among the Rural Agriculture Extension Officers. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The primary selection of beneficiaries is carried out by the Rural Agriculture Extension Officer, who selects 1.5 times the required beneficiaries compared to the target."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Submission and Approval of the Primary List",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Rural Agriculture Extension Officer must prepare the list of selected farmers' names and submit it to the Senior Agriculture Development Officer. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Senior Agriculture Development Officer is responsible for securing the approval of this primary list from the Agriculture Standing Committee of the Janpad Panchayat."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Finalizing the Selection and Waiting List",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Names listed first in the approved primary list will be given priority. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The remaining farmers are placed on a waiting list, which is considered final and remains valid only until the current crop season, with no changes permitted at any other level."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Seed Demand Generation and Procurement",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The demand for necessary seed under the scheme must be sent jointly signed by the Rural Agriculture Extension Officer and the Society Manager, via the Senior Agriculture Development Officer, to the Sub-Divisional Agriculture Officer. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Sub-Divisional Agriculture Officer is responsible for coordinating with the seed supply organization and the cooperative bank manager to ensure that the seed is made available in a timely manner."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 6:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Seed Distribution to Beneficiaries",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The selected beneficiary farmers are provided with high-yielding variety seeds through Service Co-operative Societies, Development Blocks, or Government Agricultural Farms. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Seed distribution agencies must store the seed at the nearest center, based on the demand of the area, to facilitate easy transport by the distribution organizations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 7:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Collection and Auction of Farmer's Seed Contribution",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Senior Agriculture Development Officer ensures the arrangement for the collection of the seed received from the beneficiary farmer from various centers and its subsequent sale through auction (Ghosh Vikray) at the Agricultural Produce Market Committee. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Deputy Director of Agriculture regularly reviews these auctions and presents any operational disturbances to the Collector during the weekly review meeting."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 8:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Financial Settlement and Payment to Supply Agency",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Seed distribution agencies must submit a bill for the actual price of the seed provided to the farmers to the Senior Agriculture Development Officer. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After verification of the bill, the Senior Agriculture Development Officer sends it through the Sub-Divisional Agriculture Officer to the Deputy Director of Agriculture for payment. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Deputy Director of Agriculture pays the actual price of the seed provided under the Seed Exchange Programme to the seed supply agency from the scheme budget."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 9:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Deposit of Farmer's Contribution",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The cash amount received as the farmer's share, or the amount realized after the auction of the grain provided by the farmer, must be deposited into the Government Treasury by the Senior Agriculture Development Officer using a challan under Head 0401 Agriculture Work, Other Deposit - 800 Other Deposit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Application Deadlines",
+                "underline": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For Kharif season: Beneficiary selection deadline is May 25; seed availability in the district is May 30; seed availability at farm/society/block is June 10; seed provision to farmers is June 15."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For Rabi/Summer season: Beneficiary selection deadline is August 31; seed availability in the district is September 15; seed availability at farm/society/block is September 30; seed provision to farmers is October 10."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### **Step 1:****** ***Target Determination and Allotment***\n\n- The Director of Agriculture determines the physical targets for the district, considering the population of small and marginal Scheduled Caste and Scheduled Tribe farmers, previous years&#39; progress, and the demand received from the districts. \n- The Sub-Director of Agriculture then divides the targets development-block-wise and obtains the necessary approval from the District Panchayat&#39;s Agriculture Standing Committee.\n\n##### **Step 2:****** ***Grassroots Target Distribution and Preliminary Candidate Selection***\n\n- The Sub-Director of Agriculture must inform the Sub-Divisional Agriculture Officer and the Senior Agriculture Development Officer of the approved targets. \n- The Senior Agriculture Development Officer further divides the received targets area-wise among the Rural Agriculture Extension Officers. \n- The primary selection of beneficiaries is carried out by the Rural Agriculture Extension Officer, who selects 1.5 times the required beneficiaries compared to the target.\n\n##### **Step 3:****** ***Submission and Approval of the Primary List***\n\n- The Rural Agriculture Extension Officer must prepare the list of selected farmers&#39; names and submit it to the Senior Agriculture Development Officer. \n- The Senior Agriculture Development Officer is responsible for securing the approval of this primary list from the Agriculture Standing Committee of the Janpad Panchayat.\n\n##### **Step 4:****** ***Finalizing the Selection and Waiting List***\n\n- Names listed first in the approved primary list will be given priority. \n- The remaining farmers are placed on a waiting list, which is considered final and remains valid only until the current crop season, with no changes permitted at any other level.\n\n##### **Step 5:****** ***Seed Demand Generation and Procurement***\n\n- The demand for necessary seed under the scheme must be sent jointly signed by the Rural Agriculture Extension Officer and the Society Manager, via the Senior Agriculture Development Officer, to the Sub-Divisional Agriculture Officer. \n- The Sub-Divisional Agriculture Officer is responsible for coordinating with the seed supply organization and the cooperative bank manager to ensure that the seed is made available in a timely manner.\n\n##### **Step 6:****** ***Seed Distribution to Beneficiaries***\n\n- The selected beneficiary farmers are provided with high-yielding variety seeds through Service Co-operative Societies, Development Blocks, or Government Agricultural Farms. \n- Seed distribution agencies must store the seed at the nearest center, based on the demand of the area, to facilitate easy transport by the distribution organizations.\n\n##### **Step 7:****** ***Collection and Auction of Farmer&#39;s Seed Contribution***\n\n- The Senior Agriculture Development Officer ensures the arrangement for the collection of the seed received from the beneficiary farmer from various centers and its subsequent sale through auction (Ghosh Vikray) at the Agricultural Produce Market Committee. \n- The Deputy Director of Agriculture regularly reviews these auctions and presents any operational disturbances to the Collector during the weekly review meeting.\n\n##### **Step 8:****** ***Financial Settlement and Payment to Supply Agency***\n\n- Seed distribution agencies must submit a bill for the actual price of the seed provided to the farmers to the Senior Agriculture Development Officer. \n- After verification of the bill, the Senior Agriculture Development Officer sends it through the Sub-Divisional Agriculture Officer to the Deputy Director of Agriculture for payment. \n- The Deputy Director of Agriculture pays the actual price of the seed provided under the Seed Exchange Programme to the seed supply agency from the scheme budget.\n\n##### **Step 9:****** ***Deposit of Farmer&#39;s Contribution***\nThe cash amount received as the farmer&#39;s share, or the amount realized after the auction of the grain provided by the farmer, must be deposited into the Government Treasury by the Senior Agriculture Development Officer using a challan under Head 0401 Agriculture Work, Other Deposit - 800 Other Deposit.\n<br>\n\n##### **Application Deadlines**\nFor Kharif season: Beneficiary selection deadline is May 25; seed availability in the district is May 30; seed availability at farm/society/block is June 10; seed provision to farmers is June 15.\nFor Rabi/Summer season: Beneficiary selection deadline is August 31; seed availability in the district is September 15; seed availability at farm/society/block is September 30; seed provision to farmers is October 10.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must belong to the Scheduled Caste or Scheduled Tribe category.\n- The applicant must be a small or marginal farmer.\n- The applicant must be unable to afford the purchase of improved varieties of high-yielding foodgrain crops.\n\n***Post-Selection Conditions***\n\n- The farmer must exchange their existing crop or seed for the improved seeds.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to the Scheduled Caste or Scheduled Tribe category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a small or marginal farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be unable to afford the purchase of improved varieties of high-yielding foodgrain crops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Post-Selection Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer must exchange their existing crop or seed for the improved seeds."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "as-sep"
+}

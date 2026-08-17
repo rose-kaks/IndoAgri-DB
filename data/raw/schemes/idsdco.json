@@ -1,0 +1,388 @@
+{
+  "_id": "68f23c908ba160c15f43e3d5",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Society",
+        "Dairy",
+        "Farmer",
+        "Subsidy",
+        "Infrastructure"
+      ],
+      "schemeName": "Infrastructure Development Scheme for Dairy Co-operatives",
+      "schemeShortTitle": "IDSDCO",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000003,
+        "label": "Animal Husbandry & Veterinary Services Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "idsdco",
+      "briefDescription": "The scheme aims to provide financial assistance to Dairy Co-operative Societies for their development, smooth functioning of business, and other allied activities, enabling them to become stable and create better infrastructure. The scheme provides financial support in the form of grant or subsidy."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://goaprintingpress.gov.in/downloads/2425/2425-33-SI-OG-0.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to provide financial assistance to Dairy Co-operative Societies for their development, smooth functioning of business, and other allied activities, enabling them to become stable and create better infrastructure. The scheme provides financial support in the form of grant or subsidy.",
+      "detailedDescription_md": "The scheme &quot;Infrastructure Development Scheme for Dairy Co-operatives&quot; was approved by the Government of Goa, Department of Co-operation, Office of the Registrar of Co-operative Societies. The scheme aims to provide financial assistance to Dairy Co-operative Societies for their development, smooth functioning of business, and other allied activities, enabling them to become stable and create better infrastructure. The scheme provides financial support in the form of grant or subsidy to cover administrative and managerial expenses, including staff salaries, allowances, wages, office expenses, rent, rates, taxes, and the purchase of equipment. The applications for this scheme are accepted by submitting the proposal to the concerned Office of the Assistant Registrar.\n<br>\n\n",
+      "benefits_md": "****The financial support is provided to meet administrative/managerial expenses on staff salaries and allowances, wages, office expenses, rent rates and taxes, and equipment.***\n****The Registering Authority shall verify the utilization of the grants released.***\n##### ***General Category Dairy Co-operative Societies***\n\n- Above 500 liters per day: ₹1,50,000/-.\n- 300–500 liters per day: ₹1,00,000/-.\n- 150–300 liters per day: ₹75,000/-.\n- 50–150 liters per day: ₹30,000/-.\n\n##### ***Tribal Sub Plan/Schedule Caste Sub Plan Dairy Co-operative Societies***\n\n- Above 1,250 liters per day: ₹3,75,000/-.\n- 1,000–less than 1,250 liters per day: ₹3,00,000/-.\n- 750–less than 1,000 liters per day: ₹2,25,000/-.\n- 500–less than 750 liters per day: ₹1,75,000/-.\n- 300–less than 500 liters per day: ₹1,25,000/-.\n- 75–less than 300 liters per day: ₹1,00,000/-.\n- 25–less than 75 liters per day: ₹50,000/-.\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Infrastructure Development Scheme for Dairy Co-operatives\" was approved by the Government of Goa, Department of Co-operation, Office of the Registrar of Co-operative Societies. The scheme aims to provide financial assistance to Dairy Co-operative Societies for their development, smooth functioning of business, and other allied activities, enabling them to become stable and create better infrastructure. The scheme provides financial support in the form of grant or subsidy to cover administrative and managerial expenses, including staff salaries, allowances, wages, office expenses, rent, rates, taxes, and the purchase of equipment. The applications for this scheme are accepted by submitting the proposal to the concerned Office of the Assistant Registrar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*The financial support is provided to meet administrative/managerial expenses on staff salaries and allowances, wages, office expenses, rent rates and taxes, and equipment.",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "*The Registering Authority shall verify the utilization of the grants released."
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "General Category Dairy Co-operative Societies",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Above 500 liters per day: ₹1,50,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "300–500 liters per day: ₹1,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "150–300 liters per day: ₹75,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50–150 liters per day: ₹30,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Tribal Sub Plan/Schedule Caste Sub Plan Dairy Co-operative Societies",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Above 1,250 liters per day: ₹3,75,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "1,000–less than 1,250 liters per day: ₹3,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "750–less than 1,000 liters per day: ₹2,25,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "500–less than 750 liters per day: ₹1,75,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "300–less than 500 liters per day: ₹1,25,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75–less than 300 liters per day: ₹1,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "25–less than 75 liters per day: ₹50,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The society shall submit the 'Milk Supply Report' from the Milk Union for the period for which the assistance is applied for, along with the proposal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The concerned Assistant Registrar shall certify the correctness of the Milk Supply Report of the society by verifying the records of the society."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The society shall submit the proposal to the concerned O/o Asstt. Registrar in the prescribed application along with all the requirements."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The society shall approve the proposal for Government assistance in the General Body/Special General Body before submitting the proposal to the concerned office of the Assistant Registrar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The society shall submit the &#39;Milk Supply Report&#39; from the Milk Union for the period for which the assistance is applied for, along with the proposal.\n**Step 2:** The concerned Assistant Registrar shall certify the correctness of the Milk Supply Report of the society by verifying the records of the society.\n**Step 3:** The society shall submit the proposal to the concerned O/o Asstt. Registrar in the prescribed application along with all the requirements.\n**Step 4:** The society shall approve the proposal for Government assistance in the General Body/Special General Body before submitting the proposal to the concerned office of the Assistant Registrar.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a Dairy Co-operative Society in the State.\n- The applicant must regularly supply the milk to the Milk Union.\n- The applicant must have completed one year of its registration.\n- The applicant must submit the Milk Supply Report from the Milk Union for the period for which the assistance is applied for along with the proposal.\n- The applicant must approve the proposal for Government assistance in the General Body/Special General Body before submitting the proposal to the concerned office of Assistant Registrar.\n\n##### ***Tribal Sub Plan/Schedule Caste Sub Plan Category Criteria***\nThe applicant must have a minimum of 15% shareholders as Scheduled Tribe/Scheduled Caste, as the case may be, to be considered a Tribal Sub Plan/Schedule Caste Sub Plan Co-operative Society for the purpose of availing assistance.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a Dairy Co-operative Society in the State."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must regularly supply the milk to the Milk Union."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have completed one year of its registration."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must submit the Milk Supply Report from the Milk Union for the period for which the assistance is applied for along with the proposal."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must approve the proposal for Government assistance in the General Body/Special General Body before submitting the proposal to the concerned office of Assistant Registrar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Tribal Sub Plan/Schedule Caste Sub Plan Category Criteria",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must have a minimum of 15% shareholders as Scheduled Tribe/Scheduled Caste, as the case may be, to be considered a Tribal Sub Plan/Schedule Caste Sub Plan Co-operative Society for the purpose of availing assistance."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "idsdco"
+}

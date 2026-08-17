@@ -1,0 +1,258 @@
+{
+  "_id": "6800a47a321976fb6b0718cb",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Fisherman",
+        "Interest Subvention"
+      ],
+      "schemeName": "To Provide Interest Subvention to Fishermen of the State at the Rate of 4% to the Beneficiaries Kishan Credit Card",
+      "schemeShortTitle": "TPFKCC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "tpfkcc",
+      "briefDescription": "The scheme aims to provide 4% interest subvention to the fishermen in Gujarat on timely repayment of short-term loans taken through the Kisan Credit Card.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=xKNwB8H6autaudV8AV83FA==&domain=v4lc2tu73R/9lWYKO76SRg=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;To Provide Interest Subvention to Fishermen of the State at the Rate of 4% to the Beneficiaries Kishan Credit Card&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide interest subvention to fishermen who avail short-term loans under the Kisan Credit Card scheme. If the loan is repaid on time, the beneficiaries receive a 4% interest relief, which helps reduce their financial burden and support sustainable fisheries-based livelihoods. The benefit can be claimed once per financial year.\n",
+      "benefits_md": "**Name of Component**\t**Standard of Assistance**\t**Minimum Time Limit (in Year) for Reclaiming Benefits)**To provide interest subvention to fishermen of the state at the rate of 4% to the beneficiaries Kishan Credit Card.4% interest subvention on timely repayment of short-term loans taken by animal husbandry up to ₹2,00,000/-.only once in a financial year",
+      "briefDescription": "The scheme aims to provide 4% interest subvention to the fishermen in Gujarat on timely repayment of short-term loans taken through the Kisan Credit Card.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"To Provide Interest Subvention to Fishermen of the State at the Rate of 4% to the Beneficiaries Kishan Credit Card\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide interest subvention to fishermen who avail short-term loans under the Kisan Credit Card scheme. If the loan is repaid on time, the beneficiaries receive a 4% interest relief, which helps reduce their financial burden and support sustainable fisheries-based livelihoods. The benefit can be claimed once per financial year."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of Component\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Time Limit (in Year) for Reclaiming Benefits)",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To provide interest subvention to fishermen of the state at the rate of 4% to the beneficiaries Kishan Credit Card."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4% interest subvention on timely repayment of short-term loans taken by animal husbandry up to ₹2,00,000/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "only once in a financial year"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The bank from which the short term loan has been availed by the fisherman has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The bank from which the short term loan has been availed by the fisherman has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a fisherman.\n1. The applicant must have taken a short-term loan from any of the following during the financial year:\n\n  - Primary Agricultural Credit Cooperative Society\n  - District Central Cooperative Bank\n  - Nationalized Bank\n  - Gramin Bank\n  - Private Bank\n\n1. The applicant must have repaid the loan on time.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a fisherman."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have taken a short-term loan from any of the following during the financial year:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Primary Agricultural Credit Cooperative Society"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "District Central Cooperative Bank"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Nationalized Bank"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gramin Bank"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Private Bank"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have repaid the loan on time."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tpfkcc"
+}

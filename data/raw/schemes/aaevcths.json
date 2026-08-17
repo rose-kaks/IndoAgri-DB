@@ -1,0 +1,415 @@
+{
+  "_id": "689488a46c611d4368500eb1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Vegetable Farming",
+        "Hybrid Seed",
+        "Natural Farming",
+        "Area Expansion"
+      ],
+      "schemeName": "Assistance for Area Expansion of Vegetable Crops through Hybrid Seed",
+      "schemeShortTitle": "AAEVCTHS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "aaevcths",
+      "briefDescription": "The scheme \"Assistance for Area Expansion of Vegetable Crops through Hybrid Seed\" aims to promote natural farming and hybrid seed cultivation through financial assistance to farmers. The scheme provides up to ₹20,000 per hectare to encourage sustainable agricultural practices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 54)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme \"Assistance for Area Expansion of Vegetable Crops through Hybrid Seed\" aims to promote natural farming and hybrid seed cultivation through financial assistance to farmers. The scheme provides up to ₹20,000 per hectare to encourage sustainable agricultural practices.",
+      "detailedDescription_md": "The scheme &amp;quot;Assistance for Area Expansion of Vegetable Crops through Hybrid Seed&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to support vegetable farmers in enhancing their cultivation areas using hybrid seeds and to promote natural farming practices. The financial assistance provided under the scheme helps reduce input costs and encourages environmentally sustainable agricultural methods among the farming community.\n<br>\n\n",
+      "benefits_md": "\n- **Subsidy Assistance for Area Expansion Using Hybrid Seeds:** 40% of unit cost or up to ₹20,000/- per hectare, whichever is less.- **Promotion of Natural Farming in Vegetable Crops:** Maximum Assistance: ₹20,000/- per hectare.\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Assistance for Area Expansion of Vegetable Crops through Hybrid Seed\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to support vegetable farmers in enhancing their cultivation areas using hybrid seeds and to promote natural farming practices. The financial assistance provided under the scheme helps reduce input costs and encourages environmentally sustainable agricultural methods among the farming community."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy Assistance for Area Expansion Using Hybrid Seeds:",
+                  "bold": true
+                },
+                {
+                  "text": " 40% of unit cost or up to ₹20,000/- per hectare, whichever is less."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promotion of Natural Farming in Vegetable Crops: ",
+                  "bold": true
+                },
+                {
+                  "text": "Maximum Assistance: ₹20,000/- per hectare."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Registration Process:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The applicant may visit and apply online at the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "children": [
+                          {
+                            "text": "I-Khedut"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Login Process:",
+                        "bold": true
+                      },
+                      {
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/site/",
+                        "children": [
+                          {
+                            "text": "I-Khedut"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on the \"Apply New\" button and submit a new application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 5:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 6:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Once the application is done, confirm it."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 7:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Take a printout of the confirmed application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Contact Us:",
+                        "bold": true
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "&amp;gt; **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side, then click on &amp;amp;quot;Beneficiary Registration&amp;amp;quot; and select any one from the &amp;amp;#39;Farmer&amp;amp;#39; or &amp;amp;#39;Institutional&amp;amp;#39; or &amp;amp;#39;Except For the Farmer&amp;amp;#39; as the Beneficiary Type.\n**Step 3:** Select the District, Taluka, and Village, choose &amp;amp;#39;what type of account holder you are?&amp;amp;#39;, enter your Account Number and Name, solve the Captcha, and click &amp;amp;#39;Save and Next&amp;amp;#39;.\n**Step 4:** Enter your Mobile Number and Email address, click &amp;amp;#39;Send OTP&amp;amp;#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &amp;amp;#39;Submit&amp;amp;#39;.\n&amp;gt; **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/site/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant should be a resident of Gujarat.\n  - The applicant should be a farmer.\n\n\n- The applicant should be engaged in vegetable crop cultivation.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be engaged in vegetable crop cultivation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "aaevcths"
+}

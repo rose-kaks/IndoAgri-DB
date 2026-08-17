@@ -1,0 +1,566 @@
+{
+  "_id": "6752c93ad109737353c8624d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Subsidy",
+        "Financial Assistance",
+        "Fruit Development",
+        "Flower Development"
+      ],
+      "schemeName": "Cluster Mei Bagwani Ki Yojana-II",
+      "schemeShortTitle": "CMBKYII",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalDepartmentName": {
+        "value": 10111111,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "cmbkyii",
+      "briefDescription": "The scheme aims to promote cluster-based cultivation of selected crops, including guava, amla, lemon, bael, lemongrass, papaya, marigold, dragon fruit, and strawberry."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://horticulture.bihar.gov.in/MainSite/Documents/SOP/1.5_2024-08-08.pdf"
+        },
+        {
+          "title": "Online Application",
+          "url": "https://horticulture.bihar.gov.in/HORTMIS/AreaExpansionStateScheme/OnlineAppClusterScheme2.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "“Cluster Mei Bagwani Ki Yojana-II” launched by the Department of Agriculture, Bihar, aims to promote cluster-based cultivation of selected crops, including guava, amla, lemon, bael, lemongrass, papaya, marigold, dragon fruit, and strawberry. The scheme offers subsidies to farmers to expand crop areas and enhance agricultural income.\n",
+      "benefits_md": "\n   1. **Subsidy for Standard Crops:** ₹1,00,000/- per acre for guava, amla, lemon, bael, lemongrass, papaya, and marigold    1. **Subsidy for Premium Crops:** ₹2,00,000/- per acre for dragon fruit and strawberry.   1. **Supply of plant material.**\n\n&gt; **Note:** **Beneficiary allocation:**\n\n\n\n    - General Category: 78.56%.\n    - Scheduled Castes: 20%.\n    - Scheduled Tribes: 1.44%.\n    - Women Participation: 30%.\n\n\n&lt;br&gt;\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote cluster-based cultivation of selected crops, including guava, amla, lemon, bael, lemongrass, papaya, marigold, dragon fruit, and strawberry.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "“Cluster Mei Bagwani Ki Yojana-II” launched by the Department of Agriculture, Bihar, aims to promote cluster-based cultivation of selected crops, including guava, amla, lemon, bael, lemongrass, papaya, marigold, dragon fruit, and strawberry. The scheme offers subsidies to farmers to expand crop areas and enhance agricultural income."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subsidy for Standard Crops:",
+                      "bold": true
+                    },
+                    {
+                      "text": " ₹1,00,000/- per acre for guava, amla, lemon, bael, lemongrass, papaya, and marigold "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subsidy for Premium Crops: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "₹2,00,000/- per acre for dragon fruit and strawberry."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Supply of plant material.",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Note: ",
+                  "underline": true,
+                  "bold": true
+                },
+                {
+                  "text": "Beneficiary allocation:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "align_justify",
+                  "children": [
+                    {
+                      "type": "ul_list",
+                      "children": [
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "General Category: 78.56%."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "Scheduled Castes: 20%."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "Scheduled Tribes: 1.44%."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "Women Participation: 30%."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "DBT Registration Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://dbtagriculture.bihar.gov.in/RegFarmer/",
+                "children": [
+                  {
+                    "text": "registration page"
+                  }
+                ]
+              },
+              {
+                "text": " of the DBT portal. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4:",
+                "bold": true
+              },
+              {
+                "text": " Enter the OTP. Click on “Validate OTP”. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7: ",
+                "bold": true
+              },
+              {
+                "text": "Validate with OTP. Click on “Register” to generate the Registration Id."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
+              },
+              {
+                "text": "  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "underline": true,
+                "text": "Online Application of the Scheme:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1:",
+                "bold": true
+              },
+              {
+                "text": " Visit the official "
+              },
+              {
+                "type": "link",
+                "link": "https://horticulture.bihar.gov.in/HORTMIS/AreaExpansionStateScheme/OnlineAppClusterScheme.aspx",
+                "children": [
+                  {
+                    "text": "website"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2:",
+                "bold": true
+              },
+              {
+                "text": " Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in the required details i.e. Address, Land Details, etc, and upload documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Confirm the checkbox and then click on “Submit”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-6:",
+                "bold": true
+              },
+              {
+                "text": " An “Application Number” will be generated. Keep this for future reference."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-7:",
+                "bold": true
+              },
+              {
+                "text": " Printout of the filled-in application also can be taken using the Print option."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Helpdesk:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Address: ",
+                "bold": true
+              },
+              {
+                "text": "2nd Floor, Krishi Bhawan, Mithapur, Patna"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Email:",
+                "bold": true
+              },
+              {
+                "text": " dir-bhds-bih@nic.in"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Call: ",
+                "bold": true
+              },
+              {
+                "text": "0612-2547772"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Contact List: ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://horticulture.bihar.gov.in/MainSite/ContactUs.aspx",
+                "children": [
+                  {
+                    "text": "State Level Officers,  Division Level Officers,  District Level Officers"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **DBT Registration Process:**\n\n**Step-1:** Visit the [registration page](https://dbtagriculture.bihar.gov.in/RegFarmer/) of the DBT portal. \n**Step-2:** Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.\n**Step-3:** Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.\n**Step-4:** Enter the OTP. Click on “Validate OTP”. \n**Step-5:** Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.\n**Step-6:** In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.\n**Step-7:** Validate with OTP. Click on “Register” to generate the Registration Id.\n> **Note:**  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.\n\n<br>\n\n> **Online Application of the Scheme:**\n\n**Step-1:** Visit the official [website](https://horticulture.bihar.gov.in/HORTMIS/AreaExpansionStateScheme/OnlineAppClusterScheme.aspx). \n**Step-2:** Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.\n**Step-3:** In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.\n**Step-4:** Fill in the required details i.e. Address, Land Details, etc, and upload documents.\n**Step-5:** Confirm the checkbox and then click on “Submit”.\n**Step-6:** An “Application Number” will be generated. Keep this for future reference.\n**Step-7:** Printout of the filled-in application also can be taken using the Print option.\n> **Helpdesk:**\n\n**Address:** 2nd Floor, Krishi Bhawan, Mithapur, Patna\n**Email:** dir-bhds-bih@nic.in\n**Call:** 0612-2547772\n**Contact List:** [State Level Officers,  Division Level Officers,  District Level Officers](https://horticulture.bihar.gov.in/MainSite/ContactUs.aspx).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be an individual farmers/ farmers group/ Farmers Producer Organization (FPO)/ cooperative society or registered institution.\n   1. The applicant must have agricultural land a minimum of 0.25 acres and a maximum of 10 acres (25 acres for cluster area).\n   1. The applicant must be registered on the DBT portal.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be an individual farmers/ farmers group/ Farmers Producer Organization (FPO)/ cooperative society or registered institution."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have agricultural land a minimum of 0.25 acres and a maximum of 10 acres (25 acres for cluster area)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be registered on the DBT portal."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmbkyii"
+}

@@ -1,0 +1,409 @@
+{
+  "_id": "64ba494eb594314dec8074ed",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Research Internship",
+        "Wildlife Protection",
+        "Wildlife Crime Prevention",
+        "Student",
+        "Environment",
+        "Education"
+      ],
+      "schemeName": "Internship Programme Of The Wildlife Crime Control Bureau (MoEFCC)",
+      "schemeShortTitle": "IPWCCB",
+      "implementingAgency": "Wildlife Crime Control Bureau (MoEFCC)",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Wildlife and biodiversity",
+          "label": "Wildlife and biodiversity"
+        },
+        {
+          "value": "Internship",
+          "label": "Internship"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 493,
+        "label": "Ministry Of Environment,forests and climate change"
+      },
+      "nodalDepartmentName": null,
+      "slug": "ipwccb",
+      "briefDescription": "Internship at Wildlife Crime Control Bureau (WCCB) provides an excellent opportunity for students/researchers to familiarize themselves with various issues related to wildlife & the functioning of WCCB. The intern shall have an orientation session and will be assigned specific areas of work."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.rmlh.nic.in/WriteReadData/RTF/11a29ec3896-0b14-4291-b982-430866e6c530.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://www.rmlh.nic.in/WriteReadData/RTF/22afece0bf8-e39c-4111-bc48-97b676f48668.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Internship Programme Of The Wildlife Crime Control Bureau&quot; by the Wildlife Crime Control Bureau (WCCB) under the Ministry of Environment, Forests and Climate Change aims to build capacity and awareness in wildlife crime control through providing internship opportunities to students and researchers. It offers a platform for academic learning and practical exposure in areas related to wildlife protection, law enforcement, and conservation. The programme enables interns to work closely with experts and officials of WCCB. It also helps in developing research, analytical, and policy understanding in wildlife crime prevention. The nature of work**** is to collect &amp; consolidate data on wildlife crimes or carry out any other task entrusted to them under the directions of the Head of the Department.\n<br>\n\n",
+      "benefits_md": "\n- **Certificate of Internship:** Upon satisfactory completion of the internship, a certificate will be issued to the intern after the submission of the report.- **Duration:** The Internship Programme in Wildlife Crime Control Bureau will be conducted in two phases in a year, during the summer &amp; winter vacations of colleges. Each programme will be one month long, commencing on the 1st of the month and concluding at the end of the month.\n\n1. **Summer Internships:** shall be conducted during the months of May &amp; June.1. **Winter Internships:** shall be conducted during the months of December &amp; January. \n<br>\n\n",
+      "briefDescription": "Internship at Wildlife Crime Control Bureau (WCCB) provides an excellent opportunity for students/researchers to familiarize themselves with various issues related to wildlife & the functioning of WCCB. The intern shall have an orientation session and will be assigned specific areas of work.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Internship Programme Of The Wildlife Crime Control Bureau\" by the Wildlife Crime Control Bureau (WCCB) under the Ministry of Environment, Forests and Climate Change aims to build capacity and awareness in wildlife crime control through providing internship opportunities to students and researchers. It offers a platform for academic learning and practical exposure in areas related to wildlife protection, law enforcement, and conservation. The programme enables interns to work closely with experts and officials of WCCB. It also helps in developing research, analytical, and policy understanding in wildlife crime prevention. The nature of work"
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "text": "is to collect & consolidate data on wildlife crimes or carry out any other task entrusted to them under the directions of the Head of the Department."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certificate of Internship: ",
+                  "bold": true
+                },
+                {
+                  "text": "Upon satisfactory completion of the internship, a certificate will be issued to the intern after the submission of the report."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Duration: ",
+                  "bold": true
+                },
+                {
+                  "text": "The Internship Programme in Wildlife Crime Control Bureau will be conducted in two phases in a year, during the summer & winter vacations of colleges. Each programme will be one month long, commencing on the 1st of the month and concluding at the end of the month."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Summer Internships:",
+                  "bold": true
+                },
+                {
+                  "text": " shall be conducted during the months of May & June."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Winter Internships:",
+                  "bold": true
+                },
+                {
+                  "text": " shall be conducted during the months of December & January. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Interested students may apply only in the prescribed format given in "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://www.rmlh.nic.in/WriteReadData/RTF/22afece0bf8-e39c-4111-bc48-97b676f48668.pdf",
+                    "children": [
+                      {
+                        "text": "Annexure"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Application must contain a recommendation of the Head of Institute on official letterhead from the academic institution where the candidate is pursuing"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "his/her studies."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The Application in the prescribed format, complete in all respects, may be sent by post to reach: "
+                  },
+                  {
+                    "text": "The Additional Director, Wildlife Crime Control Bureau, 2nd Floor, Trikoot-I, Bhikaji Cama Place, New Delhi - 110 066",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Envelope carrying application should be super scribed “Application for Internship for Month/Year”."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Application should reach this office 5 weeks before the proposed date of commencement of the internship. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Interested students may apply only in the prescribed format given in [Annexure](https://www.rmlh.nic.in/WriteReadData/RTF/22afece0bf8-e39c-4111-bc48-97b676f48668.pdf).\n**Step 2:** Application must contain a recommendation of the Head of Institute on official letterhead from the academic institution where the candidate is pursuing\nhis/her studies.\n**Step 3:** The Application in the prescribed format, complete in all respects, may be sent by post to reach: **The Additional Director, Wildlife Crime Control Bureau, 2nd Floor, Trikoot-I, Bhikaji Cama Place, New Delhi - 110 066**\n&gt; **Note:**\n\n\n  - Envelope carrying application should be super scribed “Application for Internship for Month/Year”.\n  - The Application should reach this office 5 weeks before the proposed date of commencement of the internship. \n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant should be an Indian Citizen.\n  - The applicant should not be in a regular job, either in Public/ Private Sector.\n  - The applicant should not be more than 30 years of age.\n  - Students pursuing graduation/post-graduation/Diploma in any of the following subjects.\n\n\n   1. Any subject related to Wildlife Management/Conservation/Protection.\n   1. Zoology.\n   1. Botany.\n   1. Law.\n\n<br>\n\n<br>\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be an Indian Citizen."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not be in a regular job, either in Public/ Private Sector."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not be more than 30 years of age."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Students pursuing graduation/post-graduation/Diploma in any of the following subjects."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any subject related to Wildlife Management/Conservation/Protection."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Zoology."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Botany."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Law."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ipwccb"
+}

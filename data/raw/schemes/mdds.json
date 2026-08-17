@@ -1,0 +1,986 @@
+{
+  "_id": "699c3b3dfd04a5ba7ba8fe08",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Dairy",
+        "Farming",
+        "Farmer",
+        "Animal"
+      ],
+      "schemeName": "Meghalaya Dairy Development Scheme",
+      "schemeShortTitle": "MDDS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777803,
+        "label": "Planning Department"
+      },
+      "slug": "mdds",
+      "briefDescription": "The Chief Minister’s CM-ELEVATE Program includes Meghalaya Dairy Development Scheme under the Planning Dept, Govt of Meghalaya. The scheme aims to employ, engage, and empower the youth and rural communities by promoting Dairy related entrepreneurship through easy access to credit and subsidies."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Website:1",
+          "url": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%20ZmCiDPHHfocCXAMTe7rAdu5ReAtNjqg%20lubmcY5%2FRCjQ800jABypemS18cCfEA8TwS4b8PGvZtbzpq%20BrHlrYvu0Tpp3LIoFIUD8i6NVlbUc0DlQ%20vZLrKWRpIYCt4JLWXvwSpidtOGiRW%20KaRrNS6sb4ujiBok43DZ7dwBNwf%2FjbIqu%2FP5LpjxMjfojxeLOpXXOpOy%2Fv3wyQ2MVryg%2FZok0LX%20pjWk3liI%20aw6nhWn4jPxX%2FQczm="
+        },
+        {
+          "title": "Website:2",
+          "url": "https://www.primemeghalaya.com/dairy-program/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The **Chief Minister’s CM-ELEVATE Program** includes **the Meghalaya Dairy Development Scheme** under the Planning Department, Government of Meghalaya. The scheme aims to employ, engage, and empower the youth and rural communities by promoting Dairy related entrepreneurship through easy access to credit and subsidies.\n<br>\n\n",
+      "benefits_md": "\n1. Credit linkage through partnered banks\n1. 5% EMI co-payment support for 24 months\n1. Veterinary and farm management support\n1. Mentorship and business advisory\n1. 50% of project cost supported (5% by applicant, 45% by Government)\n1. Market linkage for selling output\n1. Technical training and capacity building\n\n<br>\n\n",
+      "exclusions_md": "**Individuals**\n**Applications shall not be ordinarily considered for the following**\nA) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30\ni. State and Central Government employees\nii. Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc.\niii. Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government\niv. Registered class-1 contractors\nv. Consultants who are currently engaged with state or central government\nB) Only one member from a family is eligible for the scheme.\nC) Pressure groups and organizations that are primarily political in nature\n**Registered Entities**\n**Applications shall not be ordinarily considered for the following:**\nA) Only one member from a family is eligible for the scheme.\nB) Pressure groups and organizations that are primarily political in nature\nC) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30\ni. State and Central Government employees\nii. Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc.\niii. Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government\niv. Registered class-1 contractors\nv. Consultants who are currently engaged with state or central government\n**Unregistered Entities**\n**Applications shall not be ordinarily considered for the following**\nA) Only one member from a family is eligible for the scheme.\nB) Pressure groups and organizations that are primarily political in nature\nC) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30\ni. State and Central Government employees\nii. Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc.\niii. Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government\niv. Registered class-1 contractors\nv. Consultants who are currently engaged with state or central government\n<br>\n\n",
+      "briefDescription": "The Chief Minister’s CM-ELEVATE Program includes Meghalaya Dairy Development Scheme under the Planning Dept, Govt of Meghalaya. The scheme aims to employ, engage, and empower the youth and rural communities by promoting Dairy related entrepreneurship through easy access to credit and subsidies.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The "
+            },
+            {
+              "text": "Chief Minister’s CM-ELEVATE Program",
+              "bold": true
+            },
+            {
+              "text": " includes "
+            },
+            {
+              "text": "the Meghalaya Dairy Development Scheme ",
+              "bold": true
+            },
+            {
+              "text": "under the Planning Department, Government of Meghalaya. The scheme aims to employ, engage, and empower the youth and rural communities by promoting Dairy related entrepreneurship through easy access to credit and subsidies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Credit linkage through partnered banks"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "5% EMI co-payment support for 24 months"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Veterinary and farm management support"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mentorship and business advisory"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50% of project cost supported (5% by applicant, 45% by Government)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Market linkage for selling output"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Technical training and capacity building"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Individuals",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applications shall not be ordinarily considered for the following",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i. State and Central Government employees"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ii. Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "iii. Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "iv. Registered class-1 contractors"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "v. Consultants who are currently engaged with state or central government"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "B) Only one member from a family is eligible for the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C) Pressure groups and organizations that are primarily political in nature"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Registered Entities",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applications shall not be ordinarily considered for the following:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A) Only one member from a family is eligible for the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "B) Pressure groups and organizations that are primarily political in nature"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i. State and Central Government employees"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ii. Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "iii. Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "iv. Registered class-1 contractors"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "v. Consultants who are currently engaged with state or central government"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unregistered Entities",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applications shall not be ordinarily considered for the following",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A) Only one member from a family is eligible for the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "B) Pressure groups and organizations that are primarily political in nature"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "C) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i. State and Central Government employees"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ii. Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "iii. Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "iv. Registered class-1 contractors"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "v. Consultants who are currently engaged with state or central government"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Citizen Registration for Member ID",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1:"
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%20YT28PCa%2Fe9P3BusBRqQS%20JXTsyYm%2FZYCotdzguljxrRrfCbr15kw3P06DkX3mCig3938SMvwgK2bpyzR1MWkWWjg5lRk6hJeqX8Sa1jbou3ZmBENgClZnjZcp9nJmSWL%2F4nx8EEDdSE%20daznOYHzjIxYdje8ky4DHs7k9JICVCEX2kpjopwrXN1F6V6FtTZhh14F1%2FjFj3wg5qrVvlx45ZbSwaPQAD1uEtlgm2T0xWEQWnU8XTaKb=",
+                "children": [
+                  {
+                    "text": "official website "
+                  }
+                ]
+              },
+              {
+                "text": "of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " If you are a first-time user, click on “"
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D",
+                "children": [
+                  {
+                    "text": "Registration for New User"
+                  }
+                ]
+              },
+              {
+                "text": "” and complete the registration process to create your account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Select your Authentication ID from the available options, such as"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "PDS (Ration Card) "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Election Photo ID Card (EPIC)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Enter your card number, select your name from the displayed list, and click on “Next” to continue."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7:",
+                "bold": true
+              },
+              {
+                "text": " Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sign In ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Click on "
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D",
+                "children": [
+                  {
+                    "text": "“Sign In"
+                  }
+                ]
+              },
+              {
+                "text": "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Enter your User ID and Password, then click on “Login” to access your account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " After logging in, click on “Apply for Services/Scheme” to start your application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Citizen Registration for Member ID**\n**Step 1:** Visit the [official website ](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%20YT28PCa%2Fe9P3BusBRqQS%20JXTsyYm%2FZYCotdzguljxrRrfCbr15kw3P06DkX3mCig3938SMvwgK2bpyzR1MWkWWjg5lRk6hJeqX8Sa1jbou3ZmBENgClZnjZcp9nJmSWL%2F4nx8EEDdSE%20daznOYHzjIxYdje8ky4DHs7k9JICVCEX2kpjopwrXN1F6V6FtTZhh14F1%2FjFj3wg5qrVvlx45ZbSwaPQAD1uEtlgm2T0xWEQWnU8XTaKb=)of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.\n**Step 2:** If you are a first-time user, click on “[Registration for New User](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D)” and complete the registration process to create your account.\n**Step 3:** Select your Authentication ID from the available options, such as\n\n- PDS (Ration Card) \n- Election Photo ID Card (EPIC).\n\n**Step 4:** Enter your card number, select your name from the displayed list, and click on “Next” to continue.\n**Step 5:** Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.\n**Step 6:** Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.\n**Step 7:** Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.\n**Sign In** \n**Step 1:** Click on [“Sign In](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D)” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.\n**Step 2:** Enter your User ID and Password, then click on “Login” to access your account.\n**Step 3:** After logging in, click on “Apply for Services/Scheme” to start your application.\n**Step 4:** Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Individuals**\n\n1. The applicant should be between 18 and 58 years of age.\n1. The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority.\n1. The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute.\n1. The Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy.\n1. The entrepreneur should have access to adequate and quality feed for the cattle.\n1. The entrepreneur should have a vaccination Scheme in place for the cattle.\n1. The entrepreneur should have a plan for marketing the dairy products.\n1. The entrepreneurs village should be in an area where dairy farming is feasible.\n1. The distance between the entrepreneur’s village and the nearest market must be reasonable.\n1. The entrepreneur should not be a credit defaulter from any bank.\n\n**Registered Entities**\n\n1. Any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on\n1. Must provide an Incorporation Certificate or a registration certificate whichever is applicable\n1. At least two members should possess a training certificate on the sector applied for from a recognized institution, preferably from a government institute\n1. Should possess land, either self-owned or on lease, verified by the competent authority\n1. Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy.\n1. The entrepreneur should have access to adequate and quality feed for the cattle\n1. The entrepreneur should have a vaccination Scheme in place for the cattle.\n1. The entrepreneur should have a plan for marketing the dairy products\n1. The entrepreneurs village should be in an area where dairy farming is feasible\n1. The distance between the entrepreneur’s village and the nearest market must be reasonable\n1. The entrepreneur should not be a credit defaulter from any bank\n**Unregistered Entities**\n\n\n1. Traditional institutions, self help groups, producer groups and soon Eligibility certification from competent government authority like BDO/SDO/Department in case of Producer group from DPMs.\n1. The non-registered entity should have a constitution/bylaws/framework that outline the groups structure, objectives, and procedures.\n1. Should possess land, either self-owned or on lease, verified by the competent authority\n1. Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy.\n1. The entrepreneur should have access to adequate and quality feed for the cattle.\n1. The entrepreneur should have a vaccination Scheme in place for the cattle.\n1. The entrepreneur should have a plan for marketing the dairy products.\n1. The entrepreneurs village must be in an area where dairy farming is feasible\n1. The distance between the entrepreneurs village and the nearest market must be reasonable\n1. The entrepreneur should not be a credit defaulter from any bank.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Individuals",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be between 18 and 58 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have access to adequate and quality feed for the cattle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a vaccination Scheme in place for the cattle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a plan for marketing the dairy products."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneurs village should be in an area where dairy farming is feasible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The distance between the entrepreneur’s village and the nearest market must be reasonable."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should not be a credit defaulter from any bank."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Registered Entities",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Must provide an Incorporation Certificate or a registration certificate whichever is applicable"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "At least two members should possess a training certificate on the sector applied for from a recognized institution, preferably from a government institute"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should possess land, either self-owned or on lease, verified by the competent authority"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have access to adequate and quality feed for the cattle"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a vaccination Scheme in place for the cattle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a plan for marketing the dairy products"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneurs village should be in an area where dairy farming is feasible"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The distance between the entrepreneur’s village and the nearest market must be reasonable"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should not be a credit defaulter from any bank"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Unregistered Entities",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Traditional institutions, self help groups, producer groups and soon Eligibility certification from competent government authority like BDO/SDO/Department in case of Producer group from DPMs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The non-registered entity should have a constitution/bylaws/framework that outline the groups structure, objectives, and procedures."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should possess land, either self-owned or on lease, verified by the competent authority"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking dairy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have access to adequate and quality feed for the cattle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a vaccination Scheme in place for the cattle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should have a plan for marketing the dairy products."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneurs village must be in an area where dairy farming is feasible"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The distance between the entrepreneurs village and the nearest market must be reasonable"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The entrepreneur should not be a credit defaulter from any bank."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mdds"
+}

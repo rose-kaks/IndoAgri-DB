@@ -1,0 +1,579 @@
+{
+  "_id": "6826ea07280235209ce26328",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Subsidy",
+        "Farmer",
+        "SHGs",
+        "FPO",
+        "Loan",
+        "Plantation"
+      ],
+      "schemeName": "Atma Nirbhar Plantation Yojana",
+      "schemeShortTitle": "ANPYAP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Loan",
+          "label": "Loan"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        }
+      ],
+      "state": {
+        "value": 12,
+        "label": "Arunachal Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 12111112,
+        "label": "Agriculture and Marketing Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "anpyap",
+      "briefDescription": "The scheme aims to promote self-reliance in the agriculture sector through sustainable plantation activities across the state. Under this scheme, support in the form of plantation assistance and allied resources is provided to individual farmers, Self-Help Groups & Farmer Producer Organizations."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://lohit.nic.in/scheme/atma-nirbhar-plantation-yojana-anpy/"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://cdn.s3waas.gov.in/s3c0c7c76d30bd3dcaefc96f40275bdc0a/uploads/2023/05/2023051921.pdf"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://agri.arunachal.gov.in/atmanirbhar_yojana/user-register"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Atma Nirbhar Plantation Yojana (ANPY)&amp;quot; was launched by the Department of Agriculture, Government of Arunachal Pradesh, aims to promote self-reliance in the agriculture sector through sustainable plantation activities across the state&amp;#39;s diverse agro-climatic zones. Under this scheme, support in the form of plantation assistance and allied resources is provided to individual farmers, Self-Help Groups (SHGs), and Farmer Producer Organizations (FPOs).\n",
+      "benefits_md": "\n- Access to plantation support including technical guidance, planting material, and financial assistance.\n\n",
+      "briefDescription": "The scheme aims to promote self-reliance in the agriculture sector through sustainable plantation activities across the state. Under this scheme, support in the form of plantation assistance and allied resources is provided to individual farmers, Self-Help Groups & Farmer Producer Organizations.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Atma Nirbhar Plantation Yojana (ANPY)\" was launched by the Department of Agriculture, Government of Arunachal Pradesh, aims to promote self-reliance in the agriculture sector through sustainable plantation activities across the state's diverse agro-climatic zones. Under this scheme, support in the form of plantation assistance and allied resources is provided to individual farmers, Self-Help Groups (SHGs), and Farmer Producer Organizations (FPOs)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Access to plantation support including technical guidance, planting material, and financial assistance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Interested and eligible students need to apply online on the ",
+                    "italic": true,
+                    "bold": true
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/",
+                    "children": [
+                      {
+                        "italic": true,
+                        "bold": true,
+                        "text": "Atma Nirbhar Yojana"
+                      }
+                    ]
+                  },
+                  {
+                    "italic": true,
+                    "bold": true,
+                    "text": " portal. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "New User Registration",
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Select the \""
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/login",
+                        "children": [
+                          {
+                            "text": "Login"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "\" option."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Subsequently, click on the \""
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/user-register",
+                        "children": [
+                          {
+                            "text": "Register Here\""
+                          }
+                        ]
+                      },
+                      {
+                        "text": " link."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Establish a password for your account."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Upon successful registration, the applicant will receive a User ID and password."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Login & Application Process:",
+                    "underline": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/login",
+                        "children": [
+                          {
+                            "text": "Log in"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " using the provided User ID and password to access the application form."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Fill in the complete application form."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Submit the application form. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "***Interested and eligible students need to apply online on the*** [***Atma Nirbhar Yojana***](https://agri.arunachal.gov.in/atmanirbhar_yojana/) ***portal.*** \n**New User Registration**\n\n   1. Select the &amp;quot;[Login](https://agri.arunachal.gov.in/atmanirbhar_yojana/login)&amp;quot; option.   1. Subsequently, click on the &amp;quot;[Register Here&amp;quot;](https://agri.arunachal.gov.in/atmanirbhar_yojana/user-register) link.   1. Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number.\n   1. Establish a password for your account.\n   1. Upon successful registration, the applicant will receive a User ID and password.\n\n***Login &amp;amp; Application Process:***\n\n   1. [Log in](https://agri.arunachal.gov.in/atmanirbhar_yojana/login) using the provided User ID and password to access the application form.   1. Fill in the complete application form.\n   1. Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc.\n   1. Submit the application form. \n\n"
+      },
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the District Agriculture Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "OR",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The interested applicant downloads the "
+              },
+              {
+                "type": "link",
+                "link": "https://cdn.s3waas.gov.in/s3c0c7c76d30bd3dcaefc96f40275bdc0a/uploads/2023/05/2023051921.pdf",
+                "children": [
+                  {
+                    "text": "application form"
+                  }
+                ]
+              },
+              {
+                "text": " from the official website. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Agriculture Office."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Agriculture Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe interested applicant downloads the [application form](https://cdn.s3waas.gov.in/s3c0c7c76d30bd3dcaefc96f40275bdc0a/uploads/2023/05/2023051921.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Agriculture Office.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The Scheme can be applied by individual farmers as well as Self-Help Groups (SHGs)/ Farmers Producer Organizations (FPOs).\n\n**Eligibility Criteria for Individual Farmers**\n\n1. The applicant should be a native of Arunachal Pradesh.\n1. The applicant should be an individual farmer. \n1. The applicant should have landholding between 0.50 hectares and 25 hectares.\n1. The applicant should not be a bank defaulter.\n1. The applicant should not be a government servant.\n\n**Eligibility Criteria for Self-Help Groups (SHGs)**\n\n1. The applicant should be a Self-Help Group (SHG) based in Arunachal Pradesh. \n1. The SHG should have a minimum of 1.0 hectare and up to 50 hectares of land.\n1. The SHG should not be a bank defaulter.\n1. An already existing SHGs prior to involvement of SrLM shall be considered.\n1. SHGs formed for small-scale industries such as weaving, knitting, tailoring, and other similar businesses shall not be entertained or considered eligible.\n\n**Note:** The SHGs formed especially for Agri- sector shall be given priority.\n**Eligibility Criteria for Farmers Producer Organizations (FPOs)**\n\n1. The Farmer Producer Organization (FPO) should be registered in Arunachal Pradesh. \n1. The FPO should have a minimum of 5 hectares and a maximum of 50 hectares of land.\n1. The FPO should have at least 100 shareholders.\n1. The FPO should submit at least one audited Balance Sheet.\n1. All board members and shareholders of FPO should be non-defaulters to any bank/financial institution.\n1. All types of FPOs engaged in agriculture business will get benefit from this programme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Scheme can be applied by individual farmers as well as Self-Help Groups (SHGs)/ Farmers Producer Organizations (FPOs)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "underline": true,
+              "text": "Eligibility Criteria for Individual Farmers"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a native of Arunachal Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an individual farmer. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have landholding between 0.50 hectares and 25 hectares."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be a bank defaulter."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be a government servant."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligibility Criteria for Self-Help Groups (SHGs)",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Self-Help Group (SHG) based in Arunachal Pradesh. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The SHG should have a minimum of 1.0 hectare and up to 50 hectares of land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The SHG should not be a bank defaulter."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An already existing SHGs prior to involvement of SrLM shall be considered."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "SHGs formed for small-scale industries such as weaving, knitting, tailoring, and other similar businesses shall not be entertained or considered eligible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " The SHGs formed especially for Agri- sector shall be given priority."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "underline": true,
+              "text": "Eligibility Criteria for Farmers Producer Organizations (FPOs)"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Farmer Producer Organization (FPO) should be registered in Arunachal Pradesh. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The FPO should have a minimum of 5 hectares and a maximum of 50 hectares of land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The FPO should have at least 100 shareholders."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The FPO should submit at least one audited Balance Sheet."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All board members and shareholders of FPO should be non-defaulters to any bank/financial institution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All types of FPOs engaged in agriculture business will get benefit from this programme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "anpyap"
+}

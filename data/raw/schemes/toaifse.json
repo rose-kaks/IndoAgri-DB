@@ -1,0 +1,223 @@
+{
+  "_id": "6795afe6f4330f0a718be98f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Employment",
+        "Training",
+        "Animal Husbandry",
+        "Unemployed"
+      ],
+      "schemeName": "Training on Artificial Insemination for Self-Employment",
+      "schemeShortTitle": "TOAIFSE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Employment services and jobs",
+          "label": "Employment services and jobs"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "toaifse",
+      "briefDescription": "The \"Training on Artificial Insemination for Self-Employment\" by the Animal Husbandry Department, Madhya Pradesh promotes milk production and employment. Trained Gausevaks get an honorarium of ₹4,000 and equipment worth ₹18,000. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=215"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Training on Artificial Insemination for Self-Employment&quot; scheme by the Animal Husbandry Department, Government of Madhya Pradesh aims to increase milk production through employment generation and breed improvement. Under this initiative, trained Gausevaks will receive an honorarium of ₹4,000 along with equipment worth ₹18,000. The program offers three months of free training, including one month of theoretical and two months of practical training, at Government-recognized institutes. Eligible candidates include pre-selected Gausevaks or unemployed youth (10th pass and above 18 years of age). This initiative promotes self-employment and strengthens the dairy sector.\n",
+      "benefits_md": "\n- **Financial Support:** Trained Gausevaks receive an honorarium of ₹4,000 and equipment worth ₹18,000.- **Skill Development:** Provides three months of free training in artificial insemination, including theory and practical sessions.\n",
+      "briefDescription": "The \"Training on Artificial Insemination for Self-Employment\" by the Animal Husbandry Department, Madhya Pradesh promotes milk production and employment. Trained Gausevaks get an honorarium of ₹4,000 and equipment worth ₹18,000. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Training on Artificial Insemination for Self-Employment\" scheme by the Animal Husbandry Department, Government of Madhya Pradesh aims to increase milk production through employment generation and breed improvement. Under this initiative, trained Gausevaks will receive an honorarium of ₹4,000 along with equipment worth ₹18,000. The program offers three months of free training, including one month of theoretical and two months of practical training, at Government-recognized institutes. Eligible candidates include pre-selected Gausevaks or unemployed youth (10th pass and above 18 years of age). This initiative promotes self-employment and strengthens the dairy sector."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Support:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " Trained Gausevaks receive an honorarium of ₹4,000 and equipment worth ₹18,000."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Skill Development:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " Provides three months of free training in artificial insemination, including theory and practical sessions."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For Initial Training:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant from each Gram Panchayat will be selected on the approval of Janpad Panchayat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "underline": true,
+                "text": "Applicants with queries or documentation requirements should reach out to:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Office of the Deputy Director, Veterinary Services"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Government-recognized Artificial Insemination Training Institutes"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Panchayat Offices in their respective areas."
+              }
+            ]
+          }
+        ],
+        "process_md": "**For Initial Training:**\nThe applicant from each Gram Panchayat will be selected on the approval of Janpad Panchayat.\n**Applicants with queries or documentation requirements should reach out to:**\nThe Office of the Deputy Director, Veterinary Services\nGovernment-recognized Artificial Insemination Training Institutes\nThe Panchayat Offices in their respective areas.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be an unemployed youth.\n1. The applicant should be at least 18 years old.\n1. The applicant should have passed the 10th standard.\n1. The applicant should have a keen interest in dairy farming and artificial insemination.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an unemployed youth."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be at least 18 years old."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have passed the 10th standard."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have a keen interest in dairy farming and artificial insemination."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "toaifse"
+}

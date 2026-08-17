@@ -1,0 +1,203 @@
+{
+  "_id": "68a41f7a9a6440be2a4df02e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Adivasi Farmers",
+        "Crop Production",
+        "Farmer Camp",
+        "Seeds",
+        "Fertilizer",
+        "Exhibition",
+        "Agricultural Fair"
+      ],
+      "schemeName": "Distribution of Seeds of more productions varieties/ Hybrids varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: Agricultural Fair/Exhibition/Farmer Camp Gujarat ",
+      "schemeShortTitle": "DSPVHFAFEFCGUJ",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "dspvhfafefcguj",
+      "briefDescription": "The scheme aims to improve the agricultural productivity and the livelihood of Adivasi farmers. It provides hybrid seeds, fertilizers, equipment, and support for agricultural fairs."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=v4lc2tu73R/9lWYKO76SRg==&domain=KQBjMeZAUYtrIgvpebJ01g=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;Agricultural Fair/Exhibition/Farmer Camp&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to provide subsidized agricultural inputs to enhance productivity and livelihood of tribal farmers. Farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas can achieve higher production of agricultural crops and improve their livelihood by using plant protection equipment, tarpaulins, field demonstrations, micronutrients, agriculture fairs, water carrying pipelines, castor cake/neem cake/LFOM/green manure, pump sets, 100% water-soluble fertilizer, plant protection pesticides, etc. These tools and practices, when used according to scientific recommendations, can significantly increase crop production and, consequently, improve their livelihood.\n<br>\n\n",
+      "benefits_md": "The assistance is provided with a limit of ₹1,00,000/- can be spent for holding Agricultural Fair/Exhibition at the Taluka level. Farmer Shibir for 100 farmers, ₹15000/- can be spent within the limit.\n<br>\n\n> **Remarks:** Literature, tea, refreshments, meals, traveling expenses, exhibition stall fee, mandap, banner, photographs, sound system, electricity, furniture rent, Vs. Can be spent on things.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to improve the agricultural productivity and the livelihood of Adivasi farmers. It provides hybrid seeds, fertilizers, equipment, and support for agricultural fairs.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area (TASP)\" with a component \"Agricultural Fair/Exhibition/Farmer Camp\" is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to provide subsidized agricultural inputs to enhance productivity and livelihood of tribal farmers. Farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas can achieve higher production of agricultural crops and improve their livelihood by using plant protection equipment, tarpaulins, field demonstrations, micronutrients, agriculture fairs, water carrying pipelines, castor cake/neem cake/LFOM/green manure, pump sets, 100% water-soluble fertilizer, plant protection pesticides, etc. These tools and practices, when used according to scientific recommendations, can significantly increase crop production and, consequently, improve their livelihood."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The assistance is provided with a limit of ₹1,00,000/- can be spent for holding Agricultural Fair/Exhibition at the Taluka level. Farmer Shibir for 100 farmers, ₹15000/- can be spent within the limit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Remarks:",
+              "bold": true
+            },
+            {
+              "text": " Literature, tea, refreshments, meals, traveling expenses, exhibition stall fee, mandap, banner, photographs, sound system, electricity, furniture rent, Vs. Can be spent on things."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Approach the Gram Sevak in your village for access to the Agricultural Fair/Exhibition/Farmer Camp under the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Approach the Gram Sevak in your village for access to the Agricultural Fair/Exhibition/Farmer Camp under the scheme.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to a Scheduled Tribe."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme excludes farmers from Dang district."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dspvhfafefcguj"
+}

@@ -1,0 +1,535 @@
+{
+  "_id": "646df5fa527a0d6debd1b4e2",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-04-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 21,
+        "label": "Odisha"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2111120,
+        "label": "Fisheries and Animal Resources Development Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": "Directorate Of Animal Husbandry & Veterinary Services, Odisha",
+      "tags": [
+        "Duck",
+        "Farming",
+        "Entrepreneurs",
+        "Subsidy",
+        "Farmer"
+      ],
+      "schemeName": "Semi-Commercial Duck Farming",
+      "schemeShortTitle": "SCDF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "scdf",
+      "briefDescription": "The scheme “Semi-Commercial Duck Farming” started under the State Sector Scheme \"Encouragement of Commercial Poultry Entrepreneur and Promotion of Backyard Poultry Production\" to support small entrepreneurs in setting up Duck farms with a capacity of 1000 ducks.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Website",
+          "url": "https://sugam.odisha.gov.in/website/home/scheme-list"
+        },
+        {
+          "title": "Guideline",
+          "url": "https://sugam.odisha.gov.in/admin//storage/uploads/serviceImg/6243da016ad161648613889.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Semi-Commercial Duck Farming” started under the State Sector Scheme &amp;quot;Encouragement of Commercial Poultry Entrepreneur and Promotion of Backyard Poultry Production&amp;quot; to support small entrepreneurs in setting up Duck farms with a capacity of 1000 ducks. Under this new State plan scheme, individual farmers will be supported for taking up semi-commercial duck rearing with a subsidy of 40% subsidy.\n**Aim:**\nThe scheme aims to support 100 individual farmers in setting up semi-commercial duckery units with a capacity of 1000 ducks per unit.\n**Objective:**\n\n- To strengthen the local production systems for enhancing livelihoods and for the generation of additional income among the farmers through duck rearing.\n- To support nutritional requirements through the production of animal protein.\n- To build the capacity of farmers for undertaking semi-commercial duck farming as a profitable enterprise.\n\n",
+      "benefits_md": "\n- The individual beneficiary will be provided a maximum of 40% subsidy.\n- Training will be organized at the Block Head Quarter level or any other convenient place after the final approval of the list.\n- Each beneficiary will be trained on recommended management practices on feeding and watering, brooding and rearing young ducks, record keeping, etc.\n- The concerned Livestock Inspectors, Gomitras and PraniMitras will guide the beneficiaries in field for managing the duck units.\n- Routine vaccination of birds on a priority basis.\n- The Block Veterinary Officer (BVO) will provide all technical guidance to the farmer for maintaining proper veterinary health care and immunization of the ducks.\n- The beneficiary shall directly procure quality ducklings from reputed sources which will be facilitated by the respective BVOs.\n\n**Note:** The subsidy will be released in two phases through DBT mode to the individual beneficiary. The 1st installment of 40% of the eligible subsidy will be released after the construction of the duck shed and 2nd installment of the eligible subsidy shall be released after the stocking of ducklings.\n<br>\n\n",
+      "briefDescription": "The scheme “Semi-Commercial Duck Farming” started under the State Sector Scheme \"Encouragement of Commercial Poultry Entrepreneur and Promotion of Backyard Poultry Production\" to support small entrepreneurs in setting up Duck farms with a capacity of 1000 ducks.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Semi-Commercial Duck Farming” started under the State Sector Scheme \"Encouragement of Commercial Poultry Entrepreneur and Promotion of Backyard Poultry Production\" to support small entrepreneurs in setting up Duck farms with a capacity of 1000 ducks. Under this new State plan scheme, individual farmers will be supported for taking up semi-commercial duck rearing with a subsidy of 40% subsidy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aim:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme aims to support 100 individual farmers in setting up semi-commercial duckery units with a capacity of 1000 ducks per unit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To strengthen the local production systems for enhancing livelihoods and for the generation of additional income among the farmers through duck rearing."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To support nutritional requirements through the production of animal protein."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To build the capacity of farmers for undertaking semi-commercial duck farming as a profitable enterprise."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The individual beneficiary will be provided a maximum of 40% subsidy."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training will be organized at the Block Head Quarter level or any other convenient place after the final approval of the list."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Each beneficiary will be trained on recommended management practices on feeding and watering, brooding and rearing young ducks, record keeping, etc."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The concerned Livestock Inspectors, Gomitras and PraniMitras will guide the beneficiaries in field for managing the duck units."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Routine vaccination of birds on a priority basis."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Block Veterinary Officer (BVO) will provide all technical guidance to the farmer for maintaining proper veterinary health care and immunization of the ducks."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary shall directly procure quality ducklings from reputed sources which will be facilitated by the respective BVOs."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " The subsidy will be released in two phases through DBT mode to the individual beneficiary. The 1st installment of 40% of the eligible subsidy will be released after the construction of the duck shed and 2nd installment of the eligible subsidy shall be released after the stocking of ducklings."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://sugam.odisha.gov.in/website/citizen-portal/login",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the official website:  "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sugam.odisha.gov.in/website/home",
+                    "children": [
+                      {
+                        "text": "https://sugam.odisha.gov.in/website/home"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on “Apply” and then click on “Register Now”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on \"Register\". The login credentials will be sent to your registered Email ID / Mobile Number."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the official website: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sugam.odisha.gov.in/website/home",
+                    "children": [
+                      {
+                        "text": "https://sugam.odisha.gov.in/website/home"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on “Scheme & Services” and then select the scheme by its name."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click “Apply” and login. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sugam.odisha.gov.in/website/citizen-portal/login",
+                    "children": [
+                      {
+                        "text": "https://sugam.odisha.gov.in/website/citizen-portal/login"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, you will get an Application Reference ID."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Check Application Status:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " You can enter the Application ID on the ‘Track Status’ page to check the status of your application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " SMS alerts will also be sent to you at each step of the application after submission."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration Process:**\n**Step 01:** Visit the official website:  [https://sugam.odisha.gov.in/website/home](https://sugam.odisha.gov.in/website/home)\n**Step 02:** Click on “Apply” and then click on “Register Now”.\n**Step 03:** On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on &amp;quot;Register&amp;quot;. The login credentials will be sent to your registered Email ID / Mobile Number.\n**Application Process:**\n**Step 01:** Visit the official website: [https://sugam.odisha.gov.in/website/home](https://sugam.odisha.gov.in/website/home)\n**Step 02:** Click on “Scheme &amp;amp; Services” and then select the scheme by its name.\n**Step 03:** Click “Apply” and login. [https://sugam.odisha.gov.in/website/citizen-portal/login](https://sugam.odisha.gov.in/website/citizen-portal/login)\n**Step 04** On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, you will get an Application Reference ID.\n**Check Application Status:**\n**Step 01:** You can enter the Application ID on the ‘Track Status’ page to check the status of your application.\n**Step 02:** SMS alerts will also be sent to you at each step of the application after submission.\n<br>\n\n"
+      },
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant has to approach their concerned the respective Block Veterinary Officer (BVO). Collect the application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill in all the mandatory fields of the application form and attach all the (self-attested) mandatory documents and submit it to the designated receiving authority/Block Veterinary Officer (BVO)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The BVO shall compile the Block wise applications and thereafter undertake a joint verification of the proposed duckery unit."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 01:** The applicant has to approach their concerned the respective Block Veterinary Officer (BVO). Collect the application form.\n**Step 02:** Fill in all the mandatory fields of the application form and attach all the (self-attested) mandatory documents and submit it to the designated receiving authority/Block Veterinary Officer (BVO).\n**Step 03:** The BVO shall compile the Block wise applications and thereafter undertake a joint verification of the proposed duckery unit.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Odisha.\n1. Individuals, farmers, and entrepreneurs will be eligible to avail of support under the scheme.\n1. All beneficiaries covered under the Scheme should mandatorily be Aadhaar linked to avoid duplication.\n1. The beneficiaries who have availed of subsidy previously in a similar scheme should not be included.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Odisha."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individuals, farmers, and entrepreneurs will be eligible to avail of support under the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All beneficiaries covered under the Scheme should mandatorily be Aadhaar linked to avoid duplication."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiaries who have availed of subsidy previously in a similar scheme should not be included."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "scdf"
+}

@@ -1,0 +1,339 @@
+{
+  "_id": "6a55dcecf9baeba57b4b4041",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Spices Growers",
+        "Farmer",
+        "Farming"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Reintroduced subcomponents:Supply of Silpaulin Sheets (nos)",
+      "schemeShortTitle": "ISFEPQIISARADOCRSSOSS",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": null,
+      "slug": "isfepqiisaradocrssoss",
+      "briefDescription": "The objective of the scheme is to encourage spice growers to adopt hygienic drying practices by using Silpaulin Sheets, thereby improving the quality of spices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://serviceonline.gov.in/dbt/login.do"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objective of the scheme is to encourage spice growers to adopt hygienic drying practices by using Silpaulin Sheets, thereby improving the quality of spices.",
+      "detailedDescription_md": "Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom: Reintroduced Subcomponent – Supply of Silpaulin Sheets (Nos.) is implemented by the Spices Board, India under the Ministry of Commerce and Industry.The objective of the scheme is to encourage spice growers to adopt hygienic drying practices by using Silpaulin Sheets, thereby improving the quality of spices.\nThe scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+      "benefits_md": "\n- 50 % (Gen) and 75% (SC/ST) at maximum of  ₹ 2000 (Gen) and  ₹ 3000/- (SC/ST), avg cost per sheet estimated at  ₹ 4000/-.\n- Spices growers having land holdings from 0.20 to 8 ha are eligible to avail assistance.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Reintroduced Subcomponent – Supply of Silpaulin Sheets (Nos.) is implemented by the Spices Board, India under the Ministry of Commerce and Industry.The objective of the scheme is to encourage spice growers to adopt hygienic drying practices by using Silpaulin Sheets, thereby improving the quality of spices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50 % (Gen) and 75% (SC/ST) at maximum of  ₹ 2000 (Gen) and  ₹ 3000/- (SC/ST), avg cost per sheet estimated at  ₹ 4000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Spices growers having land holdings from 0.20 to 8 ha are eligible to avail assistance."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicesPlus"
+                  }
+                ]
+              },
+              {
+                "text": " website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on the “"
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                "children": [
+                  {
+                    "text": "Register” "
+                  }
+                ]
+              },
+              {
+                "text": "option on the homepage."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Review all details carefully and submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                "children": [
+                  {
+                    "text": "“Login.”"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Enter your Email ID, Password, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Select the relevant service/scheme name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Fill in the required details in the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Submit the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1. All spice growing States and regions in India with preference for Chilli/turmeric crops.\n2. Spices Board will arrange centralized purchase and supply to the farmers by collecting the non- assistance portion from the farmers and subsequent payment to the approved supplier.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. All spice growing States and regions in India with preference for Chilli/turmeric crops."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Spices Board will arrange centralized purchase and supply to the farmers by collecting the non- assistance portion from the farmers and subsequent payment to the approved supplier."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isfepqiisaradocrssoss"
+}

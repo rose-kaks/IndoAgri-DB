@@ -1,0 +1,207 @@
+{
+  "_id": "666aa0faebb262eb5dbfe77c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "MMAPUY",
+        "Backyard Poultry",
+        "Chicks",
+        "Feeders",
+        "Water Drinkers",
+        "Hatchery",
+        "Unemployed"
+      ],
+      "schemeName": "Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+      "schemeShortTitle": "SEBPUMMAPUY",
+      "implementingAgency": "Department Of Animal Husbandry & Dairying, Government Of Haryana",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 6,
+        "label": "Haryana"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 666663,
+        "label": "Animal Husbandry & Dairying Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "sebpummapuy",
+      "briefDescription": "Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep.  "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details (Page No. 19)",
+          "url": "https://parivarutthan.haryana.gov.in/assets/uploads/Schemes%20booklet%20(%20updated%20%2004.05.2023).pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=ZfWa6itdLCW6DRMCArEPXg%3d%3d"
+        },
+        {
+          "title": "Notification (Page No. 4)",
+          "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/BPU%20Scheme.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep.  ",
+      "detailedDescription_md": "The scheme “Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry &amp;amp; Dairying, Government of Haryana. Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep. Any unemployed resident of Haryana aged between 18 and 60 years is eligible to avail of the benefits under this scheme.\n",
+      "benefits_md": "\n  - 50 chicks, 10 day old reared at Government Hatchery along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep.\n\n",
+      "exclusions_md": "\n  - Any group/firm/organization would not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented.\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana. Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep. Any unemployed resident of Haryana aged between 18 and 60 years is eligible to avail of the benefits under this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "50 chicks, 10 day old reared at Government Hatchery along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any group/firm/organization would not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The eligible applicant may contact the nearest veterinary hospital in his/her village."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant can submit their application form to the Deputy Director/Sub-Divisional office of his/her district."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- The eligible applicant may contact the nearest veterinary hospital in his/her village.\n- The applicant can submit their application form to the Deputy Director/Sub-Divisional office of his/her district.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.\tThe applicant should be a resident of Haryana.\n2.\tThe applicant should be unemployed.\n3.\tThe applicant should be between 18 to 60 years old.\n4.\tThere are no mandatory educational qualifications or training requirements.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1.\tThe applicant should be a resident of Haryana."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2.\tThe applicant should be unemployed."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3.\tThe applicant should be between 18 to 60 years old."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "4.\tThere are no mandatory educational qualifications or training requirements."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sebpummapuy"
+}

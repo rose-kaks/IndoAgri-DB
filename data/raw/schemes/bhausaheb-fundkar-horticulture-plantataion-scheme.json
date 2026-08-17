@@ -1,0 +1,331 @@
+{
+  "_id": "65cc90dfcd96dc5e0752d620",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Direct Benefit Transfer",
+        "Farmer",
+        "General",
+        "Horticulture",
+        "Plantation"
+      ],
+      "schemeName": "Bhausaheb Fundkar Falbag Lagvad Scheme",
+      "schemeShortTitle": "BHAUSAHEB FUNDKAR HORTICULTURE PLANTATAION SCHEME",
+      "implementingAgency": "Commissionerate Of Agriculture, Maharashtra State, Pune",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": "2018-07-06",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 27,
+        "label": "Maharashtra"
+      },
+      "nodalDepartmentName": {
+        "value": 27111111,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "bhausaheb-fundkar-horticulture-plantataion-scheme",
+      "briefDescription": "This scheme includes, Plantation of sixteen perennial horticulture crops. Farmer from Konkan division can avail benefit of 0.10 Hector  to 10.00 Hector  and rest Of Maharashtra 0.20 Hector  to 6.00 Hector  "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Bhausaheb Fundkar Falbag Lagvad Scheme GR",
+          "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201807061207371701...pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The pattern of assistance under this scheme of total amount payable in three years.\n The subsidy amount will be directly credited to the Aadhaar link Bank Account every year. \nThe beneficiary has to maintain the percentage survival of fruit plant shall be minimum 80% for first year and  90%  for the second year.\nState Sponsored Bhausaheb Fundkar Falbag Lagvad Scheme was launched by Agriculture Department of Maharashtra from Kharif Season of the year 2018-19.\nThis scheme include the 16 perennial fruit crops like Mango, Cashew, Guava, Sapota, Custered Apple, Pomegranate, Paper Lemon, Coconut, Tamarind, Fig, Amla, Kokum, Jackfruit, Jamun, Orange, Mosambi. Farmer from Konkan division can avail benefit of 0.10 Hector to 10.00 Hector And rest Of Maharashtra 0.20 Ha. to 6.00 Ha. planting under the scheme. \n<br>\n\n",
+      "benefits_md": "Subsidy through DBT is given to farmer for plantation of 16 perennial fruit crops like Mango, Cashew, Guava, Sapota, Custered Apple, Pomegranate, Paper Lemon, Coconut, Tamarind, Fig, Amla, Kokum, Jackfruit, Jamun, Orange, Mosambi, for below mentioned activities :\n<br>\n\n1.  Pit Diggsing\n2.  Planting grafts/seedling\n3.  Application of chemical and organic fertilizers.\n4.  Crop Protection\n5.  Gap filling\n<br>\n\n",
+      "exclusions_md": "Institutional beneficiaries cannot avail the benefit.\n",
+      "briefDescription": "This scheme includes, Plantation of sixteen perennial horticulture crops. Farmer from Konkan division can avail benefit of 0.10 Hector  to 10.00 Hector  and rest Of Maharashtra 0.20 Hector  to 6.00 Hector  ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pattern of assistance under this scheme of total amount payable in three years."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The subsidy amount will be directly credited to the Aadhaar link Bank Account every year. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beneficiary has to maintain the percentage survival of fruit plant shall be minimum 80% for first year and  90%  for the second year."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "State Sponsored Bhausaheb Fundkar Falbag Lagvad Scheme was launched by Agriculture Department of Maharashtra from Kharif Season of the year 2018-19."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme include the 16 perennial fruit crops like Mango, Cashew, Guava, Sapota, Custered Apple, Pomegranate, Paper Lemon, Coconut, Tamarind, Fig, Amla, Kokum, Jackfruit, Jamun, Orange, Mosambi. Farmer from Konkan division can avail benefit of 0.10 Hector to 10.00 Hector And rest Of Maharashtra 0.20 Ha. to 6.00 Ha. planting under the scheme. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy through DBT is given to farmer for plantation of 16 perennial fruit crops like Mango, Cashew, Guava, Sapota, Custered Apple, Pomegranate, Paper Lemon, Coconut, Tamarind, Fig, Amla, Kokum, Jackfruit, Jamun, Orange, Mosambi, for below mentioned activities :"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.  Pit Diggsing"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.  Planting grafts/seedling"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.  Application of chemical and organic fertilizers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4.  Crop Protection"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5.  Gap filling"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Institutional beneficiaries cannot avail the benefit."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application link:  https://mahadbt.maharashtra.gov.in/"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1.\tGo to the Aaple Sarkar DBT Portal at https://mahadbt.maharashtra.gov.in/."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2.\tIn that go to Farmer Scheme"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "3.\tClick on the “New Applicant Registration” button."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "4.\tEnter your basic personal information, including your name, Aadhaar number, mobile number, and email address."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "5.\tCreate a username and password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "6.\tAfter completion of registration, login to your account and complete the form by entering Personal details,Address details and Land information details to complete profile 100%."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "7.\tAfter completing profile, apply for the implements, details of implement and its specifications etc and pay the fees to complete application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Application link:  https://mahadbt.maharashtra.gov.in/\n<br>\n\nApplication Process:\n1.\tGo to the Aaple Sarkar DBT Portal at https://mahadbt.maharashtra.gov.in/.\n2.\tIn that go to Farmer Scheme\n3.\tClick on the “New Applicant Registration” button.\n4.\tEnter your basic personal information, including your name, Aadhaar number, mobile number, and email address.\n5.\tCreate a username and password.\n6.\tAfter completion of registration, login to your account and complete the form by entering Personal details,Address details and Land information details to complete profile 100%.\n7.\tAfter completing profile, apply for the implements, details of implement and its specifications etc and pay the fees to complete application form.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The beneficiary should be a permanent resident of Maharashtra State \nFarmer should have Aadhaar Card.\nFarmer should have 7/12 certificate and 8 –A certificate.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beneficiary should be a permanent resident of Maharashtra State "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Farmer should have Aadhaar Card."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Farmer should have 7/12 certificate and 8 –A certificate."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "bhausaheb-fundkar-horticulture-plantataion-scheme"
+}

@@ -1,0 +1,523 @@
+{
+  "_id": "69005c330b4f3268f534fefd",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Institution",
+        "Crop",
+        "Diversification",
+        "Marketing",
+        "Agriculture"
+      ],
+      "schemeName": "Madhya Pradesh Fasal Vividhikaran (Crop Diversification) Encouragement Scheme",
+      "schemeShortTitle": "MPFVCDES",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2300011,
+        "label": "Farmer Welfare and Agriculture Development Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "mpfvcdes",
+      "briefDescription": "The scheme aims to encourage crop diversification by providing necessary inputs to farmers who shift from growing wheat and paddy. Benefits are provided primarily to the implementing Company, Firm, or Institution to cover costs related to Human Resources and Marketing, benefiting farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/06062022_order.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to encourage crop diversification by providing necessary inputs to farmers who shift from growing wheat and paddy. Benefits are provided primarily to the implementing Company, Firm, or Institution to cover costs related to Human Resources and Marketing, benefiting farmers.",
+      "detailedDescription_md": "The scheme &quot;Madhya Pradesh Fasal Vividhikaran (Crop Diversification) Encouragement Scheme&quot; was launched by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh. The scheme aims to provide encouragement for crop diversification in Madhya Pradesh. The scheme provides support primarily for Human Resources (Manav Sansadhan) deployed for area overlap and Marketing (Vipanan), and necessary inputs provided to farmers to motivate diversification. The applicant must be an eligible Company, Firm, or Institution that fulfills certain conditions, such as maintaining records, advising farmers on Agriculture Practices (Krishi Karyapranali), and arranging for the purchase of the crops. The scheme is implemented under the overall supervision of the Director, Farmer Welfare and Agriculture Development Department. The applications for this scheme are accepted by presenting the Detailed Project Report (DPR) to the Director, Farmer Welfare and Agriculture Development Department.\n<br>\n\n",
+      "benefits_md": "\n- The scheme permits the costs incurred for necessary inputs provided to farmers to inspire them towards diversification.\n- The scheme primarily sanctions costs related to Human Resources (Manav Sansadhan) deployed for area overlap and Marketing (Vipanan).\n- The scheme generally does not sanction Capital (Poonji) expenditure.\n- Capital expenditure may be sanctioned only in special circumstances for Critical Equipment.\n- Assistance from the State Government is provided for a minimum period of 3 years.\n- The period of assistance may be extended based on specific needs.\n- The applicant organization, if eligible for other Central Government or State Government schemes for capital investment, will be facilitated to receive such assistance.\n\n<br>\n\n***Conditions***\n\n- _The implementation and monitoring of the scheme must ensure that work is carried out according to the determined directions and guidelines of the State Level Project Screening Committee (SLPSC)._\n- _The proposal submitted by the applicant must detail the viability (Vyavsayata) and provide justification (Aparikshan) for the Proposed Expenditures (Prastavit Vyay)._\n- _If the applicant Company, Firm, or Institution violates the conditions of the sanction, especially the terms of the Detailed Project Report (DPR), provision will be made for regulatory action or recovery of funds._\n\n<br>\n\n",
+      "exclusions_md": "The applicant is generally restricted from utilizing scheme funds for Capital (Poonji) expenditure.\n<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Madhya Pradesh Fasal Vividhikaran (Crop Diversification) Encouragement Scheme\" was launched by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh. The scheme aims to provide encouragement for crop diversification in Madhya Pradesh. The scheme provides support primarily for Human Resources (Manav Sansadhan) deployed for area overlap and Marketing (Vipanan), and necessary inputs provided to farmers to motivate diversification. The applicant must be an eligible Company, Firm, or Institution that fulfills certain conditions, such as maintaining records, advising farmers on Agriculture Practices (Krishi Karyapranali), and arranging for the purchase of the crops. The scheme is implemented under the overall supervision of the Director, Farmer Welfare and Agriculture Development Department. The applications for this scheme are accepted by presenting the Detailed Project Report (DPR) to the Director, Farmer Welfare and Agriculture Development Department."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme permits the costs incurred for necessary inputs provided to farmers to inspire them towards diversification."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme primarily sanctions costs related to Human Resources (Manav Sansadhan) deployed for area overlap and Marketing (Vipanan)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme generally does not sanction Capital (Poonji) expenditure."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Capital expenditure may be sanctioned only in special circumstances for Critical Equipment."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance from the State Government is provided for a minimum period of 3 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The period of assistance may be extended based on specific needs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant organization, if eligible for other Central Government or State Government schemes for capital investment, will be facilitated to receive such assistance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The implementation and monitoring of the scheme must ensure that work is carried out according to the determined directions and guidelines of the State Level Project Screening Committee (SLPSC).",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The proposal submitted by the applicant must detail the viability (Vyavsayata) and provide justification (Aparikshan) for the Proposed Expenditures (Prastavit Vyay).",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the applicant Company, Firm, or Institution violates the conditions of the sanction, especially the terms of the Detailed Project Report (DPR), provision will be made for regulatory action or recovery of funds.",
+                  "italic": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant is generally restricted from utilizing scheme funds for Capital (Poonji) expenditure."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Application Submission",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant Company, Firm, or Institution must prepare and present the Detailed Project Report (DPR) along with the application to the "
+              },
+              {
+                "text": "Director, Farmer Welfare and Agriculture Development Department.",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Administrative Arrangement",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Director, Farmer Welfare and Agriculture Development Department, must establish the necessary administrative arrangements after receiving the proposal under the scheme."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Preliminary Review and Screening",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Director, Farmer Welfare and Agriculture Development Department, must examine the received proposals and present them to the State Level Project Screening Committee (SLPSC) for consideration. The State Level Project Screening Committee (SLPSC) may obtain amended proposals after consultation with the applicant institution."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Project Examination",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The State Level Project Screening Committee (SLPSC) will review the viability (Vyavsayata) of the project and conduct necessary verification (Aparikshan) of the justification of the Proposed Expenditures (Prastavit Vyay)."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Final Proposal Submission",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Following the recommendation of the State Level Project Screening Committee (SLPSC), the proposal is sent for final sanction to the Cabinet Committee for Investment Promotion-CCIP."
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 6:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Final Approval",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Final sanction for the project proposals is granted by the Cabinet Committee for Investment Promotion-CCIP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### **Step 1:****** ***Application Submission***\nThe applicant Company, Firm, or Institution must prepare and present the Detailed Project Report (DPR) along with the application to the ***Director, Farmer Welfare and Agriculture Development Department.***\n##### **Step 2:****** ***Administrative Arrangement***\nThe Director, Farmer Welfare and Agriculture Development Department, must establish the necessary administrative arrangements after receiving the proposal under the scheme.\n##### **Step 3:****** ***Preliminary Review and Screening***\nThe Director, Farmer Welfare and Agriculture Development Department, must examine the received proposals and present them to the State Level Project Screening Committee (SLPSC) for consideration. The State Level Project Screening Committee (SLPSC) may obtain amended proposals after consultation with the applicant institution.\n##### **Step 4:****** ***Project Examination***\nThe State Level Project Screening Committee (SLPSC) will review the viability (Vyavsayata) of the project and conduct necessary verification (Aparikshan) of the justification of the Proposed Expenditures (Prastavit Vyay).\n##### **Step 5:****** ***Final Proposal Submission***\nFollowing the recommendation of the State Level Project Screening Committee (SLPSC), the proposal is sent for final sanction to the Cabinet Committee for Investment Promotion-CCIP.\n##### **Step 6:****** ***Final Approval***\nFinal sanction for the project proposals is granted by the Cabinet Committee for Investment Promotion-CCIP.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a Company, Firm, or Institution.\n- The applicant must maintain all records and qualifications as a qualifying Company, Firm, or Institution.\n- The applicant must advise the farmer regarding the sowing of the &#39;Eligible Crop&#39; and the associated Agriculture Practice (Krishi Karyapranali).\n- The applicant must confirm the purchase of the &#39;Eligible Crop&#39;.\n- The applicant must execute the crop diversification work.\n- The applicant must make a mandatory tie-up with another Company, Firm, or Institution for the purchase of the &#39;Eligible Crop&#39;.\n- The applicant must ensure they themselves do not purchase the crop.\n- The Eligible Crop must be any crop, excluding wheat (Gehun) and paddy (Dhan), that is sown in place of wheat and paddy.\n- The Eligible Crop must not be covered under Minimum Support Price (MSP).\n- Horticultural crops must also be included in the Eligible Crops.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a Company, Firm, or Institution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must maintain all records and qualifications as a qualifying Company, Firm, or Institution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must advise the farmer regarding the sowing of the 'Eligible Crop' and the associated Agriculture Practice (Krishi Karyapranali)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must confirm the purchase of the 'Eligible Crop'."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must execute the crop diversification work."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must make a mandatory tie-up with another Company, Firm, or Institution for the purchase of the 'Eligible Crop'."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must ensure they themselves do not purchase the crop."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Eligible Crop must be any crop, excluding wheat (Gehun) and paddy (Dhan), that is sown in place of wheat and paddy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Eligible Crop must not be covered under Minimum Support Price (MSP)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Horticultural crops must also be included in the Eligible Crops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mpfvcdes"
+}

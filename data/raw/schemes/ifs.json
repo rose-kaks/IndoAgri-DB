@@ -1,0 +1,352 @@
+{
+  "_id": "67a1b634c03a80a1ad0c5eaf",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Fish Farmer",
+        "Scheduled Tribes",
+        "Scheduled Castes",
+        "Women"
+      ],
+      "schemeName": "Integrated Fisheries Scheme",
+      "schemeShortTitle": "IFS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000027,
+        "label": "Department of Agriculture, Animal Husbandry & Co-operative"
+      },
+      "schemeFor": "Infra",
+      "slug": "ifs",
+      "briefDescription": "The \"Integrated Fisheries Scheme\" by the Fisheries Division, Government of Jharkhand, aims to promote fish-duck farming and increase fish farmers' income. The scheme provides financial assistance of up to 80% for eligible SC/ST/women beneficiaries and 70% for others."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jharkhandfisheries.org/orders/2023/Rajyadesh-letter-no.-04-RA-(VI)-dated-08.05.2023.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Integrated Fisheries Scheme&quot; by the Fisheries Division, Department of Agriculture, Animal Husbandry &amp; Cooperation, Government of Jharkhand, aims to promote fish-duck farming and enhance the income of fish farmers. Under this scheme, financial assistance covering up to 80% of the project cost is provided to Scheduled Tribes, Scheduled Castes, and women beneficiaries, while other categories receive up to 70% assistance.\n<br>\n\n***Objective:*** \n\n- Support for constructing duck houses and procuring ducklings.\n- Preference is given to one-acre or larger water bodies.\n- Encouragement for cluster-based implementation to enhance productivity.\n- Special priority for previously selected beneficiaries from 2022-23 who couldn&#39;t receive grants due to unforeseen reasons.\n\n",
+      "benefits_md": "\n- Financial assistance of up to ₹1,22,680 for SC/ST/women beneficiaries. \n- Financial assistance of  ₹1,07,345 for other beneficiaries.\n- Financial assistance is provided in three installments:\n\n\n1. The first installment is released after approval.\n1. The second after verification of project setup. \n1. The third upon successful implementation and monitoring of the fish-duck farming unit.\n\n<br>\n\n**NOTE:** Financial assistance is disbursed in three installments via Direct Benefit Transfer (DBT).\n",
+      "briefDescription": "The \"Integrated Fisheries Scheme\" by the Fisheries Division, Government of Jharkhand, aims to promote fish-duck farming and increase fish farmers' income. The scheme provides financial assistance of up to 80% for eligible SC/ST/women beneficiaries and 70% for others.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Integrated Fisheries Scheme\" by the Fisheries Division, Department of Agriculture, Animal Husbandry & Cooperation, Government of Jharkhand, aims to promote fish-duck farming and enhance the income of fish farmers. Under this scheme, financial assistance covering up to 80% of the project cost is provided to Scheduled Tribes, Scheduled Castes, and women beneficiaries, while other categories receive up to 70% assistance."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for constructing duck houses and procuring ducklings."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference is given to one-acre or larger water bodies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encouragement for cluster-based implementation to enhance productivity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Special priority for previously selected beneficiaries from 2022-23 who couldn't receive grants due to unforeseen reasons."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of up to ₹1,22,680 for SC/ST/women beneficiaries. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of  ₹1,07,345 for other beneficiaries."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance is provided in three installments:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The first installment is released after approval."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The second after verification of project setup. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The third upon successful implementation and monitoring of the fish-duck farming unit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "Financial assistance is disbursed in three installments via Direct Benefit Transfer (DBT)."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Apply after the advertisement is published:",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the District Secured Deposit Determination Committee and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the Secured Deposit Determination Committee."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "***Apply after the advertisement is published:***\n**Step 1:** The interested applicant should visit (during office hours) the District Secured Deposit Determination Committee and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Secured Deposit Determination Committee.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a fish farmer.\n1. The proposed site should be near a population center.\n1. The applicant should own or lease a pond (minimum one acre) for at least three years.\n1. Preference is given to applicants closer to district headquarters for better monitoring.\n1. The applicant near RFF (Resource Fisheries Facilities) should have an active bank account and be part of a functional beneficiary group.\n1. Applicants who were selected in 2022-23 but did not receive grants will be prioritized.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a fish farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The proposed site should be near a population center."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should own or lease a pond (minimum one acre) for at least three years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference is given to applicants closer to district headquarters for better monitoring."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant near RFF (Resource Fisheries Facilities) should have an active bank account and be part of a functional beneficiary group."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicants who were selected in 2022-23 but did not receive grants will be prioritized."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ifs"
+}

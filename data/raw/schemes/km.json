@@ -1,0 +1,403 @@
+{
+  "_id": "6448f123cc64ef23bef44a09",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2010-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Coaching",
+          "label": "Coaching"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Education",
+        "Agriculture",
+        "Famers",
+        "Training",
+        "Scientific Farming",
+        "Farm Mechanization"
+      ],
+      "schemeName": "Krushi Mahotsav",
+      "schemeShortTitle": "KM",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "km",
+      "briefDescription": "The Krishi Mahotsav Yojana is an agricultural development scheme launched by the Government of Gujarat in the year 2010. The scheme aims to boost agricultural productivity and increase the income of farmers in the state. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Details",
+          "url": "https://dag.gujarat.gov.in/krushi-mahotsav.htm"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The Krishi Mahotsav Yojana is an agricultural development scheme launched by the Government of Gujarat in the year 2010. The scheme aims to boost agricultural productivity and increase the income of farmers in the state. ",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Detailed ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Some of the key features of the Krishi Mahotsav Yojana Gujarat are:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Soil Health Card",
+                      "bold": true
+                    },
+                    {
+                      "text": ": The government provides soil health cards to farmers to help them understand the nutrient status of their soil and take appropriate measures to improve soil fertility."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subsidized Inputs",
+                      "bold": true
+                    },
+                    {
+                      "text": ": The government provides subsidies on various agricultural inputs such as seeds, fertilizers, and pesticides to encourage farmers to use quality inputs and increase their crop yields."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training and Extension Services:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The government provides training and extension services to farmers to help them adopt modern and scientific farming practices and improve their productivity."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Agricultural Infrastructure Development",
+                      "bold": true
+                    },
+                    {
+                      "text": ": The government invests in the development of agricultural infrastructure such as irrigation facilities, rural roads, and markets to improve farmers' access to inputs and markets."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Crop Insurance: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "The government provides crop insurance to farmers to protect them from crop losses due to natural calamities, pests, and diseases."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial Assistance",
+                      "bold": true
+                    },
+                    {
+                      "text": ": The government provides financial assistance to farmers for the purchase of farm machinery and equipment, as well as for the development of farm infrastructure."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Krishi Mahotsav Yojana Gujarat is implemented through various activities and programs such as farmer meetings, soil testing, crop demonstrations, and training programs. The government also encourages farmers to adopt sustainable agricultural practices such as organic farming and use of renewable energy sources."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Krishi Mahotsav Yojana Gujarat has played a significant role in transforming the agricultural landscape of the state and has improved the livelihoods of farmers by increasing their crop yields and incomes."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Benefits",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Agriculture Scientists and officers are provided guidance to farmers about Scientific farming, Organic farming, Farm mechanization, Micro Irrigation, Crop Value addition and Agriculture related information as well as provided knowledge of Government Schemes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In addition, to provide free kit distribution to small farmers during Krushi Mahotsav."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exclusions",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individuals or entities that are not involved in farming or agriculture."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individuals or entities that do not hold any agricultural land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers who do not have a valid Aadhaar Card or have an Aadhaar Card that is not linked to their bank account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers who have defaulted on loans from banks or cooperative societies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers who have been found guilty of any criminal offence related to agriculture or farming."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "**Detailed** \nSome of the key features of the Krishi Mahotsav Yojana Gujarat are:\n\n   1. **Soil Health Card**: The government provides soil health cards to farmers to help them understand the nutrient status of their soil and take appropriate measures to improve soil fertility.   1. **Subsidized Inputs**: The government provides subsidies on various agricultural inputs such as seeds, fertilizers, and pesticides to encourage farmers to use quality inputs and increase their crop yields.   1. **Training and Extension Services:** The government provides training and extension services to farmers to help them adopt modern and scientific farming practices and improve their productivity.   1. **Agricultural Infrastructure Development**: The government invests in the development of agricultural infrastructure such as irrigation facilities, rural roads, and markets to improve farmers&amp;#39; access to inputs and markets.   1. **Crop Insurance:** The government provides crop insurance to farmers to protect them from crop losses due to natural calamities, pests, and diseases.   1. **Financial Assistance**: The government provides financial assistance to farmers for the purchase of farm machinery and equipment, as well as for the development of farm infrastructure.   1. The Krishi Mahotsav Yojana Gujarat is implemented through various activities and programs such as farmer meetings, soil testing, crop demonstrations, and training programs. The government also encourages farmers to adopt sustainable agricultural practices such as organic farming and use of renewable energy sources.\n   1. The Krishi Mahotsav Yojana Gujarat has played a significant role in transforming the agricultural landscape of the state and has improved the livelihoods of farmers by increasing their crop yields and incomes.\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "https://ikhedut.gujarat.gov.in/",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Farmers do not need to apply separately for the scheme. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The camps are organized at the district and taluka levels, and farmers can visit the camps to participate in the scheme."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Farmers can visit the camps organized by the government at the district and taluka levels. At the camps, experts and officials will provide education and training on modern farming techniques, and free inputs like seeds, fertilizers, and pesticides will be distributed to the farmers."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Eligibility**\n\n   1. All farmers and Female farmers of the state.\n   1. The scheme is available to all farmers in the state of Gujarat.\n   1. There are no restrictions based on caste, religion, or gender.\n   1. Farmers who are interested in learning about the latest agricultural practices and improving their crop yields are encouraged to participate.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Eligibility",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All farmers and Female farmers of the state."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The scheme is available to all farmers in the state of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "There are no restrictions based on caste, religion, or gender."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers who are interested in learning about the latest agricultural practices and improving their crop yields are encouraged to participate."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "km"
+}

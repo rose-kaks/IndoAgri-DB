@@ -1,0 +1,367 @@
+{
+  "_id": "68919ab44eb6c1070802c524",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Fish Production",
+        "Fish Farming",
+        "Fishermen",
+        "Fish Farmer",
+        "Training Of Scheduled Caste Trainees"
+      ],
+      "schemeName": "Assistance to Scheduled Castes for Fisheries: Training of Scheduled Caste trainees Gujarat",
+      "schemeShortTitle": "ASCFTSCTGUJ",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "ascftsctguj",
+      "briefDescription": "The scheme aims to increase fish production and provide employment opportunities to Scheduled Caste (SC) people engaged in inland fisheries activities."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=Bu2wc90IXRdJKrcfHJ/9ew==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Assistance to Scheduled Castes for Fisheries&quot; with the component of &quot;Training of Scheduled Caste Trainees&quot; introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to increase fish production and provide employment opportunities to Scheduled Caste (SC) people engaged in inland fisheries activities. Through this scheme, financial assistance in the form of a stipend is provided to SC beneficiaries undergoing fisheries training to enhance their knowledge and skills. The scheme is implemented by the Commissioner of Fisheries, Government of Gujarat.\n**Objectives:**\n\n- To increase fish production by rearing fish in reservoirs and provide employment to scheduled caste (SC) people involved in inland fisheries activities.\n- To boost fish farming or fishing activities in freshwater bodies by scheduled caste (SC) fish farmers and fishermen.\n- Fishing in reservoirs, aquaculture in ponds, and catch from rivers increase fish production and boost inland fisheries through scheduled caste (SC) fish farmers and fishermen.\n- The main objective is to provide employment opportunities to Scheduled Caste fishermen in the state and increase fish production.\n\n<br>\n\n",
+      "benefits_md": "\n1. The trainee is paid a stipend of ₹1,250/- after completing ten days of training.\n1. The stipend is paid at the rate of ₹125/- per day.\n\n<br>\n\n> **Training Duration:** 10 days of fisheries training.\n\n> **Frequency of Disbursement:** Once in a lifetime.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to increase fish production and provide employment opportunities to Scheduled Caste (SC) people engaged in inland fisheries activities.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Assistance to Scheduled Castes for Fisheries\" with the component of \"Training of Scheduled Caste Trainees\" introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to increase fish production and provide employment opportunities to Scheduled Caste (SC) people engaged in inland fisheries activities. Through this scheme, financial assistance in the form of a stipend is provided to SC beneficiaries undergoing fisheries training to enhance their knowledge and skills. The scheme is implemented by the Commissioner of Fisheries, Government of Gujarat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objectives:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To increase fish production by rearing fish in reservoirs and provide employment to scheduled caste (SC) people involved in inland fisheries activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To boost fish farming or fishing activities in freshwater bodies by scheduled caste (SC) fish farmers and fishermen."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fishing in reservoirs, aquaculture in ponds, and catch from rivers increase fish production and boost inland fisheries through scheduled caste (SC) fish farmers and fishermen."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The main objective is to provide employment opportunities to Scheduled Caste fishermen in the state and increase fish production."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The trainee is paid a stipend of ₹1,250/- after completing ten days of training."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The stipend is paid at the rate of ₹125/- per day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Training Duration: ",
+              "bold": true
+            },
+            {
+              "text": "10 days of fisheries training."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Frequency of Disbursement:",
+              "bold": true
+            },
+            {
+              "text": " Once in a lifetime."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1:"
+              },
+              {
+                "text": " Visit the Nearest District Fisheries Office in your respective district."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Collect the Prescribed Application Form for the training component, i.e, \"Training of Scheduled Caste Trainees\" under Assistance to Scheduled Castes for Fisheries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill the Application Form completely with accurate details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Attach the Required Documents, including identity proof, SC certificate, and bank account proof."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the Application in person to the concerned official at the District Fisheries Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the Nearest District Fisheries Office in your respective district.\n**Step 2:** Collect the Prescribed Application Form for the training component, i.e, &quot;Training of Scheduled Caste Trainees&quot; under Assistance to Scheduled Castes for Fisheries.\n**Step 3:** Fill the Application Form completely with accurate details.\n**Step 4:** Attach the Required Documents, including identity proof, SC certificate, and bank account proof.\n**Step 5:** Submit the Application in person to the concerned official at the District Fisheries Office.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should belong to the Scheduled Caste (SC) community.\n1. The applicant should be above 18 years of age.\n1. The applicant should be involved in inland fisheries activities.\n1. The applicant can be an individual, a society, a self-help group, an association, a reservoir monopoly, or a private unit.\n1. The applicant must have a bank account in their own name.\n1. The applicant must have an Aadhar Card/Voter ID/Ration Card/Passport as proof of identity.\n\n<br>\n\n> **Preference/Reservation:**\n\nThe scheme specifically benefits Scheduled Caste fishermen under the inland fisheries scheme.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to the Scheduled Caste (SC) community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be above 18 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be involved in inland fisheries activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant can be an individual, a society, a self-help group, an association, a reservoir monopoly, or a private unit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a bank account in their own name."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have an Aadhar Card/Voter ID/Ration Card/Passport as proof of identity."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Preference/Reservation:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme specifically benefits Scheduled Caste fishermen under the inland fisheries scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ascftsctguj"
+}

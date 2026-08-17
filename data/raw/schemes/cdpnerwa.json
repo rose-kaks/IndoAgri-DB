@@ -1,0 +1,617 @@
+{
+  "_id": "654dcd384407b32364098993",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "Coffee Development Programme in North Eastern Region: Water Augmentation",
+      "schemeShortTitle": "CDPNER:WA",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "slug": "cdpnerwa",
+      "briefDescription": "The scheme \"Coffee Development Programme in North Eastern Region: Water Augmentation\" aims to improve the productivity and quality of coffee by facilitating the creation of infrastructure for water augmentation for irrigation and wet processing of coffee."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines, Application And Declaration Form",
+          "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+        },
+        {
+          "title": "Grower's Registration (UMANG)",
+          "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://coffeeboard.gov.in/contact-us.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Coffee Development Programme in North Eastern Region: Water Augmentation&quot; is a Sub-Component of the Scheme &quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to improve the productivity and quality of coffee by facilitating the creation of infrastructure for water augmentation for irrigation and wet processing of coffee.\n",
+      "benefits_md": "**Subsidy Details**\n\n- The eligible subsidy for water harvesting structures and sprinkler units is 75% of the unit cost, capped at a maximum ceiling of ₹1,25,000 for all related activities combined.\n- For below-ground water storage tanks, the subsidy is based on the lower value between dimension and unit cost applicable to the size of the holding.\n- For above-ground water storage tanks, the subsidy is based on the lower value between the actual cost or the unit cost applicable to the below-ground water tank.\n\n**Subsidy Availability**\nGrowers can claim subsidies for water harvesting structures and irrigation equipment either simultaneously or at different times.\n<br>\n\n**Unit Cost and Subsidy for Water Harvesting Structures**\n**Size of Holding****Dimension of Water Harvesting Structure****Total Unit Cost (₹)****Subsidy Amount**Up to 2 Ha.30&amp;amp;amp;#39; x 30&amp;amp;amp;#39; x 10&amp;amp;amp;#39; (9000 Cft.)₹43,000.0075% of Unit Cost2 Ha to 4 Ha &amp;amp;amp;amp; above43&amp;amp;amp;#39; x 43&amp;amp;amp;#39; x 10&amp;amp;amp;#39; (18490 Cft.)₹89,000.0075% of Unit Cost**Unit Cost and Subsidy for Sprinkler/Drip Unit**\n**Size of Holding****Total Unit Cost (₹)****Subsidy Amount**Up to 1.00 Ha.\t₹60,000\t75% of the Unit Cost1.00 to 2.00 Ha. &amp;amp;amp;amp; above\t₹1,20,000\t75% of the Unit Cost<br>\n\n",
+      "briefDescription": "The scheme \"Coffee Development Programme in North Eastern Region: Water Augmentation\" aims to improve the productivity and quality of coffee by facilitating the creation of infrastructure for water augmentation for irrigation and wet processing of coffee.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Coffee Development Programme in North Eastern Region: Water Augmentation\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to improve the productivity and quality of coffee by facilitating the creation of infrastructure for water augmentation for irrigation and wet processing of coffee."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy Details",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The eligible subsidy for water harvesting structures and sprinkler units is 75% of the unit cost, capped at a maximum ceiling of ₹1,25,000 for all related activities combined."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For below-ground water storage tanks, the subsidy is based on the lower value between dimension and unit cost applicable to the size of the holding."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For above-ground water storage tanks, the subsidy is based on the lower value between the actual cost or the unit cost applicable to the below-ground water tank."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Subsidy Availability"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Growers can claim subsidies for water harvesting structures and irrigation equipment either simultaneously or at different times."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Unit Cost and Subsidy for Water Harvesting Structures"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Size of Holding",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Dimension of Water Harvesting Structure",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Total Unit Cost (₹)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Subsidy Amount",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Up to 2 Ha."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "30' x 30' x 10' (9000 Cft.)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹43,000.00"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75% of Unit Cost"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2 Ha to 4 Ha & above"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "43' x 43' x 10' (18490 Cft.)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹89,000.00"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75% of Unit Cost"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unit Cost and Subsidy for Sprinkler/Drip Unit",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Size of Holding",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Total Unit Cost (₹)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Subsidy Amount",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Up to 1.00 Ha.\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹60,000\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75% of the Unit Cost"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.00 to 2.00 Ha. & above\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,20,000\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table",
+                  "children": [
+                    {
+                      "type": "table_row",
+                      "children": [
+                        {
+                          "type": "table_cell",
+                          "children": [
+                            {
+                              "text": "75% of the Unit Cost"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Procedure for Claiming Subsidy",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Submission of Required Documents",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The beneficiary/applicant submits the necessary documents in the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " after completing the relevant activity."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Document Scrutiny and Field Inspection",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Extension Officer examines the submitted documents and conducts a field inspection. They forward the application, physical verification report, and all relevant documents to the concerned Joint Director (Extension) or Deputy Director (Extension), either recommending eligible subsidy release or rejection."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Review and Recommendation by Joint Director / Deputy Director",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Joint Director (Extension) or Deputy Director (Extension) thoroughly scrutinizes the documents, ensuring the admissibility of the claim. They determine and approve the applicable subsidy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Release of Subsidy",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Upon satisfying the claim's admissibility, the Joint Director (Extension) or Deputy Director (Extension) facilitates the release of the eligible subsidy to the beneficiary through Electronic Fund Transfer (EFT)."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Procedure for Claiming Subsidy**\n\n**Step 1: Submission of Required Documents**\nThe beneficiary/applicant submits the necessary documents in the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) after completing the relevant activity.\n**Step 2: Document Scrutiny and Field Inspection**\nThe Extension Officer examines the submitted documents and conducts a field inspection. They forward the application, physical verification report, and all relevant documents to the concerned Joint Director (Extension) or Deputy Director (Extension), either recommending eligible subsidy release or rejection.\n**Step 3: Review and Recommendation by Joint Director / Deputy Director**\nThe Joint Director (Extension) or Deputy Director (Extension) thoroughly scrutinizes the documents, ensuring the admissibility of the claim. They determine and approve the applicable subsidy.\n**Step 4: Release of Subsidy**\nUpon satisfying the claim&#39;s admissibility, the Joint Director (Extension) or Deputy Director (Extension) facilitates the release of the eligible subsidy to the beneficiary through Electronic Fund Transfer (EFT).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a tribal grower.\n1. The applicant should not have received a subsidy for Water Augmentation during the XII plan period.\n1. The land records must be in the beneficiary&#39;s name.\n1. These records should be certified by the Village Authority/State Government/Competent Authority.\n\n**Eligible Activities**\nInstallation of the water storage tank, open well, and irrigation equipment (sprinkler/drip) to enhance production, productivity, and quality.\n**Location Specifications**\n\n- Water storage tank construction can be above or below ground level.\n- Water augmentation structures must be on the estate or within its vicinity.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a tribal grower."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have received a subsidy for Water Augmentation during the XII plan period."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The land records must be in the beneficiary's name."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "These records should be certified by the Village Authority/State Government/Competent Authority."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligible Activities",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Installation of the water storage tank, open well, and irrigation equipment (sprinkler/drip) to enhance production, productivity, and quality."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Location Specifications",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Water storage tank construction can be above or below ground level."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Water augmentation structures must be on the estate or within its vicinity."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cdpnerwa"
+}

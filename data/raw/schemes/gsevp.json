@@ -1,0 +1,493 @@
+{
+  "_id": "68b846cc8d517d026dac4af1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Vehicle",
+        "Manufacturing",
+        "Subsidy",
+        "Infrastructure",
+        "Transport",
+        "Technology",
+        "Environment"
+      ],
+      "schemeName": "Gujarat State Electric Vehicle Policy",
+      "schemeShortTitle": "GSEVP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Public transport and private vehicles",
+          "label": "Public transport and private vehicles"
+        },
+        {
+          "value": "Roads and road transport",
+          "label": "Roads and road transport"
+        },
+        {
+          "value": "Climate change",
+          "label": "Climate change"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444459,
+        "label": "Ports and Transport Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "gsevp",
+      "briefDescription": "The policy aims to transition Gujarat's transportation sector towards electric mobility and establish the state as a manufacturing hub for electric vehicles. It provides subsidies for electric vehicle purchases and charging infrastructure development to promote sustainable transportation."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.nsws.gov.in/s3fs/2021-08/Gujarat%20State%20Electric%20Vehicle%20Policy%202021.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The policy aims to transition Gujarat's transportation sector towards electric mobility and establish the state as a manufacturing hub for electric vehicles. It provides subsidies for electric vehicle purchases and charging infrastructure development to promote sustainable transportation.",
+      "detailedDescription_md": "The &quot;Gujarat State Electric Vehicle Policy 2021&quot; by the Ports and Transport Department, Government of Gujarat, aims to transition the state&#39;s transportation sector towards electric mobility, make Gujarat a manufacturing hub for electric vehicles and ancillary equipment, encourage start-ups and investment in the field of electric mobility, and improve environmental quality by reducing air pollution. The policy provides capital subsidies up to ₹10,000/- per kilowatt hour for electric vehicle purchases and 25% capital subsidy on equipment for charging infrastructure limited up to ₹10,00,000/- per station for the first 250 commercial public electric vehicle charging stations. The policy is implemented by the Ports and Transport Department as the nodal department with Energy and Petrochemicals Department handling charging station subsidies.\n<br>\n\n",
+      "benefits_md": "> ***Electric Vehicle Purchase Incentives***\n\n\n- 2-Wheeler: ₹10,000/- per kilowatt hour (maximum ex-factory price ₹1,50,000/-)\n- 3-Wheeler: ₹10,000/- per kilowatt hour (maximum ex-factory price ₹5,00,000/-)\n- 4-Wheeler: ₹10,000/- per kilowatt hour (maximum ex-factory price ₹15,00,000/-)\n\n> ***Charging Infrastructure Incentives***\n\n\n- Capital Subsidy: 25% on equipment/machinery limited up to ₹10,00,000/- per station\n- Electricity Duty Exemption: 100% exemption for electric vehicle charging stations during policy period\n- Eligibility: First 250 commercial public electric vehicle charging stations\n\n> ***Manufacturing Benefits***\n\nAll provisions of Gujarat Industrial Policy-2020 applicable to electric vehicle manufacturing sector\nSupport for setting up or upgrading facilities for electric vehicle manufacturing\n> ***Conditions***\n\n_*The beneficiary can avail subsidy under only one state government scheme and cannot claim subsidy under multiple schemes._\n_*Maximum subsidy amount is limited to maximum battery capacity of the vehicle._\n_*Maximum subsidy should not exceed 40% of ex-factory price of the vehicle._\n_*The amount whichever is less will be given as subsidy to the beneficiary._\n_*Charging stations must adhere to Ministry of Power guidelines and standards dated 01.10.2019._\n_*Charging station subsidy available only to those who have not availed subsidies under any other Government of India schemes._\n<br>\n\n",
+      "exclusions_md": "Agriculture connection holders cannot charge electric vehicles from existing connections under existing tariff.\n<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Gujarat State Electric Vehicle Policy 2021\" by the Ports and Transport Department, Government of Gujarat, aims to transition the state's transportation sector towards electric mobility, make Gujarat a manufacturing hub for electric vehicles and ancillary equipment, encourage start-ups and investment in the field of electric mobility, and improve environmental quality by reducing air pollution. The policy provides capital subsidies up to ₹10,000/- per kilowatt hour for electric vehicle purchases and 25% capital subsidy on equipment for charging infrastructure limited up to ₹10,00,000/- per station for the first 250 commercial public electric vehicle charging stations. The policy is implemented by the Ports and Transport Department as the nodal department with Energy and Petrochemicals Department handling charging station subsidies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Electric Vehicle Purchase Incentives",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "2-Wheeler: ₹10,000/- per kilowatt hour (maximum ex-factory price ₹1,50,000/-)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "3-Wheeler: ₹10,000/- per kilowatt hour (maximum ex-factory price ₹5,00,000/-)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "4-Wheeler: ₹10,000/- per kilowatt hour (maximum ex-factory price ₹15,00,000/-)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Charging Infrastructure Incentives",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Capital Subsidy: 25% on equipment/machinery limited up to ₹10,00,000/- per station"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Electricity Duty Exemption: 100% exemption for electric vehicle charging stations during policy period"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Eligibility: First 250 commercial public electric vehicle charging stations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Manufacturing Benefits",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All provisions of Gujarat Industrial Policy-2020 applicable to electric vehicle manufacturing sector"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Support for setting up or upgrading facilities for electric vehicle manufacturing"
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*The beneficiary can avail subsidy under only one state government scheme and cannot claim subsidy under multiple schemes.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Maximum subsidy amount is limited to maximum battery capacity of the vehicle.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Maximum subsidy should not exceed 40% of ex-factory price of the vehicle.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*The amount whichever is less will be given as subsidy to the beneficiary.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Charging stations must adhere to Ministry of Power guidelines and standards dated 01.10.2019.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Charging station subsidy available only to those who have not availed subsidies under any other Government of India schemes.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Agriculture connection holders cannot charge electric vehicles from existing connections under existing tariff."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon authenticating the document for the purchase of the vehicle, the subsidy shall be disbursed directly to the customer via DBT mode from the State Transport Department."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The subsidy amount will be calculated based on kilowatt-hour capacity for vehicles or a 25% capital subsidy for charging infrastructure, subject to maximum limits and eligibility conditions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- Upon authenticating the document for the purchase of the vehicle, the subsidy shall be disbursed directly to the customer via DBT mode from the State Transport Department.\n- The subsidy amount will be calculated based on kilowatt-hour capacity for vehicles or a 25% capital subsidy for charging infrastructure, subject to maximum limits and eligibility conditions.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "##### ***Electric Vehicle Purchase Subsidy***\n\n- The applicant must purchase electric vehicles that have taken subsidy under Government of India&#39;s Faster Adoption and Manufacturing of Hybrid and Electric Vehicles in India Scheme dated 8th March 2019 and any amendments thereafter.\n- The applicant must ensure the vehicle&#39;s ex-factory price falls within the prescribed threshold limits for each segment.\n- The applicant must not have claimed subsidy under any other state government scheme run by different departments.\n- The applicant must authenticate documents for vehicle purchase to receive Direct Benefit Transfer.\n\n##### ***Charging Infrastructure Subsidy***\n\n- The applicant must set up commercial public electric vehicle charging stations for 2-wheelers, 3-wheelers, and 4-wheelers.\n- The applicant must not have availed subsidies under any other promotional schemes under Government of India policies or schemes.\n- The applicant must ensure charging stations meet guidelines and standards of Ministry of Power Circular dated 1st October 2019 and any amendments thereafter.\n- The applicant must be among the first 250 commercial public electric vehicle charging station developers.\n\n##### ***Manufacturing Incentives***\n\n- The applicant must be involved in manufacturing electric vehicles and their components.\n- The applicant must comply with provisions of Gujarat Industrial Policy-2020 and subsequent applicable policies.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Electric Vehicle Purchase Subsidy",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must purchase electric vehicles that have taken subsidy under Government of India's Faster Adoption and Manufacturing of Hybrid and Electric Vehicles in India Scheme dated 8th March 2019 and any amendments thereafter."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must ensure the vehicle's ex-factory price falls within the prescribed threshold limits for each segment."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not have claimed subsidy under any other state government scheme run by different departments."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must authenticate documents for vehicle purchase to receive Direct Benefit Transfer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Charging Infrastructure Subsidy",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must set up commercial public electric vehicle charging stations for 2-wheelers, 3-wheelers, and 4-wheelers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not have availed subsidies under any other promotional schemes under Government of India policies or schemes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must ensure charging stations meet guidelines and standards of Ministry of Power Circular dated 1st October 2019 and any amendments thereafter."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be among the first 250 commercial public electric vehicle charging station developers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Manufacturing Incentives",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be involved in manufacturing electric vehicles and their components."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must comply with provisions of Gujarat Industrial Policy-2020 and subsequent applicable policies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gsevp"
+}

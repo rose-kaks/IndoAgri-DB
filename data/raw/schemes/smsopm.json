@@ -1,0 +1,295 @@
+{
+  "_id": "66ecfd350d644223a86b0b86",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Seed Multiplication",
+        "Paddy",
+        "Crops"
+      ],
+      "schemeName": "Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds and Cotton",
+      "schemeShortTitle": "SMSOPM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 3333332,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "smsopm",
+      "briefDescription": "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” offers subsidies to farmers to produce seeds under contract with the Department of Agriculture.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/6843"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” offers subsidies to farmers to produce seeds under contract with the Department of Agriculture.\n",
+      "detailedDescription_md": "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers subsidies to farmers to produce seeds under contract with the Department of Agriculture. Farmers receive training, source seeds, and guidelines for maintaining seed quality. After quality checks and processing, farmers are paid based on the quality of seeds produced. A 90% Minimum Support Price payment is made during processing, with the remainder settled after quality certification.\n",
+      "benefits_md": "\n  - **Premium:** On seeds ranges from ₹1/- to ₹3/- per kg.  - **Foundation Class Seeds:** The premium is between 7.5% to 30% over the Local Market Rate per kg, depending on the type of oil seed.  - **For Certified Class Seeds:** The premium is between 5% to 20% over the Local Market Rate per kg, based on the specific oil seed.  - **Training:** The farmer so desirous of enrolling himself/herself will be given a training by the authorities concerned at the beginning of each year\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Seed Multiplication Scheme of Paddy, Millets, Pulses, Oilseeds, and Cotton” by the Agriculture-Farmers Welfare Department, Tamil Nadu, offers subsidies to farmers to produce seeds under contract with the Department of Agriculture. Farmers receive training, source seeds, and guidelines for maintaining seed quality. After quality checks and processing, farmers are paid based on the quality of seeds produced. A 90% Minimum Support Price payment is made during processing, with the remainder settled after quality certification."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Premium:",
+                      "bold": true
+                    },
+                    {
+                      "text": " On seeds ranges from ₹1/- to ₹3/- per kg."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Foundation Class Seeds:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The premium is between 7.5% to 30% over the Local Market Rate per kg, depending on the type of oil seed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For Certified Class Seeds:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The premium is between 5% to 20% over the Local Market Rate per kg, based on the specific oil seed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training:",
+                      "bold": true
+                    },
+                    {
+                      "text": " The farmer so desirous of enrolling himself/herself will be given a training by the authorities concerned at the beginning of each year"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Collect the application form from the nearest Agricultural Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the form to the concerned office:"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Village Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the application to the Assistant Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Block Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "District Level: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit to the Joint Director of Agriculture."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The beneficiary should be a Farmer.\n- The beneficiary should be a resident of Tamil Nadu.\n- The beneficiary should produce and supply seeds for the Department of Agriculture on a contract basis.\n- The seed Farms should be registered by the Seed Producer viz., the Assistant Director of Agriculture of the respective Blocks.\n- Field Run Produce has to satisfy the standards of physical/genetic purity, moisture levels and germination percentage as prescribed in the Certification standards.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be a Farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be a resident of Tamil Nadu."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should produce and supply seeds for the Department of Agriculture on a contract basis."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The seed Farms should be registered by the Seed Producer viz., the Assistant Director of Agriculture of the respective Blocks."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Field Run Produce has to satisfy the standards of physical/genetic purity, moisture levels and germination percentage as prescribed in the Certification standards."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "smsopm"
+}

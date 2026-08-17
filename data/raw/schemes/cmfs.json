@@ -1,0 +1,1082 @@
+{
+  "_id": "68459ec950c110b1567df26e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Fisheries",
+        "Fish",
+        "Fish Farming",
+        "Training"
+      ],
+      "schemeName": "Mukhyamantri Matsya Sampada Yojana",
+      "schemeShortTitle": "MMSYUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000011,
+        "label": "Department Of Fisheries"
+      },
+      "slug": "cmfs",
+      "briefDescription": "The scheme aims to enhance fish production, generate employment opportunities, and improve the livelihoods of fish farmers by providing free training, field visits, and seminars on various fisheries-related activities."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 203)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Mukhyamantri Matsya Sampada Yojana” was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to enhance fish production, generate employment opportunities, and improve the livelihoods of fish farmers by providing free training, field visits, and seminars on various fisheries-related activities.\n<br>\n\n",
+      "benefits_md": "\n  - Under this scheme, assistance is provided to small and large farmers/women engaged in various activities or items related to the fisheries sector, as mentioned in the table below**.**\n**Activity/Item****Unit Cost****Grant (General Category)****Grant (Women / SC / ST)****Maximum Limit/ Grant Limit**Intensive Fish Farming₹4,000/- (per 1,000 fingerlings)50% of the cost price50% of the cost priceFor a maximum of 2 years as per departmental standards as determined by scientific method of fisheries.Trout Rearing Unit₹90,000/- per unit₹45,000/-₹54,000/-Maximum 2 units per individual and 4 or 6 units per committee/group etc.Establishment of Small RAS Unit (1 tank of 50 sq. meter) / Biofloc Culture System (3 tanks of 4-meter diameter &amp;amp;amp;amp; 1.5-meter height)₹4,50,000/- per unit₹2,25,000/-₹2,70,000/-Maximum 2 units for individuals or 4 units for committee/group etc.Angling Beat Development₹2,10,000/- per beat₹1,05,000/-₹1,26,000/-Facility will be allowed only once for development of 1 beatInterest Subvention for FIDF Scheme of Central GovernmentActual approved project costInterest subvention up to 2%Interest subvention up to 2%  Interest subvention up to 2% on the approved item wise actual cost under FIDF Scheme of Central Government\nInsurance of Infrastructure and LivestockAs per premium amount90% according to the premium amount90% according to the premium amount90% according to the premium amountSolar Power Support System for Aquaculture₹15 lakh per unit₹7.5 lakh₹9 lakhMaximum 1 unit per individual or committee/group etc.Matsya Saheli (for women or their committee/group)₹10 lakh (based on DPR)                  _₹6 lakhMaximum 1 unit per beneficiary per blockCluster based fish farming in hilly areas (Pond Construction) ₹1,000/- per cubic meter₹500/- per cubic meter₹600/- per cubic meterMaximum 500 cubic meter for Individual and 1000 cubic meter for committee/group, etc.Pond construction in plain areas₹11 lakh per hectare₹5.5 lakh ₹6.6 lakhMaximum 2 hectares for individual and 10 hectares for committee/group etc.Pond improvement in hilly areas₹575/- per cubic meter₹287.50/- per cubic meter₹345/- per cubic meter  Maximum 2 units for individual and 5 units for committee/group etc.\nImprovement of private/village community ponds in the plain area₹7.5 lakh per hectare₹3.75 lakh per hectare₹4.5 lakh per hectareMaximum 2 hectares for individual and 5 hectares for committee/group/lease pond etc.Integrated Fisheries (Mountain Area)₹2 lakh per unit₹1 lakh per unit₹1.2 lakh per unitMaximum 1 unit for individual, 2 units for lease pond and 4 units for committee/group etc.Integrated Fisheries (Plains)₹7 lakh per unit₹3.5 lakh per unit₹4.2 lakh per unitMaximum 1 unit for individual, 2 units for lease pond and 4 units for committee/group etc.Fish Feed DistributionAs per market rate (decided by departmental committee)50% of the cost price50% of the cost priceAs per departmental standards determined by scientific method of fisheriesOther input materials (nets, handnets, hapas, minikits)As per market rate (decided by departmental committee)50% of the cost price50% of the cost priceMaximum 1 unit for individual and 2 units for committee/group etc.\n  - **Training, field visits, and seminars are provided to fish farmers free of cost.**\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to enhance fish production, generate employment opportunities, and improve the livelihoods of fish farmers by providing free training, field visits, and seminars on various fisheries-related activities.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Mukhyamantri Matsya Sampada Yojana” was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to enhance fish production, generate employment opportunities, and improve the livelihoods of fish farmers by providing free training, field visits, and seminars on various fisheries-related activities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under this scheme, assistance is provided to small and large farmers/women engaged in various activities or items related to the fisheries sector, as mentioned in the table below"
+                    },
+                    {
+                      "bold": true,
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Activity/Item",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Unit Cost",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Grant (General Category)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Grant (Women / SC / ST)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum Limit/ Grant Limit",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Intensive Fish Farming"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/- (per 1,000 fingerlings)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the cost price"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the cost price"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "For a maximum of 2 years as per departmental standards as determined by scientific method of fisheries."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Trout Rearing Unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹90,000/- per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹45,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹54,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 2 units per individual and 4 or 6 units per committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Establishment of Small RAS Unit (1 tank of 50 sq. meter) / Biofloc Culture System (3 tanks of 4-meter diameter & 1.5-meter height)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,50,000/- per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,25,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,70,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 2 units for individuals or 4 units for committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Angling Beat Development"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2,10,000/- per beat"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,05,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,26,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Facility will be allowed only once for development of 1 beat"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Interest Subvention for FIDF Scheme of Central Government"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Actual approved project cost"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Interest subvention up to 2%"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Interest subvention up to 2%"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "  Interest subvention up to 2% on the approved item wise actual cost under FIDF Scheme of Central Government"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Insurance of Infrastructure and Livestock"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "As per premium amount"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "90% according to the premium amount"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "90% according to the premium amount"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "90% according to the premium amount"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Solar Power Support System for Aquaculture"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹15 lakh per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹7.5 lakh"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹9 lakh"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 1 unit per individual or committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Matsya Saheli (for women or their committee/group)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹10 lakh (based on DPR)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "                  _"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹6 lakh"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 1 unit per beneficiary per block"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Cluster based fish farming in hilly areas (Pond Construction) "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,000/- per cubic meter"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹500/- per cubic meter"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹600/- per cubic meter"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 500 cubic meter for Individual and 1000 cubic meter for committee/group, etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pond construction in plain areas"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹11 lakh per hectare"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5.5 lakh "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹6.6 lakh"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 2 hectares for individual and 10 hectares for committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Pond improvement in hilly areas"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹575/- per cubic meter"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹287.50/- per cubic meter"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹345/- per cubic meter"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "  Maximum 2 units for individual and 5 units for committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Improvement of private/village community ponds in the plain area"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹7.5 lakh per hectare"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3.75 lakh per hectare"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4.5 lakh per hectare"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 2 hectares for individual and 5 hectares for committee/group/lease pond etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Integrated Fisheries (Mountain Area)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹2 lakh per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1 lakh per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1.2 lakh per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 1 unit for individual, 2 units for lease pond and 4 units for committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Integrated Fisheries (Plains)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹7 lakh per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3.5 lakh per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4.2 lakh per unit"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 1 unit for individual, 2 units for lease pond and 4 units for committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Fish Feed Distribution"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "As per market rate (decided by departmental committee)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the cost price"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the cost price"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "As per departmental standards determined by scientific method of fisheries"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Other input materials (nets, handnets, hapas, minikits)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "As per market rate (decided by departmental committee)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the cost price"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of the cost price"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Maximum 1 unit for individual and 2 units for committee/group etc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training, field visits, and seminars are provided to fish farmers free of cost.",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To avail the benefits of the scheme, eligible beneficiaries must submit the application form either at the office of the Assistant Director of Fisheries / District Fisheries In-Charge at the district level or online through the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://eservices.uk.gov.in/",
+                        "children": [
+                          {
+                            "text": "Apunni Sarkar Portal"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The application form must be accompanied by the Aadhaar card, land Khasra-Khatauni, permanent residence certificate, caste certificate, bank account details, and mobile number."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Beneficiaries under the scheme will be selected on a priority basis as per the guidelines of the scheme, following a first-come, first-served basis."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After submitting the application, a survey is conducted by fisheries inspectors or field personnel, and a proposal is prepared in collaboration with the beneficiary. Once the proposal is finalized, it is approved by the relevant district officer. Field personnel then supervise the work and provide technical assistance to ensure its completion, after which the subsidy is directly credited to the beneficiary’s account via DBT."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - To avail the benefits of the scheme, eligible beneficiaries must submit the application form either at the office of the Assistant Director of Fisheries / District Fisheries In-Charge at the district level or online through the [Apunni Sarkar Portal](https://eservices.uk.gov.in/).  - The application form must be accompanied by the Aadhaar card, land Khasra-Khatauni, permanent residence certificate, caste certificate, bank account details, and mobile number.\n  - Beneficiaries under the scheme will be selected on a priority basis as per the guidelines of the scheme, following a first-come, first-served basis.\n  - After submitting the application, a survey is conducted by fisheries inspectors or field personnel, and a proposal is prepared in collaboration with the beneficiary. Once the proposal is finalized, it is approved by the relevant district officer. Field personnel then supervise the work and provide technical assistance to ensure its completion, after which the subsidy is directly credited to the beneficiary’s account via DBT.\n\n<br>\n\n"
+      },
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The eligible beneficiaries must submit the application form at the office of the Assistant Director of Fisheries / District Fisheries In-Charge at the district level along with all the necessary documents."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "The eligible beneficiaries must submit the application form at the office of the Assistant Director of Fisheries / District Fisheries In-Charge at the district level along with all the necessary documents.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant should have availability of land and a water supply source or should already be engaged in fish farming.\n1. All individuals/applicants belonging to any caste category in Uttarakhand are eligible to avail the benefits under this scheme.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have availability of land and a water supply source or should already be engaged in fish farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All individuals/applicants belonging to any caste category in Uttarakhand are eligible to avail the benefits under this scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmfs"
+}

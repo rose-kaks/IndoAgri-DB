@@ -1,0 +1,556 @@
+{
+  "_id": "68d357dc3f02a4543696eea5",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Youth",
+        "Professional",
+        "Fellowship",
+        "Rural",
+        "Training"
+      ],
+      "schemeName": "Prime Minister’s Rural Development Fellows Scheme",
+      "schemeShortTitle": "PMRDFS",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Employment services and jobs",
+          "label": "Employment services and jobs"
+        },
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        },
+        {
+          "value": "Academic qualification Up-Gradation",
+          "label": "Academic qualification Up-Gradation"
+        },
+        {
+          "value": "Voctional education",
+          "label": "Voctional education"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 487,
+        "label": "Ministry Of Rural Development"
+      },
+      "nodalDepartmentName": {
+        "value": 505,
+        "label": "Department of Rural Development"
+      },
+      "slug": "pmrdfs",
+      "briefDescription": "The scheme aims to provide short term catalytic support to the District Administration in backward districts to improve programme delivery and simultaneously develop a cadre of Development Facilitators. Fellows receive professional experience, structured learning, and a monthly stipend."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cdn.s3waas.gov.in/s330ef30b64204a3088a26bc2e6ecf7602/uploads/2018/11/2018111655-1.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Prime Minister’s Rural Development Fellows Scheme&quot; by the Department of Rural Development, Ministry of Rural Development, Government of India, aims to provide a short-term work opportunity for young women and men who possess academic or professional expertise that will serve the district administration in improving programme delivery and interface with the marginalized section of the population, thereby aiming to reduce developmental and governance deficits. The scheme provides structured learning and hands-on professional experience in rural development and poverty reduction, offering Fellows opportunities to act as Development Facilitators and assist District Administration, particularly in backward districts, while participating in a post-graduate degree programme through distance learning and contact sessions, leading to a post-graduate degree in Development Practice.\n<br>\n\n",
+      "benefits_md": "##### ***Stipend Package***\n\n- The Fellow shall be entitled to a consolidated stipend package of ₹50,000/- (Rupees Fifty thousand only) per month during the orientation period.\n- The Fellow shall be entitled to ₹75,000/- (Rupees Seventy Five Thousand only) per month during the first year of the Fellowship (post-orientation).\n- The Fellow shall receive a 10% increment during the second year, subject to satisfactory performance.\n- This package is deemed to cover the Fellow’s honorarium, boarding and lodging expenses during orientation, accommodation/house rent during the rest of the Fellowship period, health insurance, life and disability insurance cover, and any other contingency expenses.\n- Travel reimbursement will be based on actual costs and restricted to AC-II tier train fare by the shortest route or equivalent, plus local transport cost. Women Fellows with children below five years are allowed the travel cost of a care-giver if the care-giver accompanies the Fellow with her child.\n\n##### ***Other Benefits***\n\n- Participation in a post graduate degree programme through distance learning and contact sessions leading to a post graduate degree in Development Practice.\n- Award of a Fellowship Certificate and an appropriate post graduate degree in Development Practice upon satisfactory completion of engagement and course requirements.\n- Office facilities made available by the District Collector, including suitable space, a computer/laptop, and internet connectivity free of charge.\n- Provision of suitable modes of transport by District administration while travelling within the district for regular work.\n\n##### ***Disbursement of Stipend***\n\n- During the orientation programme, the stipend shall be paid by the National Rural Livelihood Promotion Society through the Programme Mentor.\n- Post-placement, the National Rural Livelihood Promotion Society shall pay the monthly stipend to the Fellows by providing budgetary support to the State Rural Livelihood Mission society.\n- The State Rural Livelihood Mission society shall make direct deposits into the bank account of each Fellow immediately upon confirming the attendance of the Fellow from the District Collector at the end of the month.\n- The second-year increment is subject to the Fellow’s satisfactory performance as determined by the National Rural Livelihood Promotion Society in consultation with the Programme Mentor.\n\n> ***Conditions***\n\n_*It is mandatory for the Fellows to purchase suitable health insurance and life and disability insurance coverage for the entire duration of the Fellowship, including the orientation period._\n_*The Fellow shall not take up any type of employment with any other person, firm, or agency during the tenure of the Fellowship._\n_*On successful completion of Fellowship, the Fellow is required to spend at least one year in public service as a paid full-time employee of the State Rural Livelihood Mission in the State she/he is assigned to._\n_*Failure to join or complete the required one year of public service mandates the Fellow to return to the National Rural Livelihood Promotion Society the entire amount spent on academic programmes during the Fellowship (including orientation), plus an amount equivalent to the stipend of the last three months of the Fellowship period as compensation._\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide short term catalytic support to the District Administration in backward districts to improve programme delivery and simultaneously develop a cadre of Development Facilitators. Fellows receive professional experience, structured learning, and a monthly stipend.",
+      "exclusions_md": "The applicant, who has been provisionally selected in the final result sheet for Prime Minister’s Rural Development Fellowship in an earlier stint, will not be allowed to avail the fellowship if he/she did not complete the full term of that prior Fellowship.\n<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Prime Minister’s Rural Development Fellows Scheme\" by the Department of Rural Development, Ministry of Rural Development, Government of India, aims to provide a short-term work opportunity for young women and men who possess academic or professional expertise that will serve the district administration in improving programme delivery and interface with the marginalized section of the population, thereby aiming to reduce developmental and governance deficits. The scheme provides structured learning and hands-on professional experience in rural development and poverty reduction, offering Fellows opportunities to act as Development Facilitators and assist District Administration, particularly in backward districts, while participating in a post-graduate degree programme through distance learning and contact sessions, leading to a post-graduate degree in Development Practice."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Stipend Package",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Fellow shall be entitled to a consolidated stipend package of ₹50,000/- (Rupees Fifty thousand only) per month during the orientation period."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Fellow shall be entitled to ₹75,000/- (Rupees Seventy Five Thousand only) per month during the first year of the Fellowship (post-orientation)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Fellow shall receive a 10% increment during the second year, subject to satisfactory performance."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This package is deemed to cover the Fellow’s honorarium, boarding and lodging expenses during orientation, accommodation/house rent during the rest of the Fellowship period, health insurance, life and disability insurance cover, and any other contingency expenses."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Travel reimbursement will be based on actual costs and restricted to AC-II tier train fare by the shortest route or equivalent, plus local transport cost. Women Fellows with children below five years are allowed the travel cost of a care-giver if the care-giver accompanies the Fellow with her child."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Other Benefits",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Participation in a post graduate degree programme through distance learning and contact sessions leading to a post graduate degree in Development Practice."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Award of a Fellowship Certificate and an appropriate post graduate degree in Development Practice upon satisfactory completion of engagement and course requirements."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Office facilities made available by the District Collector, including suitable space, a computer/laptop, and internet connectivity free of charge."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision of suitable modes of transport by District administration while travelling within the district for regular work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Disbursement of Stipend",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "During the orientation programme, the stipend shall be paid by the National Rural Livelihood Promotion Society through the Programme Mentor."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Post-placement, the National Rural Livelihood Promotion Society shall pay the monthly stipend to the Fellows by providing budgetary support to the State Rural Livelihood Mission society."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The State Rural Livelihood Mission society shall make direct deposits into the bank account of each Fellow immediately upon confirming the attendance of the Fellow from the District Collector at the end of the month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The second-year increment is subject to the Fellow’s satisfactory performance as determined by the National Rural Livelihood Promotion Society in consultation with the Programme Mentor."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*It is mandatory for the Fellows to purchase suitable health insurance and life and disability insurance coverage for the entire duration of the Fellowship, including the orientation period.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*The Fellow shall not take up any type of employment with any other person, firm, or agency during the tenure of the Fellowship.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*On successful completion of Fellowship, the Fellow is required to spend at least one year in public service as a paid full-time employee of the State Rural Livelihood Mission in the State she/he is assigned to.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Failure to join or complete the required one year of public service mandates the Fellow to return to the National Rural Livelihood Promotion Society the entire amount spent on academic programmes during the Fellowship (including orientation), plus an amount equivalent to the stipend of the last three months of the Fellowship period as compensation.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant, who has been provisionally selected in the final result sheet for Prime Minister’s Rural Development Fellowship in an earlier stint, will not be allowed to avail the fellowship if he/she did not complete the full term of that prior Fellowship."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Public Advertisement and Accessing Application Format",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Central Government seeks applications for selection of Fellows through public advertisements. Interested applicants must access and obtain the application format that is notified by the Central Government for submission."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Submission of Application and Shortlisting",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Applicants must submit their completed application form according to the specified format and guidelines provided in the public advertisement. Candidates who meet the initial requirements will be shortlisted for the subsequent phases of the selection process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Assessment and Selection Testing",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Shortlisted candidates will be required to participate in appropriate testing methods designed to ascertain their motivation, leadership capabilities, professional skills, and pro-poor orientation. The final selection is based on this overall assessment process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:****** ***Public Advertisement and Accessing Application Format***\nThe Central Government seeks applications for selection of Fellows through public advertisements. Interested applicants must access and obtain the application format that is notified by the Central Government for submission.\n**Step 2:****** ***Submission of Application and Shortlisting***\nApplicants must submit their completed application form according to the specified format and guidelines provided in the public advertisement. Candidates who meet the initial requirements will be shortlisted for the subsequent phases of the selection process.\n**Step 3:****** ***Assessment and Selection Testing***\nShortlisted candidates will be required to participate in appropriate testing methods designed to ascertain their motivation, leadership capabilities, professional skills, and pro-poor orientation. The final selection is based on this overall assessment process.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a citizen of India.\n- The applicant&#39;s age must be between 22 years and 27 years at the time of application.\n- The applicant must hold at least a graduate degree from a recognized University with a four-year degree course.\n- The applicant must hold a post-graduate degree from a recognized University in case the graduate degree course duration was less than four years.\n- The applicant&#39;s one-year post graduate course will also be considered valid for eligibility if it is regular, full time, and if the degree/equivalent diploma is recognized by the All India Council for Technical Education/Medical Council of India/University Grants Commission.\n- The applicant must have achieved at least 50% marks in the aggregate or equivalent grade at the graduate or Post-graduate level, whichever is qualifying.\n- The applicant must possess physical fitness, certified by Government Medical Hospital, for the arduous nature of the work.\n- The maximum age limit will be 32 years for candidates belonging to the Scheduled Caste/Scheduled Tribe category.\n\n> ***Other Conditions***\n\n_*Fifteen percent (15%) of seats are reserved for Scheduled Castes._\n_*Fifteen percent (15%) of seats are reserved for Scheduled Tribes._\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a citizen of India."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's age must be between 22 years and 27 years at the time of application."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must hold at least a graduate degree from a recognized University with a four-year degree course."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must hold a post-graduate degree from a recognized University in case the graduate degree course duration was less than four years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's one-year post graduate course will also be considered valid for eligibility if it is regular, full time, and if the degree/equivalent diploma is recognized by the All India Council for Technical Education/Medical Council of India/University Grants Commission."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have achieved at least 50% marks in the aggregate or equivalent grade at the graduate or Post-graduate level, whichever is qualifying."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must possess physical fitness, certified by Government Medical Hospital, for the arduous nature of the work."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The maximum age limit will be 32 years for candidates belonging to the Scheduled Caste/Scheduled Tribe category."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Other Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": "*Fifteen percent (15%) of seats are reserved for Scheduled Castes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*Fifteen percent (15%) of seats are reserved for Scheduled Tribes.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pmrdfs"
+}

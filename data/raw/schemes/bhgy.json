@@ -1,0 +1,295 @@
+{
+  "_id": "67adb9dea3b9d20958c109d1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Livelihood",
+        "Opportunities",
+        "Promote Afforestation"
+      ],
+      "schemeName": "Birsa Harit Gram Yojana",
+      "schemeShortTitle": "BHGY",
+      "implementingAgency": "Mahatma Gandhi National Rural Employment Guarantee Act",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000017,
+        "label": "Rural Development Department"
+      },
+      "schemeFor": "Family",
+      "slug": "bhgy",
+      "briefDescription": "The \"Birsa Harit Gram Yojana\" by the Rural Development Department, Government of Jharkhand, promotes afforestation while generating sustainable livelihoods. It supports SC, ST, and landless families through plantation activities under MGNREGA, ensuring income and environmental sustainability. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.jharkhand.gov.in/Home/ViewDoc?id=A032DO00602032021040724204"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://sarkaraapkedwar.jharkhand.gov.in/index.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Birsa Harit Gram Yojana&quot; by the Rural Development Department, Government of Jharkhand, aims to promote afforestation and provide sustainable livelihood opportunities for marginalized communities. Under this scheme, block and linear plantation activities are conducted on common and private lands, benefiting Scheduled Castes (SC), Scheduled Tribes (ST), landless families, and other economically weaker sections. The scheme is implemented by the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) framework. \n<br>\n\n***Objective:***\nThe objectives include improving green cover, generating rural employment, and ensuring environmental sustainability through a structured three-phase plantation model.\n",
+      "benefits_md": "\n1. Plantation of fruit-bearing and fodder trees on common land and private land.\n1. Sustainable livelihood generation for marginalized families.\n1. Employment guarantee of 100 days under MGNREGA.\n1. Usufruct rights over the plantation for beneficiaries.\n\n<br>\n\n",
+      "briefDescription": "The \"Birsa Harit Gram Yojana\" by the Rural Development Department, Government of Jharkhand, promotes afforestation while generating sustainable livelihoods. It supports SC, ST, and landless families through plantation activities under MGNREGA, ensuring income and environmental sustainability. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Birsa Harit Gram Yojana\" by the Rural Development Department, Government of Jharkhand, aims to promote afforestation and provide sustainable livelihood opportunities for marginalized communities. Under this scheme, block and linear plantation activities are conducted on common and private lands, benefiting Scheduled Castes (SC), Scheduled Tribes (ST), landless families, and other economically weaker sections. The scheme is implemented by the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) framework. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true,
+              "italic": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The objectives include improving green cover, generating rural employment, and ensuring environmental sustainability through a structured three-phase plantation model."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Plantation of fruit-bearing and fodder trees on common land and private land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sustainable livelihood generation for marginalized families."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Employment guarantee of 100 days under MGNREGA."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Usufruct rights over the plantation for beneficiaries."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The interested applicant may visit the local Gram Panchayat or MGNREGA office."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit a duly filled application form along with the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Gram Sabha will verify and approve the eligible applications."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon approval, plantation work will be assigned as per the scheme phase."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. The interested applicant may visit the local Gram Panchayat or MGNREGA office.\n1. Submit a duly filled application form along with the required documents.\n1. The Gram Sabha will verify and approve the eligible applications.\n1. Upon approval, plantation work will be assigned as per the scheme phase.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should belong to Scheduled Castes (SC), Scheduled Tribes (ST), Primitive Tribes, or be a Below Poverty Line (BPL) family.\n1. The applicant should be a woman-headed household, a person with disabilities, or a beneficiary of the Pradhan Mantri Awas Yojana (PMAY).\n1. The applicant should be a small or marginal farmer.\n1. The applicant should possess a MGNREGA job card.\n1. The applicant&#39;s livelihood should primarily depend on agriculture.\n\n<br>\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to Scheduled Castes (SC), Scheduled Tribes (ST), Primitive Tribes, or be a Below Poverty Line (BPL) family."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a woman-headed household, a person with disabilities, or a beneficiary of the Pradhan Mantri Awas Yojana (PMAY)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a small or marginal farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess a MGNREGA job card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's livelihood should primarily depend on agriculture."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "bhgy"
+}

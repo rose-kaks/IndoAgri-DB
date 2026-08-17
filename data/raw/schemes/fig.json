@@ -1,0 +1,299 @@
+{
+  "_id": "66da941e150e9fd26bc33cdf",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Farmers Interest Group",
+        "FIG"
+      ],
+      "schemeName": "Farmers Interest Group (FIG)",
+      "schemeShortTitle": "FIG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "joint-liability-groups",
+          "label": "Joint Liability Groups (JLGS)"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "nodalDepartmentName": {
+        "value": 3333332,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "fig",
+      "briefDescription": "The “Farmers Interest Group (FIG)” scheme supports every group of 15 farmers with grants for agricultural development. The scheme offers assistance for office equipment, training, ID cards, and district-level meetings.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/6850"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Farmers Interest Group (FIG)” scheme, by the Agriculture-Farmers Welfare Department, Tamil Nadu, supports every group of 15 farmers with grants for agricultural development. The scheme offers financial assistance for purchasing office equipment, training, ID cards, and district-level meetings.\n&lt;br&gt;\n\n",
+      "benefits_md": "\n  - **Office Equipment:** ₹5,000/- per group for purchasing office equipment, technical bulletins, and setting up a library.  - **Training and Skill Acquisition:** ₹4000/- per group for training and skill acquisition by farmer members.  - **ID Cards:** ₹400/- per group for issuing ID cards to members.  - **District-Level Meetings:** ₹20,000/- per group for conducting district-level meetings.\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The “Farmers Interest Group (FIG)” scheme supports every group of 15 farmers with grants for agricultural development. The scheme offers assistance for office equipment, training, ID cards, and district-level meetings.\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Farmers Interest Group (FIG)” scheme, by the Agriculture-Farmers Welfare Department, Tamil Nadu, supports every group of 15 farmers with grants for agricultural development. The scheme offers financial assistance for purchasing office equipment, training, ID cards, and district-level meetings."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Office Equipment: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "₹5,000/- per group for purchasing office equipment, technical bulletins, and setting up a library."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training and Skill Acquisition: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "₹4000/- per group for training and skill acquisition by farmer members."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "ID Cards:",
+                      "bold": true
+                    },
+                    {
+                      "text": " ₹400/- per group for issuing ID cards to members."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "District-Level Meetings: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "₹20,000/- per group for conducting district-level meetings."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Collect the application form from the nearest Agricultural Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the form to the concerned office:"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Village Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the application to the Assistant Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Block Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "District Level: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit to the Joint Director of Agriculture."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n&lt;br&gt;\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be part of a Farmer’s group of 15 farmers.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a Farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a resident of Tamil Nadu."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be part of a Farmer’s group of 15 farmers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fig"
+}

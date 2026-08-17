@@ -1,0 +1,357 @@
+{
+  "_id": "6a5f00f131e839d53cc7d9a1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farming",
+        "Farmer",
+        "Enterprise",
+        "Technology"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: New Subcomponents:FRESH-IT (Farmer’s Research & Enterprise in Spice Holdings for Innovative Technology)",
+      "schemeShortTitle": "ISFEPQISARADOCNSFFREISHFIT",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Technology upgradation",
+          "label": "Technology upgradation"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "isfepqisaradocnsffreishfit",
+      "briefDescription": "To encourage spice farmers to adopt innovative technologies and develop improved spice varieties and cost-effective post-harvest machinery to enhance the production, productivity, and quality of spices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://serviceonline.gov.in/dbt/login.do"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "To encourage spice farmers to adopt innovative technologies and develop improved spice varieties and cost-effective post-harvest machinery to enhance the production, productivity, and quality of spices.",
+      "detailedDescription_md": "The FRESH-IT (Farmer&#39;s Research &amp; Enterprise in Spice Holdings for Innovative Technology) subcomponent is part of the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom, implemented by the Spices Board under the Ministry of Commerce and Industry, Government of India.\nThe scheme aims to motivate spice farmers to take up innovations and improvements on their farms to develop promising spice varieties and new post-harvest improvement machinery/equipment for the spice farming community of the country at an affordable cost, thereby increasing the production, productivity, and quality of spices.\nThe scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+      "benefits_md": "> Grant-in-aid subject to a maximum of ₹ 7, 50,000/- per innovation in two installments of ₹ 3, 75,000/- in two phases based on the progress / completion of the innovation as recommended by the technical committee constituted for the purpose of evaluating the innovation by the farmer in development of new clones/ cultivars/ variety and machines/ post-harvest improvement equipments developed for improving quality of spices.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The FRESH-IT (Farmer's Research & Enterprise in Spice Holdings for Innovative Technology) subcomponent is part of the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom, implemented by the Spices Board under the Ministry of Commerce and Industry, Government of India."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme aims to motivate spice farmers to take up innovations and improvements on their farms to develop promising spice varieties and new post-harvest improvement machinery/equipment for the spice farming community of the country at an affordable cost, thereby increasing the production, productivity, and quality of spices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Grant-in-aid subject to a maximum of ₹ 7, 50,000/- per innovation in two installments of ₹ 3, 75,000/- in two phases based on the progress / completion of the innovation as recommended by the technical committee constituted for the purpose of evaluating the innovation by the farmer in development of new clones/ cultivars/ variety and machines/ post-harvest improvement equipments developed for improving quality of spices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicesPlus"
+                  }
+                ]
+              },
+              {
+                "text": " website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on the “"
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                "children": [
+                  {
+                    "text": "Register” "
+                  }
+                ]
+              },
+              {
+                "text": "option on the homepage."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Review all details carefully and submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                "children": [
+                  {
+                    "text": "“Login.”"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Enter your Email ID, Password, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Select the relevant service/scheme name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Fill in the required details in the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Submit the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.All spice growing States and regions in India\n2. Secretary Spices Board will constitute the Technical Committee with Director (Dev.) Spices Board as Chairperson of the Committee drawing members from ICRI, ICAR-IISR, identified SAUs of the State of reported innovation and concerned Regional Officer of Spices Board, on production aspects; and members of the Committee for evaluating innovations on post-harvest equipments will be the members of the already existing Regional Evaluation Committes constituted. Assistance will be extended based on MoU with Spices Board.\n3. Concerned Officer of the Board who identified the innovation will forward the case to Director (Dev.) through proper channel for a preliminary scrutiny by a team of Officers nominated by Director (Dev.) and qualified cases will be presented to the technical committee for consideration and evaluation.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.All spice growing States and regions in India"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Secretary Spices Board will constitute the Technical Committee with Director (Dev.) Spices Board as Chairperson of the Committee drawing members from ICRI, ICAR-IISR, identified SAUs of the State of reported innovation and concerned Regional Officer of Spices Board, on production aspects; and members of the Committee for evaluating innovations on post-harvest equipments will be the members of the already existing Regional Evaluation Committes constituted. Assistance will be extended based on MoU with Spices Board."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. Concerned Officer of the Board who identified the innovation will forward the case to Director (Dev.) through proper channel for a preliminary scrutiny by a team of Officers nominated by Director (Dev.) and qualified cases will be presented to the technical committee for consideration and evaluation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isfepqisaradocnsffreishfit"
+}

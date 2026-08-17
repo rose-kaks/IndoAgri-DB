@@ -1,0 +1,396 @@
+{
+  "_id": "647f2e98481f59106a677f1b",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": "2023-06-15",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+      "tags": [
+        "Animal Husbandry",
+        "Subsidy",
+        "Farmer",
+        "Cattle Farming",
+        "Loan"
+      ],
+      "schemeName": "Scheme For Subsidy On Interest For Establishment Of 1 To 20 Milch Animal Farm",
+      "schemeShortTitle": "SSIEEMAF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "ssieemaf",
+      "briefDescription": "The scheme “Scheme for Subsidy on Interest for Establishment of 1 to 20 Milch Animal Farm for the State Cattle Breeders” was started by the Dept. of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://doah.gujarat.gov.in/scheme-int-ani-farm.htm"
+        },
+        {
+          "title": "Guideline",
+          "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_GhataksWithGroupAndMainScheme.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Scheme for Subsidy on Interest for Establishment of 1 to 20 Milch Animal Farm for the State Cattle Breeders” was started by the Dept. of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat. Under the scheme, all the eligible farmers/cattle breeders of Gujarat State can purchase 1 to 20 animals as per their need and capacity to maintain. The eligible beneficiary can get an interest subsidy @ 12 % interest on a bank loan amount for 5 years if he/she has obtained a loan for setting up the unit in the current financial year 2023-24 through a nationalized bank or a financial institution approved by the Reserve Bank of India.\n            It also provides good-quality organic manure for improving crop fertility &amp;amp; crop yields. Dung is also used as fuel for domestic purposes. The surplus fodder agricultural by-products are utilized by animals &amp;amp; converted into value-added products viz. Milk, Meat, etc.\n",
+      "benefits_md": "\n   1. The beneficiary can purchase 1 to 20 Milch animals (Any dairy animal cow &amp;amp; buffalo) at a subsidized rate as per their need and capacity to maintain.\n   1. The beneficiary can get an interest subsidy up to a maximum of 12% on the unit cost of the animal or the unit loan advanced by the bank for the purchase of the animal, whichever is lower, will be available for a period of five years.\n\n**Note 01:** The amount of interest subvention will be deposited in the beneficiary&amp;#39;s loan account in the form of a Direct Benefit Transfer (DBT) in installments. There will be no cash assistance for any of the beneficiaries.\n**Note 02:** The interest calculated on the actual interest, subject to a maximum of 12% interest, whichever is less, shall be payable under the said scheme at the rate fixed by the State Government on the price of the animal or on the interest paid by the bank on the animal, whichever is less.\n",
+      "briefDescription": "The scheme “Scheme for Subsidy on Interest for Establishment of 1 to 20 Milch Animal Farm for the State Cattle Breeders” was started by the Dept. of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Scheme for Subsidy on Interest for Establishment of 1 to 20 Milch Animal Farm for the State Cattle Breeders” was started by the Dept. of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat. Under the scheme, all the eligible farmers/cattle breeders of Gujarat State can purchase 1 to 20 animals as per their need and capacity to maintain. The eligible beneficiary can get an interest subsidy @ 12 % interest on a bank loan amount for 5 years if he/she has obtained a loan for setting up the unit in the current financial year 2023-24 through a nationalized bank or a financial institution approved by the Reserve Bank of India."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "            It also provides good-quality organic manure for improving crop fertility & crop yields. Dung is also used as fuel for domestic purposes. The surplus fodder agricultural by-products are utilized by animals & converted into value-added products viz. Milk, Meat, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary can purchase 1 to 20 Milch animals (Any dairy animal cow & buffalo) at a subsidized rate as per their need and capacity to maintain."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary can get an interest subsidy up to a maximum of 12% on the unit cost of the animal or the unit loan advanced by the bank for the purchase of the animal, whichever is lower, will be available for a period of five years."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 01:",
+                  "bold": true
+                },
+                {
+                  "text": " The amount of interest subvention will be deposited in the beneficiary's loan account in the form of a Direct Benefit Transfer (DBT) in installments. There will be no cash assistance for any of the beneficiaries."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 02:",
+                  "bold": true
+                },
+                {
+                  "text": " The interest calculated on the actual interest, subject to a maximum of 12% interest, whichever is less, shall be payable under the said scheme at the rate fixed by the State Government on the price of the animal or on the interest paid by the bank on the animal, whichever is less."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The beneficiary has to apply online at I-Khedut Portal. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Upload Document\" button to upload all the relevant documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 06:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The application must be signed and submitted along with the supporting documents to the office address mentioned on the application” or “Application confirmed within seven days from the date of saving the online application Scanned copy of the application and other documents can be uploaded after confirming the application"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 07:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a printout of the confirmed application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Scanned copy uploaded in PDF format should not exceed 200 KB in size."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 01:** The beneficiary has to apply online at I-Khedut Portal. [https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx](https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx)\n**Step 02:** Click on the &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 03:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 04:** Click on the &amp;quot;Upload Document&amp;quot; button to upload all the relevant documents.\n**Step 05:** Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application.\n**Step 06:** The application must be signed and submitted along with the supporting documents to the office address mentioned on the application” or “Application confirmed within seven days from the date of saving the online application Scanned copy of the application and other documents can be uploaded after confirming the application\n**Step 07:** Take a printout of the confirmed application.\n&lt;br&gt;\n\n**Note 01:** The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary.\n**Note 02:** If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application.\n**Note 03:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a permanent resident of Gujarat State.\n   1. Only one member of the family should be the beneficiary of the scheme.\n   1. The benefit of this scheme will be available to all the farmers of Gujarat State.\n   1. The applicant will be eligible for assistance only if he has obtained a loan for setting up the unit in the current financial year 2023-24 through a nationalized bank or a financial institution approved by the Reserve Bank of India.\n\n**Note 01:** The land should be owned by a member of the family or a beneficiary of the scheme.\n**Note 02:** The grant made under this Act may not be used for any other purpose and shall be paid annually.\n**Note 03:** The scheme shall provide for the establishment of a unit of livestock (cows and buffaloes) by obtaining a certificate from the Animal Husbandry Authority.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a permanent resident of Gujarat State."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Only one member of the family should be the beneficiary of the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The benefit of this scheme will be available to all the farmers of Gujarat State."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant will be eligible for assistance only if he has obtained a loan for setting up the unit in the current financial year 2023-24 through a nationalized bank or a financial institution approved by the Reserve Bank of India."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 01:",
+                  "bold": true
+                },
+                {
+                  "text": " The land should be owned by a member of the family or a beneficiary of the scheme."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 02: ",
+                  "bold": true
+                },
+                {
+                  "text": "The grant made under this Act may not be used for any other purpose and shall be paid annually."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note 03: ",
+                  "bold": true
+                },
+                {
+                  "text": "The scheme shall provide for the establishment of a unit of livestock (cows and buffaloes) by obtaining a certificate from the Animal Husbandry Authority."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ssieemaf"
+}

@@ -1,0 +1,591 @@
+{
+  "_id": "63fc975b7b0e90da1e94b274",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2015-07-03",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 36,
+        "label": "Telangana"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 3666666,
+        "label": "Environment, Forests, Science and Technology Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        },
+        {
+          "value": "Pollution and waste management",
+          "label": "Pollution and waste management"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Forest Department Of The Government Of Telangana",
+      "tags": [
+        "Haritha Haram",
+        "Forest Department",
+        "Haritha Mitra Awards",
+        "Telangana Ku Haritha Haram"
+      ],
+      "schemeName": "Haritha Haram",
+      "schemeShortTitle": "Haritha Haram",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Infra",
+      "slug": "haritha-haram",
+      "briefDescription": "The objective of the Haritha Haram program is to increase the green cover of the state from the existing 24% to 33% by planting and nurturing millions of saplings every year. The program also aims to create awareness among the public about the importance of preserving and protecting the environment."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Home Page",
+          "url": "http://harithaharam.telangana.gov.in/Harithaharam_Home.aspx"
+        },
+        {
+          "title": "About Haritha Haram",
+          "url": "http://harithaharam.telangana.gov.in/Pages/Vision.aspx"
+        },
+        {
+          "title": "GO's And Orders",
+          "url": "http://harithaharam.telangana.gov.in/Pages/goOrders.aspx"
+        },
+        {
+          "title": "District Website",
+          "url": "https://kamareddy.telangana.gov.in/scheme/haritha-haram/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objective of the Haritha Haram program is to increase the green cover of the state from the existing 24% to 33% by planting and nurturing millions of saplings every year. The program also aims to create awareness among the public about the importance of preserving and protecting the environment.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haritha Haram is a flagship programme of the Government of Telangana, India, aimed at increasing the green cover in the state. The name Haritha Haram means \"green garland\" in Telugu, the official language of Telangana."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main objective of the Haritha Haram programme is to increase the green cover of the state from the existing 24% to 33% by planting and nurturing millions of saplings every year. The programme also aims to create awareness among the public about the importance of preserving and protecting the environment."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The program was launched by Telangana Chief Minister Kalvakuntla Chandrashekar Rao on 3 July 2015. It is one of the Telangana Flagship programmes to rejuvenate degraded forests, protecting these forests from threats such as smuggling, encroachment, fire and grazing. It adopted intensive soil and moisture conservation measures based on a watershed approach."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the areas outside the existing forest, massive planting activities were to be taken up in areas such as; road-side avenues, river and canal banks, barren hills and foreshore areas, institutional premises, religious places, housing colonies, community lands, municipalities and industrial parks."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Specific duties and responsibilities are assigned to different committees to ensure the implementation of the programme in a well-designed way. These committees do regular field inspections and monitor the ongoing plantation and nursery works. The committees are the State-Level Steering Committee and the District-Level Monitoring and Coordination Committee."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the village level, Haritha Rakshana Committees were formed to monitor the program under the Chairmanship of Gram Sarpanch."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The seedlings are monitored through geo-tagging. The Forest Department posts survival percentage details on the Department."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Haritha Haram programme has several benefits, including:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increased green cover: ",
+                  "bold": true
+                },
+                {
+                  "text": "The main objective of the programme is to increase the green cover in Telangana, which has several benefits, such as improving air quality, reducing soil erosion, and providing habitat for wildlife."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mitigation of climate change:",
+                  "bold": true
+                },
+                {
+                  "text": " Trees absorb carbon dioxide, which is one of the primary greenhouse gases responsible for climate change. By increasing the green cover, the Haritha Haram programme can help mitigate the effects of climate change."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil conservation:",
+                  "bold": true
+                },
+                {
+                  "text": " Trees play a critical role in conserving soil by reducing soil erosion, improving soil quality, and preventing desertification."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Water conservation: ",
+                  "bold": true
+                },
+                {
+                  "text": "Trees help to conserve water by reducing soil erosion, improving the water-holding capacity of soil, and reducing evaporation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Biodiversity conservation:",
+                  "bold": true
+                },
+                {
+                  "text": " By increasing the green cover, the Haritha Haram programme can provide habitat for a variety of plant and animal species, thereby promoting biodiversity conservation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Economic benefits:",
+                  "bold": true
+                },
+                {
+                  "text": " The programme can generate economic benefits through the creation of employment opportunities in the forestry sector, as well as through the production of non-timber forest products such as fruits, nuts, and medicinal plants."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Health benefits: ",
+                  "bold": true
+                },
+                {
+                  "text": "Trees have been shown to have a positive impact on human health by improving air quality and reducing stress levels."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, the Haritha Haram programme has several benefits for the environment, economy, and human health, and has been successful in achieving its objectives of increasing the green cover and promoting environmental conservation in Telangana."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "While the Haritha Haram programme aims to increase the green cover in Telangana and promote environmental conservation, there are certain areas or activities that are excluded from the programme. Some of the key exclusions of the Haritha Haram programme are:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction activities: The programme does not allow the felling of trees for construction activities, including the construction of buildings, roads, or other infrastructure."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-forest areas: The plantation drives under the programme are focused on forest areas, and are not carried out in non-forest areas, such as urban areas, where the Telangana Ku Haritha Haram programme is implemented separately."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Private lands: The programme is implemented on public lands, such as government forests and other public lands, and does not include private lands."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Commercial plantations: The programme is focused on the plantation of native species and does not encourage the plantation of commercial crops or exotic species."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unsuitable lands: The programme does not allow plantation on lands that are unsuitable for forestry, such as lands prone to erosion or lands with a high water table."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Areas with conflicts: The programme may exclude areas with conflicts related to land ownership or use, or where there are disputes related to the rights of local communities."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "<br>\n\nHaritha Haram is a flagship programme of the Government of Telangana, India, aimed at increasing the green cover in the state. The name Haritha Haram means &quot;green garland&quot; in Telugu, the official language of Telangana.\n<br>\n\nThe main objective of the Haritha Haram programme is to increase the green cover of the state from the existing 24% to 33% by planting and nurturing millions of saplings every year. The programme also aims to create awareness among the public about the importance of preserving and protecting the environment.\n<br>\n\nThe program was launched by Telangana Chief Minister Kalvakuntla Chandrashekar Rao on 3 July 2015. It is one of the Telangana Flagship programmes to rejuvenate degraded forests, protecting these forests from threats such as smuggling, encroachment, fire and grazing. It adopted intensive soil and moisture conservation measures based on a watershed approach.\n<br>\n\nIn the areas outside the existing forest, massive planting activities were to be taken up in areas such as; road-side avenues, river and canal banks, barren hills and foreshore areas, institutional premises, religious places, housing colonies, community lands, municipalities and industrial parks.\n<br>\n\nSpecific duties and responsibilities are assigned to different committees to ensure the implementation of the programme in a well-designed way. These committees do regular field inspections and monitor the ongoing plantation and nursery works. The committees are the State-Level Steering Committee and the District-Level Monitoring and Coordination Committee.\n<br>\n\nAt the village level, Haritha Rakshana Committees were formed to monitor the program under the Chairmanship of Gram Sarpanch.\n<br>\n\nThe seedlings are monitored through geo-tagging. The Forest Department posts survival percentage details on the Department.\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The application process for Haritha Haram varies based on the type of participant. Here are the general steps involved in the application process:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Individuals: There is no specific application process for individuals. They can participate in the program by volunteering for tree plantation drives organized by the government or by planting saplings on their own."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "NGOs: NGOs interested in participating in the program can contact the district forest officer (DFO) of their respective district and express their willingness to partner with the government for tree plantation activities. The DFO will provide the necessary information about the program and the requirements for partnership."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Educational institutions: Educational institutions interested in participating in the program can contact the district forest officer (DFO) of their respective district and express their willingness to organize tree plantation drives on their campuses or adopt a nearby forest area. The DFO will provide the necessary information about the program and the requirements for participation."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Government departments: Government departments interested in participating in the program can contact the district forest officer (DFO) of their respective district and express their willingness to take up plantation activities in their respective areas of operation. The DFO will provide the necessary information about the program and the requirements for participation."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Corporates: Companies interested in participating in the program can contact the district forest officer (DFO) of their respective district and express their willingness to partner with the government or organize tree plantation drives in their CSR activities. The DFO will provide the necessary information about the program and the requirements for partnership."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "In general, participants need to fill up an application form provided by the government and provide the necessary details such as their name, contact details, and area of operation. They may also need to submit a project proposal detailing their plans for plantation activities. Once the application is processed and approved, the participants will be given the necessary support and resources to carry out their activities."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "Haritha Haram is a flagship program initiated by the government of Telangana in India, aimed at increasing the green cover in the state. The eligibility criteria for Haritha Haram program vary based on the type of participant.\n<br>\n\nIndividuals: Any individual who wishes to participate in the program can do so by volunteering for tree plantation drives organized by the government or by planting saplings on their own. There are no specific eligibility criteria for individuals.\n<br>\n\nNGOs: Non-governmental organizations (NGOs) working in the field of environmental conservation can participate in the program by partnering with the government. The NGOs should be registered and actively involved in environmental conservation activities.\n<br>\n\nEducational institutions: Schools, colleges, and universities can participate in the program by organizing tree plantation drives on their campuses or by adopting a nearby forest area. The educational institution should have the necessary infrastructure and resources to undertake such activities.\n<br>\n\nGovernment departments: Various government departments such as the forest department, municipal corporation, and public works department can participate in the program by taking up plantation activities in their respective areas of operation.\n<br>\n\nCorporates: Companies can participate in the program by partnering with the government or by organizing tree plantation drives in their corporate social responsibility (CSR) activities. The companies should have a valid CSR policy and should be actively involved in environmental conservation activities.\n<br>\n\nIn summary, there are no specific eligibility criteria for individuals to participate in the Haritha Haram program. However, NGOs, educational institutions, government departments, and corporates need to meet certain criteria related to their registration status, infrastructure, and involvement in environmental conservation activities.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Haritha Haram is a flagship program initiated by the government of Telangana in India, aimed at increasing the green cover in the state. The eligibility criteria for Haritha Haram program vary based on the type of participant."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Individuals: Any individual who wishes to participate in the program can do so by volunteering for tree plantation drives organized by the government or by planting saplings on their own. There are no specific eligibility criteria for individuals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NGOs: Non-governmental organizations (NGOs) working in the field of environmental conservation can participate in the program by partnering with the government. The NGOs should be registered and actively involved in environmental conservation activities."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Educational institutions: Schools, colleges, and universities can participate in the program by organizing tree plantation drives on their campuses or by adopting a nearby forest area. The educational institution should have the necessary infrastructure and resources to undertake such activities."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Government departments: Various government departments such as the forest department, municipal corporation, and public works department can participate in the program by taking up plantation activities in their respective areas of operation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Corporates: Companies can participate in the program by partnering with the government or by organizing tree plantation drives in their corporate social responsibility (CSR) activities. The companies should have a valid CSR policy and should be actively involved in environmental conservation activities."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In summary, there are no specific eligibility criteria for individuals to participate in the Haritha Haram program. However, NGOs, educational institutions, government departments, and corporates need to meet certain criteria related to their registration status, infrastructure, and involvement in environmental conservation activities."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "haritha-haram"
+}

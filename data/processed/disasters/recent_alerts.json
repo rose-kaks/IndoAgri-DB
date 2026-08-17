@@ -1,136 +1,128 @@
 {
-  "source": "Disaster Alerts (GDACS / IMD)",
+  "source": "GDACS (Filtered for India region)",
   "data_type": "disaster_alerts",
-  "fetched_at": "2026-08-16T19:54:32.758267+00:00",
-  "total_alerts": 16,
+  "fetched_at": "2026-08-16T20:05:34.252285+00:00",
+  "total_alerts": 15,
   "alerts": [
     {
-      "id": "gdacs_alert_17",
+      "id": "gdacs_17",
       "title": "Green notification for tropical cyclone HERNAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001304",
       "pub_date": "Thu, 13 Aug 2026 03:09:14 GMT",
       "alert_text": "From 13/08/2026 to 15/08/2026, a Tropical Depression (maximum wind speed of 74 km/h) HERNAN-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "fetched_at": "2026-08-16T19:54:32.724202+00:00"
+      "fetched_at": "2026-08-16T20:05:34.222804+00:00"
     },
     {
-      "id": "gdacs_alert_18",
+      "id": "gdacs_18",
       "title": "Green flood alert in Japan",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104090",
       "pub_date": "Sat, 15 Aug 2026 06:04:07 GMT",
       "alert_text": "On 13/08/2026, a flood started in Japan, lasting until 15/08/2026 (last update). The flood caused 8 deaths and 7359 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.724299+00:00"
+      "fetched_at": "2026-08-16T20:05:34.222897+00:00"
     },
     {
-      "id": "gdacs_alert_29",
+      "id": "gdacs_29",
       "title": "Green notification for tropical cyclone ONE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 11938 .",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001303",
       "pub_date": "Thu, 13 Aug 2026 14:50:11 GMT",
       "alert_text": "From 12/08/2026 to 16/08/2026, a Tropical Storm (maximum wind speed of 139 km/h) ONE-C-26 was active in CentralPacific. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 11938 .",
-      "fetched_at": "2026-08-16T19:54:32.725197+00:00"
+      "fetched_at": "2026-08-16T20:05:34.223735+00:00"
     },
     {
-      "id": "gdacs_alert_30",
+      "id": "gdacs_30",
       "title": "Green notification for tropical cyclone CRISTOBAL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001302",
       "pub_date": "Wed, 12 Aug 2026 15:06:05 GMT",
       "alert_text": "From 12/08/2026 to 13/08/2026, a Tropical Depression (maximum wind speed of 74 km/h) CRISTOBAL-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "fetched_at": "2026-08-16T19:54:32.725283+00:00"
+      "fetched_at": "2026-08-16T20:05:34.223817+00:00"
     },
     {
-      "id": "gdacs_alert_31",
+      "id": "gdacs_31",
       "title": "Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001301",
       "pub_date": "Wed, 12 Aug 2026 13:36:25 GMT",
       "alert_text": "From 12/08/2026 to 14/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) NANGKA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "fetched_at": "2026-08-16T19:54:32.725380+00:00"
+      "fetched_at": "2026-08-16T20:05:34.223898+00:00"
     },
     {
-      "id": "gdacs_alert_33",
+      "id": "gdacs_33",
       "title": "Green flood alert in Romania",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104088",
       "pub_date": "Fri, 14 Aug 2026 05:54:37 GMT",
       "alert_text": "On 12/08/2026, a flood started in Romania, lasting until 14/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.725588+00:00"
+      "fetched_at": "2026-08-16T20:05:34.224052+00:00"
     },
     {
-      "id": "gdacs_alert_34",
+      "id": "gdacs_34",
       "title": "Green flood alert in Nepal",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104091",
       "pub_date": "Sat, 15 Aug 2026 06:04:29 GMT",
       "alert_text": "On 12/08/2026, a flood started in Nepal, lasting until 14/08/2026 (last update). The flood caused 11 deaths and 37 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.725675+00:00"
+      "fetched_at": "2026-08-16T20:05:34.224130+00:00"
     },
     {
-      "id": "gdacs_alert_53",
+      "id": "gdacs_53",
       "title": "Green flood alert in Chad",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104086",
       "pub_date": "Fri, 14 Aug 2026 05:53:54 GMT",
       "alert_text": "On 11/08/2026, a flood started in Chad, lasting until 13/08/2026 (last update). The flood caused 3 deaths and 0 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.727286+00:00"
+      "fetched_at": "2026-08-16T20:05:34.225576+00:00"
     },
     {
-      "id": "gdacs_alert_161",
+      "id": "gdacs_161",
       "title": "Green flood alert in Spain",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104080",
       "pub_date": "Fri, 07 Aug 2026 11:16:22 GMT",
       "alert_text": "On 06/08/2026, a flood started in Spain, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.737151+00:00"
+      "fetched_at": "2026-08-16T20:05:34.233721+00:00"
     },
     {
-      "id": "gdacs_alert_235",
+      "id": "gdacs_235",
       "title": "Green notification for tropical cyclone PEILOU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in Tropical Storm).",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001298",
       "pub_date": "Tue, 04 Aug 2026 22:23:42 GMT",
       "alert_text": "From 04/08/2026 to 13/08/2026, a Tropical Depression (maximum wind speed of 74 km/h) PEILOU-26 was active in NWPacific. The cyclone affects these countries: Philippines (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0.874 million in tropical storm).",
-      "fetched_at": "2026-08-16T19:54:32.743955+00:00"
+      "fetched_at": "2026-08-16T20:05:34.240972+00:00"
     },
     {
-      "id": "gdacs_alert_326",
+      "id": "gdacs_326",
       "title": "Orange flood alert in China",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104081",
       "pub_date": "Fri, 07 Aug 2026 18:46:26 GMT",
       "alert_text": "On 31/07/2026, a flood started in China, lasting until 13/08/2026 (last update). The flood caused 0 deaths and 302931 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.752776+00:00"
+      "fetched_at": "2026-08-16T20:05:34.247673+00:00"
     },
     {
-      "id": "gdacs_alert_338",
+      "id": "gdacs_338",
       "title": "Green flood alert in Thailand",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104067",
       "pub_date": "Mon, 03 Aug 2026 12:22:07 GMT",
       "alert_text": "On 30/07/2026, a flood started in Thailand, lasting until 14/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.753779+00:00"
+      "fetched_at": "2026-08-16T20:05:34.248760+00:00"
     },
     {
-      "id": "gdacs_alert_369",
+      "id": "gdacs_369",
       "title": "Green flood alert in Italy",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053",
       "pub_date": "Sun, 16 Aug 2026 18:16:44 GMT",
       "alert_text": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.756799+00:00"
+      "fetched_at": "2026-08-16T20:05:34.251116+00:00"
     },
     {
-      "id": "gdacs_alert_370",
+      "id": "gdacs_370",
       "title": "Green flood alert in Myanmar",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104011",
       "pub_date": "Fri, 10 Jul 2026 06:58:25 GMT",
       "alert_text": "On 04/07/2026, a flood started in Myanmar, lasting until 12/08/2026 (last update). The flood caused 2 deaths and 1821 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.756900+00:00"
+      "fetched_at": "2026-08-16T20:05:34.251198+00:00"
     },
     {
-      "id": "gdacs_alert_371",
+      "id": "gdacs_371",
       "title": "Green flood alert in India",
-      "link": "",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103972",
       "pub_date": "Thu, 25 Jun 2026 07:47:24 GMT",
       "alert_text": "On 23/06/2026, a flood started in India, lasting until 15/08/2026 (last update). The flood caused 50 deaths and 69172 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.757001+00:00"
-    },
-    {
-      "id": "gdacs_alert_373",
-      "title": "Green flood alert in United States",
-      "link": "",
-      "pub_date": "Thu, 21 May 2026 06:15:32 GMT",
-      "alert_text": "On 19/05/2026, a flood started in United States, lasting until 15/08/2026 (last update). The flood caused 20 deaths and 675 displaced .",
-      "fetched_at": "2026-08-16T19:54:32.757203+00:00"
+      "fetched_at": "2026-08-16T20:05:34.251273+00:00"
     }
   ]
 }

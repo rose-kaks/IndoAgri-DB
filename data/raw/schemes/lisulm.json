@@ -1,0 +1,167 @@
+{
+  "_id": "68cba2046e1aaee61b204559",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Livestock",
+        "Animal Husbandry",
+        "Insurance",
+        "Cattle"
+      ],
+      "schemeName": "National Livestock Mission: Livestock Insurance Scheme - Uttarakhand Livestock Development Board",
+      "schemeShortTitle": "NLMLIS",
+      "implementingAgency": "Uttarakhand Livestock Development Board",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000004,
+        "label": "Department Of Animal Husbandry"
+      },
+      "slug": "lisulm",
+      "briefDescription": " The scheme aims to provide insurance coverage to livestock in order to protect cattle rearers against the loss of their animals due to death, thereby encouraging them to adopt better animal husbandry practices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 196)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Livestock Insurance Scheme”, a sub-component of the National Livestock Mission, is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to provide insurance coverage to livestock in order to protect cattle rearers against the loss of their animals due to death, thereby encouraging them to adopt better animal husbandry practices.\n<br>\n\n",
+      "benefits_md": "Under this scheme, insurance coverage is provided for livestock to protect cattle rearers in the event of loss of their animals.\n<br>\n\n",
+      "briefDescription": " The scheme aims to provide insurance coverage to livestock in order to protect cattle rearers against the loss of their animals due to death, thereby encouraging them to adopt better animal husbandry practices.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Livestock Insurance Scheme”, a sub-component of the National Livestock Mission, is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to provide insurance coverage to livestock in order to protect cattle rearers against the loss of their animals due to death, thereby encouraging them to adopt better animal husbandry practices."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, insurance coverage is provided for livestock to protect cattle rearers in the event of loss of their animals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applications can be submitted by livestock owners at any government veterinary hospital in Uttarakhand."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Applications can be submitted by livestock owners at any government veterinary hospital in Uttarakhand.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. All livestock rearers residing in Uttarakhand are eligible to avail benefits under this scheme.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All livestock rearers residing in Uttarakhand are eligible to avail benefits under this scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "lisulm"
+}

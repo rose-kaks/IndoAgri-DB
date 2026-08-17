@@ -1,0 +1,172 @@
+{
+  "_id": "68ee1b498ba160c15f34944c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Organic Farming",
+        "Ganga",
+        "Agriculture"
+      ],
+      "schemeName": "Namami Gange Yojana- Uttarakhand",
+      "schemeShortTitle": "NGY-UK",
+      "implementingAgency": "Uttarakhand Organic Produce Council",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Soil health",
+          "label": "Soil health"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000001,
+        "label": "Agriculture Department"
+      },
+      "slug": "ngy-uk",
+      "briefDescription": "The scheme aims to promote sustainable and organic farming practices among farmers residing in villages along the banks of the Ganga and its tributaries."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 165)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Namami Gange Yojana” is implemented by the Uttarakhand Organic Commodity Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote sustainable and organic farming practices among farmers residing in villages along the banks of the Ganga and its tributaries.\n<br>\n\n",
+      "benefits_md": "Under the scheme, farmers are provided assistance to adopt organic farming through the formation of clusters.\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote sustainable and organic farming practices among farmers residing in villages along the banks of the Ganga and its tributaries.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Namami Gange Yojana” is implemented by the Uttarakhand Organic Commodity Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote sustainable and organic farming practices among farmers residing in villages along the banks of the Ganga and its tributaries."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the scheme, farmers are provided assistance to adopt organic farming through the formation of clusters."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applications can be submitted in the prescribed format at the office of the Uttarakhand Organic Commodity Board, Kisan Bhawan, 2nd Floor, Mussoorie Bypass, Ring Road, Nehrugram, Dehradun, Uttarakhand 248001."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Applications can be submitted in the prescribed format at the office of the Uttarakhand Organic Commodity Board, Kisan Bhawan, 2nd Floor, Mussoorie Bypass, Ring Road, Nehrugram, Dehradun, Uttarakhand 248001.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Farmers residing in villages located along the banks of the Ganga and its tributaries in Uttarakhand are eligible for assistance under this scheme.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers residing in villages located along the banks of the Ganga and its tributaries in Uttarakhand are eligible for assistance under this scheme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ngy-uk"
+}

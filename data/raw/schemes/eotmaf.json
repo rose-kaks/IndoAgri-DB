@@ -1,0 +1,353 @@
+{
+  "_id": "67ee24e334919efd1af90eec",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Husbandry",
+        "Rural Employment",
+        "Animal Farm"
+      ],
+      "schemeName": "Establishment of 1 to 20 Milch Animal Farm",
+      "schemeShortTitle": "EOTMAF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "eotmaf",
+      "briefDescription": "The \"Establishment of 1 to 20 Milch Animal Farm\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, provides financial assistance in the form of an interest subsidy to livestock farmers to take up animal husbandry as a sustainable business."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=K4W8ZOq3ZEO6/ok2BNgxcw==&domain=12ewfiAgGqKRe600IL5Z/w=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The \"Establishment of 1 to 20 Milch Animal Farm\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, provides financial assistance in the form of an interest subsidy to livestock farmers to take up animal husbandry as a sustainable business.",
+      "detailedDescription_md": "The &amp;quot;Establishment of 1 to 20 Milch Animal Farm&amp;quot; scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, provides financial assistance in the form of an interest subsidy to livestock farmers to take up animal husbandry as a sustainable business. The scheme benefits livestock farmers by reducing their financial burden, thereby promoting large-scale dairy farming.\n",
+      "benefits_md": "\n- **Interest Subsidy:** Eligible farmers receive an interest subsidy of 12% on the unit cost fixed by NABARD or banks.\n<br>\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Establishment of 1 to 20 Milch Animal Farm\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, provides financial assistance in the form of an interest subsidy to livestock farmers to take up animal husbandry as a sustainable business. The scheme benefits livestock farmers by reducing their financial burden, thereby promoting large-scale dairy farming."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interest Subsidy:",
+                  "bold": true
+                },
+                {
+                  "text": " Eligible farmers receive an interest subsidy of 12% on the unit cost fixed by NABARD or banks."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a print out of the confirmed application and submit Related Documents through to concern Taluka office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 8:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                    "children": [
+                      {
+                        "text": "Click here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Note:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The copy of the application related to the interest subsidy will be sent to the Deputy Director of Animal Husbandry, District Panchayat for verification through the Veterinary Officer, local veterinary Dispensary."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n&gt; **Note:** The copy of the application related to the interest subsidy will be sent to the Deputy Director of Animal Husbandry, District Panchayat for verification through the Veterinary Officer, local veterinary Dispensary.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a livestock farmer, which includes agricultural laborers, small and marginal farmers, landless people, Maldhari (pastoralists), and educated unemployed individuals.\n  - The applicant should have taken a loan from a bank for dairy farming (1 to 20 milch animals).\n\n&gt; **Note:**\n\n\n  - Availability of the Land, livestock and water facilities with the Livestock Owners.\n  - As per the above scheme, the scheme of interest subsidy on establishment of units of 1 to 20 milch animals (cows and buffaloes) is also available for Scheduled Castes and Scheduled Tribes animal owners of the state.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a livestock farmer, which includes agricultural laborers, small and marginal farmers, landless people, Maldhari (pastoralists), and educated unemployed individuals."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have taken a loan from a bank for dairy farming (1 to 20 milch animals)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Availability of the Land, livestock and water facilities with the Livestock Owners."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "As per the above scheme, the scheme of interest subsidy on establishment of units of 1 to 20 milch animals (cows and buffaloes) is also available for Scheduled Castes and Scheduled Tribes animal owners of the state."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "eotmaf"
+}

@@ -1,0 +1,321 @@
+{
+  "_id": "6509924a1a1c949c65fcbd02",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Bamboo Marketing",
+        "Quality Planting Material",
+        "Bamboo Plantation",
+        "Product Development"
+      ],
+      "schemeName": "National Bamboo Mission",
+      "schemeShortTitle": "NBM",
+      "implementingAgency": "State Bamboo Development Agency / State Bamboo Mission",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2018-04-25",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 121226,
+        "label": "Department of Agriculture & Farmers Welfare"
+      },
+      "slug": "nbm",
+      "briefDescription": "Restructured National Bamboo Mission was launched during 2018-19 as a Centrally Sponsored Scheme (CSS) after the historical amendment of the Indian Forest Act during 2017 to exclude bamboo out from definition of tree. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Website",
+          "url": "https://nbm.da.gov.in/"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://nbm.da.gov.in/Documents/pdf/NBM_Guideline_2025.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Resultant to this historic amendment, bamboo grown in the non-forest area is out of the scope of regulations on the forest produces. During the year 2022-23, the NBM has been merged with Mission for Integrated Development of Horticulture (MIDH) scheme. \n<br>\n\nThe restructured National Bamboo Mission primarily focuses on the development of complete value chain of bamboo sector to link growers with consumers starting from planting material, plantation, creation of facilities, skilled manpower and brand processing marketing, micro, small &amp; medium enterprises, skilled manpower and brand building initiative in a cluster approach mode. Presently the scheme is being implemented in 24 States/UTs. The NBM has provisions to raise bamboo plantations as well as to establish units for bio-energy extraction, activated carbon product, charcoal making, pellet making, Ethanol gasifier, etc for government agencies and private entrepreneurs.\n<br>\n\nNBM also envisaged to revitalise the bamboo industry through various innovations and policy support that would contribute by reducing the carbon emission and contribute to domestic manufacturing.\n<br>\n\nThe key objectives of the Mission are as follows:\n•\tTo increase the area under bamboo plantation in non-forest Government and private lands to supplement farm income and contribute towards resilience to climate change as well as availability of quality raw material requirement of industries. The bamboo plantations will be promoted predominantly in farmers’ fields, homesteads, community lands, arable wastelands, and along irrigation canals, water bodies etc.\n•\tTo improve post-harvest management through establishment of innovative primary processing units near the source of production, primary treatment and seasoning plants, preservation technologies and market infrastructure.\n•\tTo promote product development keeping in view market demand, by assisting R&amp;D, entrepreneurship &amp; business models at micro, small and medium levels and feed bigger industry.\n•\tTo rejuvenate the underdeveloped bamboo industry in India\n•\tTo promote skill development, capacity building, awareness generation for development of bamboo sector from production to market demand.\n•\tTo realign efforts to reduce dependency on import of bamboo and bamboo products by way of improved productivity and suitability of domestic raw material for industry, so as to enhance income of the primary producers.\n<br>\n\n",
+      "benefits_md": "The scheme targets to provide following benefits:\n1)\tIt would assist farmers, government agencies, artisans, entrepreneurs, private agencies, Federated SHGs, FPOs, and other persons involved in bamboo industry\n2)\tIt will help in establishing bamboo nursery, bamboo cultivation, post-harvest processing, product manufacturing, capacity building, entrepreneurship, etc for the industry\n3)\tIt will help in creating self-dependency for fulfilling the demand of bamboo and bamboo products.\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "Restructured National Bamboo Mission was launched during 2018-19 as a Centrally Sponsored Scheme (CSS) after the historical amendment of the Indian Forest Act during 2017 to exclude bamboo out from definition of tree. ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resultant to this historic amendment, bamboo grown in the non-forest area is out of the scope of regulations on the forest produces. During the year 2022-23, the NBM has been merged with Mission for Integrated Development of Horticulture (MIDH) scheme. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The restructured National Bamboo Mission primarily focuses on the development of complete value chain of bamboo sector to link growers with consumers starting from planting material, plantation, creation of facilities, skilled manpower and brand processing marketing, micro, small & medium enterprises, skilled manpower and brand building initiative in a cluster approach mode. Presently the scheme is being implemented in 24 States/UTs. The NBM has provisions to raise bamboo plantations as well as to establish units for bio-energy extraction, activated carbon product, charcoal making, pellet making, Ethanol gasifier, etc for government agencies and private entrepreneurs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NBM also envisaged to revitalise the bamboo industry through various innovations and policy support that would contribute by reducing the carbon emission and contribute to domestic manufacturing."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The key objectives of the Mission are as follows:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tTo increase the area under bamboo plantation in non-forest Government and private lands to supplement farm income and contribute towards resilience to climate change as well as availability of quality raw material requirement of industries. The bamboo plantations will be promoted predominantly in farmers’ fields, homesteads, community lands, arable wastelands, and along irrigation canals, water bodies etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tTo improve post-harvest management through establishment of innovative primary processing units near the source of production, primary treatment and seasoning plants, preservation technologies and market infrastructure."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tTo promote product development keeping in view market demand, by assisting R&D, entrepreneurship & business models at micro, small and medium levels and feed bigger industry."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tTo rejuvenate the underdeveloped bamboo industry in India"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tTo promote skill development, capacity building, awareness generation for development of bamboo sector from production to market demand."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tTo realign efforts to reduce dependency on import of bamboo and bamboo products by way of improved productivity and suitability of domestic raw material for industry, so as to enhance income of the primary producers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme targets to provide following benefits:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1)\tIt would assist farmers, government agencies, artisans, entrepreneurs, private agencies, Federated SHGs, FPOs, and other persons involved in bamboo industry"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2)\tIt will help in establishing bamboo nursery, bamboo cultivation, post-harvest processing, product manufacturing, capacity building, entrepreneurship, etc for the industry"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3)\tIt will help in creating self-dependency for fulfilling the demand of bamboo and bamboo products."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Refer to respective State's Bamboo Mission Portal for online link"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01: Application to State Bamboo Mission through their respective portals/offline"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02: Scrutiny and approval of the SBM"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03: credit linked financing through scheduled/commercial banks"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 04: progress reporting/completion of projects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 05: evaluation by SBM and disbursal of subsidy to the bank account of the beneficiary"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Refer to respective State&#39;s Bamboo Mission Portal for online link\n<br>\n\nStep 01: Application to State Bamboo Mission through their respective portals/offline\nStep 02: Scrutiny and approval of the SBM\nStep 03: credit linked financing through scheduled/commercial banks\nStep 04: progress reporting/completion of projects\nStep 05: evaluation by SBM and disbursal of subsidy to the bank account of the beneficiary\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The scheme is applicable to all farmers in India\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme is applicable to all farmers in India"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nbm"
+}

@@ -1,0 +1,255 @@
+{
+  "_id": "67d01d82777a17dd53de4f35",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Processing Units",
+        "Market Committees"
+      ],
+      "schemeName": "Scheme to Provide Assistance to Processing Units in State Market Committees",
+      "schemeShortTitle": "APAPUSMC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "apapusmc",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to support market committees in Gujarat by providing financial assistance for the establishment of processing units.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines 1",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=jyiVmEe2hbXtFere99frwg==&domain=Uxijm857oHjeSHuzZgXyAA=="
+        },
+        {
+          "title": "Guidelines 2",
+          "url": "https://agri.gujarat.gov.in/ViewFile?fileName=aPNBWj81zn2Uij94k1vnHASH__HASHQVwFnxM0iwP0xrtm2ICpfmFN7qzVxYNNf7xIyq0314bcqthMBKXtS7FeqZ3rQKs72CclSNKL0gDjny31IIuJnepRwmheZLXefbmfPUdOrR8DZUDqEYTprm3qBzdrHASH__HASHgAHA=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Scheme to Provide Assistance to Processing Units in State Market Committees&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to market committees in Gujarat to establish food processing units. These units will help in cleaning, grading, packaging, and branding agricultural produce. \n",
+      "benefits_md": "<br>\n\n**Component****Standard of Assistance**To create facilities for processing/ grading/ cleaning / washing /shorting/ packaging/ branding, and valuation at State Market Committee level50% of project cost to all types of market committees up to a limit of ₹1,50,00,000/-.<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to support market committees in Gujarat by providing financial assistance for the establishment of processing units.\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Scheme to Provide Assistance to Processing Units in State Market Committees\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to market committees in Gujarat to establish food processing units. These units will help in cleaning, grading, packaging, and branding agricultural produce. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To create facilities for processing/ grading/ cleaning / washing /shorting/ packaging/ branding, and valuation at State Market Committee level"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% of project cost to all types of market committees up to a limit of ₹1,50,00,000/-."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " he market committee must prepare a development plan and obtain an estimate from an engineer approved by the Director of Agricultural Markets and Rural Finance, Gujarat State, Gandhinagar."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The proposal must be submitted through the Deputy Director and District Registrar Co-operative Societies of the respective district."
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Office Address and Contact Details of District Registrar: ",
+                        "bold": true
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://rcs.gujarat.gov.in/Home/DistrictRegistrar",
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ]
+                      },
+                      {
+                        "bold": true,
+                        "text": "."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** he market committee must prepare a development plan and obtain an estimate from an engineer approved by the Director of Agricultural Markets and Rural Finance, Gujarat State, Gandhinagar.\n**Step 2:** The proposal must be submitted through the Deputy Director and District Registrar Co-operative Societies of the respective district.\n&amp;gt; **Office Address and Contact Details of District Registrar:** [Click here](https://rcs.gujarat.gov.in/Home/DistrictRegistrar)**.**\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- All market committees in Gujarat are eligible to apply.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All market committees in Gujarat are eligible to apply."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "apapusmc"
+}

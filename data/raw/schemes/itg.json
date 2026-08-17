@@ -1,0 +1,279 @@
+{
+  "_id": "649ab2cd380f8e123543f400",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Financial Assistance",
+        "Girl Education",
+        "Empowerment",
+        "Higher Education"
+      ],
+      "schemeName": "Incentive To Girls",
+      "schemeShortTitle": "ITG",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "itg",
+      "briefDescription": "Rajasthan State started a scheme \"Incentive for Girls\" for state students."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://schemes.rajasthan.gov.in/scheme/detail/488"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Rajasthan State government initiated a scheme &quot;Incentive for Girls&quot; to provide financial assistance. Under this scheme, to the all those girls students who are pursuing Senior Secondary, Graduation in Agriculture and Post Graduation in Agriculture, financial support will be provided. \n",
+      "benefits_md": "\n- ₹15,000/- per annum: To the girl students studying in senior secondary by taking agriculture subjects in 11th and 12th classes \n- ₹25,000/- per annum: To girl students studying in Agricultural graduate education like Horticulture, Dairy, Agricultural Engineering, Food Processing and Shri Karan Narendra Business Management College, Jobner in 4/5 years course\n- ₹25,000/- per annum: To the girl students studying in Post Graduate Agriculture (M.Sc. Agriculture) in the 2-year course.\n- ₹40,000/- per annum: To the girl students studying for a maximum of 3 years PhD.\n\n",
+      "briefDescription": "Rajasthan State started a scheme \"Incentive for Girls\" for state students.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Rajasthan State government initiated a scheme \"Incentive for Girls\" to provide financial assistance. Under this scheme, to the all those girls students who are pursuing Senior Secondary, Graduation in Agriculture and Post Graduation in Agriculture, financial support will be provided. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹15,000/- per annum: To the girl students studying in senior secondary by taking agriculture subjects in 11th and 12th classes "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹25,000/- per annum: To girl students studying in Agricultural graduate education like Horticulture, Dairy, Agricultural Engineering, Food Processing and Shri Karan Narendra Business Management College, Jobner in 4/5 years course"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹25,000/- per annum: To the girl students studying in Post Graduate Agriculture (M.Sc. Agriculture) in the 2-year course."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹40,000/- per annum: To the girl students studying for a maximum of 3 years PhD."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://rajkisan.rajasthan.gov.in/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to visit "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://rajkisan.rajasthan.gov.in/",
+                    "children": [
+                      {
+                        "text": "official portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on login."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "On new page applicant can login with their Jan-Aadhaar Number OR"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants can also login with their SSO ID on "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": "sso portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Now students can log in with their Jan-Aadhaar ID. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants have to visit [official portal.](https://rajkisan.rajasthan.gov.in/)1. Click on login.\n1. On new page applicant can login with their Jan-Aadhaar Number OR\n1. Applicants can also login with their SSO ID on [sso portal.](https://sso.rajasthan.gov.in/signin)1. Now students can log in with their Jan-Aadhaar ID. 1. Fill out the application form.\n1. Attach the required documents.\n1. Submit.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The student should be a native of Rajasthan.\n1. Schools, Colleges, and Universities are recognized by the state and state government.\n1. Girl Students should not have failed in the last year. \n1. The incentive amount is not payable to the girl students who leave school, college, or university in the middle of the class session.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student should be a native of Rajasthan."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Schools, Colleges, and Universities are recognized by the state and state government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Girl Students should not have failed in the last year. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The incentive amount is not payable to the girl students who leave school, college, or university in the middle of the class session."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "itg"
+}

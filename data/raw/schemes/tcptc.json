@@ -1,0 +1,359 @@
+{
+  "_id": "65c4d18ced4030e118d1fbb6",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Tuber Crops",
+        "Potato",
+        "Tapioca",
+        "Colocasia",
+        "Farmer",
+        "Agriculture",
+        "Subsidy",
+        "Horticulture"
+      ],
+      "schemeName": "Tuber Crops Potato, Tapioca, Colocasia",
+      "schemeShortTitle": "TCPTC",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "tcptc",
+      "briefDescription": "The objective of the scheme is to boost up production and productivity of potato per unit area by providing quality HYV seeds, and equipment at a 50% subsidy. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=97"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objective of the scheme is to boost up production and productivity of potato per unit area by providing quality HYV seeds, and equipment at a 50% subsidy. ",
+      "detailedDescription_md": "The scheme “Tuber Crops (Potato, Tapioca, Colocasia) Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to boost up production and productivity of potato per unit area by providing quality HYV seeds, and equipment at 50% subsidy. The Scheme also aims to popularise and encourage the cultivation of tapioca, colocasia, sweet potato, etc.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\nSupply of HYV seeds, pesticides, and sprayers to farmers for sale at a 50% subsidy.\n> **Type of Assistance and Entitlement (If any):**\n\nSl. No.EntitlementOwantum of Assistance1To boost up the production of potato by providing quality HYV seed, organic-based plant protection measures, and P.P equipment.50% sale to the farmers.2For the potato seed experimental farm Upper Shillong, all inputs are provided for the purpose of multiplication of Breeder seed into foundation seed potato before distribution to a farmer.NA",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Tuber Crops (Potato, Tapioca, Colocasia) Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to boost up production and productivity of potato per unit area by providing quality HYV seeds, and equipment at 50% subsidy. The Scheme also aims to popularise and encourage the cultivation of tapioca, colocasia, sweet potato, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Supply of HYV seeds, pesticides, and sprayers to farmers for sale at a 50% subsidy."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Type of Assistance and Entitlement (If any):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sl. No."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Entitlement"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Owantum of Assistance"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To boost up the production of potato by providing quality HYV seed, organic-based plant protection measures, and P.P equipment."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% sale to the farmers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "For the potato seed experimental farm Upper Shillong, all inputs are provided for the purpose of multiplication of Breeder seed into foundation seed potato before distribution to a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "NA"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01: ",
+                "bold": true
+              },
+              {
+                "text": "The eligible bonafide farmer can apply/write an application on plain paper."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02:",
+                "bold": true
+              },
+              {
+                "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Mode of Selection of Beneficiary(s):",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bonafide farmers on a first come first serve basis."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Whom to Contact:",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1. District Horticulture Officer"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2. Horticulture Development Officer"
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n> **Mode of Selection of Beneficiary(s):**\n\nBonafide farmers on a first come first serve basis.\n> ***Whom to Contact:***\n\n1. District Horticulture Officer\n2. Horticulture Development Officer\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant/farmer should be a resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of at least 0.2 (hectares) or more.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant/farmer should be a resident of Meghalaya."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of at least 0.2 (hectares) or more."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " The applicant farmer can avail of the benefits of the scheme on a first come first serve basis."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tcptc"
+}

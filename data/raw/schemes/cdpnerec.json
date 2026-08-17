@@ -1,0 +1,394 @@
+{
+  "_id": "6544da6bae050a9d8fc7606d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "DBT",
+        "Subsidy"
+      ],
+      "schemeName": "Coffee Development Programme in North Eastern Region: Expansion of Coffee",
+      "schemeShortTitle": "CDPNER:EC",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "slug": "cdpnerec",
+      "briefDescription": "The scheme \"Coffee Development Programme in North Eastern Region: Expansion of Coffee\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry, aims to facilitate afforestation in the Jhum lands and help settle the tribals on a permanent footing."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines, Application And Declaration Form",
+          "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+        },
+        {
+          "title": "Grower's Registration (UMANG)",
+          "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Coffee Development Programme in North Eastern Region: Expansion of Coffee&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate afforestation in the Jhum lands and help settle the tribals on a permanent footing.\n",
+      "benefits_md": "**Unit Cost:** ₹1,00,000/per hectare.\n**Scale of Subsidy:** 50% of the Unit Cost, i.e., ₹50,000/per hectare.\n<br>\n\n**Release of Subsidy:** In two installments\n\n- 1st installment: 60% of the unit cost\n- 2nd installment: 40% of the unit cost\n\n<br>\n\n> **Procedure for Payment of Subsidy to the Grower**\n\nThe Joint Director (Extn.) / Deputy Director (Extn.) after confirming the admissibility of the claim will release the 1st and 2nd installments of the eligible subsidy amount, as the case may be, to the grower&#39;s bank account **EFT/RTGS/NEFT**.\n",
+      "briefDescription": "The scheme \"Coffee Development Programme in North Eastern Region: Expansion of Coffee\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry, aims to facilitate afforestation in the Jhum lands and help settle the tribals on a permanent footing.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Coffee Development Programme in North Eastern Region: Expansion of Coffee\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate afforestation in the Jhum lands and help settle the tribals on a permanent footing."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unit Cost: ",
+              "bold": true
+            },
+            {
+              "text": "₹1,00,000/per hectare."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scale of Subsidy:",
+              "bold": true
+            },
+            {
+              "text": " 50% of the Unit Cost, i.e., ₹50,000/per hectare."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Release of Subsidy: ",
+              "bold": true
+            },
+            {
+              "text": "In two installments"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "1st installment: 60% of the unit cost"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "2nd installment: 40% of the unit cost"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Procedure for Payment of Subsidy to the Grower",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Joint Director (Extn.) / Deputy Director (Extn.) after confirming the admissibility of the claim will release the 1st and 2nd installments of the eligible subsidy amount, as the case may be, to the grower's bank account "
+            },
+            {
+              "text": "EFT/RTGS/NEFT",
+              "bold": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Claiming 1st Installment",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested grower should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board after completion of planting."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "The concerned SLO/JLO Office shall scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 1st installment."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Claiming 2nd Installment",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The interested grower should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board during the 2nd year of planting, after filling the vacancies."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "The concerned SLO/JLO Office will scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 2nd installment."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Claiming 1st Installment**\n\n**Step 1:** The interested grower should take print of the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board after completion of planting.\n**Step 4:** The concerned SLO/JLO Office shall scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 1st installment.\n<br>\n\n> **Claiming 2nd Installment**\n\n**Step 1:** The interested grower should take print of the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board during the 2nd year of planting, after filling the vacancies.\n**Step 4:** The concerned SLO/JLO Office will scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 2nd installment.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a tribal grower.\n1. The applicant&#39;s area should be suitable for coffee cultivation as per the opinion of the Coffee Board&#39;s officers.\n1. The applicant should procure the seed material from the Coffee Board only.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a tribal grower."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's area should be suitable for coffee cultivation as per the opinion of the Coffee Board's officers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should procure the seed material from the Coffee Board only."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cdpnerec"
+}

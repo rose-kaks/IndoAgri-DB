@@ -1,0 +1,269 @@
+{
+  "_id": "68f50c03f93f97e596adadc1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Agricultural",
+        "Mechanization",
+        "Subsidy",
+        "Custom Hiring Centre",
+        "Self-help Group"
+      ],
+      "schemeName": "Sub-Mission on Agricultural Mechanization (SMAM) for Custom Hiring Centres / Big Farmers - Uttarakhand",
+      "schemeShortTitle": "SMAMCHCBFUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000001,
+        "label": "Agriculture Department"
+      },
+      "slug": "smamchcbfuk",
+      "briefDescription": "Under this scheme, individual large farmers, farmer groups, cooperatives, self-help groups, and custom hiring centres in the state can purchase agricultural equipment at a subsidized rate, with the Government of India providing a maximum subsidy of 40%."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 208)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Sub-Mission on Agricultural Mechanization for Custom Hiring Centres / Big Farmers” is implemented by the Department of Agriculture, Government of Uttarakhand. It aims to promote agricultural mechanization and enhance farm productivity by facilitating access to modern farm machinery. Under this scheme, individual large farmers, farmer groups, cooperatives, self-help groups, and custom hiring centres in the state can purchase agricultural equipment at a subsidized rate, with the Government of India providing a maximum subsidy of 40%.\n<br>\n\n",
+      "benefits_md": "Under the Custom Hiring Centre component (for groups of farmers involved in buying, renting, or selling agricultural equipment), farmer groups, cooperatives, FPOs, self-help groups, and individual farmers can purchase equipment valued between ₹10.00 lakh and ₹100.00 lakh. The Government of India provides a maximum subsidy of 40% on such purchases.<br>\n\n",
+      "briefDescription": "Under this scheme, individual large farmers, farmer groups, cooperatives, self-help groups, and custom hiring centres in the state can purchase agricultural equipment at a subsidized rate, with the Government of India providing a maximum subsidy of 40%.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Sub-Mission on Agricultural Mechanization for Custom Hiring Centres / Big Farmers” is implemented by the Department of Agriculture, Government of Uttarakhand. It aims to promote agricultural mechanization and enhance farm productivity by facilitating access to modern farm machinery. Under this scheme, individual large farmers, farmer groups, cooperatives, self-help groups, and custom hiring centres in the state can purchase agricultural equipment at a subsidized rate, with the Government of India providing a maximum subsidy of 40%."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "table_cell",
+              "children": [
+                {
+                  "text": "Under the Custom Hiring Centre component (for groups of farmers involved in buying, renting, or selling agricultural equipment), farmer groups, cooperatives, FPOs, self-help groups, and individual farmers can purchase equipment valued between ₹10.00 lakh and ₹100.00 lakh. The Government of India provides a maximum subsidy of 40% on such purchases."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After receiving the target from the Government of India, the Agriculture Department, through the District Chief Agriculture Officer’s Office, publishes an advertisement inviting applications for the purchase of machinery at a subsidized rate. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To avail of this scheme, farmers/groups must apply within the dates specified in the advertisement. Applications can be submitted online through the SMAM portal ("
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://agrimachinery.nic.in/",
+                        "children": [
+                          {
+                            "text": "https://agrimachinery.nic.in"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ") either by the farmers/groups themselves or via the nearest Common Service Center (CSC)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To apply online, farmers are required to upload their Aadhaar card along with an Aadhaar-linked mobile number, bank account details, land certificate, and caste certificate if applicable. In the case of group applications, it is mandatory to provide the bank account of the group or Custom Hiring Centre, a photo of the group president, Aadhaar cards of all group members, and the land documents of all members. All documents must correspond to the district in which the agricultural land is located. Farmers/groups who are unable to apply online can seek assistance from the Agriculture Department’s development block-level officer."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Once the application is submitted, the farmer/group receives a registration number or certificate. Using this registration number, the farmer/group can purchase the required equipment from a panel firm approved by the Agriculture Department, as listed on the portal, and upload the purchase bills. The bills are then verified by Agriculture Department personnel, and the subsidy amount is directly disbursed to the farmer’s/group's bank account through DBT."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The scheme follows a “first-come, first-served” system. District-wise targets are set, and once a district’s target is reached, farmers/groups will need to apply again in the following year to avail the benefits of the scheme."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - After receiving the target from the Government of India, the Agriculture Department, through the District Chief Agriculture Officer’s Office, publishes an advertisement inviting applications for the purchase of machinery at a subsidized rate. \n  - To avail of this scheme, farmers/groups must apply within the dates specified in the advertisement. Applications can be submitted online through the SMAM portal ([https://agrimachinery.nic.in](https://agrimachinery.nic.in/)) either by the farmers/groups themselves or via the nearest Common Service Center (CSC).  - To apply online, farmers are required to upload their Aadhaar card along with an Aadhaar-linked mobile number, bank account details, land certificate, and caste certificate if applicable. In the case of group applications, it is mandatory to provide the bank account of the group or Custom Hiring Centre, a photo of the group president, Aadhaar cards of all group members, and the land documents of all members. All documents must correspond to the district in which the agricultural land is located. Farmers/groups who are unable to apply online can seek assistance from the Agriculture Department’s development block-level officer.\n  - Once the application is submitted, the farmer/group receives a registration number or certificate. Using this registration number, the farmer/group can purchase the required equipment from a panel firm approved by the Agriculture Department, as listed on the portal, and upload the purchase bills. The bills are then verified by Agriculture Department personnel, and the subsidy amount is directly disbursed to the farmer’s/group&amp;#39;s bank account through DBT.\n  - The scheme follows a “first-come, first-served” system. District-wise targets are set, and once a district’s target is reached, farmers/groups will need to apply again in the following year to avail the benefits of the scheme.\n\n<br>\n\n"
+      },
+      {
+        "mode": "Online - via CSC",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Applications can be submitted online by visiting the nearest Common Service Center (CSC), along with all the relevant documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Applications can be submitted online by visiting the nearest Common Service Center (CSC), along with all the relevant documents.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a large farmer (owning 5 hectares or more of land), a cooperative group, self-help group, or a custom hiring centre in Uttarakhand.\n   1. The farmer or group must have cultivable land located in Uttarakhand.\n   1. For an individual large farmer, their name must be recorded in the revenue records. For a group, the names of all group members must be listed in the agricultural land documents.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a large farmer (owning 5 hectares or more of land), a cooperative group, self-help group, or a custom hiring centre in Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The farmer or group must have cultivable land located in Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For an individual large farmer, their name must be recorded in the revenue records. For a group, the names of all group members must be listed in the agricultural land documents."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "smamchcbfuk"
+}

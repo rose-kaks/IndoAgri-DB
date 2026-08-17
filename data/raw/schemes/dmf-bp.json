@@ -1,0 +1,256 @@
+{
+  "_id": "68ed19838ba160c15f30c47d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Crop",
+        "Soil",
+        "Plant"
+      ],
+      "schemeName": "Development of Manures & Fertilizers: Assistance for use of Micronutrients",
+      "schemeShortTitle": "DMF-AUM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Soil health",
+          "label": "Soil health"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "nodalDepartmentName": {
+        "value": 30000002,
+        "label": "Agriculture Department"
+      },
+      "slug": "dmf-bp",
+      "briefDescription": "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Assistance for use of Micronutrients\" component of the scheme aims to address micronutrient deficiencies in the soil that affect crop productivity and ensure healthy crop growth."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://goaprintingpress.gov.in/downloads/2526/2526-22-SI-OG.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Development of Manures &amp; Fertilizers&quot; was launched by the Department of Agriculture, Government of Goa. The &quot;Assistance for use of Micronutrients&quot; component of the scheme aims to address micronutrient deficiencies in the soil that affect crop productivity and ensure healthy crop growth and production. The payment of the sanctioned subsidy is through Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer.\n<br>\n\n",
+      "benefits_md": "***Assistance for the use of Micronutrients***\n\n- Micronutrients like Zinc, Boron, Magnesium Sulphate, and other notified micronutrients would be provided a 75% subsidy limited to Rs. 7,500/-per ha for all categories of farmers and a maximum of 4 ha per farmer. \n- The subsidy would be released after the micronutrients are purchased and used by farmers.\n\n<br>\n\n",
+      "briefDescription": "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Assistance for use of Micronutrients\" component of the scheme aims to address micronutrient deficiencies in the soil that affect crop productivity and ensure healthy crop growth.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Assistance for use of Micronutrients\" component of the scheme aims to address micronutrient deficiencies in the soil that affect crop productivity and ensure healthy crop growth and production. The payment of the sanctioned subsidy is through Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Assistance for the use of Micronutrients",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Micronutrients like Zinc, Boron, Magnesium Sulphate, and other notified micronutrients would be provided a 75% subsidy limited to Rs. 7,500/-per ha for all categories of farmers and a maximum of 4 ha per farmer. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy would be released after the micronutrients are purchased and used by farmers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The interested applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0",
+                "children": [
+                  {
+                    "text": "Zonal Agriculture Officer"
+                  }
+                ]
+              },
+              {
+                "text": " and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the [Zonal Agriculture Officer](https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.\n- The farmer should be cultivating a minimum of 0.1 ha in general. \n- Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme.\n- Farmer should possess a Soil Health Card not older than a 2-year period, or a certificate to that extent may be furnished by the Assistant Chemist of Soil Testing Laboratory (North/South).\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer should be cultivating a minimum of 0.1 ha in general. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmer should possess a Soil Health Card not older than a 2-year period, or a certificate to that extent may be furnished by the Assistant Chemist of Soil Testing Laboratory (North/South)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dmf-bp"
+}

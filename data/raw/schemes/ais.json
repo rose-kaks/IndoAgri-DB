@@ -1,0 +1,257 @@
+{
+  "_id": "68457faa50c110b1567dd0d6",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Insurance",
+        "Fish Farmer",
+        "Accidental Death",
+        "Disability",
+        "Fisherman"
+      ],
+      "schemeName": "Pradhan Mantri Matsya Sampada Yojana: Accident Insurance Scheme - Uttarakhand",
+      "schemeShortTitle": "PMMSYAISUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000011,
+        "label": "Department Of Fisheries"
+      },
+      "slug": "ais",
+      "briefDescription": "Under this scheme, fish farmers are provided insurance coverage of ₹5 lakh in case of accidental death/total permanent disability, ₹2.5 lakh for partial disability, & ₹50,000 for hospitalization. No premium is required to be paid by fish farmers, entire cost of the insurance is fully borne by Dept."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 249)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Accident Insurance Scheme&amp;quot;, a sub-component of the Pradhan Mantri Matsya Sampada Yojana, is implemented by the Department of Fisheries, Government of Uttarakhand. The scheme aims to provide financial security to fish farmers in the event of accidental death, permanent disability, or hospitalization.\n<br>\n\n",
+      "benefits_md": "**Under this scheme, an annual insurance coverage is provided as follows:**\n\n- ₹5,00,000/- in case of accidental death or total permanent disability.\n- ₹2,50,000/- for partial disability (such as loss of limbs, fingers, or partial loss of vision/hearing/speech, etc.).\n- ₹50,000/- for hospitalization expenses due to accidents.\n- The fish farmer is not required to pay any insurance premium. The entire premium amount is borne by the Department.\n\n<br>\n\n",
+      "briefDescription": "Under this scheme, fish farmers are provided insurance coverage of ₹5 lakh in case of accidental death/total permanent disability, ₹2.5 lakh for partial disability, & ₹50,000 for hospitalization. No premium is required to be paid by fish farmers, entire cost of the insurance is fully borne by Dept.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Accident Insurance Scheme\", a sub-component of the Pradhan Mantri Matsya Sampada Yojana, is implemented by the Department of Fisheries, Government of Uttarakhand. The scheme aims to provide financial security to fish farmers in the event of accidental death, permanent disability, or hospitalization."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under this scheme, an annual insurance coverage is provided as follows:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹5,00,000/- in case of accidental death or total permanent disability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,50,000/- for partial disability (such as loss of limbs, fingers, or partial loss of vision/hearing/speech, etc.)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹50,000/- for hospitalization expenses due to accidents."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fish farmer is not required to pay any insurance premium. The entire premium amount is borne by the Department."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To avail of the benefits under the scheme, eligible beneficiaries can obtain the insurance application form through the field personnel of the Fisheries Department."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The duly filled application form must be submitted along with the fisherman’s Aadhaar card, bank account details, birth certificate, permanent residence certificate, nominee details, and Aadhaar card. The insurance premium is paid by the department. After the fisherman is insured, the department will issue the relevant insurance certificate."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "In the event of an accident, death, or hospitalization, the beneficiary’s family must immediately inform the field personnel/officers of the Fisheries Department in the concerned area."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "In case of an accident, the claim form along with the necessary documents, such as a medical certificate, death certificate, hospitalization certificate, and insurance certificate, must be submitted. The claim amount will then be disbursed accordingly."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - To avail of the benefits under the scheme, eligible beneficiaries can obtain the insurance application form through the field personnel of the Fisheries Department.\n  - The duly filled application form must be submitted along with the fisherman’s Aadhaar card, bank account details, birth certificate, permanent residence certificate, nominee details, and Aadhaar card. The insurance premium is paid by the department. After the fisherman is insured, the department will issue the relevant insurance certificate.\n  - In the event of an accident, death, or hospitalization, the beneficiary’s family must immediately inform the field personnel/officers of the Fisheries Department in the concerned area.\n  - In case of an accident, the claim form along with the necessary documents, such as a medical certificate, death certificate, hospitalization certificate, and insurance certificate, must be submitted. The claim amount will then be disbursed accordingly.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a permanent resident of Uttarakhand.\n1. The applicant must be engaged in fish production or fishing as a profession.\n1. The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman.\n1. The applicant’s age must be between 18 and 70 years at the time of enrollment.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a permanent resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be engaged in fish production or fishing as a profession."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s age must be between 18 and 70 years at the time of enrollment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ais"
+}

@@ -1,0 +1,217 @@
+{
+  "_id": "68f210f88ba160c15f4335bd",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Exhibition Fair",
+        "Publicity",
+        "Horticulture"
+      ],
+      "schemeName": "Exhibition Fair and Publicity",
+      "schemeShortTitle": "EFAP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "efap",
+      "briefDescription": "The scheme aims to promote departmental schemes and disseminate information about the technology of fruit, flower, vegetable, and spice crops to farmers through exhibitions and seminars organized at the district and block levels."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to promote departmental schemes and disseminate information about the technology of fruit, flower, vegetable, and spice crops to farmers through exhibitions and seminars organized at the district and block levels.",
+      "detailedDescription_md": "The scheme “Exhibition Fair and Publicity” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh aims to spread awareness about horticultural technologies and departmental schemes through exhibitions and seminars conducted at district and block levels for the benefit of farmers.\n&lt;br&gt;\n\n<br>\n\n",
+      "benefits_md": "\n  - **Awareness Creation:** Farmers receive knowledge about horticulture schemes and technologies related to fruit, flower, vegetable, and spice crops.  - **Scheme Promotion:** Departmental schemes are publicized to ensure more participation and benefit utilization among farmers.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Exhibition Fair and Publicity” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh aims to spread awareness about horticultural technologies and departmental schemes through exhibitions and seminars conducted at district and block levels for the benefit of farmers."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Awareness Creation:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Farmers receive knowledge about horticulture schemes and technologies related to fruit, flower, vegetable, and spice crops."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Scheme Promotion: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Departmental schemes are publicized to ensure more participation and benefit utilization among farmers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant should contact the District Office of the Horticulture Department."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "efap"
+}

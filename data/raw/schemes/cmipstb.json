@@ -1,0 +1,279 @@
+{
+  "_id": "691d5acdd2e998a556bac1a9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scheduled Tribe",
+        "Irrigation",
+        "Minor Irrigation",
+        "Water Storage Tank",
+        "Farmer",
+        "Water Channels"
+      ],
+      "schemeName": "Construction of Minor Irrigation Projects for Scheduled Tribe Beneficiaries",
+      "schemeShortTitle": "CMIPSTB",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000029,
+        "label": "Minor Irrigation Department"
+      },
+      "slug": "cmipstb",
+      "briefDescription": "The scheme aims to provide Scheduled Tribe farmers with free and adequate irrigation by constructing small irrigation projects such as water tanks and pipelines in Scheduled Tribe-dominated areas, thereby helping them improve their farming."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines Page No. 248",
+          "url": "https://www.google.com/url?q=https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf&sa=D&source=docs&ust=1750927616357877&usg=AOvVaw04FwRQf8ZVw0xT2NNrjJSo"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://minorirrigation.uk.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Construction of Minor Irrigation Projects for Scheduled Tribe Beneficiaries” was launched by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide Scheduled Tribe farmers with free and adequate irrigation by constructing small irrigation projects such as water tanks and pipelines in Scheduled Tribe-dominated areas, thereby helping them improve their farming. It is a 100% state government-funded scheme.\n<br>\n\n",
+      "benefits_md": "Under this scheme, farmers will be provided with free irrigation facilities. The following projects are constructed for collective irrigation in Scheduled Tribe-dominated areas:\n\n  - Hauz (Water Storage Tank)\n  - Construction of Pipelines / Water Channels (Gool)\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide Scheduled Tribe farmers with free and adequate irrigation by constructing small irrigation projects such as water tanks and pipelines in Scheduled Tribe-dominated areas, thereby helping them improve their farming.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Construction of Minor Irrigation Projects for Scheduled Tribe Beneficiaries” was launched by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide Scheduled Tribe farmers with free and adequate irrigation by constructing small irrigation projects such as water tanks and pipelines in Scheduled Tribe-dominated areas, thereby helping them improve their farming. It is a 100% state government-funded scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, farmers will be provided with free irrigation facilities. The following projects are constructed for collective irrigation in Scheduled Tribe-dominated areas:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Hauz (Water Storage Tank)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Construction of Pipelines / Water Channels (Gool)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After examination by the departmental TAC, the DPR is forwarded to the headquarters. After which the proposal is sent to the government for approval. The construction work of the projects is initiated after receiving financial approval from the Government."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - For construction of the project, project&amp;#39;s proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.\n  - After examination by the departmental TAC, the DPR is forwarded to the headquarters. After which the proposal is sent to the government for approval. The construction work of the projects is initiated after receiving financial approval from the Government.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must be a farmer engaged in agricultural activities.\n   1. The beneficiary must belong to the Scheduled Tribe category.\n   1. Collective irrigation projects will be constructed under the scheme.\n   1. The name of the proposed village must be included in the list of Scheduled Tribe-dominated villages issued by the Department of Social Welfare.\n   1. Sufficient irrigated area must be available for the project.\n   1. The cost of the project must not exceed ₹4.00 lakh per hectare, and the benefit-cost ratio must be greater than 1.0.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a farmer engaged in agricultural activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must belong to the Scheduled Tribe category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Collective irrigation projects will be constructed under the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The name of the proposed village must be included in the list of Scheduled Tribe-dominated villages issued by the Department of Social Welfare."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Sufficient irrigated area must be available for the project."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The cost of the project must not exceed ₹4.00 lakh per hectare, and the benefit-cost ratio must be greater than 1.0."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmipstb"
+}

@@ -1,0 +1,333 @@
+{
+  "_id": "6482db57481f59106a683662",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "1995-10-30",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Directorate Of Agriculture, Government Of Gujarat",
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Research",
+        "Honour",
+        "Award"
+      ],
+      "schemeName": "Sardar Patel Agriculture Research Award",
+      "schemeShortTitle": "SPARA",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "spara",
+      "briefDescription": "The scheme “Sardar Patel Agriculture Research Award” was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat on 30.10.1995. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://dag.gujarat.gov.in/sardar-patel-agriculrure-research-award.htm"
+        },
+        {
+          "title": "SP Award Samanya Form -1",
+          "url": "https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf"
+        },
+        {
+          "title": "SP Award Sajiv Kheti Form -2",
+          "url": "https://dag.gujarat.gov.in/images/S-P-SAJIV-FORM.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Sardar Patel Agriculture Research Award” was launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat on 30.10.1995. In the field of Agriculture, this scheme has been set up by the state government for the farmers of the state who produce good quality yield by their innovative idea and by their own courage as well as research new technique in the agriculture field. The scheme has been implemented by the State government to honour and appreciate farmers’ contribution to the development of agriculture to encourage and accelerate agricultural production. This award is given in five different categories/subjects.\n**Different categories of the award are as below:**\n\n  - **SUB-1:** Develop a new variety by farmers&amp;#39; own innovative skill in all the main crops of Gujarat like Cereal, Oilseed crop, pulse, cotton, sugarcane, tobacco as well as Horticulture crops and spices and condiments, etc., and introducing successfully new crops instead of traditional crops grown in the state.  - **SUB-2:** Achievement in model agriculture by producing higher yield through modern irrigation methods with water management and utilization of irrigation water as well as raising the water table of well/tube well by recharging well/tube well with harvesting rainwater  - **SUB-3:** Achievement for success in dry farming by developing techniques for drought  - **SUB-4:** Develop new methods of Integrated Pest Management for different crops  - **SUB-5:** Development of innovative farm equipment for different methods, such as cultivation, inter-cultivation, weeding, spacing, harvesting, threshing, or other types of farming.\n",
+      "benefits_md": "\n- In this scheme every year ₹51000/- is awarded with the shawl and certificate to the farmer who gains the first position in each category and also first five farmers from each category are appreciated with the shawl &amp;amp; certificate.\n- In addition to this, farmers as in the form of encouragement are appreciated by giving shawls &amp;amp; certificates for the special work done in the field of beekeeping, poultry farming, fisheries, etc.\n\n",
+      "briefDescription": "The scheme “Sardar Patel Agriculture Research Award” was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat on 30.10.1995. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Sardar Patel Agriculture Research Award” was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat on 30.10.1995. In the field of Agriculture, this scheme has been set up by the state government for the farmers of the state who produce good quality yield by their innovative idea and by their own courage as well as research new technique in the agriculture field. The scheme has been implemented by the State government to honour and appreciate farmers’ contribution to the development of agriculture to encourage and accelerate agricultural production. This award is given in five different categories/subjects."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Different categories of the award are as below:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "SUB-1:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Develop a new variety by farmers' own innovative skill in all the main crops of Gujarat like Cereal, Oilseed crop, pulse, cotton, sugarcane, tobacco as well as Horticulture crops and spices and condiments, etc., and introducing successfully new crops instead of traditional crops grown in the state."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "SUB-2:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Achievement in model agriculture by producing higher yield through modern irrigation methods with water management and utilization of irrigation water as well as raising the water table of well/tube well by recharging well/tube well with harvesting rainwater"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "SUB-3:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Achievement for success in dry farming by developing techniques for drought"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "SUB-4:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Develop new methods of Integrated Pest Management for different crops"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "SUB-5:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Development of innovative farm equipment for different methods, such as cultivation, inter-cultivation, weeding, spacing, harvesting, threshing, or other types of farming."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In this scheme every year ₹51000/- is awarded with the shawl and certificate to the farmer who gains the first position in each category and also first five farmers from each category are appreciated with the shawl & certificate."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In addition to this, farmers as in the form of encouragement are appreciated by giving shawls & certificates for the special work done in the field of beekeeping, poultry farming, fisheries, etc."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "To participate in this scheme, the farmer may download the application form or collect it from the office of the Directorate of Agriculture/District Agriculture Office. The farmer may fill the application form as per his/her eligibility."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "a.\t"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf",
+                    "children": [
+                      {
+                        "text": "Application Form for Sardar Patel Agricultural Research Award Scheme"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "b.\t"
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://dag.gujarat.gov.in/images/S-P-SAJIV-FORM.pdf",
+                    "children": [
+                      {
+                        "text": "Application form for Sardar Patel Agricultural Research Award (Organic Farming)."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The application form in the prescribed format with the necessary information/documents is to be sent to the Directorate of Agriculture Office, Krushi Bhavan Gandhinagar, Gujarat through the concerned District Agriculture Officer before 31st May."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After successful verification, the applicant may be eligible to avail the benefits of the scheme. "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** To participate in this scheme, the farmer may download the application form or collect it from the office of the Directorate of Agriculture/District Agriculture Office. The farmer may fill the application form as per his/her eligibility.\na.\t[Application Form for Sardar Patel Agricultural Research Award Scheme](https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf)\nb.\t[Application form for Sardar Patel Agricultural Research Award (Organic Farming).](https://dag.gujarat.gov.in/images/S-P-SAJIV-FORM.pdf)\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents.\n**Step 3:** The application form in the prescribed format with the necessary information/documents is to be sent to the Directorate of Agriculture Office, Krushi Bhavan Gandhinagar, Gujarat through the concerned District Agriculture Officer before 31st May.\n**Step 4:** After successful verification, the applicant may be eligible to avail the benefits of the scheme. \n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The farmer should be a permanent resident of Gujarat State.\n1. The farmers either Male or Female who possesses Agriculture land in Gujarat are eligible to apply for this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer should be a permanent resident of Gujarat State."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers either Male or Female who possesses Agriculture land in Gujarat are eligible to apply for this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "spara"
+}

@@ -1,0 +1,265 @@
+{
+  "_id": "67cad8f34f0bd5e698d32633",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Market Committee",
+        "Modern Facilities"
+      ],
+      "schemeName": "Creation of Modern Facilities in Market Committee: Scheme to provide assistance foe setting up modern facilities in Market Committee",
+      "schemeShortTitle": "CMFMC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Technology upgradation",
+          "label": "Technology upgradation"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Infra",
+      "slug": "cmfmc",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Dept., Gujarat. It aims to provide financial assistance to Market Committees for setting up modern facilities, improving agricultural infrastructure, and enhancing the competitiveness of agricultural markets."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines 1",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=CE+zAcB7j/5xkcgxaozDZQ==&domain=Uxijm857oHjeSHuzZgXyAA=="
+        },
+        {
+          "title": "Guidelines 2",
+          "url": "https://agri.gujarat.gov.in/ViewFile?fileName=aPNBWj81zn2Uij94k1vnHASH__HASHQVwFnxM0iwP0xrtm2ICpfloHjIFBWuNRMvnRUDYSZT7Z7lkHASH_HASH0ekl06hVcPwpg64L7HASH__HASHik6NzgEX3TFdKJHASH_HASHZqLpuA5uJNxLW6MIclua985rXZYIpPNjs9JqtOHASH__HASHB8dA4qN3g=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Dept., Gujarat. It aims to provide financial assistance to Market Committees for setting up modern facilities, improving agricultural infrastructure, and enhancing the competitiveness of agricultural markets.",
+      "detailedDescription_md": "The scheme &amp;quot;Creation of Modern Facilities in Market Committee: Scheme to provide assistance foe setting up modern facilities in Market Committee&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to upgrade Agricultural Produce Market Committees (APMCs) with essential infrastructure, enabling farmers to increase production, enhance product quality, and secure better prices for their produce.\n",
+      "benefits_md": "<br>\n\n**Name of the Component****Standard of Assistance**1) Sales cum exhibition centre; 2) Shed/platform for farmers; 3) Demonstration farm for drip irrigation; 4) Information kiosk in vegetable market100% of project cost to all types of market committees up to a limit of ₹50,00,000/-5) Soil testing laboratory; 6) Water system like borewell, tube well, water cooler, water cooler with RO plant, overhead tank, underground tank etc.; 7) Solar light system25% of the project cost to &amp;amp;amp;quot;A&amp;amp;amp;#39;&amp;amp;amp;#39; and &amp;amp;amp;quot;B&amp;amp;amp;quot; class market committees and 50% of the project cost to Class &amp;amp;amp;quot;C&amp;amp;amp;quot; and &amp;amp;amp;quot;D&amp;amp;amp;quot; Market Committees (Within a limit of ₹50,00,000/-)<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Creation of Modern Facilities in Market Committee: Scheme to provide assistance foe setting up modern facilities in Market Committee\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to upgrade Agricultural Produce Market Committees (APMCs) with essential infrastructure, enabling farmers to increase production, enhance product quality, and secure better prices for their produce."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of the Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1) Sales cum exhibition centre; 2) Shed/platform for farmers; 3) Demonstration farm for drip irrigation; 4) Information kiosk in vegetable market"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "100% of project cost to all types of market committees up to a limit of ₹50,00,000/-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "5) Soil testing laboratory; 6) Water system like borewell, tube well, water cooler, water cooler with RO plant, overhead tank, underground tank etc.; 7) Solar light system"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "25% of the project cost to \"A'' and \"B\" class market committees and 50% of the project cost to Class \"C\" and \"D\" Market Committees (Within a limit of ₹50,00,000/-)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Market committees need to prepare development plans and cost estimates with an engineer on the panel approved by the Director-Agricultural Markets and Rural Finance."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Submit the proposal to the Deputy Director and District Registrar of Co-operative Societies of the respective district."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Office Address and Contact Details of District Registrar: ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://rcs.gujarat.gov.in/Home/DistrictRegistrar",
+                "children": [
+                  {
+                    "text": "Click here"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": "."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Market committees need to prepare development plans and cost estimates with an engineer on the panel approved by the Director-Agricultural Markets and Rural Finance.\n**Step 2:** Submit the proposal to the Deputy Director and District Registrar of Co-operative Societies of the respective district.\n> **Office Address and Contact Details of District Registrar:** [Click here](https://rcs.gujarat.gov.in/Home/DistrictRegistrar)**.**\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - All Market Committees of Gujarat State shall be eligible for this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All Market Committees of Gujarat State shall be eligible for this scheme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmfmc"
+}

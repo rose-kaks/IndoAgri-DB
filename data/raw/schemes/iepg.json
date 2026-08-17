@@ -1,0 +1,503 @@
+{
+  "_id": "67bb8f180117797439f2a306",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Pig",
+        "Pig Semen",
+        "Import Exotic Pig",
+        "Pig Germplasm",
+        "Livestock Agencies",
+        "Livestock Board",
+        "Animal Husbandry"
+      ],
+      "schemeName": "National Livestock Mission: Genetic Improvement of Pig Breeds - Import of Exotic Pig Germplasm",
+      "schemeShortTitle": "NLMGIPBIEPG",
+      "implementingAgency": "State Animal Husbandry Department",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "state-government",
+          "label": "State Government"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 1572,
+        "label": "Ministry of Fisheries,Animal Husbandry and Dairying"
+      },
+      "nodalDepartmentName": {
+        "value": 121225,
+        "label": "Department of Animal Husbandry & Dairying"
+      },
+      "slug": "iepg",
+      "briefDescription": "The scheme aims to enhance indigenous pig productivity through genetic upgradation. The scheme supports the establishment of pig semen collection and processing labs and the import of exotic pig germplasm."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.dahd.gov.in/sites/default/files/2023-11/NLMGuidelinesFinalApprovedByEC.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://nlm.udyamimitra.in/Home/SubmissionOnBreed"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://www.nlm.udyamimitra.in/Default/ViewFile/?id=NLM_Application_form_for_entreprenuers.docx&path=MiscFiles"
+        },
+        {
+          "title": "Documents Required",
+          "url": "https://www.nlm.udyamimitra.in/Default/ViewFile/?id=NLM_List_of_Documents.docx&path=MiscFiles"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Import of Exotic Pig Germplasm” is a component under the Sub-Mission on Breed Development of Livestock and Poultry of the National Livestock Mission (NLM), implemented by the Department of Animal Husbandry and Dairying, Government of India. The scheme supports States in the need-based import of superior exotic pig germplasm for genetic improvement of indigenous and non-descript pig breeds. The imported germplasm is used to produce quality crossbred pigs with higher meat productivity. The superior exotic breeds are maintained as pure breeds in State nucleus farms. States are required to formulate and notify a pig breeding policy before submitting proposals under the scheme.\n<br>\n\n",
+      "benefits_md": "- **Funding Pattern:** Assistance will be provided on a cost-sharing basis of 60:40 for all States and 90:10 for North Eastern and Himalayan States.<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to enhance indigenous pig productivity through genetic upgradation. The scheme supports the establishment of pig semen collection and processing labs and the import of exotic pig germplasm.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Import of Exotic Pig Germplasm” is a component under the Sub-Mission on Breed Development of Livestock and Poultry of the National Livestock Mission (NLM), implemented by the Department of Animal Husbandry and Dairying, Government of India. The scheme supports States in the need-based import of superior exotic pig germplasm for genetic improvement of indigenous and non-descript pig breeds. The imported germplasm is used to produce quality crossbred pigs with higher meat productivity. The superior exotic breeds are maintained as pure breeds in State nucleus farms. States are required to formulate and notify a pig breeding policy before submitting proposals under the scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "list_item",
+          "children": [
+            {
+              "text": "Funding Pattern:",
+              "bold": true
+            },
+            {
+              "text": " Assistance will be provided on a cost-sharing basis of 60:40 for all States and 90:10 for North Eastern and Himalayan States."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://nlm.udyamimitra.in/",
+                "children": [
+                  {
+                    "text": "Official Website"
+                  }
+                ]
+              },
+              {
+                "text": " of \"National Livestock Mission\" and click \""
+              },
+              {
+                "type": "link",
+                "link": "https://nlm.udyamimitra.in/Login/Login",
+                "children": [
+                  {
+                    "text": "Apply Here"
+                  }
+                ]
+              },
+              {
+                "text": "\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The following methods of Logging In will be displayed:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Login as Entrepreneur"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Login as Government / Other Agencies"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Login as Research & Innovation"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login to the website using your preferred method."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": "Agree to the \"Declaration & Authorization\" by ticking the checkbox. Provide the Date & Place, and finally click \"Submit\"."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Post-Application Processes",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": "Screening of application by State Implementing Agency (SIA)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "SIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " Loan sanction by Lender"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal diligent process. After sanctioning the loan, Lender will upload sanction letter on the portal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "underline": true,
+                "bold": true
+              },
+              {
+                "text": " Recommendation from State Level Executive Committee (SLEC)",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Once the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry & Dairying)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "underline": true,
+                "bold": true
+              },
+              {
+                "text": " Approval of subsidy by DAHD",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "DAHD will approve the subsidy and will mark the approval of the same on portal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "underline": true,
+                "bold": true
+              },
+              {
+                "text": " Disbursement and release of subsidy",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Track Application Status",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "You can check your application status from the \"TRACK STATUS\" tab available in the upper right corner of the portal"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Help and Support",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "If you encounter any issues or have questions, visit the \""
+              },
+              {
+                "type": "link",
+                "link": "https://nlm.udyamimitra.in/Home/Contact",
+                "children": [
+                  {
+                    "text": "Contact Us"
+                  }
+                ]
+              },
+              {
+                "text": "\" page."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [Official Website](https://nlm.udyamimitra.in/) of &quot;National Livestock Mission&quot; and click &quot;[Apply Here](https://nlm.udyamimitra.in/Login/Login)&quot;.\n**Step 2:** The following methods of Logging In will be displayed:\n\n- Login as Entrepreneur\n- Login as Government / Other Agencies\n- Login as Research &amp; Innovation\n\nLogin to the website using your preferred method.\n**Step 3:** On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. \n**Step 4:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\n**Step 5:** Agree to the &quot;Declaration &amp; Authorization&quot; by ticking the checkbox. Provide the Date &amp; Place, and finally click &quot;Submit&quot;.\n> **Post-Application Processes**\n\n**Step 1:** **Screening of application by State Implementing Agency (SIA)**\nSIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc.\n**Step 2:** **Loan sanction by Lender**\nAfter the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal diligent process. After sanctioning the loan, Lender will upload sanction letter on the portal.\n**Step 3:** **Recommendation from State Level Executive Committee (SLEC)**\nOnce the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry &amp; Dairying).\n**Step 4:** **Approval of subsidy by DAHD**\nDAHD will approve the subsidy and will mark the approval of the same on portal.\n**Step 5:** **Disbursement and release of subsidy**\nAfter compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries.\n> **Track Application Status**\n\n> You can check your application status from the &quot;TRACK STATUS&quot; tab available in the upper right corner of the portal\n\n> **Help and Support**\n\n> If you encounter any issues or have questions, visit the &quot;[Contact Us](https://nlm.udyamimitra.in/Home/Contact)&quot; page.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "***Eligible Beneficiaries:***\n\n- State Livestock Agencies\n- State Livestock Boards\n- Animal Husbandry Department, State Government\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligible Beneficiaries:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State Livestock Agencies"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State Livestock Boards"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Animal Husbandry Department, State Government"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "iepg"
+}

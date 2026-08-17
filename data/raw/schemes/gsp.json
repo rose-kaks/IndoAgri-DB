@@ -1,0 +1,377 @@
+{
+  "_id": "648a2476380f8e12353ede32",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777773,
+        "label": "Arts and Culture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Culture",
+        "Dance",
+        "Tradition"
+      ],
+      "schemeName": "Guru Shishya Parampara",
+      "schemeShortTitle": "GSP",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "gsp",
+      "briefDescription": "A scheme called \"Guru Shishya Parampara Scheme\" to preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art art under the able guidance of Gurus"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://meghalaya.gov.in/sites/default/files/schemes/GSP_Scheme.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The government of India, Ministry of Culture runs a scheme called &quot;Guru Shishya Parampara Scheme&quot; through Zonal Cultural Centres to preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art under the able guidance of Gurus.\n<br>\n\nThe traditional Guru-Shishya Parampara in the Indian Culture and Religion is the succession of teachers and disciples through the tradition of spiritual relationship and mentoring. Through this tradition teachings and knowledge of a Guru will be transferred to a disciple.\n<br>\n\nThe Ministry of Culture with the aim of preserving the Guru-Shishya Parampara tradition and promoting talents in the field of music and drama and other art forms introduced the Guru Shishya Parampara scheme in 2003-04. As per the scheme, great masters in the field of Music and Dance, folk and tribal art forms will be identified in each zonal cultural centre and pupils will be assigned to them. Financial assistance and Scholarship will be given by the government, encouraging the systematic learning of different art forms.\n<br>\n\n",
+      "benefits_md": "\n- To preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art.\n\n\n- The Selected Guru Accompanist and four Shishyas will be appointed for a period of one year on payment of the following honorarium\n\n<br>\n\nGuruRs. 7,500/- per monthAccompanist (one)Rs. 3.750/- per monthShishyas(Four)Rs. 1,500 per month each<br>\n\n",
+      "briefDescription": "A scheme called \"Guru Shishya Parampara Scheme\" to preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art art under the able guidance of Gurus",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The government of India, Ministry of Culture runs a scheme called \"Guru Shishya Parampara Scheme\" through Zonal Cultural Centres to preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art under the able guidance of Gurus."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The traditional Guru-Shishya Parampara in the Indian Culture and Religion is the succession of teachers and disciples through the tradition of spiritual relationship and mentoring. Through this tradition teachings and knowledge of a Guru will be transferred to a disciple."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Ministry of Culture with the aim of preserving the Guru-Shishya Parampara tradition and promoting talents in the field of music and drama and other art forms introduced the Guru Shishya Parampara scheme in 2003-04. As per the scheme, great masters in the field of Music and Dance, folk and tribal art forms will be identified in each zonal cultural centre and pupils will be assigned to them. Financial assistance and Scholarship will be given by the government, encouraging the systematic learning of different art forms."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Selected Guru Accompanist and four Shishyas will be appointed for a period of one year on payment of the following honorarium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Guru"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Rs. 7,500/- per month"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Accompanist (one)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Rs. 3.750/- per month"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Shishyas(Four)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Rs. 1,500 per month each"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "https://meghalaya.gov.in/sites/default/files/schemes/GSP_Scheme.pdf",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Selection Committee should be constituted by the Department of Art & Culture/Cultural Affairs of the Concerned States consisting of one member each from Governing Body/Executive Board and Programed Committee and two eminent and personalities in different fields with an Officer of the Department. The Committee will scrutinize the applications and recommend to Director. North East Zone Cultural Centre NEZCC) for final selection."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Committee will scrutinize the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://meghalaya.gov.in/sites/default/files/schemes/GSP_Scheme.pdf",
+                    "children": [
+                      {
+                        "text": "applications "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "and conduct interviews of the applicants including performance/demonstration wherever necessary and recommend one candidate I in each field to NEZCC for final selection"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Persons, who have earlier availed similar scheme either from the Government of India or State Government should not be recommended."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant should appear for interviews in person to demonstrate his/her efficiency in the field"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The selected Guru shall then appoint an Accompanist and four Shishyas for a period of one (1) year (one term) and submit their bio data, passport size photographs. bank particulars etc. to Director, NEZCC"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Accompanist or Shishya(s) once appointed cannot be changed."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Selection Committee should be constituted by the Department of Art &amp; Culture/Cultural Affairs of the Concerned States consisting of one member each from Governing Body/Executive Board and Programed Committee and two eminent and personalities in different fields with an Officer of the Department. The Committee will scrutinize the applications and recommend to Director. North East Zone Cultural Centre NEZCC) for final selection.\n1. The Committee will scrutinize the [applications ](https://meghalaya.gov.in/sites/default/files/schemes/GSP_Scheme.pdf)and conduct interviews of the applicants including performance/demonstration wherever necessary and recommend one candidate I in each field to NEZCC for final selection1. Persons, who have earlier availed similar scheme either from the Government of India or State Government should not be recommended.\n1. Applicant should appear for interviews in person to demonstrate his/her efficiency in the field\n1. The selected Guru shall then appoint an Accompanist and four Shishyas for a period of one (1) year (one term) and submit their bio data, passport size photographs. bank particulars etc. to Director, NEZCC\n1. Accompanist or Shishya(s) once appointed cannot be changed.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicants should be Indian citizens. \n1. Applicants (Guru) should be Eminent Practitioners/ Resourceful persons in the specified field.\n1. Applicants (Guru) should be between 45 to 70 years.\n1. Applicants (Guru) should be physically and mentally sound to run efficiently the Guru Shishya Parampara Kendra.\n1. The Shishyas should be in the age groups of 15 to 25 years. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicants should be Indian citizens. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicants (Guru) should be Eminent Practitioners/ Resourceful persons in the specified field."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicants (Guru) should be between 45 to 70 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicants (Guru) should be physically and mentally sound to run efficiently the Guru Shishya Parampara Kendra."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Shishyas should be in the age groups of 15 to 25 years. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gsp"
+}

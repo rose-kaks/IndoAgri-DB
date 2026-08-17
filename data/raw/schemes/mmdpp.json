@@ -1,0 +1,337 @@
+{
+  "_id": "68e355b5e00490d9b33126ae",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Subsidy",
+        "Farmer",
+        "Buffaloes",
+        "Livestock",
+        "Farmer"
+      ],
+      "schemeName": "Mukhyamantri Dairy Plus Programme (Provision of 02 Murrah Buffaloes on Subsidy)",
+      "schemeShortTitle": "MMDPP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "slug": "mmdpp",
+      "briefDescription": "The scheme aims to increase milk production and promote improved livestock breeding by providing two Murrah buffaloes to eligible farmers on a subsidy basis."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=980"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Mukhyamantri Dairy Plus Programme (Provision of 02 Murrah Buffaloes on Subsidy)&quot; scheme is implemented by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to enhance milk production, promote improved livestock breeding, and support small and marginal livestock farmers by providing two high genetic quality, pregnant Murrah buffaloes (five months or more), each yielding an average of 8 to 10 liters of milk per day, on a subsidy basis to ensure early productivity.\n<br>\n\n",
+      "benefits_md": "> **Subsidy Process:**\n\n\n- General Category: 50% subsidy and 50% beneficiary contribution.\n- Scheduled Castes (SC), Scheduled Tribes (ST), and Scheduled Caste farmers: 75% subsidy and 25% beneficiary contribution.\n- Provision of 2 Murrah Buffaloes with high genetic quality, each yielding 8–10 liters of milk daily.\n- Pregnant buffaloes (5 months or more) are provided to ensure immediate milk production.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to increase milk production and promote improved livestock breeding by providing two Murrah buffaloes to eligible farmers on a subsidy basis.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Mukhyamantri Dairy Plus Programme (Provision of 02 Murrah Buffaloes on Subsidy)\" scheme is implemented by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to enhance milk production, promote improved livestock breeding, and support small and marginal livestock farmers by providing two high genetic quality, pregnant Murrah buffaloes (five months or more), each yielding an average of 8 to 10 liters of milk per day, on a subsidy basis to ensure early productivity."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Subsidy Process:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General Category: 50% subsidy and 50% beneficiary contribution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scheduled Castes (SC), Scheduled Tribes (ST), and Scheduled Caste farmers: 75% subsidy and 25% beneficiary contribution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision of 2 Murrah Buffaloes with high genetic quality, each yielding 8–10 liters of milk daily."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pregnant buffaloes (5 months or more) are provided to ensure immediate milk production."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "text": "Application Process:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should visit the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services in their respective district (Sehore, Vidisha, or Raisen) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Post-Application Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The application is first approved by the Gram Sabha of the applicant’s village."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 2: "
+              },
+              {
+                "text": "The list of Gram Sabha-approved beneficiaries is then forwarded to the Janpad Panchayat meeting for further approval."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 3: "
+              },
+              {
+                "text": "After approval at the Janpad Panchayat level, the application is finalized by the District Panchayat Agricultural Standing Committee."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 4: "
+              },
+              {
+                "text": "Once approved, two Murrah buffaloes are provided to the selected beneficiary at the prescribed subsidy rate."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process:**\n\n**Step 1:** The interested applicant should visit the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services in their respective district (Sehore, Vidisha, or Raisen) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office.\n**Step 4:** Request a receipt or acknowledgment from the Veterinary Officer, Veterinary Hospital In-Charge, or Deputy Director of Veterinary Services office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n> **Post-Application Process:**\n\n**Step 1:** The application is first approved by the Gram Sabha of the applicant’s village.\n**Step 2:** The list of Gram Sabha-approved beneficiaries is then forwarded to the Janpad Panchayat meeting for further approval.\n**Step 3:** After approval at the Janpad Panchayat level, the application is finalized by the District Panchayat Agricultural Standing Committee.\n**Step 4:** Once approved, two Murrah buffaloes are provided to the selected beneficiary at the prescribed subsidy rate.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant must be a resident of Sehore, Vidisha, or Raisen district, where the scheme is currently implemented. \n1. The applicant must be a livestock farmer.  \n1. The applicant must belong to the General, Schedule Caste, or Schedule Tribe category.\n1. The applicant must have basic infrastructure for maintaining two dairy animals, such as a shed and water availability.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Sehore, Vidisha, or Raisen district, where the scheme is currently implemented. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a livestock farmer.  "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to the General, Schedule Caste, or Schedule Tribe category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have basic infrastructure for maintaining two dairy animals, such as a shed and water availability."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mmdpp"
+}

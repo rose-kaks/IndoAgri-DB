@@ -1,0 +1,248 @@
+{
+  "_id": "65c5d3eaed4030e118d348c6",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farming",
+        "Farmer",
+        "Financial Benefits",
+        "Farming Land",
+        "Vegetable"
+      ],
+      "schemeName": "Sabji Shetra Vistar Yojana",
+      "schemeShortTitle": "SSVY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2016-08-02",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "ssvy",
+      "briefDescription": "Under the Sabji Shetra Vistar yojana, selection of vegetables through quality high yielding varieties to expand the area of crops and increase production."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%B8%E0%A4%AC%E0%A5%8D%E0%A4%9C%E0%A5%80%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-converted.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Integrated Horticulture Development Mission Scheme of the Central Government, a subsidy (grant) is provided to the farmers of the state in the sabji shetra vistar yojana with the help of the Madhya Pradesh State Horticulture Mission. Under the scheme, a 50% grant amount is given to the farmers for planting hybrid seed vegetables like okra, guarphali, gilki, loki, tomato, pumpkin, cucumber, capsicum, etc. In this, the farmer will be given the benefit of the scheme up to a maximum of 2 hectares.\n",
+      "benefits_md": "\n- 50% of the cost of seeds in vegetable crops up to a maximum of ₹10,000/- Whatever is less, a grant will be given per hectare.\n- Root and tuber commercial crops, arbi etc. production, planting material 50% of the cost subject to a maximum of ₹30,000/- per hectare, whichever is less. This grant will be payable.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "Under the Sabji Shetra Vistar yojana, selection of vegetables through quality high yielding varieties to expand the area of crops and increase production.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Integrated Horticulture Development Mission Scheme of the Central Government, a subsidy (grant) is provided to the farmers of the state in the sabji shetra vistar yojana with the help of the Madhya Pradesh State Horticulture Mission. Under the scheme, a 50% grant amount is given to the farmers for planting hybrid seed vegetables like okra, guarphali, gilki, loki, tomato, pumpkin, cucumber, capsicum, etc. In this, the farmer will be given the benefit of the scheme up to a maximum of 2 hectares."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50% of the cost of seeds in vegetable crops up to a maximum of ₹10,000/- Whatever is less, a grant will be given per hectare."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Root and tuber commercial crops, arbi etc. production, planting material 50% of the cost subject to a maximum of ₹30,000/- per hectare, whichever is less. This grant will be payable."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Applicants have to visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex",
+                "children": [
+                  {
+                    "text": "official portal."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on \""
+              },
+              {
+                "type": "link",
+                "link": "https://mpfsts.mp.gov.in/mphd/#/new-application",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ladlilaxmi.mp.gov.in/Application/Public/Rules.aspx",
+                    "children": [
+                      {
+                        "text": "New Registration "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\""
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Enter your mobile number and click on OTP Send"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Now, please fill in the details and upload the documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: After, fill all the information and upload the document click on the submit button"
+              }
+            ]
+          }
+        ],
+        "process_md": "Step 1: Applicants have to visit the [official portal.](https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex)\nStep 2: Click on &quot;[[New Registration ](https://ladlilaxmi.mp.gov.in/Application/Public/Rules.aspx)&quot;](https://mpfsts.mp.gov.in/mphd/#/new-application).\nStep 3: Enter your mobile number and click on OTP Send\nStep 4: Now, please fill in the details and upload the documents.\nStep 5: After, fill all the information and upload the document click on the submit button\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Those farmers who are not currently cultivating vegetables will be encouraged to cultivate vegetables.\n1. Farmers having forest rights certificates will also be eligible to avail the benefits.\n1. The grant under the scheme will be given to a farmer only once.\n1. A farmer can do farming for the first time in as much area as he wants but the grant will be payable for a minimum of 0.25 hectares and a maximum of 2.00 hectares.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Those farmers who are not currently cultivating vegetables will be encouraged to cultivate vegetables."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers having forest rights certificates will also be eligible to avail the benefits."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The grant under the scheme will be given to a farmer only once."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A farmer can do farming for the first time in as much area as he wants but the grant will be payable for a minimum of 0.25 hectares and a maximum of 2.00 hectares."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ssvy"
+}

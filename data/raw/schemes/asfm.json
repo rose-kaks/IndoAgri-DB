@@ -1,0 +1,242 @@
+{
+  "_id": "68ee2a01ed2c57f57c3f66aa",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer Market",
+        "Kisan Bazaar",
+        "Shop Allotment"
+      ],
+      "schemeName": "Allotment of Shops in Kisan Bazaar",
+      "schemeShortTitle": "ASKB",
+      "implementingAgency": "Uttarakhand Agricultural Production & Marketing Board",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000001,
+        "label": "Agriculture Department"
+      },
+      "slug": "asfm",
+      "briefDescription": "The scheme aims to facilitate trade in products other than agricultural produce by providing commercial shops in Kisan Bazaars. The shops are allotted to eligible residents of Uttarakhand through public notices published in newspapers and displayed at public places."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 167)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Allotment of Shops in Kisan Bazaar” is implemented by the Uttarakhand Agricultural Production &amp; Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to facilitate trade in products other than agricultural produce by providing commercial shops in Kisan Bazaars.\n<br>\n\n",
+      "benefits_md": "The scheme facilitates trade in products other than agricultural produce by allotting shops in the Kisan Bazaars to eligible residents of Uttarakhand.\n<br>\n\n",
+      "briefDescription": "The scheme aims to facilitate trade in products other than agricultural produce by providing commercial shops in Kisan Bazaars. The shops are allotted to eligible residents of Uttarakhand through public notices published in newspapers and displayed at public places.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Allotment of Shops in Kisan Bazaar” is implemented by the Uttarakhand Agricultural Production & Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to facilitate trade in products other than agricultural produce by providing commercial shops in Kisan Bazaars."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme facilitates trade in products other than agricultural produce by allotting shops in the Kisan Bazaars to eligible residents of Uttarakhand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "underline": true,
+                    "bold": true,
+                    "italic": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Upon receiving information regarding the allotment of shops in the Kisan Bazaar (through notices published in newspapers and displayed at public places), applicants can obtain the tender form from the committee office by paying the prescribed fee."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Complete the tender form and submit it in the tender box on or before the specified due date."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "underline": true,
+                    "text": "Selection Process:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The allotment of shops in the Kisan Bazaar is carried out by the Shop Allotment Committee."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Tenders are opened by the Shop Allotment Committee in the presence of the applicants/tenderers."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The committee invites bids from applicants, and selection is based on the highest tender amount."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The shop is allotted to the highest bidder."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "***Application Process:***\n\n  - Upon receiving information regarding the allotment of shops in the Kisan Bazaar (through notices published in newspapers and displayed at public places), applicants can obtain the tender form from the committee office by paying the prescribed fee.\n  - Complete the tender form and submit it in the tender box on or before the specified due date.\n\n***Selection Process:***\n\n  - The allotment of shops in the Kisan Bazaar is carried out by the Shop Allotment Committee.\n  - Tenders are opened by the Shop Allotment Committee in the presence of the applicants/tenderers.\n  - The committee invites bids from applicants, and selection is based on the highest tender amount.\n  - The shop is allotted to the highest bidder.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "asfm"
+}

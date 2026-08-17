@@ -1,0 +1,181 @@
+{
+  "_id": "660e86f5d7abbe47ee1e1361",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Fodder Minikits",
+        "Farmer",
+        "Seed"
+      ],
+      "schemeName": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+      "schemeShortTitle": "FMUIFDS(GC)",
+      "implementingAgency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "fmuifdsgc",
+      "briefDescription": "The scheme “Fodder Minikits under Integrated Fodder Development Scheme” is implemented by the Directorate of Animal Husbandry, Government of Gujarat to provide an improved variety of fodder seeds to beneficiaries for widespread publicity, demonstration, and adaptation by farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://doah.gujarat.gov.in/fodder-development.htm"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/1-fooder-eng-1818.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Fodder Minikits under Integrated Fodder Development Scheme” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat.  Under this scheme, improved varieties of fodder seeds are provided to beneficiaries for widespread publicity, demonstration, and adaptation by farmers.\n",
+      "benefits_md": "\n   1. Under this scheme, the fodder seed minikit of 3 Kg, 7 Kg, or 10 Kg is given to the eligible beneficiary.\n\n",
+      "briefDescription": "The scheme “Fodder Minikits under Integrated Fodder Development Scheme” is implemented by the Directorate of Animal Husbandry, Government of Gujarat to provide an improved variety of fodder seeds to beneficiaries for widespread publicity, demonstration, and adaptation by farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Fodder Minikits under Integrated Fodder Development Scheme” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat.  Under this scheme, improved varieties of fodder seeds are provided to beneficiaries for widespread publicity, demonstration, and adaptation by farmers."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under this scheme, the fodder seed minikit of 3 Kg, 7 Kg, or 10 Kg is given to the eligible beneficiary."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "To avail the benefits of the scheme, the beneficiary may contact a nearby "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://farmer.gov.in/vetcentres.aspx?scode=04",
+                    "children": [
+                      {
+                        "text": "Veterinary dispensary"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " or First Aid Veterinary Centre."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "To avail the benefits of the scheme, the beneficiary may contact a nearby [Veterinary dispensary](https://farmer.gov.in/vetcentres.aspx?scode=04) or First Aid Veterinary Centre.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. Any beneficiary of the General category can avail the benefits under the scheme.\n   1. The beneficiary should possess 10 Guntha of land to his or her name.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a permanent resident of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any beneficiary of the General category can avail the benefits under the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should possess 10 Guntha of land to his or her name."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fmuifdsgc"
+}

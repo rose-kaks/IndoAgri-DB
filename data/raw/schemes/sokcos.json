@@ -1,0 +1,266 @@
+{
+  "_id": "6773c33cdca243276c9e8712",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Subsidy",
+        "Chicken",
+        "Farming",
+        "Veterinary",
+        "Poultry"
+      ],
+      "schemeName": "Supply of Kadaknath Chicks on Subsidy",
+      "schemeShortTitle": "SOKCOS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "sokcos",
+      "briefDescription": "The scheme \"Supply of Kadaknath Chicken on Grant\" aims to improve the economic condition of beneficiaries through poultry farming and protect and promote the Kadaknath breed. Beneficiaries receive 40 chicks along with food grains, medicine, and transportation support for 28 days."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpdah.gov.in/schemes/view/ZHhERTVzeUxLem1tSDVyNHp3UU4xQT09"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Supply of Kadaknath Chicken on Grant&quot; by the Animal Husbandry Department, Madhya Pradesh aims to improve the economic condition of beneficiaries through poultry farming and protect and promote the Kadaknath breed. Through this scheme, beneficiaries receive 40 chicks along with food grains, medicine, and transportation support for 28 days without gender discrimination. The scheme is being implemented in all districts of the state.\n",
+      "benefits_md": "**Livestock Support**\n\n- 40 Kadaknath chicks (₹65 per chick): ₹2,600\n- Drug/Vaccination (₹5 per chick): ₹200\n- Transportation (including chick box): ₹210\n- Poultry feed (48 grams per bird per day for 30 days): ₹1,390\n- Total unit cost: ₹4,400\n\n**Grant Structure**\n\n- Government grant: 75% of total cost\n- Beneficiary contribution: 25% of total cost\n\n",
+      "briefDescription": "The scheme \"Supply of Kadaknath Chicken on Grant\" aims to improve the economic condition of beneficiaries through poultry farming and protect and promote the Kadaknath breed. Beneficiaries receive 40 chicks along with food grains, medicine, and transportation support for 28 days.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Supply of Kadaknath Chicken on Grant\" by the Animal Husbandry Department, Madhya Pradesh aims to improve the economic condition of beneficiaries through poultry farming and protect and promote the Kadaknath breed. Through this scheme, beneficiaries receive 40 chicks along with food grains, medicine, and transportation support for 28 days without gender discrimination. The scheme is being implemented in all districts of the state."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Livestock Support",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "40 Kadaknath chicks (₹65 per chick): ₹2,600"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Drug/Vaccination (₹5 per chick): ₹200"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Transportation (including chick box): ₹210"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Poultry feed (48 grams per bird per day for 30 days): ₹1,390"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Total unit cost: ₹4,400"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grant Structure",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Government grant: 75% of total cost"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary contribution: 25% of total cost"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Initial Approval",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " by the beneficiaries in Gram Sabha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Secondary Approval",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " by the Janpad Panchayat for Gram Sabha-approved beneficiaries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Final Approval",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " by the Agriculture Standing Committee of the District Panchayat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Initial Approval** by the beneficiaries in Gram Sabha.\n**Secondary Approval** by the Janpad Panchayat for Gram Sabha-approved beneficiaries.\n**Final Approval** by the Agriculture Standing Committee of the District Panchayat.\n<br>\n\nThe interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should have basic facilities for poultry farming.\n1. The applicant can be from any category of poultry farmers.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have basic facilities for poultry farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant can be from any category of poultry farmers."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sokcos"
+}

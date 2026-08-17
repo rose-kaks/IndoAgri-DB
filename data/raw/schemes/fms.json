@@ -1,0 +1,241 @@
+{
+  "_id": "67a4aaa31269f7da410bda87",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Four-wheeler",
+        "Marketing"
+      ],
+      "schemeName": "Fish Marketing Scheme",
+      "schemeShortTitle": "FMS",
+      "implementingAgency": "Directorate Of Fisheries, Jharkhand",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000027,
+        "label": "Department of Agriculture, Animal Husbandry & Co-operative"
+      },
+      "schemeFor": "Infra",
+      "slug": "fms",
+      "briefDescription": "The scheme \"Fish Marketing Scheme\" by the Fisheries Division, Government of Jharkhand, provides financial support for fish marketing and transportation. Beneficiaries receive subsidies for four-wheeler transport vans and equipment for aquarium shops."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jharkhandfisheries.org/orders/2023/Rajyadesh-%20Matsya%20Vipanan%20Yojana-%20letter%20no.%2011%20RA%20(VI)%20dated%2016.06.2023.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Fish Marketing Scheme&quot; by the Fisheries Division, Department of Agriculture, Animal Husbandry &amp; Cooperation, Government of Jharkhand, aims to provide financial assistance for fish marketing and transportation. Through this scheme, subsidies are provided to fisheries cooperative societies and their members for purchasing four-wheeler transport vans and setting up aquarium shops. The scheme is implemented by the Directorate of Fisheries, Jharkhand.\n",
+      "benefits_md": "\n- A 60% subsidy or up to ₹3,60,000/- for purchasing four-wheeler transport vans for fisheries cooperative societies.\n- Up to ₹1,00,000/- subsidy for setting up aquarium shops with necessary equipment.\n\n<br>\n\n**NOTE:** Assistance provided through DBT (Direct Benefit Transfer) into the beneficiary&#39;s Escrow Account.\n",
+      "briefDescription": "The scheme \"Fish Marketing Scheme\" by the Fisheries Division, Government of Jharkhand, provides financial support for fish marketing and transportation. Beneficiaries receive subsidies for four-wheeler transport vans and equipment for aquarium shops.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Fish Marketing Scheme\" by the Fisheries Division, Department of Agriculture, Animal Husbandry & Cooperation, Government of Jharkhand, aims to provide financial assistance for fish marketing and transportation. Through this scheme, subsidies are provided to fisheries cooperative societies and their members for purchasing four-wheeler transport vans and setting up aquarium shops. The scheme is implemented by the Directorate of Fisheries, Jharkhand."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A 60% subsidy or up to ₹3,60,000/- for purchasing four-wheeler transport vans for fisheries cooperative societies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Up to ₹1,00,000/- subsidy for setting up aquarium shops with necessary equipment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "Assistance provided through DBT (Direct Benefit Transfer) into the beneficiary's Escrow Account."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Office.\n**Step 4:** Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a member of a registered fisheries cooperative society.\n1. The applicant should be involved in fish marketing or seed transportation.\n1. The applicant should contribute their share of the vehicle cost.\n1. For aquarium shop setup, the applicant should be trained in ornamental fish farming.\n1. Preference is given to women trained under fishery research and training programs.\n1. Persons with disabilities (PwD) trained in ornamental fish farming receive top priority.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a member of a registered fisheries cooperative society."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be involved in fish marketing or seed transportation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should contribute their share of the vehicle cost."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For aquarium shop setup, the applicant should be trained in ornamental fish farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference is given to women trained under fishery research and training programs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Persons with disabilities (PwD) trained in ornamental fish farming receive top priority."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fms"
+}

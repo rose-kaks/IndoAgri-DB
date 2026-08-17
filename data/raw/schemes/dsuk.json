@@ -1,0 +1,210 @@
+{
+  "_id": "6919cec8be746af3d3ae1fad",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Drip Sprinkler",
+        "Irrigation System",
+        "Drip Irrigation",
+        "Sprinkler"
+      ],
+      "schemeName": "Drip Irrigation Sprinkler",
+      "schemeShortTitle": "DIS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "dsuk",
+      "briefDescription": "The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 219)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Drip Irrigation Sprinkler” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation.\n<br>\n\n",
+      "benefits_md": "Irrigation systems are established to provide irrigation facilities through drip irrigation, portable sprinklers, micro sprinklers, mini sprinklers, or rain guns, as per the requirements of new plants.\nUnder this scheme, a 45 to 55% subsidy is payable for areas ranging from 4 hectares up to a maximum of 5 hectares. An additional 25% subsidy is provided to state farmers as a top-up.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Drip Irrigation Sprinkler” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Irrigation systems are established to provide irrigation facilities through drip irrigation, portable sprinklers, micro sprinklers, mini sprinklers, or rain guns, as per the requirements of new plants."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, a 45 to 55% subsidy is payable for areas ranging from 4 hectares up to a maximum of 5 hectares. An additional 25% subsidy is provided to state farmers as a top-up."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applications must be submitted at the Horticulture Mobile team Centres. Land-related documents, such as Khasra and Khatauni, along with a lease certificate for leased land, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number, are required with the application. Currently, the application process is offline."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Applications must be submitted at the Horticulture Mobile team Centres. Land-related documents, such as Khasra and Khatauni, along with a lease certificate for leased land, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number, are required with the application. Currently, the application process is offline.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer and hold a Udhyan Card.\n1. The farmer must either own agricultural land or have land on lease.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer and hold a Udhyan Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer must either own agricultural land or have land on lease."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dsuk"
+}

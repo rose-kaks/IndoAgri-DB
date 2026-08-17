@@ -1,0 +1,398 @@
+{
+  "_id": "65c4c054cd96dc5e074b6207",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Fruit Production",
+        "Planting Material",
+        "Subsidy",
+        "Horticultural"
+      ],
+      "schemeName": "Fruit Development Scheme",
+      "schemeShortTitle": "FDS",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "fds",
+      "briefDescription": "The objective of the scheme is to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=96"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme ‘Fruit Development Scheme’ was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\n\n  - Quality planting materials for sale at 50% subsidy and free of cost to the farmers under convergent mode with MGNREGA.\n\n&gt; **Type of Assistance and Entitlement (If any):**\n\n**Sl. No.****Entitlement****Owantum of Assistance**1To promote fruit cultivation by making available to farmers good quality planting materials including horticultural tools and implements.(i) 50% subsidy sale to the farmers. (ii) Free sampling of planting materials for convergent mode with MGNREGA.2Citrus rejuvenation programme for the senile orchard by providing planting materials for gap filling and organic-based plant protection measures.100% assistance.3Creeper fruit plants like- Kiwi, Grapes, etc. permanent trellies system are provided but planting and erection are to be done by farmers.75% subsidy assistance is limited to 500 sqm per beneficiary.",
+      "briefDescription": "The objective of the scheme is to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme ‘Fruit Development Scheme’ was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Quality planting materials for sale at 50% subsidy and free of cost to the farmers under convergent mode with MGNREGA."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Type of Assistance and Entitlement (If any):",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sl. No.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Entitlement",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Owantum of Assistance",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To promote fruit cultivation by making available to farmers good quality planting materials including horticultural tools and implements."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "(i) 50% subsidy sale to the farmers. (ii) Free sampling of planting materials for convergent mode with MGNREGA."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Citrus rejuvenation programme for the senile orchard by providing planting materials for gap filling and organic-based plant protection measures."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "100% assistance."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Creeper fruit plants like- Kiwi, Grapes, etc. permanent trellies system are provided but planting and erection are to be done by farmers."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "75% subsidy assistance is limited to 500 sqm per beneficiary."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01: The eligible bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03: Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Mode of Selection of Beneficiary(s):",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bonafide farmers on a first come first serve basis."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Whom to Contact:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1. "
+              },
+              {
+                "type": "link",
+                "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                "children": [
+                  {
+                    "text": "District Horticulture Officer"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2. Horticulture Development Officer"
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process:**\n\nStep 01: The eligible bonafide farmer can apply/write an application on plain paper.\nStep 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required).\nStep 03: Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n> **Mode of Selection of Beneficiary(s):**\n\nBonafide farmers on a first come first serve basis.\n> **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant/farmer should be a resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of at least 0.2 (hectares) or more.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant/farmer should be a resident of Meghalaya."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of at least 0.2 (hectares) or more."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note: ",
+                  "bold": true
+                },
+                {
+                  "text": "The applicant farmer can avail of the benefits of the scheme on a first come first serve basis."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fds"
+}

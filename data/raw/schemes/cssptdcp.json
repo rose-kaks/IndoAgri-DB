@@ -1,0 +1,271 @@
+{
+  "_id": "688c679ed4b5e6cefec0313c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Cooperative Union",
+        "Agriculture Subsidy",
+        "Sale Union"
+      ],
+      "schemeName": "COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union",
+      "schemeShortTitle": "CSSPTDCP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "cssptdcp",
+      "briefDescription": "The scheme aims to financially strengthen cooperative purchase and sale unions through 50% capital subsidy for project development such as procurement, processing, marketing, and storage activities."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rcs.gujarat.gov.in/Home/SchemesDetailsPage/gliVwGX8Ej94zJwViawMjA%E2%99%AC%E2%99%AC"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka &amp;amp; District Co-op. Purchase Sale Union&amp;quot; by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to strengthen the financial base of cooperative buying and selling unions in talukas and districts by providing 50% capital assistance with a maximum limit of ₹20,00,000/- for a wide range of agricultural projects. These projects include procurement of inputs like fertilizers and seeds, as well as infrastructure and service improvements such as processing, grading, cleaning, washing, shorting, packaging, branding, storage, and marketing of agricultural produce. By empowering these cooperative institutions, the scheme seeks to ensure better quality services and economic benefits for farmers and primary agricultural credit societies. \n<br>\n\n",
+      "benefits_md": "\n  - **Financial Assistance:** Provides a 50% capital subsidy to cooperative unions, with a maximum limit of ₹20,00,000/-.  - **Improved Services for Farmers:** Enables unions to offer better and more diverse services to farmers, such as providing quality agricultural inputs, procuring produce at support prices, and offering modern processing and storage facilities.  - **Enhanced Infrastructure:** Supports the development of infrastructure like storage godowns, processing units, and marketing channels, which benefits the entire agricultural supply chain.  - **Increased Market Access:** Helps unions establish better marketing and branding of agricultural produce, potentially leading to better prices for farmers&amp;#39; products.\n<br>\n\n",
+      "briefDescription": "The scheme aims to financially strengthen cooperative purchase and sale unions through 50% capital subsidy for project development such as procurement, processing, marketing, and storage activities.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union\" by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to strengthen the financial base of cooperative buying and selling unions in talukas and districts by providing 50% capital assistance with a maximum limit of ₹20,00,000/- for a wide range of agricultural projects. These projects include procurement of inputs like fertilizers and seeds, as well as infrastructure and service improvements such as processing, grading, cleaning, washing, shorting, packaging, branding, storage, and marketing of agricultural produce. By empowering these cooperative institutions, the scheme seeks to ensure better quality services and economic benefits for farmers and primary agricultural credit societies. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial Assistance:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Provides a 50% capital subsidy to cooperative unions, with a maximum limit of ₹20,00,000/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Improved Services for Farmers:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Enables unions to offer better and more diverse services to farmers, such as providing quality agricultural inputs, procuring produce at support prices, and offering modern processing and storage facilities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Enhanced Infrastructure:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Supports the development of infrastructure like storage godowns, processing units, and marketing channels, which benefits the entire agricultural supply chain."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Increased Market Access:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Helps unions establish better marketing and branding of agricultural produce, potentially leading to better prices for farmers' products."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The Taluka or District Cooperative Purchase and Sale Union must prepare a proposal for the intended project."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The proposal is to be submitted to the Registrar of Co-operative Societies, Gujarat State, Gandhinagar, through the Deputy Director and District Registrar Co-operative Societies of the respective district."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Upon approval from the Department of Agriculture, Farmers Welfare and Co-operation, the subsidy amount will be disbursed to the union via the District Registrar's office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The assistance will be released in installments based on the level of work completed as per verified reports."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The Taluka or District Cooperative Purchase and Sale Union must prepare a proposal for the intended project.\n**Step 2:** The proposal is to be submitted to the Registrar of Co-operative Societies, Gujarat State, Gandhinagar, through the Deputy Director and District Registrar Co-operative Societies of the respective district.\n**Step 3:** Upon approval from the Department of Agriculture, Farmers Welfare and Co-operation, the subsidy amount will be disbursed to the union via the District Registrar&amp;#39;s office.\n**Step 4:** The assistance will be released in installments based on the level of work completed as per verified reports.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Taluka or District Cooperative Purchase and Sale Associations are eligible under this scheme.\n1. Taluka and District Purchase and Sale Associations should have their own land.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Taluka or District Cooperative Purchase and Sale Associations are eligible under this scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Taluka and District Purchase and Sale Associations should have their own land."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cssptdcp"
+}

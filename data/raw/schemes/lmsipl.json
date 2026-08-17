@@ -1,0 +1,389 @@
+{
+  "_id": "690afbfef4de30fd14a4f009",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Livestock Mission",
+        "Interest Payment",
+        "Loan",
+        "Animal Husbandry",
+        "Buffalo",
+        "Cow",
+        "Sheep",
+        "Goat",
+        "Poultry",
+        "Pig"
+      ],
+      "schemeName": "Livestock Mission Scheme - Interest Payment on Loan",
+      "schemeShortTitle": "LMSIPL",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000004,
+        "label": "Department Of Animal Husbandry"
+      },
+      "slug": "lmsipl",
+      "briefDescription": "The scheme aims to promote self-employment opportunities at the local level by encouraging livestock-based entrepreneurship and reducing the financial burden on beneficiaries through payment of 90% of the bank loan interest by the State Government."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 194)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Livestock Mission Scheme – Interest Payment on Loan” scheme has been introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote self-employment opportunities at the local level by encouraging livestock-based entrepreneurship and reducing the financial burden on beneficiaries through payment of 90% of the bank loan interest by the State Government.\n<br>\n\n",
+      "benefits_md": "**For promoting self-employment at the local level, 90% of the interest subsidy on the bank loan taken by the applicant for setting up the following units is borne by the State Government:**\n***Dairy Entrepreneurship Development Scheme:***\n\n- 5 cow units\n- 10 cow units\n- 2 buffalo units\n- 5 buffalo units\n\n***Load Carrier Entrepreneurship Development Scheme:***\n\n- 1 mule unit\n- 2 mule unit\n\n***Sheep and Goat Entrepreneurship Development Scheme:***\n\n- Sheep/Goat (5 female + 1 male)\n- Sheep/Goat (10 female + 1 male)\n\n***Pig Entrepreneurship Development Scheme:***\n\n- Pig (5 female + 1 male)\n- Pig (10 female + 1 male)\n\n***Poultry Entrepreneurship Development Scheme:***\n\n- Commercial broiler farm for 1,000 birds\n- Small commercial layer farm for 250 birds\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote self-employment opportunities at the local level by encouraging livestock-based entrepreneurship and reducing the financial burden on beneficiaries through payment of 90% of the bank loan interest by the State Government.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Livestock Mission Scheme – Interest Payment on Loan” scheme has been introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote self-employment opportunities at the local level by encouraging livestock-based entrepreneurship and reducing the financial burden on beneficiaries through payment of 90% of the bank loan interest by the State Government."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For promoting self-employment at the local level, 90% of the interest subsidy on the bank loan taken by the applicant for setting up the following units is borne by the State Government:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dairy Entrepreneurship Development Scheme:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "5 cow units"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10 cow units"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "2 buffalo units"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "5 buffalo units"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Load Carrier Entrepreneurship Development Scheme:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "1 mule unit"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "2 mule unit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sheep and Goat Entrepreneurship Development Scheme:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sheep/Goat (5 female + 1 male)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sheep/Goat (10 female + 1 male)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pig Entrepreneurship Development Scheme:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pig (5 female + 1 male)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pig (10 female + 1 male)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poultry Entrepreneurship Development Scheme:",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Commercial broiler farm for 1,000 birds"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Small commercial layer farm for 250 birds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The scheme will initially operate offline. Once the departmental portal becomes operational, beneficiaries will be required to apply and register through the portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applicants must submit their applications to the District Level Implementation Unit (DLIA) at the district level, along with the bank’s consent letter for loan approval. After scrutiny of the applications received by the DLIA, a list of eligible applicants will be prepared. Upon completion of all formalities, final approval will be granted. The approved applications, along with the beneficiaries’ forms, will then be submitted through the concerned bank for further scrutiny and loan recommendation."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The bank will provide information on the amount of interest subsidy granted by the state government to the DLIA each quarter, corresponding to the beneficiaries’ approved loans. The DLIA will prepare a bill for the said amount and submit it to the treasury for payment."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The State Monitoring Committee will be established within the Animal Husbandry Directorate, Dehradun. The committee, under the control of the Director of Animal Husbandry, will monitor the progress of the scheme and ensure its proper implementation by issuing necessary instructions to district-level officers."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The scheme will initially operate offline. Once the departmental portal becomes operational, beneficiaries will be required to apply and register through the portal.\n  - Applicants must submit their applications to the District Level Implementation Unit (DLIA) at the district level, along with the bank’s consent letter for loan approval. After scrutiny of the applications received by the DLIA, a list of eligible applicants will be prepared. Upon completion of all formalities, final approval will be granted. The approved applications, along with the beneficiaries’ forms, will then be submitted through the concerned bank for further scrutiny and loan recommendation.\n  - The bank will provide information on the amount of interest subsidy granted by the state government to the DLIA each quarter, corresponding to the beneficiaries’ approved loans. The DLIA will prepare a bill for the said amount and submit it to the treasury for payment.\n  - The State Monitoring Committee will be established within the Animal Husbandry Directorate, Dehradun. The committee, under the control of the Director of Animal Husbandry, will monitor the progress of the scheme and ensure its proper implementation by issuing necessary instructions to district-level officers.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be an interested livestock farmer.\n1. The livestock farmer must be eligible to avail a bank loan.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be an interested livestock farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The livestock farmer must be eligible to avail a bank loan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "lmsipl"
+}

@@ -1,0 +1,615 @@
+{
+  "_id": "69648b88188e0acbc49199b2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Housing",
+        "Rural Housing",
+        "DBT",
+        "Pucca House",
+        "Financial Support"
+      ],
+      "schemeName": "Antyodaya Gruha Yojana: Construction of New House",
+      "schemeShortTitle": "AGY",
+      "implementingAgency": "Panchayat Samities Under The Supervision Of Zilla Parishad And Panchayati Raj & Drinking Water Department",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "Shelter, integrated support and assistance"
+        },
+        {
+          "value": "Housing",
+          "label": "Housing"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Family",
+      "state": {
+        "value": 21,
+        "label": "Odisha"
+      },
+      "nodalDepartmentName": {
+        "value": 2111135,
+        "label": "Panchayati Raj Department"
+      },
+      "slug": "agy",
+      "briefDescription": "The scheme aims to provide financial assistance to eligible rural households for the construction of a new pucca house."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://rh.odisha.gov.in/guidelines/Antyodaya_Gruha_Jojana_Guideline.pdf"
+        },
+        {
+          "title": "Website",
+          "url": "https://rh.odisha.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Antyodaya Gruha Yojana: Construction of New House” has been implemented by the Panchayati Raj &amp;amp; Drinking Water Department, Government of Odisha. It aims to provide pucca houses to eligible rural households who are houseless or living in kutcha houses. Through this component, financial assistance is provided to rural families for the construction of a new pucca house with a minimum carpet area of 25 square metres. The component is implemented by Panchayat Samities under the supervision of Zilla Parishads and the Panchayati Raj &amp;amp; Drinking Water Department.\n<br>\n\n",
+      "benefits_md": "\n\n   1. Financial assistance of ₹1,20,000/- is provided for the construction of a new pucca house.\n   1. The house must have a minimum carpet area of 25 square metres, including a hygienic cooking space and excluding the toilet area.\n\n&gt; **Instalment-wise Disbursement:**\n\n- **First Instalment:** ₹10,000/-, released along with the issuance of the work order.- **Second Instalment:** ₹65,000/-, released upon reaching roof level.- **Third Instalment:** ₹15,000/-, released upon completion of the house.\n> **Timeline:** \n\n\n- The house is ordinarily required to be completed within 12 months from the credit of the first instalment.\n\n> **Mode of Disbursement:** \n\n\n- The construction assistance is credited directly to the beneficiary’s bank account through Direct Benefit Transfer from the State Nodal Account.\n\n> **Convergence:**\n\n\n- The beneficiaries constructing new houses are entitled upto 90/95 person days of unskilled labour during house construction out of MGNREGS in addition to the unit assistance.\n\n\n- The beneficiaries can also avail support under relevant schemes of rural sanitation, drinking water, rural electrification, etc., if found eligible and not availed earlier.\n- BDO should endeavour to construct houses on a cluster basis wherever feasible. The required common infrastructure, like CC road, street light, drainage, community sanitation complex, community compost pit, etc., shall also be provided in convergence mode from the relevant schemes of Central &amp; State Government.\n\n<br>\n\n",
+      "exclusions_md": "\n   1. The household is living in a pucca house.\n   1. Any family member is a regular Government, Public Sector Undertaking, or Statutory Body employee or pensioner.\n   1. The household owns a motorized four-wheeler.\n   1. The household owns mechanized three or four-wheeler agricultural equipment.\n   1. The household runs a registered non-agricultural enterprise.\n   1. Any family member earns more than ₹**15,000/-** per month.   1. The household owns 2.5 acres or more of irrigated land or 5 acres or more of unirrigated land.\n   1. The household has already availed housing assistance under another Government rural housing scheme.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide financial assistance to eligible rural households for the construction of a new pucca house.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Antyodaya Gruha Yojana: Construction of New House” has been implemented by the Panchayati Raj & Drinking Water Department, Government of Odisha. It aims to provide pucca houses to eligible rural households who are houseless or living in kutcha houses. Through this component, financial assistance is provided to rural families for the construction of a new pucca house with a minimum carpet area of 25 square metres. The component is implemented by Panchayat Samities under the supervision of Zilla Parishads and the Panchayati Raj & Drinking Water Department."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Financial assistance of ₹1,20,000/- is provided for the construction of a new pucca house."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The house must have a minimum carpet area of 25 square metres, including a hygienic cooking space and excluding the toilet area."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "block_quote",
+                  "children": [
+                    {
+                      "text": "Instalment-wise Disbursement:",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "First Instalment:",
+                      "bold": true
+                    },
+                    {
+                      "text": " ₹10,000/-, released along with the issuance of the work order."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Second Instalment: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "₹65,000/-, released upon reaching roof level."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Third Instalment:",
+                      "bold": true
+                    },
+                    {
+                      "text": " ₹15,000/-, released upon completion of the house."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Timeline: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The house is ordinarily required to be completed within 12 months from the credit of the first instalment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The construction assistance is credited directly to the beneficiary’s bank account through Direct Benefit Transfer from the State Nodal Account."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Convergence:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiaries constructing new houses are entitled upto 90/95 person days of unskilled labour during house construction out of MGNREGS in addition to the unit assistance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiaries can also avail support under relevant schemes of rural sanitation, drinking water, rural electrification, etc., if found eligible and not availed earlier."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "BDO should endeavour to construct houses on a cluster basis wherever feasible. The required common infrastructure, like CC road, street light, drainage, community sanitation complex, community compost pit, etc., shall also be provided in convergence mode from the relevant schemes of Central & State Government."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The household is living in a pucca house."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any family member is a regular Government, Public Sector Undertaking, or Statutory Body employee or pensioner."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The household owns a motorized four-wheeler."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The household owns mechanized three or four-wheeler agricultural equipment."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The household runs a registered non-agricultural enterprise."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any family member earns more than ₹"
+                    },
+                    {
+                      "text": "15,000/-",
+                      "bold": true
+                    },
+                    {
+                      "text": " per month."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The household owns 2.5 acres or more of irrigated land or 5 acres or more of unirrigated land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The household has already availed housing assistance under another Government rural housing scheme."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_left",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Eligible households are identified by the Block Development Officer ("
+                      },
+                      {
+                        "text": "BDO",
+                        "bold": true
+                      },
+                      {
+                        "text": "). "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant’s eligibility documents are verified, including certificates related to calamity, disability, or Forest Rights Act status, wherever applicable."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The existing house of the applicant is geo-tagged and uploaded on the Rural Housing Portal before the sanction of the new house."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Collector-cum-District Magistrate scrutinises the list of eligible beneficiaries and submits the proposal to the Panchayati Raj & Drinking Water Department for approval."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The list of beneficiaries, physical and financial progress of the scheme will be reflected district / block-wise on the website, i.e. "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://rhodisha.gov.in/",
+                        "children": [
+                          {
+                            "text": "https://rhodisha.gov.in/ "
+                          }
+                        ]
+                      },
+                      {
+                        "text": "for public view."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The housing assistance is released directly to the beneficiary’s bank account through Direct Benefit Transfer, based on verified construction milestones."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Eligible households are identified by the Block Development Officer (**BDO**).   - The applicant’s eligibility documents are verified, including certificates related to calamity, disability, or Forest Rights Act status, wherever applicable.\n  - The existing house of the applicant is geo-tagged and uploaded on the Rural Housing Portal before the sanction of the new house.\n  - The Collector-cum-District Magistrate scrutinises the list of eligible beneficiaries and submits the proposal to the Panchayati Raj &amp;amp; Drinking Water Department for approval.\n  - The list of beneficiaries, physical and financial progress of the scheme will be reflected district / block-wise on the website, i.e. [https://rhodisha.gov.in/ ](https://rhodisha.gov.in/)for public view.  - The housing assistance is released directly to the beneficiary’s bank account through Direct Benefit Transfer, based on verified construction milestones.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant household must be residing in rural Odisha and must be houseless or living in a kutcha house.\n   1. The applicant household should belong to at least one of the following categories:\n\n    - Forest Rights Act, 2006 (FRA)  beneficiaries.\n    - Households where the main earning member is a Person with a disability with at least **40**% disability.    - Lower-income households that are eligible but left out of existing Government rural housing schemes.\n\n   1. The households coming under the following categories will be eligible forsanction of a new house, notwithstanding previous allotment of a house under any Government Housing Schemes and staying in a pucca house:\n\n    - Households whose houses have been fully / severely damaged by natural/ manmade calamities like fire, flood, cyclone, earthquake, elephant menace, communal violence, LWE violence, major law and order problem, etc.\n    - Victims ofriver / sea inundation who need relocation/shifting.\n    - Households that are rehabilitated/relocated for setting up any Government projects, such as highways, irrigation projects, etc.\n    - Households staying in sanctuary / reserve forest areas need relocation.\n\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_left",
+          "children": [
+            {
+              "type": "align_left",
+              "children": [
+                {
+                  "type": "align_center",
+                  "children": [
+                    {
+                      "type": "align_left",
+                      "children": [
+                        {
+                          "type": "ol_list",
+                          "children": [
+                            {
+                              "type": "list_item",
+                              "children": [
+                                {
+                                  "text": "The applicant household must be residing in rural Odisha and must be houseless or living in a kutcha house."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "list_item",
+                              "children": [
+                                {
+                                  "text": "The applicant household should belong to at least one of the following categories:"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "ul_list",
+                              "children": [
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Forest Rights Act, 2006 (FRA)  beneficiaries."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Households where the main earning member is a Person with a disability with at least "
+                                    },
+                                    {
+                                      "text": "40",
+                                      "bold": true
+                                    },
+                                    {
+                                      "text": "% disability."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Lower-income households that are eligible but left out of existing Government rural housing schemes."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "list_item",
+                              "children": [
+                                {
+                                  "text": "The households coming under the following categories will be eligible forsanction of a new house, notwithstanding previous allotment of a house under any Government Housing Schemes and staying in a pucca house:"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "ul_list",
+                              "children": [
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Households whose houses have been fully / severely damaged by natural/ manmade calamities like fire, flood, cyclone, earthquake, elephant menace, communal violence, LWE violence, major law and order problem, etc."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Victims ofriver / sea inundation who need relocation/shifting."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Households that are rehabilitated/relocated for setting up any Government projects, such as highways, irrigation projects, etc."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Households staying in sanctuary / reserve forest areas need relocation."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "agy"
+}

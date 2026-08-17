@@ -1,0 +1,332 @@
+{
+  "_id": "68ccffb589d250875d3ba389",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Ganga",
+        "Dairy Farmer",
+        "Woman",
+        "Cooperative Societies",
+        "Cow",
+        "Milk Production"
+      ],
+      "schemeName": "Rajya Samekit Sahkari Vikas Yojana - Ganga Gaay Mahila Dairy Yojana",
+      "schemeShortTitle": "RSSVYGGMDY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000068,
+        "label": "Dairy Development Department"
+      },
+      "slug": "rssvyeggmdy",
+      "briefDescription": "The scheme aims to promote dairy entrepreneurship among women, Scheduled Castes, Scheduled Tribes, and general category members of cooperative societies by providing financial assistance through subsidies and loans for the purchase of milch cows and buffaloes."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 240)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Ganga Gaay Mahila Dairy Yojana” is implemented under the Rajya Samekit Sahkari Vikas Yojana by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to promote dairy entrepreneurship among women, Scheduled Castes, Scheduled Tribes, and general category members of cooperative societies by providing financial assistance through subsidies and loans for the purchase of milch cows and buffaloes.\n<br>\n\n",
+      "benefits_md": "***The following benefits are provided to members of milk-producing cooperative societies for purchasing cows or buffaloes::***\n**For members of the general category:**\n\n- A grant of 50% and a loan of 40% is approved through the District Cooperative Bank for the establishment of a unit of 2, 3, and 5 dairy animals (including animal purchase, insurance, transportation expenses, cattle shed, milk van, etc.), and the remaining 10% is borne by the beneficiary.\n- The dairy department will provide a grant of ₹80,000 for 2 animals, ₹1,23,250 for 3 animals, and ₹2,03,625 for 5 animals.\n\n**For Scheduled Caste, Scheduled Tribe and women members (of any caste):**\n\n- For the establishment of units for 2, 3 and 5 dairy animals (covering animal purchase, insurance, transportation, cattle shed including calf, milk van, etc.), a 75% grant and a 25% loan are approved through the District Cooperative Bank. \n- The dairy department will provide funds of ₹1,20,000/- for 2 animals, ₹1,84,875/- for 3 animals, and ₹3,05,438/- for 5 animals. \n- A minimum of 2 animals must be purchased, and taking a loan is mandatory to receive the subsidy.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote dairy entrepreneurship among women, Scheduled Castes, Scheduled Tribes, and general category members of cooperative societies by providing financial assistance through subsidies and loans for the purchase of milch cows and buffaloes.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Ganga Gaay Mahila Dairy Yojana” is implemented under the Rajya Samekit Sahkari Vikas Yojana by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to promote dairy entrepreneurship among women, Scheduled Castes, Scheduled Tribes, and general category members of cooperative societies by providing financial assistance through subsidies and loans for the purchase of milch cows and buffaloes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following benefits are provided to members of milk-producing cooperative societies for purchasing cows or buffaloes::",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For members of the general category:",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A grant of 50% and a loan of 40% is approved through the District Cooperative Bank for the establishment of a unit of 2, 3, and 5 dairy animals (including animal purchase, insurance, transportation expenses, cattle shed, milk van, etc.), and the remaining 10% is borne by the beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The dairy department will provide a grant of ₹80,000 for 2 animals, ₹1,23,250 for 3 animals, and ₹2,03,625 for 5 animals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Scheduled Caste, Scheduled Tribe and women members (of any caste):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For the establishment of units for 2, 3 and 5 dairy animals (covering animal purchase, insurance, transportation, cattle shed including calf, milk van, etc.), a 75% grant and a 25% loan are approved through the District Cooperative Bank. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The dairy department will provide funds of ₹1,20,000/- for 2 animals, ₹1,84,875/- for 3 animals, and ₹3,05,438/- for 5 animals. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A minimum of 2 animals must be purchased, and taking a loan is mandatory to receive the subsidy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "It is mandatory for the applicant to be a member of the society. Any member above 18 years of age in the concerned Gram Panchayat or rural area can obtain membership by depositing a ₹25.00 membership fee with the nearest society secretary and receiving a receipt. It is not necessary to be a cattle rearer to become a member."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The application form can be obtained from the milk cooperative society or the nearest district cooperative bank. The form must be submitted along with Aadhaar card, bank account details, caste certificate, cooperative society membership number (if applicable), and movable/immovable property or land certificate. If the above documents are not available, two guarantors who are members of the milk society must be provided."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "If a loan has been taken from any institution, its details along with the number of animals to be acquired must be submitted to the milk cooperative society. The Society Secretary certifies the application. The Manager/Chief Manager of the Milk Producers Cooperative Union Ltd. and the Assistant Director of Dairy provide recommendations after scrutiny."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After receiving the recommendations, the application is submitted to the bank. Once the bank verifies all documents, the loan is approved according to the beneficiary’s eligibility, and the loan amount is disbursed to the beneficiary’s account."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Upon receiving the funds, the Dairy Cooperative Society/Dairy Department’s Purchase Society informs the beneficiary and accompanies them to purchase animals from department-listed dairy farms outside the state. The Purchase Society selects and purchases the animals, inspects their health, and delivers them to the owner’s home. The owner does not have to pay any money to departmental personnel."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "If the beneficiary is not satisfied with the animals from the listed firm, they must notify the relevant District Manager in writing. After receiving permission, the Purchase Society will provide animals from an alternative source outside the state."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - It is mandatory for the applicant to be a member of the society. Any member above 18 years of age in the concerned Gram Panchayat or rural area can obtain membership by depositing a ₹25.00 membership fee with the nearest society secretary and receiving a receipt. It is not necessary to be a cattle rearer to become a member.\n  - The application form can be obtained from the milk cooperative society or the nearest district cooperative bank. The form must be submitted along with Aadhaar card, bank account details, caste certificate, cooperative society membership number (if applicable), and movable/immovable property or land certificate. If the above documents are not available, two guarantors who are members of the milk society must be provided.\n  - If a loan has been taken from any institution, its details along with the number of animals to be acquired must be submitted to the milk cooperative society. The Society Secretary certifies the application. The Manager/Chief Manager of the Milk Producers Cooperative Union Ltd. and the Assistant Director of Dairy provide recommendations after scrutiny.\n  - After receiving the recommendations, the application is submitted to the bank. Once the bank verifies all documents, the loan is approved according to the beneficiary’s eligibility, and the loan amount is disbursed to the beneficiary’s account.\n  - Upon receiving the funds, the Dairy Cooperative Society/Dairy Department’s Purchase Society informs the beneficiary and accompanies them to purchase animals from department-listed dairy farms outside the state. The Purchase Society selects and purchases the animals, inspects their health, and delivers them to the owner’s home. The owner does not have to pay any money to departmental personnel.\n  - If the beneficiary is not satisfied with the animals from the listed firm, they must notify the relevant District Manager in writing. After receiving permission, the Purchase Society will provide animals from an alternative source outside the state.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a member of a milk-producing cooperative society. (Individuals who are not currently members can become eligible by joining a cooperative society.)\n1. The applicant must belong to the General, Scheduled Caste, Scheduled Tribe, or Women category.\n1. The applicant must intend to purchase cows (with a minimum milk yield of 12 liters per day) or buffaloes (with a minimum milk yield of 10 liters per day).\n1. The applicant must purchase animals from outside the state.\n1. The applicant must purchase a minimum of two (2) animals.\n1. To avail of the subsidy, it is mandatory to take a loan for the purchase of milch animals.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a member of a milk-producing cooperative society. (Individuals who are not currently members can become eligible by joining a cooperative society.)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must belong to the General, Scheduled Caste, Scheduled Tribe, or Women category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must intend to purchase cows (with a minimum milk yield of 12 liters per day) or buffaloes (with a minimum milk yield of 10 liters per day)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must purchase animals from outside the state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must purchase a minimum of two (2) animals."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To avail of the subsidy, it is mandatory to take a loan for the purchase of milch animals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rssvyeggmdy"
+}

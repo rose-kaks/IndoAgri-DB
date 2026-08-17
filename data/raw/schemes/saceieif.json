@@ -1,0 +1,769 @@
+{
+  "_id": "679a0b39e128bbaf34fefc47",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Entrepreneurship",
+        "Environment Infrastructure"
+      ],
+      "schemeName": "Scheme of Assistance for Common Environment Infrastructure: Financial Assistance for Common Environmental Infrastructure Facilities",
+      "schemeShortTitle": "SACEIEIF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": "2020-08-07",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "industries",
+          "label": "Industries"
+        },
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444452,
+        "label": "Industries and Mines Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "saceieif",
+      "briefDescription": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Scheme of Assistance for Common Environment Infrastructure&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.\nThe component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability.\n",
+      "benefits_md": "\n  - **General Projects:** Up to 40% financial assistance, with a maximum limit of ₹50,00,00,000/-.  - **Government Projects:** Assistance up to 80% for Government Departments, Agencies, PSUs, and Boards, with a ₹50,00,00,000/-.  - **Co-Funding with GoI:** Total assistance from GoI + GoG is limited to 75%, with 25% contribution from the institution.\n",
+      "exclusions_md": "\n  - The Project availing incentives under this scheme will not be entitled to avail incentives under any other scheme of the State Government for the same component, unless specified otherwise. However, the project will be eligible to avail incentives available under schemes of Government of India or any other institutions.\n  - The following investments are not eligible for financial assistance:\n\n\n   1. Land purchase\n   1. Land development\n   1. Preliminary expenses\n   1. Pre-operative expenses\n   1. Consultancy fees\n\n",
+      "briefDescription": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "General Projects:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Up to 40% financial assistance, with a maximum limit of ₹50,00,00,000/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Government Projects:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Assistance up to 80% for Government Departments, Agencies, PSUs, and Boards, with a ₹50,00,00,000/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Co-Funding with GoI:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Total assistance from GoI + GoG is limited to 75%, with 25% contribution from the institution."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Project availing incentives under this scheme will not be entitled to avail incentives under any other scheme of the State Government for the same component, unless specified otherwise. However, the project will be eligible to avail incentives available under schemes of Government of India or any other institutions."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The following investments are not eligible for financial assistance:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Land purchase"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Land development"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Preliminary expenses"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Pre-operative expenses"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Consultancy fees"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Prepare a Detailed Project Report (DPR)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill out the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf",
+                    "children": [
+                      {
+                        "text": "prescribed application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the application with the required documents to the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ic.gujarat.gov.in/ic-contact.aspx",
+                    "children": [
+                      {
+                        "text": "Industries Commissionerate"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Helpdesk",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": ": "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static",
+                    "children": [
+                      {
+                        "text": "Contact Here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Prepare a Detailed Project Report (DPR).\n**Step 2:** Fill out the [prescribed application form](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf).\n**Step 3:** Submit the application with the required documents to the [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx).\n**Step 4:** Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.\n&gt; **Helpdesk****:** [Contact Here](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)\n\n"
+      }
+    ],
+    "schemeDefinitions": [
+      {
+        "name": "Common Environment Infrastructure Facilities ",
+        "definition": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Common Environment Infrastructure Facilities means facilities created by the institution in the area of environment protection for the use of members of the institution or for the use of industrial enterprises/public."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "definitions_md": "Common Environment Infrastructure Facilities means facilities created by the institution in the area of environment protection for the use of members of the institution or for the use of industrial enterprises/public.\n",
+        "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+      },
+      {
+        "name": "Eligible Fixed Capital Investment",
+        "definition": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Eligible fixed capital investment means the capital investment made in the Building, New Plant & Machinery and Utilities, other related infrastructure required for the project of CEI as approved by State Level Empowered Committee (SLEC)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "definitions_md": "Eligible fixed capital investment means the capital investment made in the Building, New Plant &amp;amp; Machinery and Utilities, other related infrastructure required for the project of CEI as approved by State Level Empowered Committee (SLEC).\n",
+        "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+      },
+      {
+        "name": "Eligible Project/facilities for Common Environment Infrastructure ",
+        "definition": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Effluent Treatment Facilities:",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "New Common Effluent Treatment Plant (CETP) including collection, storage, and treatment of effluent."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Augmentation and/or technology upgradation of existing CETPs."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Conveyance pipeline for safe disposal of treated effluent."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Recycling of treated wastewater for industrial and other uses."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Waste Treatment & Recycling Systems:",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Spray Drying system for effluent."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Multiple Effect Evaporator, Mechanical Vapor Recompression Evaporation (MVRE), etc."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Reverse Osmosis (RO) Plant."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Drum Decontamination Facility."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Environmental Monitoring & Automation:",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Automation of the existing facility."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Installation of monitoring systems for contamination of water, air, land, and noise in the ambient environment."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Online continuous water monitoring and/or Air Emission Monitoring System with connectivity to the GPCB Server."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Waste Management Projects:",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Waste Management Infrastructure Projects, including Treatment, Storage, and Disposal Facility (TSDF)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Incinerators for hazardous waste and concentrated effluent."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Waste collection, pre-preparation, processing, and treatment facilities for co-processing in power and steel industries."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Recovery, reuse, and recycling of waste from CETP and TSDF by industries association."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Plasma thermal destruction/treatment/waste-to-energy facility."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Specialized Recovery & Recycling Facilities:",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Solvent Recovery Plant."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Common Spent Acid Recovery Plant."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Use of gypsum through an established environment-friendly technology."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Use of iron sludge through an established environment-friendly technology."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Recovery of waste from E-waste, Electroplating Waste, and Photography Waste."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Recycling facilities for hazardous waste generated during ship-breaking activities."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Waste recycling plants to create useful products/by-products, such as vermicompost and handmade paper from paper mill waste."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "PET bottle recycling using indigenous waste."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Other Approved Environmental Management Projects:",
+                        "bold": true
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Any other environmental management project as approved by SLEC."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "definitions_md": "\n  - **Common Effluent Treatment Facilities:**\n\n\n   1. New Common Effluent Treatment Plant (CETP) including collection, storage, and treatment of effluent.\n   1. Augmentation and/or technology upgradation of existing CETPs.\n   1. Conveyance pipeline for safe disposal of treated effluent.\n   1. Recycling of treated wastewater for industrial and other uses.\n\n\n  - **Common Waste Treatment &amp;amp; Recycling Systems:**\n\n\n   1. Common Spray Drying system for effluent.\n   1. Common Multiple Effect Evaporator, Mechanical Vapor Recompression Evaporation (MVRE), etc.\n   1. Common Reverse Osmosis (RO) Plant.\n   1. Common Drum Decontamination Facility.\n\n\n  - **Environmental Monitoring &amp;amp; Automation:**\n\n\n   1. Automation of the existing facility.\n   1. Installation of monitoring systems for contamination of water, air, land, and noise in the ambient environment.\n   1. Online continuous water monitoring and/or Air Emission Monitoring System with connectivity to the GPCB Server.\n\n\n  - **Common Waste Management Projects:**\n\n\n   1. Common Waste Management Infrastructure Projects, including Treatment, Storage, and Disposal Facility (TSDF).\n   1. Incinerators for hazardous waste and concentrated effluent.\n   1. Waste collection, pre-preparation, processing, and treatment facilities for co-processing in power and steel industries.\n   1. Recovery, reuse, and recycling of waste from CETP and TSDF by industries association.\n   1. Plasma thermal destruction/treatment/waste-to-energy facility.\n\n\n  - **Specialized Recovery &amp;amp; Recycling Facilities:**\n\n\n   1. Common Solvent Recovery Plant.\n   1. Common Spent Acid Recovery Plant.\n   1. Use of gypsum through an established environment-friendly technology.\n   1. Use of iron sludge through an established environment-friendly technology.\n   1. Recovery of waste from E-waste, Electroplating Waste, and Photography Waste.\n   1. Recycling facilities for hazardous waste generated during ship-breaking activities.\n   1. Waste recycling plants to create useful products/by-products, such as vermicompost and handmade paper from paper mill waste.\n   1. PET bottle recycling using indigenous waste.\n\n\n  - **Other Approved Environmental Management Projects:**\n\n\n   1. Any other environmental management project as approved by SLEC.\n\n",
+        "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+      }
+    ],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc.\n  - The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) &amp;amp; Gujarat Pollution Control Board (GPCB) [regulations](https://gpcb.gujarat.gov.in/ViewFile?fileName=%E2%9C%BF84VtA%E2%9C%A45Y2S5am0gZge7C5DIhraFNMo2Ft55An9ZyFCK3Aq9K4dpmnxwVOuBnFXqslsR%E2%9C%A4PycTDCIhX4VZROM%E2%9C%BFi06yKqnt6WggtDpEP%E2%9C%A49qS%E2%9C%A4OqhmJOM%E2%9C%A4HY9NwlZsBW6x0te88%E2%9C%BF%E2%9C%BF0jyrttC7nRRU7AbQ%E2%99%AC%E2%99%AC).  - The project must remain operational for a minimum of 5 years post-completion.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) & Gujarat Pollution Control Board (GPCB) "
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://gpcb.gujarat.gov.in/ViewFile?fileName=%E2%9C%BF84VtA%E2%9C%A45Y2S5am0gZge7C5DIhraFNMo2Ft55An9ZyFCK3Aq9K4dpmnxwVOuBnFXqslsR%E2%9C%A4PycTDCIhX4VZROM%E2%9C%BFi06yKqnt6WggtDpEP%E2%9C%A49qS%E2%9C%A4OqhmJOM%E2%9C%A4HY9NwlZsBW6x0te88%E2%9C%BF%E2%9C%BF0jyrttC7nRRU7AbQ%E2%99%AC%E2%99%AC",
+                      "children": [
+                        {
+                          "text": "regulations"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The project must remain operational for a minimum of 5 years post-completion."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "saceieif"
+}

@@ -1,0 +1,559 @@
+{
+  "_id": "6644afc402cfbde3163f66e2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Insurance",
+        "Disease",
+        "Animal",
+        "Premium"
+      ],
+      "schemeName": "Pashu Bima Yojana",
+      "schemeShortTitle": "PBY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Insurance",
+          "label": "Insurance"
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalDepartmentName": {
+        "value": 10111156,
+        "label": "Directorate of Dairy Development"
+      },
+      "schemeFor": "Individual",
+      "slug": "pby",
+      "briefDescription": "The scheme 'Pashu Bima Yojna' was launched by the Directorate of Dairy Development, Government of Bihar. The scheme aims to provide insurance security to farmers against the financial loss caused by cattle death and to improve the rural economy. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dairy.bihar.gov.in/Scheme.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Pashu Bima Yojana&quot; by the Directorate of Dairy Development, Government of Bihar aims to provide financial security to livestock owners against losses due to serious diseases like Lumpy Skin Disease, HSBQ, and other causes of cattle death. Through this scheme, insurance coverage of up to ₹60,000 per dairy cattle is provided to livestock owners of all categories, with the government providing a 75% subsidy on the premium amount. The scheme is implemented by the District Dairy Development Officers across all districts of Bihar.\n",
+      "benefits_md": "\n- The maximum price per milch cattle has been fixed at ₹60,000/-. \n\n\n- The total amount of insurance at the rate of 3.5 percent will be ₹2,100/-.\n- The insurance company will insure milch cattle for 01 year. \n- The insurance company will fit the data ear tags in the milch cattle. \n\n> **NOTE 1:** 75% amount of ₹1,575/- will be paid by the state government as a grant and the remaining 25% amount of ₹525/- will be paid by the cattle farmers to the insurance company. \n\n> **NOTE 2:** The responsibility for the safety of milch cattle will be on the beneficiary.\n\n",
+      "briefDescription": "The scheme 'Pashu Bima Yojna' was launched by the Directorate of Dairy Development, Government of Bihar. The scheme aims to provide insurance security to farmers against the financial loss caused by cattle death and to improve the rural economy. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Pashu Bima Yojana\" by the Directorate of Dairy Development, Government of Bihar aims to provide financial security to livestock owners against losses due to serious diseases like Lumpy Skin Disease, HSBQ, and other causes of cattle death. Through this scheme, insurance coverage of up to ₹60,000 per dairy cattle is provided to livestock owners of all categories, with the government providing a 75% subsidy on the premium amount. The scheme is implemented by the District Dairy Development Officers across all districts of Bihar."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The maximum price per milch cattle has been fixed at ₹60,000/-. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The total amount of insurance at the rate of 3.5 percent will be ₹2,100/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The insurance company will insure milch cattle for 01 year. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The insurance company will fit the data ear tags in the milch cattle. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "NOTE 1:",
+              "bold": true
+            },
+            {
+              "text": " 75% amount of ₹1,575/- will be paid by the state government as a grant and the remaining 25% amount of ₹525/- will be paid by the cattle farmers to the insurance company. "
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "NOTE 2: ",
+              "bold": true
+            },
+            {
+              "text": "The responsibility for the safety of milch cattle will be on the beneficiary."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the registration page: "
+              },
+              {
+                "type": "link",
+                "link": "https://misdairy.bihar.gov.in/Registration/Register",
+                "children": [
+                  {
+                    "text": "https://misdairy.bihar.gov.in/Registration/Register"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Provide the below details for the registration"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Full name."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Father's name or husband's name (as applicable)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select date of birth."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Choose gender from the dropdown menu."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select your district from the available options."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter your valid Aadhaar number in the designated field."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Form Submission via mobile OTP:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Provide your active mobile phone number."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "An OTP (One-Time Password) will be sent to your phone. Enter the received OTP in the designated field."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After entering the OTP, submit the completed registration form."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": "Upon successful registration, a password will be sent to the applicant's registered mobile number. This password will be used for future logins."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the login page: "
+              },
+              {
+                "type": "link",
+                "link": "https://misdairy.bihar.gov.in",
+                "children": [
+                  {
+                    "text": "https://misdairy.bihar.gov.in"
+                  }
+                ]
+              },
+              {
+                "text": "/ and do login with the following details:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter the registered mobile number."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Use the password received during registration to log in."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Complete the captcha verification."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Applicant Details (Pre-populated):"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The portal will automatically display your pre-registered information, including mobile number, district, block, and PIN code. You cannot edit this information."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": "  Provide the following details:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter the full name of the proposer."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select the proposer's occupation from the provided options."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Choose the proposer's qualification from the available list."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Supporting Documents Upload:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upload a scanned copy of your Milk Producer Society membership receipt."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upload a passport-sized photograph of the proposer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Submission:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After completing all sections, click the \"Submit\" button."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration**\n\n**Step 1:** Visit the registration page: [https://misdairy.bihar.gov.in/Registration/Register](https://misdairy.bihar.gov.in/Registration/Register)\n**Step 2:** Provide the below details for the registration\n\n- Full name.\n- Father&#39;s name or husband&#39;s name (as applicable).\n- Select date of birth.\n- Choose gender from the dropdown menu.\n- Select your district from the available options.\n- Enter your valid Aadhaar number in the designated field.\n\n**Step 3:** Form Submission via mobile OTP:\n\n- Provide your active mobile phone number.\n- An OTP (One-Time Password) will be sent to your phone. Enter the received OTP in the designated field.\n- After entering the OTP, submit the completed registration form.\n\n**Step 4:** Upon successful registration, a password will be sent to the applicant&#39;s registered mobile number. This password will be used for future logins.\n<br>\n\n> **Application**\n\n**Step 1:** Visit the login page: [https://misdairy.bihar.gov.in](https://misdairy.bihar.gov.in)/ and do login with the following details:\n\n- Enter the registered mobile number.\n- Use the password received during registration to log in.\n- Complete the captcha verification.\n\n**Step 2:** Applicant Details (Pre-populated):\n\n- The portal will automatically display your pre-registered information, including mobile number, district, block, and PIN code. You cannot edit this information.\n\n**Step 3:**  Provide the following details:\n\n- Enter the full name of the proposer.\n- Select the proposer&#39;s occupation from the provided options.\n- Choose the proposer&#39;s qualification from the available list.\n\n**Step 4:** Supporting Documents Upload:\n\n- Upload a scanned copy of your Milk Producer Society membership receipt.\n- Upload a passport-sized photograph of the proposer.\n\n**Step 5:** Submission:\n\n- After completing all sections, click the &quot;Submit&quot; button.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a farmer of milch cattle. \n1. The applicant should be a member of the &quot;Milk Producer Cooperation Committee&quot;. \n1. The milch cattle of the farmer should be healthy and certified by a veterinary doctor at the time of insurance.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer of milch cattle. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a member of the \"Milk Producer Cooperation Committee\". "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The milch cattle of the farmer should be healthy and certified by a veterinary doctor at the time of insurance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pby"
+}

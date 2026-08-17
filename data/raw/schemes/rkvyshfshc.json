@@ -1,0 +1,386 @@
+{
+  "_id": "65097b7c7846de4ead17e40c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Soil Health",
+        "INM",
+        "Soil Testing",
+        "Farmer",
+        "RKVY"
+      ],
+      "schemeName": "RKVY Soil Health and Fertility - Soil Health Card",
+      "schemeShortTitle": "RKVYSHFSHC",
+      "implementingAgency": "State Government",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Soil health",
+          "label": "Soil health"
+        }
+      ],
+      "schemeOpenDate": "2015-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 511,
+        "label": "Department of Agriculture and Cooperation"
+      },
+      "slug": "rkvyshfshc",
+      "briefDescription": "The scheme aims to promote soil test-based nutrient management by providing Soil Health Cards containing soil analysis results and fertilizer recommendations to farmers across India."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.soilhealth.dac.gov.in/home"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;RKVY Soil Health and Fertility - Soil Health Card&amp;quot; implemented by the Ministry of Agriculture and Farmers Welfare, aims to promote soil test-based nutrient management through providing Soil Health Cards to farmers across India. The Soil Health Card contains the status of soil with respect to 12 parameters, including macro-nutrients, micro-nutrients, and soil properties. Based on the test results, the card provides recommendations regarding fertilizers and soil amendments required for the farm. The scheme also seeks to strengthen soil testing laboratories and build the capacity of district and state-level staff. It helps farmers make informed decisions regarding nutrient management and fertilizer use.\n<br>\n\n",
+      "benefits_md": "\n- **Soil Health Card:** Provides a Soil Health Card containing detailed soil analysis results.- **Soil Testing Facility:** Provides free or affordable access to soil testing services.- **Soil Analysis Report:** Provides timely and accurate soil analysis results to farmers.- **Nutrient Recommendations:** Provides customized soil nutrient and fertilizer recommendations based on soil test results.- **Cost Optimization:** Helps farmers optimize fertilizer use and reduce input costs by avoiding under-application or over-application of fertilizers.\n> **Soil Fertility Assessment:**\n\n\n- Assesses soil status based on 12 parameters:\n- Nitrogen (N), Phosphorus (P), Potassium (K), Sulphur (S)\n- Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (Bo)\n- pH, Electrical Conductivity (EC), Organic Carbon (OC)\n\n> **Financial Norms:**\n\n\n- Soil Sampling, Testing and Generation of Soil Health Card: ₹300/- per Soil Health Card.\n- Soil Collection: ₹40/-\n- Soil Testing and Analysis: ₹150/-\n- Awareness Activities: ₹110/-\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote soil test-based nutrient management by providing Soil Health Cards containing soil analysis results and fertilizer recommendations to farmers across India.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"RKVY Soil Health and Fertility - Soil Health Card\" implemented by the Ministry of Agriculture and Farmers Welfare, aims to promote soil test-based nutrient management through providing Soil Health Cards to farmers across India. The Soil Health Card contains the status of soil with respect to 12 parameters, including macro-nutrients, micro-nutrients, and soil properties. Based on the test results, the card provides recommendations regarding fertilizers and soil amendments required for the farm. The scheme also seeks to strengthen soil testing laboratories and build the capacity of district and state-level staff. It helps farmers make informed decisions regarding nutrient management and fertilizer use."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Health Card: ",
+                  "bold": true
+                },
+                {
+                  "text": "Provides a Soil Health Card containing detailed soil analysis results."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Testing Facility: ",
+                  "bold": true
+                },
+                {
+                  "text": "Provides free or affordable access to soil testing services."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Analysis Report: ",
+                  "bold": true
+                },
+                {
+                  "text": "Provides timely and accurate soil analysis results to farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Nutrient Recommendations: ",
+                  "bold": true
+                },
+                {
+                  "text": "Provides customized soil nutrient and fertilizer recommendations based on soil test results."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cost Optimization: ",
+                  "bold": true
+                },
+                {
+                  "text": "Helps farmers optimize fertilizer use and reduce input costs by avoiding under-application or over-application of fertilizers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Soil Fertility Assessment:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assesses soil status based on 12 parameters:"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Nitrogen (N), Phosphorus (P), Potassium (K), Sulphur (S)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Zinc (Zn), Iron (Fe), Copper (Cu), Manganese (Mn), Boron (Bo)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "pH, Electrical Conductivity (EC), Organic Carbon (OC)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Financial Norms:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Sampling, Testing and Generation of Soil Health Card: ₹300/- per Soil Health Card."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Collection: ₹40/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soil Testing and Analysis: ₹150/-"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Awareness Activities: ₹110/-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Farmer approaches a District Agriculture Officer / Block Agriculture Officer for soil testing and generation of a SHC."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The concerned officer shall initiate the process for the concerned farmer wherein they assess whether the applicant’s district / village falls under State Annual Action Plan for generation of SHC."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and takes a sample of the soil for testing"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " The soil is tested on set parameters and a Soil Health report is generated for the farmer’s land"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "The report contains results as well as recommendations on suitable crops for the soil type, and the quantity and type of fertiliser to be used. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Farmer approaches a District Agriculture Officer / Block Agriculture Officer for soil testing and generation of a SHC.\n**Step 2:** The concerned officer shall initiate the process for the concerned farmer wherein they assess whether the applicant’s district / village falls under State Annual Action Plan for generation of SHC.\n**Step 3:** Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and takes a sample of the soil for testing\n**Step 4:** The soil is tested on set parameters and a Soil Health report is generated for the farmer’s land\n**Step 5:** The report contains results as well as recommendations on suitable crops for the soil type, and the quantity and type of fertiliser to be used. \n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a farmer.\n- The applicant must be residing in India.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be residing in India."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rkvyshfshc"
+}

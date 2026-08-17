@@ -1,0 +1,458 @@
+{
+  "_id": "69b25f28224e787bd89346e9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Tea",
+        "Cultural",
+        "DBT",
+        "Farmer"
+      ],
+      "schemeName": "One Tea Scheme",
+      "schemeShortTitle": "OTSM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777821,
+        "label": "Planning, Investment Promotion & Sustainable Development Department"
+      },
+      "slug": "otsm",
+      "briefDescription": "The objective of the One Tea Scheme is to ensure a minimum guaranteed price for fresh tea leaves to protect tea farmers from financial losses and provide economic stability. It also aims to support bought-leaf factories and promote sustainable tea cultivation in Meghalaya."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX19mkXsXyXg4eEj2O1KJTbttc0kKb%206h%20xyYHdE0faMah%2Fpy1M%2FVpuv%20SeJ5CuDVALYxmFYEGXkaEB0XeuzAFMHdjbyeZ1%209XH0k72jXVLaRjRBEv%2FYM%2FlAdGBuj9k8EQaLaPRXJwl5IWX9oL7I6aYGVZLh0J3JD%20MgXS2rK%20zMbuL5KGW%20MdTIocS0V4x7HULQxBuvnZVh1Aw%20kzquThteYCUBEhocdcE9HKmwr9nUospavMeUplDWk="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The One Tea Scheme, implemented by the Planning, Investment Promotion &amp; Sustainable Development Department, Government of Meghalaya, is designed to support tea farmers in the state whose livelihoods have been affected by declining factory gate prices and shrinking cultivated areas. The initiative introduces a single-season price support mechanism that guarantees every registered grower a minimum price of ₹35 per kilogram of fresh tea leaves for conventional tea gardens and ₹40 per kilogram for organically certified tea gardens. By compensating the difference between the factory’s actual purchase price and the guaranteed minimum price, the scheme prevents farmers from being forced to sell their produce at a loss. \nThis support helps ensure fair price realization, provides economic stability for farmers to reinvest in their plantations, and contributes to the preservation of ecological services and traditional knowledge associated with tea cultivation. In addition, the scheme offers a one-time financial benefit to bought-leaf factories to cover the gap between the price they pay for fresh green leaves from both small and large tea growers and the price at which they can profitably process and sell the manufactured tea.\n<br>\n\n",
+      "benefits_md": "\n1. Ensures fair and stable prices for tea farmers.\n1. Prevents distress sales due to low factory rates.\n1. Provides direct financial support via DBT.\n1. Farmers receive ₹35/kg and ₹40/kg support price.\n1. Government pays the difference if factory rate is &lt;semi_colon ₹35/kg and &lt;semi_colon ₹40/kg. \n1. Supports up to 10,000 kgs per farmer.\n1. Encourages organic cultivation, using ₹40/kg as reference.\n1. Targets 1,000 financially distressed tea farmers\n1. Provide one time support to bought leaf factories\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The objective of the One Tea Scheme is to ensure a minimum guaranteed price for fresh tea leaves to protect tea farmers from financial losses and provide economic stability. It also aims to support bought-leaf factories and promote sustainable tea cultivation in Meghalaya.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The One Tea Scheme, implemented by the Planning, Investment Promotion & Sustainable Development Department, Government of Meghalaya, is designed to support tea farmers in the state whose livelihoods have been affected by declining factory gate prices and shrinking cultivated areas. The initiative introduces a single-season price support mechanism that guarantees every registered grower a minimum price of ₹35 per kilogram of fresh tea leaves for conventional tea gardens and ₹40 per kilogram for organically certified tea gardens. By compensating the difference between the factory’s actual purchase price and the guaranteed minimum price, the scheme prevents farmers from being forced to sell their produce at a loss. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This support helps ensure fair price realization, provides economic stability for farmers to reinvest in their plantations, and contributes to the preservation of ecological services and traditional knowledge associated with tea cultivation. In addition, the scheme offers a one-time financial benefit to bought-leaf factories to cover the gap between the price they pay for fresh green leaves from both small and large tea growers and the price at which they can profitably process and sell the manufactured tea."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ensures fair and stable prices for tea farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Prevents distress sales due to low factory rates."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provides direct financial support via DBT."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers receive ₹35/kg and ₹40/kg support price."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Government pays the difference if factory rate is <semi_colon ₹35/kg and <semi_colon ₹40/kg. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Supports up to 10,000 kgs per farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encourages organic cultivation, using ₹40/kg as reference."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Targets 1,000 financially distressed tea farmers"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provide one time support to bought leaf factories"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1:"
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX19mkXsXyXg4eEj2O1KJTbttc0kKb%206h%20xyYHdE0faMah%2Fpy1M%2FVpuv%20SeJ5CuDVALYxmFYEGXkaEB0XeuzAFMHdjbyeZ1%209XH0k72jXVLaRjRBEv%2FYM%2FlAdGBuj9k8EQaLaPRXJwl5IWX9oL7I6aYGVZLh0J3JD%20MgXS2rK%20zMbuL5KGW%20MdTIocS0V4x7HULQxBuvnZVh1Aw%20kzquThteYCUBEhocdcE9HKmwr9nUospavMeUplDWk=",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " If you are a first-time user, click on “"
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D",
+                "children": [
+                  {
+                    "text": "Registration for New User"
+                  }
+                ]
+              },
+              {
+                "text": "” and complete the registration process to create your account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Select your Authentication ID from the available options, such as"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "PDS (Ration Card) "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Election Photo ID Card (EPIC)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Enter your card number, select your name from the displayed list, and click on “Next” to continue."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7:",
+                "bold": true
+              },
+              {
+                "text": " Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Sign In ",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Click on "
+              },
+              {
+                "type": "link",
+                "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D",
+                "children": [
+                  {
+                    "text": "“Sign In"
+                  }
+                ]
+              },
+              {
+                "text": "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Enter your User ID and Password, then click on “Login” to access your account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " After logging in, click on “Apply for Services/Scheme” to start your application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [official website](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX19mkXsXyXg4eEj2O1KJTbttc0kKb%206h%20xyYHdE0faMah%2Fpy1M%2FVpuv%20SeJ5CuDVALYxmFYEGXkaEB0XeuzAFMHdjbyeZ1%209XH0k72jXVLaRjRBEv%2FYM%2FlAdGBuj9k8EQaLaPRXJwl5IWX9oL7I6aYGVZLh0J3JD%20MgXS2rK%20zMbuL5KGW%20MdTIocS0V4x7HULQxBuvnZVh1Aw%20kzquThteYCUBEhocdcE9HKmwr9nUospavMeUplDWk=) of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.\n**Step 2:** If you are a first-time user, click on “[Registration for New User](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D)” and complete the registration process to create your account.\n**Step 3:** Select your Authentication ID from the available options, such as\n\n- PDS (Ration Card) \n- Election Photo ID Card (EPIC).\n\n**Step 4:** Enter your card number, select your name from the displayed list, and click on “Next” to continue.\n**Step 5:** Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.\n**Step 6:** Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.\n**Step 7:** Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.\n**Sign In** \n**Step 1:** Click on [“Sign In](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D)” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.\n**Step 2:** Enter your User ID and Password, then click on “Login” to access your account.\n**Step 3:** After logging in, click on “Apply for Services/Scheme” to start your application.\n**Step 4:** Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be 18 years of age or above.\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a tea farmer.\n1. The applicant should possess a valid government-issued identity document.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be 18 years of age or above."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Meghalaya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a tea farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess a valid government-issued identity document."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "otsm"
+}

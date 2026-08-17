@@ -1,0 +1,400 @@
+{
+  "_id": "69c2586e53937261838f3c6f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "National Dhanwantari",
+        "Ayurved",
+        "Award",
+        "International Level"
+      ],
+      "schemeName": "National Dhanwantari Ayurveda Award",
+      "schemeShortTitle": "NDAA",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1561,
+        "label": "Ministry Of Ayush"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "ndaa",
+      "briefDescription": "The objective of the award is to motivate vaidyas and Ayurveda experts to adopt and showcase best practices in Ayurveda, promoting high standards of excellence. The award also aims to encourage innovation and outstanding performance in the field through healthy competition."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://awards.gov.in/Home/AwardLibrary"
+        },
+        {
+          "title": "Website",
+          "url": "https://maisp.ayush.gov.in/competitionsandawards"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objective of the award is to motivate vaidyas and Ayurveda experts to adopt and showcase best practices in Ayurveda, promoting high standards of excellence. The award also aims to encourage innovation and outstanding performance in the field through healthy competition.",
+      "detailedDescription_md": "The National Dhanwantari Ayurveda Award under the Ministry of Ayush, Government of India, aims to motivate vaidyas and Ayurveda experts to adopt and showcase best practices in Ayurveda, promoting high standards of excellence. The award also seeks to encourage innovation and outstanding performance in the field through healthy competition.\n<br>\n\n",
+      "benefits_md": "The awardee will be presented with a cash prize of  ₹ 5,00,000/-, a Trophy, a sanada, and shawl/Angvastram.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The National Dhanwantari Ayurveda Award under the Ministry of Ayush, Government of India, aims to motivate vaidyas and Ayurveda experts to adopt and showcase best practices in Ayurveda, promoting high standards of excellence. The award also seeks to encourage innovation and outstanding performance in the field through healthy competition."
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The awardee will be presented with a cash prize of  ₹ 5,00,000/-, a Trophy, a sanada, and shawl/Angvastram."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the o"
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/",
+                "children": [
+                  {
+                    "text": "fficial website"
+                  }
+                ]
+              },
+              {
+                "text": " and click on the"
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Registration/SignUp",
+                "children": [
+                  {
+                    "text": " Registration button."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Select your category: Individual or Organization."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in the required details:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Individual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Organization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Click Submit to complete registration."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Apply:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " "
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Login",
+                "children": [
+                  {
+                    "text": "Log in"
+                  }
+                ]
+              },
+              {
+                "text": " to the portal using your registered credentials."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Select the scheme from the list of awards and click \""
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Home/AwardLibrary",
+                "children": [
+                  {
+                    "text": "Nominate / Apply Now\"."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in all mandatory fields in the online application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Click Submit to complete your application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration:**\n**Step 1:** Visit the o[fficial website](https://awards.gov.in/) and click on the[ Registration button.](https://awards.gov.in/Registration/SignUp)\n**Step 2:** Select your category: Individual or Organization.\n**Step 3:** Fill in the required details:\nIndividual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number.\nOrganization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number.\n**Step 4:** Click Submit to complete registration.\n**Apply:**\n**Step 1:** [Log in](https://awards.gov.in/Login) to the portal using your registered credentials.\n**Step 2:** Select the scheme from the list of awards and click &quot;[Nominate / Apply Now&quot;.](https://awards.gov.in/Home/AwardLibrary)\n**Step 3:** Fill in all mandatory fields in the online application form.\n**Step 4:** Click Submit to complete your application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should have made significant contributions to Ayurveda through promotion, teaching, research, policy planning, or integration in national health programs at the national or international level.\n1. The applicant should be a renowned Ayurvedic practitioner with a minimum of 20 years of professional experience.\n1. The applicant must be at least 40 years of age.\n1. The applicant must hold a recognized degree in Ayurveda as per the National Commission for Indian System of Medicine Act, 2020, or the Indian Medicine Central Council Act, 1970.\n1. Past recipients of the award are not eligible to receive the same award again.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have made significant contributions to Ayurveda through promotion, teaching, research, policy planning, or integration in national health programs at the national or international level."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a renowned Ayurvedic practitioner with a minimum of 20 years of professional experience."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be at least 40 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must hold a recognized degree in Ayurveda as per the National Commission for Indian System of Medicine Act, 2020, or the Indian Medicine Central Council Act, 1970."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Past recipients of the award are not eligible to receive the same award again."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ndaa"
+}

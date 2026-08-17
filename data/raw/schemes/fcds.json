@@ -1,0 +1,304 @@
+{
+  "_id": "65c5dd52ed4030e118d3562a",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Floriculture",
+        "Agriculture",
+        "Farmer",
+        "Subsidy",
+        "Flower",
+        "Horticulture"
+      ],
+      "schemeName": "Floriculture Development Scheme",
+      "schemeShortTitle": "FCDS",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "fcds",
+      "briefDescription": "The objective of the scheme is to motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=102"
+        },
+        {
+          "title": "FAQs",
+          "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The objective of the scheme is to motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs.",
+      "detailedDescription_md": "The scheme “Floriculture Development Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\n\n  - By providing good quality flower planting material at 50% subsidy and low cost polyhouse free of cost with a minimum of 100sqm/unit area.\n\n&gt; **Type of Assistance:**\n\n\n  - To motivate farmers by cultivating low volume high-value crops to increase economic income. Under this aspect, poly house and good quality flower planting materials including organic fertilizers, micronutrients, and organic-based and P.P chemicals and drip irrigation are provided.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Floriculture Development Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "By providing good quality flower planting material at 50% subsidy and low cost polyhouse free of cost with a minimum of 100sqm/unit area."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Type of Assistance:",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To motivate farmers by cultivating low volume high-value crops to increase economic income. Under this aspect, poly house and good quality flower planting materials including organic fertilizers, micronutrients, and organic-based and P.P chemicals and drip irrigation are provided."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01",
+                    "bold": true
+                  },
+                  {
+                    "text": ": The eligible bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Bonafide farmers having a minimum area of 0.2 (hectares) willing to invest for future expansion in terms of planting materials, infrastructures, etc."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "1. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                    "children": [
+                      {
+                        "text": "District Horticulture Officer"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "2. Horticulture Development Officer"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Application Process:**\n**Step 01**: The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n**Mode of Selection of Beneficiary(s):**\nBonafide farmers having a minimum area of 0.2 (hectares) willing to invest for future expansion in terms of planting materials, infrastructures, etc.\n**Whom to Contact:**\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant/farmer should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant/farmer should be a permanent resident of Meghalaya."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fcds"
+}

@@ -1,0 +1,575 @@
+{
+  "_id": "69562351f4e0740b156ecc6a",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Purchase Of Cows",
+        "Cattle Shed Infrastructure",
+        "Insurance Coverage",
+        "Financial Assistance",
+        "Subsidy"
+      ],
+      "schemeName": "Integrated Dairy Development Project (IDDP)",
+      "schemeShortTitle": "IDDPDAMAN",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 38,
+        "label": "Dadra & Nagar Haveli and Daman & Diu"
+      },
+      "nodalDepartmentName": {
+        "value": 38000074,
+        "label": "Fisheries Department"
+      },
+      "slug": "iddpdaman",
+      "briefDescription": "The scheme aims to strengthen dairy livelihoods through Gir cow induction. Through this scheme, financial assistance and subsidies are provided to beneficiaries for cows, feed, infrastructure, and insurance."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.daman.nic.in/websites/veterinary_office_daman/documents/2017/374-26-10-2017.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Integrated Dairy Development Project (For 2 Cows)” scheme has been launched by the Department of Animal Husbandry &amp; Veterinary Services, U.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli. The scheme aims to promote dairy development through the introduction of Gir breed milch cows and the provision of necessary dairy inputs. Through this scheme, financial assistance and subsidies are provided to beneficiaries for the purchase of cows, cattle shed infrastructure, feed, mineral mixture, and insurance coverage.\n<br>\n\n",
+      "benefits_md": "<br>\n\n<br>\n\n**Sr. No.****Activity****Cost (₹)****UT Subsidy Admin (₹)****Under DEDS – Subsidy Beneficiary Gets**1Cost of 2 milch cows of the Indigenous “Gir” breed, including transportation cost (@ ₹60,000/- per animal)₹1,20,000/-₹30,000/- (@25% of purchase cost subject to a maximum of ₹30,000/-)Beneficiary will get back-ended subsidy from NABARD @ 25% for General and 33.33% for SC/ST, i.e. ₹30,000/- (@25% for General) or ₹39,996/- (@33.33% for SC/ST)2Cost towards cattle shed, water tank with automatic drinking system (already existing)₹8,000/-₹4,000/- (50% of construction cost)-344 bags of cattle feed (each of 50 kg) (44 bags × 2) (@ ₹600/- per bag)₹52,800/-₹26,400/- (50% of purchase cost)-444 kg of mineral mixture (each of 1 kg) (44 kg × 2) (@ ₹80/- per bag)₹7,040/-₹3,520/- (50% of purchase cost)-5Cost of insurance for 3 years (approx. @ ₹5,400/- per animal)₹10,800/-₹5,400 (50% for General) or ₹8,100 (75% for SC/ST)-**Total****₹1,98,640/-****₹69,320/- (General) or ₹72,020/- (SC/ST)****₹99,320/- (General) or ₹1,12,016/- (SC/ST)**<br>\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to strengthen dairy livelihoods through Gir cow induction. Through this scheme, financial assistance and subsidies are provided to beneficiaries for cows, feed, infrastructure, and insurance.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “Integrated Dairy Development Project (For 2 Cows)” scheme has been launched by the Department of Animal Husbandry & Veterinary Services, U.T. Administration of Daman & Diu and Dadra & Nagar Haveli. The scheme aims to promote dairy development through the introduction of Gir breed milch cows and the provision of necessary dairy inputs. Through this scheme, financial assistance and subsidies are provided to beneficiaries for the purchase of cows, cattle shed infrastructure, feed, mineral mixture, and insurance coverage."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sr. No.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Activity",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Cost (₹)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "UT Subsidy Admin (₹)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Under DEDS – Subsidy Beneficiary Gets",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Cost of 2 milch cows of the Indigenous “Gir” breed, including transportation cost (@ ₹60,000/- per animal)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,20,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹30,000/- (@25% of purchase cost subject to a maximum of ₹30,000/-)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Beneficiary will get back-ended subsidy from NABARD @ 25% for General and 33.33% for SC/ST, i.e. ₹30,000/- (@25% for General) or ₹39,996/- (@33.33% for SC/ST)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Cost towards cattle shed, water tank with automatic drinking system (already existing)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹8,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/- (50% of construction cost)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "44 bags of cattle feed (each of 50 kg) (44 bags × 2) (@ ₹600/- per bag)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹52,800/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹26,400/- (50% of purchase cost)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "4"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "44 kg of mineral mixture (each of 1 kg) (44 kg × 2) (@ ₹80/- per bag)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹7,040/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹3,520/- (50% of purchase cost)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "5"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Cost of insurance for 3 years (approx. @ ₹5,400/- per animal)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹10,800/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5,400 (50% for General) or ₹8,100 (75% for SC/ST)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "-"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Total",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹1,98,640/-",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹69,320/- (General) or ₹72,020/- (SC/ST)",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹99,320/- (General) or ₹1,12,016/- (SC/ST)",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant must approach the Department of Animal Husbandry & Veterinary Services,"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "U.T. Administration of Daman & Diu and Dadra & Nagar Haveli, for availing benefits under the Integrated Dairy Development Project (For 2 Cows)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "mode": "Offline",
+        "process_md": "The applicant must approach the Department of Animal Husbandry &amp; Veterinary Services,\nU.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli, for availing benefits under the Integrated Dairy Development Project (For 2 Cows).\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of the Union Territory of Daman and Diu and Dadra and Nagar Haveli.\n1. The applicant should purchase only the Indigenous Gir breed milch cows.\n1. The applicant should utilise the grant only for the purpose for which it is sanctioned and within the stipulated period.\n1. The applicant should maintain all required records and registers as per the General Financial Rules, 1963.\n1. The applicant should submit utilisation certificates, audited accounts, and achievement reports as prescribed by the Department of Animal Husbandry &amp; Veterinary Services.\n\n> **Preference / Reservation:**\n\n\n- A higher subsidy rate is applicable for Scheduled Caste and Scheduled Tribe applicants.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of the Union Territory of Daman and Diu and Dadra and Nagar Haveli."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should purchase only the Indigenous Gir breed milch cows."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should utilise the grant only for the purpose for which it is sanctioned and within the stipulated period."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should maintain all required records and registers as per the General Financial Rules, 1963."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should submit utilisation certificates, audited accounts, and achievement reports as prescribed by the Department of Animal Husbandry & Veterinary Services."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Preference / Reservation:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A higher subsidy rate is applicable for Scheduled Caste and Scheduled Tribe applicants."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "iddpdaman"
+}

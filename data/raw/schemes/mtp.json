@@ -1,0 +1,258 @@
+{
+  "_id": "68caa23c55338ff1a853bda5",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Artificial Insemination",
+        "Livestock Development",
+        "Animal Husbandry",
+        "Training",
+        "Livestock"
+      ],
+      "schemeName": "Maitri Prashikshan Karyakram - Uttarakhand Livestock Development Board",
+      "schemeShortTitle": "MPKULDB",
+      "implementingAgency": "Uttarakhand Livestock Development Board",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000004,
+        "label": "Department Of Animal Husbandry"
+      },
+      "slug": "mtp",
+      "briefDescription": "The scheme aims to enhance livestock productivity and improve  artificial insemination services across the state through the training and capacity building of local youth."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 196)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Maitri Prashikshan Karyakram” is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to enhance livestock productivity and improve  artificial insemination services across the state through the training and capacity building of local youth.\n<br>\n\n",
+      "benefits_md": "\n- **In Hilly Districts:** ₹100/- per artificial insemination, with a minimum target of 25 to 30 inseminations.- **In Plain Districts:** ₹100/- per artificial insemination, with a minimum target of 50 to 60 inseminations.\n<br>\n\n",
+      "briefDescription": "The scheme aims to enhance livestock productivity and improve  artificial insemination services across the state through the training and capacity building of local youth.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Maitri Prashikshan Karyakram” is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to enhance livestock productivity and improve  artificial insemination services across the state through the training and capacity building of local youth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In Hilly Districts: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "₹100/- per artificial insemination, with a minimum target of 25 to 30 inseminations."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "In Plain Districts: "
+                    },
+                    {
+                      "text": "₹100/- per artificial insemination, with a minimum target of 50 to 60 inseminations."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The prescribed application format can be downloaded from the ‘Training’ subhead under the ‘Services’ section of the Uttarakhand Livestock Development Board (ULDB) website - "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://www.uldb.org/",
+                        "children": [
+                          {
+                            "text": "https://www.uldb.org"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ". The application, duly recommended by the Local Veterinary Officer and the Chief Veterinary Officer, will be considered for approval by the Chief Executive Officer, ULDB."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The prescribed application format can be downloaded from the ‘Training’ subhead under the ‘Services’ section of the Uttarakhand Livestock Development Board (ULDB) website - [https://www.uldb.org](https://www.uldb.org/). The application, duly recommended by the Local Veterinary Officer and the Chief Veterinary Officer, will be considered for approval by the Chief Executive Officer, ULDB.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "It is mandatory for registered Artificial Insemination workers to record all AI-related data on the Bharat Pashudhan App.\n\n   1. The applicant must be a permanent resident of Uttarakhand.\n   1. The applicant must be at least 18 years of age.\n   1. The applicant must possess a minimum educational qualification of High School.\n   1. The applicant must obtain a recommendation in the prescribed format from both the Local Veterinary Officer and the Chief Veterinary Officer.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": "It is mandatory for registered Artificial Insemination workers to record all AI-related data on the Bharat Pashudhan App."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a permanent resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be at least 18 years of age."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must possess a minimum educational qualification of High School."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must obtain a recommendation in the prescribed format from both the Local Veterinary Officer and the Chief Veterinary Officer."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mtp"
+}

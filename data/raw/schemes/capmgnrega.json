@@ -1,0 +1,225 @@
+{
+  "_id": "69133a3d9df1e73436b480fb",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Aromatic",
+        "Farmer",
+        "Aromatic Plants",
+        "Cultivation",
+        "MGNREGA"
+      ],
+      "schemeName": "Cultivation of Aromatic Plants under MGNREGA - Centre for Aromatic Plants",
+      "schemeShortTitle": "CAPMGNREGA",
+      "implementingAgency": "Centre For Aromatic Plants, Selaqui, Dehradun",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "capmgnrega",
+      "briefDescription": "The scheme aims to encourage farmers in rural areas to grow aromatic plants by providing them free planting material, technical help, and wage support through MGNREGA."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 231)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Cultivation of Aromatic Plants under MGNREGA” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to encourage farmers in rural areas to grow aromatic plants by providing them free planting material, technical help, and wage support through MGNREGA.\n<br>\n\n",
+      "benefits_md": "\n  - Under MGNREGA, when aromatic cultivation is undertaken, the wages for the work done by the labourers in land preparation and related activities are paid by the Rural Development Department, and the farmer does not have to pay the wages.\n  - The Centre for Aromatic Plants (CAP) provides free planting material along with technical support, consultancy, and monitoring services to the farmers.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to encourage farmers in rural areas to grow aromatic plants by providing them free planting material, technical help, and wage support through MGNREGA.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Cultivation of Aromatic Plants under MGNREGA” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to encourage farmers in rural areas to grow aromatic plants by providing them free planting material, technical help, and wage support through MGNREGA."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under MGNREGA, when aromatic cultivation is undertaken, the wages for the work done by the labourers in land preparation and related activities are paid by the Rural Development Department, and the farmer does not have to pay the wages."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Centre for Aromatic Plants (CAP) provides free planting material along with technical support, consultancy, and monitoring services to the farmers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Farmers interested in aromatic farming must pass a resolution in an open meeting of the Gram Sabha and submit the proposal to CAP, Selaqui, through the Block Development Officer. After receiving the proposal, CAP prepares a financial estimate or assessment for the relevant crop, which is then forwarded to the office of the Block Development Officer or Chief Development Officer. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The proposal is approved by the concerned authorities. Once approved, the Block Development Officer requests planting material from the CAP office. CAP provides the selected farmers with planting material free of charge at the nearest site or roadside location and offers technical assistance during planting. The village head arranges for the aromatic cultivation work to be carried out under MGNREGA on the interested farmers’ fields."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Farmers interested in aromatic farming must pass a resolution in an open meeting of the Gram Sabha and submit the proposal to CAP, Selaqui, through the Block Development Officer. After receiving the proposal, CAP prepares a financial estimate or assessment for the relevant crop, which is then forwarded to the office of the Block Development Officer or Chief Development Officer. \n  - The proposal is approved by the concerned authorities. Once approved, the Block Development Officer requests planting material from the CAP office. CAP provides the selected farmers with planting material free of charge at the nearest site or roadside location and offers technical assistance during planting. The village head arranges for the aromatic cultivation work to be carried out under MGNREGA on the interested farmers’ fields.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a farmer residing in a rural area of Uttarakhand.\n   1. The farmer must be interested in aromatic plant cultivation.\n   1. The farmer must either legally own agricultural land or have leased land for a minimum period of 10 years.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer residing in a rural area of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The farmer must be interested in aromatic plant cultivation."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The farmer must either legally own agricultural land or have leased land for a minimum period of 10 years."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "capmgnrega"
+}

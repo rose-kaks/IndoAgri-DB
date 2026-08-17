@@ -1,0 +1,232 @@
+{
+  "_id": "68ef45f38ba160c15f38f334",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Farmer",
+        "Training",
+        "Unemployed Youth",
+        "Tool Kit",
+        "Financial Assistance"
+      ],
+      "schemeName": "Top Working Program",
+      "schemeShortTitle": "TWP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "slug": "twp",
+      "briefDescription": "The scheme aims to transform local varieties of Mango, Ber, Amla, and other indigenous plants into improved varieties. It also provides 20 days of Top Working training to unemployed rural youth."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Top Working Program” launched by the Horticulture and Food Processing Department, Madhya Pradesh, aims to enhance horticultural productivity by training rural unemployed youth to convert local fruit plant species into improved varieties and providing financial assistance for grafting activities.\n<br>\n\n",
+      "benefits_md": "\n  - **Training Benefit:** Provision of 20-day training on top working techniques to rural unemployed youth.  - **Tool Kit Distribution:** Each trainee is provided with a tool kit worth up to ₹400/- during the training period.  - **Financial Incentive for Successful Grafting:** A payment of ₹10/- per successfully grafted tree is provided once the branches reach approximately 2 feet in length.\n<br>\n\n",
+      "briefDescription": "The scheme aims to transform local varieties of Mango, Ber, Amla, and other indigenous plants into improved varieties. It also provides 20 days of Top Working training to unemployed rural youth.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Top Working Program” launched by the Horticulture and Food Processing Department, Madhya Pradesh, aims to enhance horticultural productivity by training rural unemployed youth to convert local fruit plant species into improved varieties and providing financial assistance for grafting activities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training Benefit:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Provision of 20-day training on top working techniques to rural unemployed youth."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Tool Kit Distribution: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Each trainee is provided with a tool kit worth up to ₹400/- during the training period."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial Incentive for Successful Grafting:",
+                      "bold": true
+                    },
+                    {
+                      "text": " A payment of ₹10/- per successfully grafted tree is provided once the branches reach approximately 2 feet in length."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant should contact the District Office of the Horticulture Department."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a resident of Madhya Pradesh.\n  - The applicant must belong to rural area.\n  - The applicant must be an unemployed youth.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must belong to rural area."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be an unemployed youth."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "twp"
+}

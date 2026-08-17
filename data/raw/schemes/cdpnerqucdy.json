@@ -1,0 +1,357 @@
+{
+  "_id": "654d0e0d4407b32364092fff",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Drying Yards",
+      "schemeShortTitle": "CDPNER:QUC:DY",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "slug": "cdpnerqucdy",
+      "briefDescription": "The scheme \"Quality Upgradation / Certification: Drying Yards\" aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines, Application And Declaration Form",
+          "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+        },
+        {
+          "title": "Grower's Registration (UMANG)",
+          "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://coffeeboard.gov.in/contact-us.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Drying Yards&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings.\n",
+      "benefits_md": "> **Unit Cost and Scale of Subsidy**\n\n**Size of the Holding:** Up to 2 hectares.\n**Dimension of the Unit:** 10 feet x 10 feet or (100 square feet).\n**Unit Cost:** ₹15,000/-\n**Rate of Subsidy:** 75% of unit cost.\n**Size of the Holding:** 2 hectares and above.\n**Dimension of the Unit:** 20 feet x 20 feet or (400 square feet).\n**Unit Cost:** ₹45,000/-\n**Rate of Subsidy:** 75% of unit cost.\n<br>\n\n",
+      "briefDescription": "The scheme \"Quality Upgradation / Certification: Drying Yards\" aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. ",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Drying Yards\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Unit Cost and Scale of Subsidy",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Size of the Holding: ",
+              "bold": true
+            },
+            {
+              "text": "Up to 2 hectares."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dimension of the Unit: ",
+              "bold": true
+            },
+            {
+              "text": "10 feet x 10 feet or (100 square feet)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unit Cost: ",
+              "bold": true
+            },
+            {
+              "text": "₹15,000/-"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Subsidy: ",
+              "bold": true
+            },
+            {
+              "text": "75% of unit cost."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Size of the Holding: ",
+              "bold": true
+            },
+            {
+              "text": "2 hectares and above."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dimension of the Unit: ",
+              "bold": true
+            },
+            {
+              "text": "20 feet x 20 feet or (400 square feet)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unit Cost: ",
+              "bold": true
+            },
+            {
+              "text": "₹45,000/-"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Subsidy: ",
+              "bold": true
+            },
+            {
+              "text": "75% of unit cost."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Submission of Required Documents",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The beneficiary/applicant must submit the application in the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " along with the necessary documents for availing of the subsidy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Document Scrutiny and Field Inspection",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Extension Officer will scrutinize the submitted documents. A field inspection will be conducted to verify the information."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Application Forwarding",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Extension Officer will forward the application along with the verification report to the concerned Joint Director (Extension)/Deputy Director (Extension)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Scrutiny by Joint Director/Deputy Director",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Joint Director (Extension)/Deputy Director (Extension) will scrutinize the application and verification report."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Subsidy Release",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "After scrutiny and satisfaction about the admissibility of the claim, the Joint Director (Extension)/Deputy Director (Extension) will release the applicable subsidy to the beneficiary through electronic fund transfer (EFT)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1: Submission of Required Documents**\nThe beneficiary/applicant must submit the application in the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) along with the necessary documents for availing of the subsidy.\n**Step 2: Document Scrutiny and Field Inspection**\nThe Extension Officer will scrutinize the submitted documents. A field inspection will be conducted to verify the information.\n**Step 3: Application Forwarding**\nThe Extension Officer will forward the application along with the verification report to the concerned Joint Director (Extension)/Deputy Director (Extension).\n**Step 4: Scrutiny by Joint Director/Deputy Director**\nThe Joint Director (Extension)/Deputy Director (Extension) will scrutinize the application and verification report.\n**Step 5: Subsidy Release**\nAfter scrutiny and satisfaction about the admissibility of the claim, the Joint Director (Extension)/Deputy Director (Extension) will release the applicable subsidy to the beneficiary through electronic fund transfer (EFT).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a tribal grower.\n1. The applicant should not have availed of the benefits during the XII plan.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a tribal grower."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have availed of the benefits during the XII plan."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cdpnerqucdy"
+}

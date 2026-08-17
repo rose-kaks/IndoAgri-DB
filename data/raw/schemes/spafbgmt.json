@@ -1,0 +1,247 @@
+{
+  "_id": "688b138fabfefdde723b65a5",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Tribal Farmers",
+        "Agricultural Market Access",
+        "Transport Subsidy",
+        "Co-operative Institutes"
+      ],
+      "schemeName": "Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)",
+      "schemeShortTitle": "SPAFBGMT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "spafbgmt",
+      "briefDescription": "The scheme \"Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\" aims to encourage tribal farmers to bring their produce to market committees by providing financial assistance towards transportation costs."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 546)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to promote the participation of tribal farmers in formal agricultural markets by reimbursing transportation costs incurred while bringing agricultural goods to market committees. The primary objective is to reduce the financial burden of logistics on tribal farmers and thereby enhance their income through better market access and fair price realization.\n<br>\n\n",
+      "benefits_md": "**Financial Assistance:** ₹500/- per tonne of agricultural produce transported. Assistance is available for up to 10 tonnes per farmer, which amounts to a maximum of ₹5,000/-.\n<br>\n\n",
+      "briefDescription": "The scheme \"Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\" aims to encourage tribal farmers to bring their produce to market committees by providing financial assistance towards transportation costs.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Provide Assistance to Farmers Bringing Goods to Market Committees for Cost of Goods Transportation (Tribal)\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to promote the participation of tribal farmers in formal agricultural markets by reimbursing transportation costs incurred while bringing agricultural goods to market committees. The primary objective is to reduce the financial burden of logistics on tribal farmers and thereby enhance their income through better market access and fair price realization."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Financial Assistance: ",
+                  "bold": true
+                },
+                {
+                  "text": "₹500/- per tonne of agricultural produce transported. Assistance is available for up to 10 tonnes per farmer, which amounts to a maximum of ₹5,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should prepare the application on plain paper."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should prepare the application on plain paper.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a tribal farmer.\n   1. The applicant should be residing in a tribal area of Gujarat.\n   1. The applicant should bring their agricultural produce to a registered market committee (APMC) located in the tribal area.\n   1. The applicant should be the owner or cultivator of the agricultural goods transported.\n\n<br>\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a tribal farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be residing in a tribal area of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should bring their agricultural produce to a registered market committee (APMC) located in the tribal area."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be the owner or cultivator of the agricultural goods transported."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "spafbgmt"
+}

@@ -1,0 +1,2217 @@
+{
+  "_id": "63aab5975e62ed7bead26883",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2005-01-01",
+      "schemeCloseDate": null,
+      "state": null,
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 121226,
+        "label": "Department of Agriculture & Farmers Welfare"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Farmer",
+        "Agriculture",
+        "Subsidy"
+      ],
+      "schemeName": "Krishonnati Yojana - Sub Mission On Seed And Planting Material (SMSP)",
+      "schemeShortTitle": "KY-SMSP",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "ky-smsp",
+      "briefDescription": "The Sub-Mission on Seeds and Planting Material (SMSP) aims to increase the production of certified / quality seed, increase SRR, upgrade the quality of farm-saved seeds, strengthen the seed multiplication chain, promote new technologies and methodologies in seed production, processing, testing, etc."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://diragrijmu.nic.in/cssguidelines/smsp.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The Sub-Mission on Seeds and Planting Material (SMSP) aims to increase the production of certified / quality seed, increase SRR, upgrade the quality of farm-saved seeds, strengthen the seed multiplication chain, promote new technologies and methodologies in seed production, processing, testing, etc.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Sub Mission on Seed and Planting Material (SMSP)\" is a centrally sponsored scheme under the umbrella scheme of \"Green Revolution – Krishonnati Yojana\"."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Green Revolution – Krishonnati Yojana\" is an Umbrella Scheme for the agriculture sector that has been implemented since 2016-17 by clubbing several schemes/missions under one umbrella scheme. The Umbrella scheme comprises 11 Schemes/Missions. These schemes look to develop the agriculture and allied sector holistically and scientifically to increase the income of farmers by enhancing production, productivity, and better returns on produce."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Sub-Mission on Seeds and Planting Material (SMSP) aims to increase the production of certified / quality seed, increase SRR, upgrade the quality of farm-saved seeds, strengthen the seed multiplication chain, promote new technologies and methodologies in seed production, processing, testing, etc., to strengthen and modernizing infrastructure for seed production, storage, certification, and quality, etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objectives of SMSP - ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increasing production of certified/ quality seed"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increasing Seed Replacement rate (SRR) more particularly to achieve higher SRR in crops like paddy, gram, groundnut, cotton, etc. as recommended by the Consultative Group of the Ministry of Agriculture "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Upgrading the quality of farm-saved seeds with a specific objective to cover 60,000 villages and produce 100 lakh quintals of seed each year through farmers' participatory seed production."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Creation of Seed Infrastructure facilities in the Public Sector."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encouraging seed treatment, particularly for farm-saved seed."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Strengthening the seed multiplication chain through assistance to the public and private sectors."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Popularizing new varieties to encourage varietal replacement."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promoting new technologies and methodologies in seed production, processing, testing, etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Strengthening and modernizing infrastructure for seed production, storage, certification, and quality control particularly to ensure compliance with the provisions of the Seeds Bill 2004/ISTA standards, and OECD certification."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Facilitating the movement of seed from India in international trade and increasing its share to 10% by 2020 as envisaged in the new policy on seed development."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assisting and supporting public and private seed-producing organizations in the seed sector and encouraging partnerships."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ensuring availability of seed in contingent situations."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Facilitating the dissemination of seed-related information through information, education, and communication. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide an effective system for the protection of plant varieties, the rights of farmers as well as plant breeders and to encourage the development of new varieties of plants, through PPVFRA."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Components of SMSP - ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. Strengthening for Seed Quality Control "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. Strengthening of Grow Out Test(GOT) facilities "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. Support to seed certification agencies "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. Seed Village Programme"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. Certified seed production through seed villages"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6. Seed Processing Facilities "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "7. Seed Storage Facilities "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "8. Transport subsidy on the movement of Seed to North Eastern States etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "9. National Seed Reserve "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "10. Application of Biotechnology in agriculture "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "11. Public Private Partnership in the seed sector "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "12. Assistance for boosting seed production in the Private Sector "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "13. Support to Sub-Mission Director and Survey / Studies "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "14. Protection of Plant Varieties and Farmer’s Rights Authority (PPVFRA) "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "Strengthening for Seed Quality Control "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "100% GOI share, except a new sub-component with 75:25 Centre:State share"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Seed Testing Laboratories"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Equipment for Seed Testing Laboratories: Assistance for Rs.60 lakh per laboratory will be available for laboratory equipment. Details of equipment and "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "estimated cost for handling approximately 10,000 samples per year in a laboratory is given in Annexure–II. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Renovation of Seed Testing Laboratory: Rs. 20.00 lakh available for renovation of a seed testing laboratory with the capacity of 10,000 seed samples with "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "area of 250 Sqm. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Equipment for DNA Finger Printing / Varietal Purity - Testing Laboratory: Assistance for Rs.70 lakh will be available for the DNA fingerprinting facility at one notified seed testing laboratory."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Specialized seed health testing units: Assistance for Rs. 55.00 lakh will be available to establish/strengthen one specialized seed health testing laboratory. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Payment of ISTA fee: Financial assistance of Rs.15 lakh will be available to the maximum 5 Seed Testing Laboratories functioning under NSRTC, State "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Government/Union Territories, Seeds Corporations, and Seed Certification Agencies to obtain/run the membership of the International Seed Testing Association "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ISTA)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Strengthening of Seed Law Enforcement: "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Assistance for reimbursement of seed sample cost @ Rs. 10.00 lakh is available. (75% centre : 25 % State)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) Support to the National Seed Research and Training Center: Financial assistance of Rs. 12.00 crore will be provided to NSRTC for salary wages, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "maintenance of facilities and other routine activities, and administrative expenditures for 3 years. Development of Centralized Seed Certification Portal "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "at NSRTC: Financial Assistance will be provided for the development of software and hardware @Rs. 20.00 lakh per State Seed Certification Agency Centralized Seed Certification Portal at NSRTC for giving linkage to the 25 SSC."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iv) Training and workshop: Financial assistance of Rs.2.00 lakh will be available for training on seed-related activities viz. training of 25 persons for 5 days "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "training course. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(v) Strengthening of Central Seed Committee and Central Seed Certification Board: Financial assistance of Rs..10.00 lakh per year is available for TA / DA for "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "non-official members of CSC & CSCB and its sub-committees."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Strengthening of Grow Out Test (GOT) Facilities "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Grow-out Test Farm: Financial assistance of Rs.50.00 lakhs for strengthening of 5 hectares of GOT farm. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Green House facility: An assistance of Rs.10 lakh will be available for the establishment of a Green House facility for eligible organizations. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: Support to Seed Certification Agencies"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: 25% GOI : 75% State"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Salary for the Staff: Rs.50.00 lakh, per agency, per year. will be available for staff who are involved in seed management; field inspection; sampling; "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "analysis; monitoring; evaluation, certification, and pre and post-harvesting supervision, etc. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Travelling allowance: 25% of the total cost of traveling allowance is subject to a maximum limit of Rs. 10.00 lakh per agency to conduct of inspection, "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "analysis and certification activities, the mobility of staff through jeep and motorcycle is proposed based on one for every 800 hectares and 400 hectares "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "respectively."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) Office Automation & Communication Facility: Financial assistance will be available to each seed certification agency for supporting Office automation & "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Communication facility up to Rs.50.00 lakh per SCA."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Seed Treatment "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 75% GOI : 25% State"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            },
+            {
+              "text": " Financial assistance will be available up to 75% of the cost as a subsidy for the cost of seed treatment @ Rs.100.00 per quintal of seeds with maximum central assistance for one agency per year will be Rs.20 lakh."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Promotion of Seed Export"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Assistance freight charges from seed store/ware house to port of exit @30% of the actual cost subject to maximum of Rs.3.00 lakh per beneficiary (20 units). "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Assistance to exporter/producer/growers for set up of seed conditioning unit for conditioning the seeds for export including controlled storage unit @40% of the actual cost subject to maximum of Rs.10.00 lakh per beneficiary (19 units). "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) Up-gradation of Seed Testing Laboratory upto the ISTA Standard to issue the orange certificate for international seed trade @25% of the actual cost subject to maximum of Rs.5.00 lakh per beneficiary (10 laboratories). "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Support for R&D, Contract Research and Acquisition of New Varietal Products"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 60% GOI : 40% State "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            },
+            {
+              "text": " Assistance of 60% subject to a maximum of Rs.1.15 crore will be provided to prepare a project for the acquisition of a new varietal project, technology Contract Research, setting up of an R&D Unit, etc. The beneficiary institute has to provide a detailed financial backup of the remaining 40% of the project. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Strengthening of Seed Farms"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 75% GOI : 25% State"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            },
+            {
+              "text": " 75% financial assistance restricted to approved project cost to a maximum limit of Rs.80.21 lakh including State share will be provided by GOI to implementing agencies for each farm which comprises - "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Financial assistance of Rs.5.00 lakh will be provided for the renovation of Staff Quarters including office building etc. for each farm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Financial assistance of Rs.3.00 lakh will be provided for repairing of internal roads etc. for each farm. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) Financial assistance of a total of Rs.11.00 lakh will be provided for repair, purchase of farm machinery & equipment, etc. as per cost norms for each farm "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iv) Financial assistance of a total of Rs.3.00 lakh will be provided for the construction of farm machinery & equipment etc. sheds on each farm "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(v) Financial assistance of a total of Rs.3.65 lakh will be provided for the construction /repairing of the threshing floor @ Rs.730/sq. meter to a maximum of 500 sqm. for each farm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(vi) Financial assistance of a total of Rs.14.00 lakh will be provided for the establishment of a Seed Processing Plant with 200 MT capacity including Building (Rs.9.80 lakh), approach road (Rs. 2.20 lakh), Drainage (Rs.2.20 lakh)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(vii) Financial assistance of a total of Rs.7.56 lakh will be provided for Seed Processing Machinery/supporting equipment etc. for each Farm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(viii) Financial assistance of a total of Rs.10.50 lakh will be provided for Prefabricated/or another type of Seed Storage Godown of 200 MT capacity for each Farm. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ix) Financial assistance of Rs.5.00 lakh for the development of irrigation facilities will be provided under - "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a) Shallow tube well (70-80 feet) Rs.1.50 lakh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(b) Medium tube well(40 meter) Rs.3.00 lakh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(c) Deep tube well(75 meter) Rs.3.90 lakh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(x) assistance of a total of Rs.7.50 lakh maximum will be provided for Irrigation underground HDPs Pipeline etc. for each farm. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(xi) Financial assistance for Drip & Sprinkler Irrigation facilities will be provided as per NMMI or actual, whichever is less upto a maximum of Rs.10.00 lakhs. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Seed Village"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Distribution of Seeds: 50% assistance will be provided for the distribution of foundation / certified seeds required for a 1-acre area per farmer for cereal crops. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Financial assistance @ 60% cost of foundation/ certified seeds of pulses, oilseeds, Green Manure & Fodder crops, etc. required for a 1-acre area per farmer will be provided. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) Financial assistance of Rs.15000 per group ( 50-150 farmers in each group) will be provided for farmers' training on seed production and post-harvest seed technology (Rs.0.15 lakh)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iv) Financial assistance for treating seeds produced in the Seed Village will be available @ 3500 per seed treating drum of 20 kg capacity and Rs. 5000 per drum of 40 kg capacity. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(v) To encourage farmers to develop storage capacity of appropriate quality, financial assistance will be given to farmers for purchasing Seed Storage bins. The rate of assistance will be as under:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "@33% for SC/ST farmers for 10 QTLs. capacity Rs.1500"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "@33% for SC/ST farmers for 20 QTLs. capacity Rs.3000"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "@25% for General farmers for 10 QTLs. capacity Rs.1000 "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "@25% for General farmers for 20 QTLs. capacity Rs.2000"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "Certified Seed Production through Seed Villages "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "75% GOI : 25% State"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) 75% financial assistance will be provided for foundation/certified seeds required for 1 acre per farmer for pulses, oilseeds, fodder, and green manure crops. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iI) Financial assistance @50% of seed certification charges actual or maximum of Rs.600/ha whichever is less. (Rs.0.60 lakh for 100ha. area) "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iII) Financial assistance @ Rs.15000 per group (of 50-150 farmers in each group) will be provided for farmers' training on seed production and post-harvest seed technology will be provided. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iv) Assistance to establish seed processing and prefabricated or another type of seed storage godowns 150 sqm. @ Rs.10000 per sqm. to process and store 200 Mt capacity will be available for each seed village "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(v) Financial assistance of Rs.7.56 lakh will be provided for seed processing machinery and supporting equipment. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "Seed Processing Plant "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Financial assistance will be provided to modular design of 1000 MT and higher annual capacity seed processing capacity plants (wheat basis) @ Rs. 37.80 lakh and so on."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Financial assistance for construction of the building required for the Seed processing plant and other supporting structures @ Rs. 32.70 lakh and so on."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "Seed Storage"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "100% GOI "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Financial assistance towards the cost of construction for various types of seed storage godowns including pallets/ racks, covers, sprays, dusters, etc. required for the safe storage of seeds will be provided as per the details annexed. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Financial assistance for the modernization of existing Asbestos Sheet stores / ventilated flat roof stores dehumidified or air-conditioned and dehumidified stores will be provided at a differential cost @ Rs. 6500 per sqm. and Rs. 10500 per sqm. respectively. Financial Assistance @ Rs. 4000/- sqm. will also be provided for the modernization of dehumidified storage to the level of air-conditioned and dehumidified stores."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Transport Subsidy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) 100% difference between road and Rail transportation charges will be reimbursed to the implementing States/ Agencies for the Movement of Seeds produced outside the States and moved to these identified States' Capital/district headquarter. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Actual cost restricted to a maximum limit of Rs.120 per QTLs. whichever is less for movement of seeds transported within the State from States Capitals / District Head Quarters to sales outlets /sale counters will be reimbursed to the identified States."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Assistance for Maintenance of Breeder Seed "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 75% GOI : 25% State"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: ",
+              "bold": true
+            },
+            {
+              "text": "Financial assistance @ Rs. 99.98 lakh (Recurring and non-recurring) will be provided for the maintenance breeding of nucleus seeds for further multiplication of breeder seeds of various agricultural crops."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "National Seed Reserve "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) Cost of Seeds (Revolving Fund): Financial assistance @ 100% of the total procurement value of foundation and certified seeds will be given to the"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "participating organizations in the form of revolving funds. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) Maintenance Cost: Maintenance costs pertaining to Processing charges, cost of packing material, labor costs involved in the packing, and cost of certification will "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "be provided to the implementing agency up to Rs.300 per QTL. and handling costs up to Rs.200 per QTL. subject to the actual cost incurred by implementing agencies. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) Cost of Seed Storage Infrastructure:- Financial assistance will be provided in the enlarged proportion based on the criteria fixed/ specified in the guidelines - "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Particulars: Ventilated Flat Roof Stores"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity (in M.T.): 1000 "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Size (in sq.m.): 700 "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate ( in Rs./sq.m.): 7500 "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Total Cost (in Lakhs): 52"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "• Electrification- @ 5% of the cost of Rs. 52.50 lakh incurred on seed storage infrastructure for one location = Rs. 2.62 lakh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "• Compound wall & internal roads - @ 5% of the cost of Seed Storage infrastructure for one location i.e., = Rs. 2.62 lakh "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iv) Cost of material handling equipment: Financial assistance will be provided @ Rs. 50 per QTLs to the implementing agency for purchasing material handling equipment. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(v) Assistance for purchase of Machinery, plant building, receiving shed, and drying platform: The maximum assistance to the implementing agencies will be given for the purchase of machinery upto the capacity of 3000 tonnes per annum at the place where NSR has been maintained. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Item: Equipment & Machinery Cost (Rs. in Lakhs)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 1000 tonnes per annum: 37.80"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 2000 tonnes per annum: 43.00"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 3000 tonnes per annum: 61.00"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Item: Size in sqm. @ Rs. 7000/sqm. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 1000 tonnes per annum: 450 "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 2000 tonnes per annum: 525 "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 3000 tonnes per annum: 700"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Item: Plant building cost (Rs. in Lakh)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 1000 tonnes per annum: 31.50"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 2000 tonnes per annum: 36.75"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 3000 tonnes per annum: 49.00"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Item: Size in sqm. @ Rs. 1200/sq.m."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 1000 tonnes per annum: 100"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 2000 tonnes per annum: 200"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 3000 tonnes per annum: 300"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Item: Drying Platform Cost (Rs. in Lakh)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 1000 tonnes per annum: 1.20"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 2000 tonnes per annum: 2.40"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 3000 tonnes per annum: 3.60"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Item: TOTAL"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 1000 tonnes per annum: 70.50"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 2000 tonnes per annum: 82.15"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Capacity of 3000 tonnes per annum: 113.60"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(vi) Cost of services outsourced for fumigation, spraying, maintenance of dust free environment staking, de-staking and other operations involving labour:- Maximum assistance upto Rs. 10 per qtl or actual amount incurred (whichever is less) would be provided to the implementing agencies every year on "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the qty of seeds maintained by the implementing agency. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(vii) Cost of condemnation/unfit seeds: 10% qty of targeted quantity for the National Seed Reserve may be allowed under cost of condemnation. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“The procurement value of the seeds of 10% of reserved quantity or maintained quantity (x) - the value of seeds sold as commercial grain after condemnation (Y) = reimbursable amount would be (x-y)”"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(viii) Cost of Computerization: The lump sum financial assistance on the basis of the requirement of Implementing agency would be provided to maintain the information on crop-wise, and variety-wise quantity maintained by the implementing agencies under NSR against the quantity allotted by GOI."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "Application of Bio-Technology in Agriculture"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: ",
+              "bold": true
+            },
+            {
+              "text": "Financial Assistance up to Rs. 2.50 crores for the establishment of a new Tissue Culture Unit and financial assistance up to Rs. 20 lakh for rehabilitation /strengthening of the old tissue culture lab as per the item given in the details in the Scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "Public-Private Partnership in Seed Sector"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "50% GOI : 50% State"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance: ",
+              "bold": true
+            },
+            {
+              "text": "The credit linked @ 50% of the cost of the project subject to a maximum of Rs.50.00 lakh per beneficiary will be provided. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention: ",
+              "bold": true
+            },
+            {
+              "text": "Assistance for Boosting Seed Production in Private Sector"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding:",
+              "bold": true
+            },
+            {
+              "text": " 100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a) Credit-linked back-ended subsidy is enhanced @40% of the capital cost of the project in general areas and 50% in case of hilly and scheduled areas subject to an upper limit of Rs 150 lakhs per project "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "b) Assistance will also be available for R&D. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "c) With subsidy as proposed, a Committee will be set up by the Department to recommend cases and monitor progress under the Scheme. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "d) An agency will be selected and designated by the Mission as the nodal agency subject to the overall control of the Committee. 2% of the total fund utilized under the component will be allowed as administrative charges for the agency. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "e) Efforts will be made to popularize the Scheme and 2% of the annual allocation will be allowed as cost for the same."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " Support to Sub-Mission Director and Survey / Studies "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            },
+            {
+              "text": " Hiring of consultants @ Rs. 70,000/- (max) along with supporting staff and surveys/studies conducted for smooth/effective implementation of the SMSP."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intervention:",
+              "bold": true
+            },
+            {
+              "text": " PPV&FRA"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Funding: ",
+              "bold": true
+            },
+            {
+              "text": "100% GOI"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rate of Assistance:",
+              "bold": true
+            },
+            {
+              "text": " Funds have been allocated for the PPV&FRA to undertake day-to-day activities and mandated works under PPVFR Act. "
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "The scheme &quot;Sub Mission on Seed and Planting Material (SMSP)&quot; is a centrally sponsored scheme under the umbrella scheme of &quot;Green Revolution – Krishonnati Yojana&quot;.\n<br>\n\n&quot;Green Revolution – Krishonnati Yojana&quot; is an Umbrella Scheme for the agriculture sector that has been implemented since 2016-17 by clubbing several schemes/missions under one umbrella scheme. The Umbrella scheme comprises 11 Schemes/Missions. These schemes look to develop the agriculture and allied sector holistically and scientifically to increase the income of farmers by enhancing production, productivity, and better returns on produce.\n<br>\n\nThe Sub-Mission on Seeds and Planting Material (SMSP) aims to increase the production of certified / quality seed, increase SRR, upgrade the quality of farm-saved seeds, strengthen the seed multiplication chain, promote new technologies and methodologies in seed production, processing, testing, etc., to strengthen and modernizing infrastructure for seed production, storage, certification, and quality, etc.\n<br>\n\n**Objectives of SMSP -** \n\n1. Increasing production of certified/ quality seed\n1. Increasing Seed Replacement rate (SRR) more particularly to achieve higher SRR in crops like paddy, gram, groundnut, cotton, etc. as recommended by the Consultative Group of the Ministry of Agriculture \n1. Upgrading the quality of farm-saved seeds with a specific objective to cover 60,000 villages and produce 100 lakh quintals of seed each year through farmers&#39; participatory seed production.\n1. Creation of Seed Infrastructure facilities in the Public Sector.\n1. Encouraging seed treatment, particularly for farm-saved seed.\n1. Strengthening the seed multiplication chain through assistance to the public and private sectors.\n1. Popularizing new varieties to encourage varietal replacement.\n1. Promoting new technologies and methodologies in seed production, processing, testing, etc.\n1. Strengthening and modernizing infrastructure for seed production, storage, certification, and quality control particularly to ensure compliance with the provisions of the Seeds Bill 2004/ISTA standards, and OECD certification.\n1. Facilitating the movement of seed from India in international trade and increasing its share to 10% by 2020 as envisaged in the new policy on seed development.\n1. Assisting and supporting public and private seed-producing organizations in the seed sector and encouraging partnerships.\n1. Ensuring availability of seed in contingent situations.\n1. Facilitating the dissemination of seed-related information through information, education, and communication. \n1. To provide an effective system for the protection of plant varieties, the rights of farmers as well as plant breeders and to encourage the development of new varieties of plants, through PPVFRA.\n\n<br>\n\n**Components of SMSP -** \n1. Strengthening for Seed Quality Control \n2. Strengthening of Grow Out Test(GOT) facilities \n3. Support to seed certification agencies \n4. Seed Village Programme\n5. Certified seed production through seed villages\n6. Seed Processing Facilities \n7. Seed Storage Facilities \n8. Transport subsidy on the movement of Seed to North Eastern States etc.\n9. National Seed Reserve \n10. Application of Biotechnology in agriculture \n11. Public Private Partnership in the seed sector \n12. Assistance for boosting seed production in the Private Sector \n13. Support to Sub-Mission Director and Survey / Studies \n14. Protection of Plant Varieties and Farmer’s Rights Authority (PPVFRA) \n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Bona fide farmers can apply to the District Agriculture Officer of the concerned districts/Agriculture Development Officer of C&RD Block/ Agriculture Circle, by submitting copies of the required documents."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The applicant must be a Small or Marginal Farmer.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The applicant must be a Small or Marginal Farmer."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ky-smsp"
+}

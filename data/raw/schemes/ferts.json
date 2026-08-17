@@ -1,0 +1,389 @@
+{
+  "_id": "67a45246da50340fc8f084d1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Fishermen",
+        "Training",
+        "Skill Development"
+      ],
+      "schemeName": "Fish Extension, Research, and Training Scheme",
+      "schemeShortTitle": "FERTS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000027,
+        "label": "Department of Agriculture, Animal Husbandry & Co-operative"
+      },
+      "schemeFor": "Infra",
+      "slug": "ferts",
+      "briefDescription": "The Fish Extension, Research, and Training Scheme by the Department of Fisheries, Government of India aims to promote sustainable fishing practices and improve fish production. Through this scheme, financial and technical assistance are provided to fish farmers and others in the fisheries sector."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jharkhandfisheries.org/orders/2024/Rajyadeshno.%2005%20RA%20(VI)%20dated%2013.06.2024.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Fish Extension, Research, and Training Scheme&quot; by the Department of Fisheries, Government of India aims to promote sustainable fishing practices and enhance fish production through scientific research, extension, and skill development. Under this scheme, financial and technical assistance are provided to fish farmers, fishery extension workers, and others in the fisheries sector.\n",
+      "benefits_md": "**Training and Workshops:**\n\n- Fish Seed Producers: 3-day training with a subsidy of ₹225.50 per participant (excluding travel/accommodation).\n- Fish Farmers/Stakeholders: Workshops with a subsidy of ₹1500.50 per participant (covering expenses and travel up to ₹600).\n\n**Fish Production and Research:**\n\n- ₹2,00,000/- for producing 5 tons of Pangasius fish.\n- Support for research on new fish species and maintenance of labs/museums.\n\n**Fish Seed Distribution:**\n\n- Subsidies for seed procurement of various fish species (e.g., Amur Carp, Tilapia).\n\n**Incentives:**\n\n- Up to ₹30,000 for exemplary farmers, with awards in the form of equipment (e.g., aerators, oxygen cylinders).\n\n**Identity Cards:**\n\n- Issuance of identity cards for 1,050 fishermen.\n\n**Public Awareness:**\n\n- ₹100 per day for Birsa Fish Farmers during workshops.\n\n**Cage Fish Culture Support:**\n\n- Financial assistance for information collection and technical support.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The Fish Extension, Research, and Training Scheme by the Department of Fisheries, Government of India aims to promote sustainable fishing practices and improve fish production. Through this scheme, financial and technical assistance are provided to fish farmers and others in the fisheries sector.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Fish Extension, Research, and Training Scheme\" by the Department of Fisheries, Government of India aims to promote sustainable fishing practices and enhance fish production through scientific research, extension, and skill development. Under this scheme, financial and technical assistance are provided to fish farmers, fishery extension workers, and others in the fisheries sector."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Training and Workshops:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fish Seed Producers: 3-day training with a subsidy of ₹225.50 per participant (excluding travel/accommodation)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fish Farmers/Stakeholders: Workshops with a subsidy of ₹1500.50 per participant (covering expenses and travel up to ₹600)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fish Production and Research:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹2,00,000/- for producing 5 tons of Pangasius fish."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for research on new fish species and maintenance of labs/museums."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fish Seed Distribution:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidies for seed procurement of various fish species (e.g., Amur Carp, Tilapia)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Incentives:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Up to ₹30,000 for exemplary farmers, with awards in the form of equipment (e.g., aerators, oxygen cylinders)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Identity Cards:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Issuance of identity cards for 1,050 fishermen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Public Awareness:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹100 per day for Birsa Fish Farmers during workshops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cage Fish Culture Support:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance for information collection and technical support."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Apply after the advertisement is published:",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "***Apply after the advertisement is published:***\n**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Office.\n**Step 4:** Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a registered fish farmer, fishery extension worker, or related entity in the fisheries sector.\n1. The applicant should have prior experience or relevant qualifications in the fisheries field.\n1. The applicant should be from a region identified under the scheme by the Department of Fisheries.\n1. Preference will be given to applicants from rural and underdeveloped areas.\n1. The applicant should have a valid bank account for fund disbursement.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a registered fish farmer, fishery extension worker, or related entity in the fisheries sector."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have prior experience or relevant qualifications in the fisheries field."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be from a region identified under the scheme by the Department of Fisheries."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference will be given to applicants from rural and underdeveloped areas."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have a valid bank account for fund disbursement."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ferts"
+}

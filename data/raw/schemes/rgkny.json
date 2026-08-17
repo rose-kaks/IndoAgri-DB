@@ -1,0 +1,352 @@
+{
+  "_id": "64e34c1cd74267d9a4fc1bb4",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2020-05-21",
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2200001,
+        "label": "Agriculture Development and Farmer Welfare and Bio-Technology Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Agriculture",
+        "Farmers",
+        "Paddy",
+        "Maize"
+      ],
+      "schemeName": "Rajiv Gandhi Kisan Nyay Yojana",
+      "schemeShortTitle": "Rgkny",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 22,
+        "label": "Chhattisgarh"
+      },
+      "schemeFor": "Individual",
+      "slug": "rgkny",
+      "briefDescription": "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers. This scheme was launched on 21 May 2020, on the death anniversary of Rajiv Gandhi."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agriportal.cg.nic.in/agridept/StateScheme/Rajiv_Gandhi_Kisan_Nyay_Yojana_Guideline_.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://kisan.cg.nic.in/assets/files/FarmerRegistrationForm_UFP.pdf"
+        },
+        {
+          "title": "Official Portal",
+          "url": "https://kisan.cg.nic.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers and launched on May 21, 2020, on the death anniversary of Rajiv Gandhi.\nThe main objective of this scheme is to increase the agricultural area by encouraging the farmers for crop production.\nUnder this scheme, financial benefits will be transferred to the farmers. This amount will be transferred to the accounts of the farmers in 4 instalments. This scheme started during the Corona period has provided great relief to the farmers. In the initial year of the scheme, only paddy, maize and sugarcane crops were included but after that, few more types of following crops have been included in it.\n\n1. Kodo Kutki.\n1. Sugarcane.\n1. Arhar.\n1. Maize.\n1. Soybean.\n1. Pulses.\n1. Oilseeds.\n1. Fragrant paddy.\n1. Other fortified rice.\n1. Banana.\n1. Papaya.\n\n",
+      "benefits_md": "\n- Maximum amount of 10000/- per acre will be paid to the farmers planting paddy and maize through debit in installments.\n- The fixed FRP amount for sugarcane crop will be paid through DBT to farmers at the rate of Rs. 93.75 /- quintal i.e. maximum amount of 355 /- per quintal.\n\n",
+      "briefDescription": "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers. This scheme was launched on 21 May 2020, on the death anniversary of Rajiv Gandhi.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers and launched on May 21, 2020, on the death anniversary of Rajiv Gandhi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main objective of this scheme is to increase the agricultural area by encouraging the farmers for crop production."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under this scheme, financial benefits will be transferred to the farmers. This amount will be transferred to the accounts of the farmers in 4 instalments. This scheme started during the Corona period has provided great relief to the farmers. In the initial year of the scheme, only paddy, maize and sugarcane crops were included but after that, few more types of following crops have been included in it."
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Kodo Kutki."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sugarcane."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Arhar."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maize."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Soybean."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pulses."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Oilseeds."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fragrant paddy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Other fortified rice."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Banana."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Papaya."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum amount of 10000/- per acre will be paid to the farmers planting paddy and maize through debit in installments."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fixed FRP amount for sugarcane crop will be paid through DBT to farmers at the rate of Rs. 93.75 /- quintal i.e. maximum amount of 355 /- per quintal."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "First farmer have to visit the official "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://kisan.cg.nic.in/",
+                    "children": [
+                      {
+                        "text": "website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " and download the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://kisan.cg.nic.in/assets/files/FarmerRegistrationForm_UFP.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out the application form with required details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach required documents (1. Loan Book,  2. B-1, 3. Bank Passbook, 4. Aadhaar)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the application to Rural Agriculture Extension Officer (RAEO) for verification."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "RAEO forward the application for registration. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Information about acceptance/rejection of application will be given to the farmer through SMS. After registration each farmer will be given a unique ID."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. First farmer have to visit the official [website](https://kisan.cg.nic.in/) and download the [application form](https://kisan.cg.nic.in/assets/files/FarmerRegistrationForm_UFP.pdf).1. Fill out the application form with required details.\n1. Attach required documents (1. Loan Book,  2. B-1, 3. Bank Passbook, 4. Aadhaar).\n1. Submit the application to Rural Agriculture Extension Officer (RAEO) for verification.\n1. RAEO forward the application for registration. \n1. Information about acceptance/rejection of application will be given to the farmer through SMS. After registration each farmer will be given a unique ID.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Chhattisgarh state.\n1. The applicant should be a marginal farmer, small farmer or large farmer.\n1. The age of the applicant should be above 18 years.\n1. Farmers of all categories of landowners and forest lease holders are eligible to get the benefits of the scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Chhattisgarh state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a marginal farmer, small farmer or large farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the applicant should be above 18 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers of all categories of landowners and forest lease holders are eligible to get the benefits of the scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rgkny"
+}

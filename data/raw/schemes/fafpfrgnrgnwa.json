@@ -1,0 +1,319 @@
+{
+  "_id": "656d7300f2dded0c80941197",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000017,
+        "label": "Fisheries Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Fishermen",
+        "Fish",
+        "Subsidy",
+        "Financial Assistance",
+        "Marine"
+      ],
+      "schemeName": "Financial Assistance To Fishermen For Purchase of Fisheries Requisites (Gill Net/ River Gill Net with Accessories)",
+      "schemeShortTitle": "FAFPFR(GN/RGNWA)",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "schemeFor": "Individual",
+      "slug": "fafpfrgnrgnwa",
+      "briefDescription": "“Financial Assistance To Fishermen For Purchase of Fisheries Requisites” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a 50% subsidy is provided to the fishermen of Goa for the purchase of fisheries requisites (gill nets with accessories)."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf"
+        },
+        {
+          "title": "Application Form, Inspection Report, And Self Declaration",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/Gill-Net-Application-Forms.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “ Financial Assistance To Fishermen For Purchase of Fisheries Requisites (Gill Net/ River Gill Net with Accessories)” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a 50% subsidy is provided to the fishermen of Goa for the purchase of fisheries requisites (gill nets with accessories).\n",
+      "benefits_md": "\n- For General Category: 50% subsidy limited to **₹ 30,000/-**.- For SC/ST Category: 50% subsidy limited to **₹ 40,000/-**.\n",
+      "briefDescription": "“Financial Assistance To Fishermen For Purchase of Fisheries Requisites” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a 50% subsidy is provided to the fishermen of Goa for the purchase of fisheries requisites (gill nets with accessories).",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “ Financial Assistance To Fishermen For Purchase of Fisheries Requisites (Gill Net/ River Gill Net with Accessories)” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a 50% subsidy is provided to the fishermen of Goa for the purchase of fisheries requisites (gill nets with accessories)."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For General Category: 50% subsidy limited to "
+                },
+                {
+                  "text": "₹ 30,000/-",
+                  "bold": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For SC/ST Category: 50% subsidy limited to "
+                },
+                {
+                  "text": "₹ 40,000/-",
+                  "bold": true
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+              },
+              {
+                "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "BDO Office/ Sub-Offices"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": " of the Department of Fisheries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Grievance Redressal",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "Grievance Redressal Officer"
+                  }
+                ]
+              },
+              {
+                "text": ". The grievance can also be lodged on the link "
+              },
+              {
+                "text": "dir-fish.goa@nic.in",
+                "bold": true
+              },
+              {
+                "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should take print of the [prescribed format](https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a traditional fisherman by birth or profession.\n- The applicant should be a resident of Goa.\n- The applicant should or any of his households should not be defaulters with the Directorate of Fisheries.\n- The applicant should possess their own registered fishing canoe.\n- The original VAT bill may be submitted by the applicant from the authorized dealer to claim the subsidy.\n- The applicant shall not sell, lease, or transfer the Gill Net for five years from the date of purchase of the first Gill Net.\n- The fishing net shall be duly registered with the Directorate of Fisheries.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a traditional fisherman by birth or profession."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should or any of his households should not be defaulters with the Directorate of Fisheries."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess their own registered fishing canoe."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The original VAT bill may be submitted by the applicant from the authorized dealer to claim the subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant shall not sell, lease, or transfer the Gill Net for five years from the date of purchase of the first Gill Net."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fishing net shall be duly registered with the Directorate of Fisheries."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fafpfrgnrgnwa"
+}

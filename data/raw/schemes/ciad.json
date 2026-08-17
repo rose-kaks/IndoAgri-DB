@@ -1,0 +1,358 @@
+{
+  "_id": "67ee6539350fb46381a831c2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Animal Husbandry",
+        "Animal Insurance",
+        "Death Compensation"
+      ],
+      "schemeName": "Compensation in Animal Death",
+      "schemeShortTitle": "CIAD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "ciad",
+      "briefDescription": "The \"Compensation in Animal Death\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, provides financial assistance to animal breeders who suffer livestock losses due to natural disasters, diseases, or poisoning.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=VxDfHxqoZD+rj49hgDNCyg==&domain=12ewfiAgGqKRe600IL5Z/w=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The \"Compensation in Animal Death\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, provides financial assistance to animal breeders who suffer livestock losses due to natural disasters, diseases, or poisoning.\n\n",
+      "detailedDescription_md": "The &amp;quot;Compensation in Animal Death&amp;quot; scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, supports livestock owners whose animals die due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu, poisoning, including food poisoning, snake bites, and chemical poisoning. The compensation is provided through Direct Benefit Transfer (DBT) to eligible beneficiaries.\n",
+      "benefits_md": "<br>\n\n**Details of Animal****Compensation Per Animal****Compensation Limit For One Family**Large Dairy animals (Cow/Buffalo/Camel)₹37,500/-maximum for 3 animalsSmall Dairy animals (Sheep/Goat)₹4,000/-maximum for 30 animalsLarge Non-milch Animals (Horse, Camel, Bullock)₹32,000/-maximum for 3 animalsSmall non-milch animals (Calf, Buffalo calf, Heifer, Donkey) ₹20,000/-maximum for 3 animalsPoultry-Ducks (Adult)₹100/-maximum for 100 birds (within a limit of ₹10,000/-)<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Compensation in Animal Death\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, supports livestock owners whose animals die due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu, poisoning, including food poisoning, snake bites, and chemical poisoning. The compensation is provided through Direct Benefit Transfer (DBT) to eligible beneficiaries."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Details of Animal",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Compensation Per Animal",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Compensation Limit For One Family",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Large Dairy animals (Cow/Buffalo/Camel)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹37,500/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "maximum for 3 animals"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Small Dairy animals (Sheep/Goat)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹4,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "maximum for 30 animals"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Large Non-milch Animals (Horse, Camel, Bullock)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹32,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "maximum for 3 animals"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Small non-milch animals (Calf, Buffalo calf, Heifer, Donkey)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": " ₹20,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "maximum for 3 animals"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Poultry-Ducks (Adult)"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹100/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "maximum for 100 birds (within a limit of ₹10,000/-)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Contact the nearest Veterinary Dispensaries and attach the documents as per the instruction of the Veterinary Officer."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- Contact the nearest Veterinary Dispensaries and attach the documents as per the instruction of the Veterinary Officer.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a registered livestock owner or breeder.\n  - The animal’s death must be due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu; poisoning, including food poisoning, snake bites, and chemical poisoning.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a registered livestock owner or breeder."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The animal’s death must be due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu; poisoning, including food poisoning, snake bites, and chemical poisoning."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ciad"
+}

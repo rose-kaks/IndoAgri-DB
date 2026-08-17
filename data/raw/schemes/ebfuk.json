@@ -1,0 +1,258 @@
+{
+  "_id": "6844913cf3864db2fbe7c666",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Broiler Farms",
+        "Subsidy",
+        "Yard Construction",
+        "Broiler Birds",
+        "Self Help Group"
+      ],
+      "schemeName": "Establishment of Broiler Farms",
+      "schemeShortTitle": "EBFUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000004,
+        "label": "Department Of Animal Husbandry"
+      },
+      "slug": "ebfuk",
+      "briefDescription": "The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs)."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 237)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Establishment of Broiler Farms” was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs).\n<br>\n\n",
+      "benefits_md": "Under this scheme:\n\n  - A subsidy of ₹15/- per bird is provided for 6 batches, amounting to a total subsidy of ₹45,000/- per beneficiary.\n  - An additional grant of ₹15,000/- per beneficiary is provided for fence construction, making the total subsidy ₹60,000/- per beneficiary.\n  - With a minimum of 500 broiler birds, the total unit cost is approximately ₹3.05 lakh.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs).",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Establishment of Broiler Farms” was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A subsidy of ₹15/- per bird is provided for 6 batches, amounting to a total subsidy of ₹45,000/- per beneficiary."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "An additional grant of ₹15,000/- per beneficiary is provided for fence construction, making the total subsidy ₹60,000/- per beneficiary."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "With a minimum of 500 broiler birds, the total unit cost is approximately ₹3.05 lakh."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Veterinary Officer/Livestock Extension Officer will identify eligible beneficiaries and collect their applications."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applicants must submit their Aadhaar card, bank account details, and land records along with the application form."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Veterinary Officer will prepare a project report, which the livestock owner will submit to the bank. All applications will be forwarded to the Chief Veterinary Officer’s office. The District Executive Committee will conduct the verification, select the beneficiaries, and disburse the subsidy."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The Veterinary Officer/Livestock Extension Officer will identify eligible beneficiaries and collect their applications.\n  - Applicants must submit their Aadhaar card, bank account details, and land records along with the application form.\n  - The Veterinary Officer will prepare a project report, which the livestock owner will submit to the bank. All applications will be forwarded to the Chief Veterinary Officer’s office. The District Executive Committee will conduct the verification, select the beneficiaries, and disburse the subsidy.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant may belong to any caste.\n1. Preference will be given to women and self-help groups (SHGs).\n1. The applicant must own land or have land on lease.\n1. The applicant must have a KYC-certified bank account.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant may belong to any caste."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference will be given to women and self-help groups (SHGs)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must own land or have land on lease."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have a KYC-certified bank account."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ebfuk"
+}

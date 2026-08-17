@@ -1,0 +1,255 @@
+{
+  "_id": "688cac55d4b5e6cefec1addb",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agro Processing",
+        "Processing Units",
+        "Agricultural Marketing",
+        "Food Industry"
+      ],
+      "schemeName": "Scheme for Granting Assistance to Processing Units in APMC (General Area)",
+      "schemeShortTitle": "SGAPUG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "industries",
+          "label": "Industries"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "sgapug",
+      "briefDescription": "The scheme aims to promote agro-processing and value addition by providing capital investment assistance to private entrepreneurs operating in regulated APMC areas (general zones)."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 525)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to promote agro-processing and value addition by providing capital investment assistance to private entrepreneurs operating in regulated APMC areas (general zones).",
+      "detailedDescription_md": "The scheme &amp;quot;Scheme for Granting Assistance to Processing Units in APMC (General Area)&amp;quot; by the Agriculture, Farmers Welfare and Cooperation Department, Government of Gujarat, aims to encourage establishment of agro and food processing units in the general areas of Agricultural Produce Market Committees (APMCs) to increase farmers’ income, reduce post-harvest losses, generate employment opportunities, and improve supply chain efficiencies. The scheme provides financial assistance in the form of capital subsidy to co-operatives institutions that set up processing units.\n<br>\n\n",
+      "benefits_md": "\n- **Variable Grant Amount:** The grant percentage is tailored to the needs of different market committees, offering 25% for &#39;A&#39; and &#39;B&#39; class committees and 50% for &#39;C&#39; and &#39;D&#39; class committees.- **Maximum Assistance:** The maximum financial assistance provided under the scheme is capped at ₹1,50,00,000/-, ensuring substantial support for eligible projects.\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Scheme for Granting Assistance to Processing Units in APMC (General Area)\" by the Agriculture, Farmers Welfare and Cooperation Department, Government of Gujarat, aims to encourage establishment of agro and food processing units in the general areas of Agricultural Produce Market Committees (APMCs) to increase farmers’ income, reduce post-harvest losses, generate employment opportunities, and improve supply chain efficiencies. The scheme provides financial assistance in the form of capital subsidy to co-operatives institutions that set up processing units."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Variable Grant Amount: ",
+                  "bold": true
+                },
+                {
+                  "text": "The grant percentage is tailored to the needs of different market committees, offering 25% for 'A' and 'B' class committees and 50% for 'C' and 'D' class committees."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum Assistance: ",
+                  "bold": true
+                },
+                {
+                  "text": "The maximum financial assistance provided under the scheme is capped at ₹1,50,00,000/-, ensuring substantial support for eligible projects."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should prepare the application on plain paper."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should prepare the application on plain paper.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  -  Co-operative institutions are eligible under this scheme.\n  - The institutions must set up a processing unit in the general area of an APMC.\n\n<br>\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": " Co-operative institutions are eligible under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The institutions must set up a processing unit in the general area of an APMC."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sgapug"
+}

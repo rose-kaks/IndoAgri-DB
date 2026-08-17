@@ -1,0 +1,370 @@
+{
+  "_id": "6809df0b41f9fb65ecb2f5ae",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Animal Husbandry",
+        "Animal Welfare",
+        "Infrastructural Facilities"
+      ],
+      "schemeName": "Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole",
+      "schemeShortTitle": "SAIFGP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "saifgp",
+      "briefDescription": " \"Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole\" aims to support animal welfare organizations like gaushalas and panjrapoles by offering financial assistance for the development and construction of essential infrastructure."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=picXjrkWac6JiCP+hnZI2Q==&domain=A36Rf7FTT/556gX2TyXKFw=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Scheme to Assist for Infrastructural Facilities for Gaushalas &amp;amp; Panjrapole” launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat, aims to provide financial aid to registered gaushalas and panjrapoles for building essential infrastructure like cattle sheds, water facilities, and storage areas, ensuring better care for non-productive livestock.\n",
+      "benefits_md": "\n- Financial assistance of up to 75% of the total cost or ₹4,00,000/-, whichever is lower, for each of the following:\n\n\n\n   1. Cattle Shed.\n   1. Compound Wall.\n   1. Grass Godown.\n   1. Water Bore (Electric Motor / Submersible Pump).\n   1. Overhead or Underground Water Tank.\n\n\n> **Note:** The benefit of this scheme will be available to an organization for a period of five years for different purpose-components.\n\n",
+      "briefDescription": " \"Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole\" aims to support animal welfare organizations like gaushalas and panjrapoles by offering financial assistance for the development and construction of essential infrastructure.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole” launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, aims to provide financial aid to registered gaushalas and panjrapoles for building essential infrastructure like cattle sheds, water facilities, and storage areas, ensuring better care for non-productive livestock."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of up to 75% of the total cost or ₹4,00,000/-, whichever is lower, for each of the following:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Cattle Shed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Compound Wall."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Grass Godown."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Water Bore (Electric Motor / Submersible Pump)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Overhead or Underground Water Tank."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " The benefit of this scheme will be available to an organization for a period of five years for different purpose-components."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                    "children": [
+                      {
+                        "text": "GGVB’s nodal officer"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of the concerned district with the necessary documents listed in the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 8:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                    "children": [
+                      {
+                        "text": "Click here."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the [GGVB’s nodal officer](https://gauseva.gujarat.gov.in/Home/Address) of the concerned district with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Any panjarapol and gaushala of the state registered under Public Charity Act.\n   1. At least 3 (three) acres of land on which the organization has to construct the development work, must be in the name of the organization or on lease of 99 years. There is no limit on the maximum land.\n   1. A gaushala must have more than 50 cows of local origin While Panjarapol must have more than 100 livestock.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any panjarapol and gaushala of the state registered under Public Charity Act."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "At least 3 (three) acres of land on which the organization has to construct the development work, must be in the name of the organization or on lease of 99 years. There is no limit on the maximum land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A gaushala must have more than 50 cows of local origin While Panjarapol must have more than 100 livestock."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "saifgp"
+}

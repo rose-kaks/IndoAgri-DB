@@ -1,0 +1,277 @@
+{
+  "_id": "67e2900d0aa19c6dc28b34c6",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Fishing Activities",
+        "Fishermen"
+      ],
+      "schemeName": "Diesel VAT Relief Scheme for Fishermen",
+      "schemeShortTitle": "DVRSF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "dvrsf",
+      "briefDescription": "The \"Diesel VAT Relief Scheme for Fishermen\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance by subsidizing the VAT levied on high-speed diesel used in fishing boats. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=v4lc2tu73R/9lWYKO76SRg==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The \"Diesel VAT Relief Scheme for Fishermen\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance by subsidizing the VAT levied on high-speed diesel used in fishing boats. ",
+      "detailedDescription_md": "The &amp;quot;Diesel VAT Relief Scheme for Fishermen&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support fishermen by subsidizing the VAT on diesel, making fuel more affordable for their mechanized boats. This helps reduce the operational cost of fishermen using mechanized boats.\n",
+      "benefits_md": "**Name of Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming Benefits**Diesel VAT assistancePer litre maximum assistance up to ₹15/-Assistance is available as per fixed diesel quota throughout the year",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Diesel VAT Relief Scheme for Fishermen\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support fishermen by subsidizing the VAT on diesel, making fuel more affordable for their mechanized boats. This helps reduce the operational cost of fishermen using mechanized boats."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Time Limit (in Years) for Reclaiming Benefits",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Diesel VAT assistance"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Per litre maximum assistance up to ₹15/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Assistance is available as per fixed diesel quota throughout the year"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fishermen must obtain a token number from "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://fisheries.gujarat.gov.in/Registration.aspx",
+                    "children": [
+                      {
+                        "text": "https://fisheries.gujarat.gov.in/Registration.aspx using their personal details."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Diesel cardholder fishermen must purchase fuel from government-approved diesel pumps."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The VAT relief is credited automatically via an online system."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Fishermen must obtain a token number from [https://fisheries.gujarat.gov.in/Registration.aspx using their personal details.](https://fisheries.gujarat.gov.in/Registration.aspx)\n**Step 2:** Diesel cardholder fishermen must purchase fuel from government-approved diesel pumps.\n**Step 3:** The VAT relief is credited automatically via an online system.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a registered diesel cardholder.\n  - The applicant must own a mechanized fishing boat.\n  - The boat should be less than 20 meters in length.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a registered diesel cardholder."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must own a mechanized fishing boat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The boat should be less than 20 meters in length."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dvrsf"
+}

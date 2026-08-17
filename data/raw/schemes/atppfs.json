@@ -1,0 +1,300 @@
+{
+  "_id": "698b1310b3c2d7b0a51ca163",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Plantation",
+        "Worker",
+        "Provident Fund",
+        "Retirement",
+        "Employee"
+      ],
+      "schemeName": "Assam Tea Plantations Provident Fund Scheme",
+      "schemeShortTitle": "ATPPFS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 18,
+        "label": "Assam"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1800062,
+        "label": "Tea Tribes and Adivasi Welfare Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "atppfs",
+      "briefDescription": "The scheme aims to provide financial security to Assam tea plantation workers through a contributory provident fund. It benefits eligible employees earning up to ₹6,500/- per month by accumulating 12% contributions from both the worker and employer, earning interest to be paid upon retirement."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://atppf.nic.in/about.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to provide financial security to Assam tea plantation workers through a contributory provident fund. It benefits eligible employees earning up to ₹6,500/- per month by accumulating 12% contributions from both the worker and employer, earning interest to be paid upon retirement.",
+      "detailedDescription_md": "The &quot;Assam Tea Plantations Provident Fund Scheme&quot; is a Social Security Scheme for the Plantation Workers in Assam. The scheme was launched by the Assam Tea Employees Provident Fund Organization, Government of Assam. The scheme aims to provide compulsory savings and social security to tea garden workers and employees in Assam against contingencies like old age, death, and invalidity. The scheme provides a provident fund where both the employee and employer contribute 12% of wages, which accumulates interest at a rate declared by the Board. The applicant must be a daily wage worker or an employee of a plantation or tea factory earning up to ₹6,500/- per month. The scheme is implemented by the Assam Tea Employees Provident Fund Organization and administered by a Board of Trustees. The applications for claims are accepted through the employer or garden management.\n<br>\n\n",
+      "benefits_md": "**Provident Fund Accumulation:** Members receive credit for their own contribution of 12% of wages and an equal 12% contribution from the employer.\n**Interest:** The accumulated deposits earn interest at a rate declared by the Board every year.\n**Final Settlement:** The total credit balance with interest is paid to the member or nominee upon retirement, resignation, death, or invalidity.\n**Refundable Advances:** Members can avail advances up to 25% of the balance or nine months&#39; pay (whichever is less) for marriage, death ceremonies, medical treatment, or children&#39;s higher education.\n**Housing Advance:** A non-refundable advance is available for constructing or purchasing a dwelling house, equal to 24 months&#39; wage, total contribution, or housing cost, whichever is less.\n**Hardship Relief:** A non-refundable advance is granted in cases of hardship due to natural calamities or the closure of a plantation.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Assam Tea Plantations Provident Fund Scheme\" is a Social Security Scheme for the Plantation Workers in Assam. The scheme was launched by the Assam Tea Employees Provident Fund Organization, Government of Assam. The scheme aims to provide compulsory savings and social security to tea garden workers and employees in Assam against contingencies like old age, death, and invalidity. The scheme provides a provident fund where both the employee and employer contribute 12% of wages, which accumulates interest at a rate declared by the Board. The applicant must be a daily wage worker or an employee of a plantation or tea factory earning up to ₹6,500/- per month. The scheme is implemented by the Assam Tea Employees Provident Fund Organization and administered by a Board of Trustees. The applications for claims are accepted through the employer or garden management."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Provident Fund Accumulation:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Members receive credit for their own contribution of 12% of wages and an equal 12% contribution from the employer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interest:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " The accumulated deposits earn interest at a rate declared by the Board every year."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Final Settlement:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " The total credit balance with interest is paid to the member or nominee upon retirement, resignation, death, or invalidity."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Refundable Advances:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Members can avail advances up to 25% of the balance or nine months' pay (whichever is less) for marriage, death ceremonies, medical treatment, or children's higher education."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Housing Advance:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " A non-refundable advance is available for constructing or purchasing a dwelling house, equal to 24 months' wage, total contribution, or housing cost, whichever is less."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hardship Relief:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " A non-refundable advance is granted in cases of hardship due to natural calamities or the closure of a plantation."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The applicant furnishes their Bank Account Number, Name of the Banker, Branch, and IFS code to the tea garden Manager. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The applicant submits a claim application for Provident Fund settlement or advances through their employer. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The employer verifies the claim and forwards it to the Inspectorate, Zonal Office, or Head Office for settlement. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Upon approval, the Board credits the payment directly into the beneficiary's bank account if the amount is ₹5,000/- or above."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The applicant furnishes their Bank Account Number, Name of the Banker, Branch, and IFS code to the tea garden Manager. \n**Step 2:** The applicant submits a claim application for Provident Fund settlement or advances through their employer. \n**Step 3:** The employer verifies the claim and forwards it to the Inspectorate, Zonal Office, or Head Office for settlement. \n**Step 4:** Upon approval, the Board credits the payment directly into the beneficiary&#39;s bank account if the amount is ₹5,000/- or above.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be employed in a tea plantation or a tea factory in Assam.\n- The applicant must receive a monthly salary of up to ₹6,500/-.\n- The applicant must be a daily wage worker (eligible from the first day of work).\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be employed in a tea plantation or a tea factory in Assam."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must receive a monthly salary of up to ₹6,500/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a daily wage worker (eligible from the first day of work)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "atppfs"
+}

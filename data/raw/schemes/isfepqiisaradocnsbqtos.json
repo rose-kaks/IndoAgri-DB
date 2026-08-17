@@ -1,0 +1,365 @@
+{
+  "_id": "6a5f10b3f9baeba57b6e2103",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Entrepreneurs",
+        "Agriculture",
+        "Farmers",
+        "Spices Board"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: New Subcomponents: Basic quality testing of spices",
+      "schemeShortTitle": "ISFEPQIISARADOCNSBQTOS",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "isfepqiisaradocnsbqtos",
+      "briefDescription": "To promote field-level basic quality testing of spices, enabling farmers to assess produce quality, negotiate better prices, and receive fair value for their produce."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://serviceonline.gov.in/dbt/login.do"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "To promote field-level basic quality testing of spices, enabling farmers to assess produce quality, negotiate better prices, and receive fair value for their produce.",
+      "detailedDescription_md": "The Basic Quality Testing of Spices subcomponent is part of the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom, implemented by the Spices Board, India, under the Ministry of Commerce and Industry, Government of India.\nBased on consultations with various R&amp;D institutes, State Agricultural Universities (SAUs), and entrepreneurs, it was found that devices for instant basic quality testing, such as moisture content meters and curcumin content testers for turmeric, have been developed and are being used by some groups and institutions. To help farmers assess the basic quality of their spice produce before trading, increase their confidence in negotiating prices, and ensure they receive a fair share for their efforts in improving and maintaining product quality, such devices are required at the field level.\nThe scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+      "benefits_md": "> 50% of the cost subject to a maximum of ₹10.00 Lakh for basic quality testing at AMC/APMC yards and 75% for Spice Producer&#39;s Groups subjected to maximum of ₹ 15.00 Lakh. Eligibility will be for spice trading centers legally existing spice producing or spice handling or spice trading groups. Assistance will be extended based on MoU with Spices Board.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Basic Quality Testing of Spices subcomponent is part of the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom, implemented by the Spices Board, India, under the Ministry of Commerce and Industry, Government of India."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Based on consultations with various R&D institutes, State Agricultural Universities (SAUs), and entrepreneurs, it was found that devices for instant basic quality testing, such as moisture content meters and curcumin content testers for turmeric, have been developed and are being used by some groups and institutions. To help farmers assess the basic quality of their spice produce before trading, increase their confidence in negotiating prices, and ensure they receive a fair share for their efforts in improving and maintaining product quality, such devices are required at the field level."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "50% of the cost subject to a maximum of ₹10.00 Lakh for basic quality testing at AMC/APMC yards and 75% for Spice Producer's Groups subjected to maximum of ₹ 15.00 Lakh. Eligibility will be for spice trading centers legally existing spice producing or spice handling or spice trading groups. Assistance will be extended based on MoU with Spices Board."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicesPlus"
+                  }
+                ]
+              },
+              {
+                "text": " website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on the “"
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                "children": [
+                  {
+                    "text": "Register” "
+                  }
+                ]
+              },
+              {
+                "text": "option on the homepage."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Review all details carefully and submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                "children": [
+                  {
+                    "text": "“Login.”"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Enter your Email ID, Password, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Select the relevant service/scheme name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Fill in the required details in the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Submit the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1. All spice growing States and regions in India.\n2. All spice growing States and regions in India preferably in the ODOP (One District One Product) and clusters of Spices under AEP of MoC and operational area of collaborative national and international projects of Spices Board\n3. On receipt of application with documents, the Officer concerned will visit the Reg. Office of the AMC/APMC/group and evaluate the status, facility and arrangements available with the group for taking up the activity component successfully.\n4. Eligible application will be recommended to Divisional Officer/Regional Officer as the case may be for further scrutiny and issue of permission letter to sign MoU with the Board. Recommending Officer will arrange signing of MoU and collection of documents proving purchase and physically verify the installation of the equipment/device and recommend Eligible case for sanction of assistance.\n5. The AMC/APMC/group also need to enter into MoU with the supplying firm on annual maintenance of device, training of man power for operating the device and collection of any software charges etc. which is to be ensured by the officers concerned of the Board before recommending the case.\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. All spice growing States and regions in India."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. All spice growing States and regions in India preferably in the ODOP (One District One Product) and clusters of Spices under AEP of MoC and operational area of collaborative national and international projects of Spices Board"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. On receipt of application with documents, the Officer concerned will visit the Reg. Office of the AMC/APMC/group and evaluate the status, facility and arrangements available with the group for taking up the activity component successfully."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. Eligible application will be recommended to Divisional Officer/Regional Officer as the case may be for further scrutiny and issue of permission letter to sign MoU with the Board. Recommending Officer will arrange signing of MoU and collection of documents proving purchase and physically verify the installation of the equipment/device and recommend Eligible case for sanction of assistance."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. The AMC/APMC/group also need to enter into MoU with the supplying firm on annual maintenance of device, training of man power for operating the device and collection of any software charges etc. which is to be ensured by the officers concerned of the Board before recommending the case."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isfepqiisaradocnsbqtos"
+}

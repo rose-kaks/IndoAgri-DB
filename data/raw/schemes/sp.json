@@ -1,0 +1,206 @@
+{
+  "_id": "68ef7fc0dc0718e0b5130905",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Seed Distribution",
+        "Horticulture",
+        "Vegetable Cultivation",
+        "Farmer"
+      ],
+      "schemeName": "Seed Program",
+      "schemeShortTitle": "SP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "slug": "sp",
+      "briefDescription": "The scheme aims to provide free vegetable seeds to small and marginal farmers and agricultural laborers living below the poverty line."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Seed Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to support small and marginal farmers and agricultural laborers living below the poverty line through the provision of free vegetable seeds to improve household nutrition and crop productivity. The scheme distributes seed packets worth ₹50 containing vegetables like bottle gourd, ladyfinger, beans, bitter gourd, ridge gourd, spinach, and cowpea.\n<br>\n\n",
+      "benefits_md": "\n  - **Free Seed Distribution:** Seed packets containing seeds of bottle gourd, ladyfinger, beans, bitter gourd, ridge gourd, spinach, and cowpea worth ₹50/- are provided free of cost to eligible beneficiaries.\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide free vegetable seeds to small and marginal farmers and agricultural laborers living below the poverty line.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Seed Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to support small and marginal farmers and agricultural laborers living below the poverty line through the provision of free vegetable seeds to improve household nutrition and crop productivity. The scheme distributes seed packets worth ₹50 containing vegetables like bottle gourd, ladyfinger, beans, bitter gourd, ridge gourd, spinach, and cowpea."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Free Seed Distribution:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Seed packets containing seeds of bottle gourd, ladyfinger, beans, bitter gourd, ridge gourd, spinach, and cowpea worth ₹50/- are provided free of cost to eligible beneficiaries."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant should contact the Horticulture and Food Processing Department, Madhya Pradesh."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The applicant should contact the Horticulture and Food Processing Department, Madhya Pradesh.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n  - The applicant must belong to the Below the Poverty Line (BPL) category.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must belong to the Below the Poverty Line (BPL) category."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sp"
+}

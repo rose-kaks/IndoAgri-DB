@@ -1,0 +1,300 @@
+{
+  "_id": "69136f5d7d196c06c70a0d89",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Bhesaj",
+        "Herbal Cultivation",
+        "Unemployed",
+        "Employment",
+        "Pharmaceutical"
+      ],
+      "schemeName": "Bhesaj Krishi Vikas Yojana (Herbal Cultivation Programme)",
+      "schemeShortTitle": "BKVYHCP",
+      "implementingAgency": "Bhesaj Vikas Ikai, Uttarakhand",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "bkvyhcp",
+      "briefDescription": "The scheme aims to promote the cultivation of medicinal and herbal plants (Jadi-Buti) among local farmers and unemployed youth, providing sustainable employment and improving their economic well-being."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 228)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Bhesaj Krishi Vikas Yojana” is implemented by the Bhesaj Vikas Ikai, Uttarakhand, under the Department of Horticulture, Government of Uttarakhand. It aims to promote the cultivation of medicinal and herbal plants (Jadi-Buti) among local farmers and unemployed youth, providing sustainable employment and improving their economic well-being.\n<br>\n\n",
+      "benefits_md": "***From the cultivation of medicinal plants, the following estimated profits can be earned:***\n\n- **Kuth species:** ₹1,000/- per nali per year- **Kutki species:** ₹660/- per nali per year- **Big Cardamom species:** ₹1,120/- per nali per year (from the fourth year onwards)- **Sarpagandha species:** ₹1,200/- per nali per year- **Tejpata species:** ₹1,200/- per nali per year (after ten years)\n***This cultivation provides additional employment to farmers and strengthens their economic condition.***\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote the cultivation of medicinal and herbal plants (Jadi-Buti) among local farmers and unemployed youth, providing sustainable employment and improving their economic well-being.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Bhesaj Krishi Vikas Yojana” is implemented by the Bhesaj Vikas Ikai, Uttarakhand, under the Department of Horticulture, Government of Uttarakhand. It aims to promote the cultivation of medicinal and herbal plants (Jadi-Buti) among local farmers and unemployed youth, providing sustainable employment and improving their economic well-being."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From the cultivation of medicinal plants, the following estimated profits can be earned:",
+              "italic": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Kuth species:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹1,000/- per nali per year"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Kutki species:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹660/- per nali per year"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Big Cardamom species:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹1,120/- per nali per year (from the fourth year onwards)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sarpagandha species:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹1,200/- per nali per year"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Tejpata species:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹1,200/- per nali per year (after ten years)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This cultivation provides additional employment to farmers and strengthens their economic condition.",
+              "italic": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The District Bhesaj Coordinator, Bhesaj Vikas Ikai, selects residents of designated villages/pattis within the chosen development block who are willing to work in a cluster (10 farmers from 2–3 villages) and wish to cultivate herbs suitable to the local climate and altitude through a training camp. The cluster-wise list of selected participants is sent to headquarters for the demand of saplings as per the action plan. Subsequently, these individuals are ensured to receive saplings from selected nurseries in July–August (rainy season) according to the five-nali standard."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The District Bhesaj Coordinator then registers the planted saplings with the Herbal Research and Development Institute, Gopeshwar. Three months before harvest, the District Bhesaj Coordinator issues a free challan to any market or pharmacy selling the cultivated species."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The District Bhesaj Coordinator, Bhesaj Vikas Ikai, selects residents of designated villages/pattis within the chosen development block who are willing to work in a cluster (10 farmers from 2–3 villages) and wish to cultivate herbs suitable to the local climate and altitude through a training camp. The cluster-wise list of selected participants is sent to headquarters for the demand of saplings as per the action plan. Subsequently, these individuals are ensured to receive saplings from selected nurseries in July–August (rainy season) according to the five-nali standard.\n  - The District Bhesaj Coordinator then registers the planted saplings with the Herbal Research and Development Institute, Gopeshwar. Three months before harvest, the District Bhesaj Coordinator issues a free challan to any market or pharmacy selling the cultivated species.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be unemployed.\n   1. The applicant must have at least five Nali of land available.\n   1. The applicant must have an Aadhaar card.\n   1. The applicant must be interested in obtaining employment opportunities through herbal cultivation.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be unemployed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have at least five Nali of land available."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have an Aadhaar card."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be interested in obtaining employment opportunities through herbal cultivation."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "bkvyhcp"
+}

@@ -1,0 +1,347 @@
+{
+  "_id": "67fe15dae2f1560de65ed8e9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Co Operative Banks",
+        "Reconstruction"
+      ],
+      "schemeName": "COP-5 Financial Assistance to Agricultural Credit Co-operative Banks (PACS/LAMPS) for Reconstruction and Reestablishment (General/Tribal Area)",
+      "schemeShortTitle": "CFAACOBRR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "cfaacobrr",
+      "briefDescription": "The scheme provides financial assistance to Primary Agricultural Credit Societies (PACS) and Large-sized Agricultural Multi-Purpose Societies (LAMPS) in General and Tribal areas to strengthen their economic viability and ensure their continued contribution to the cooperative credit structure.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=VBmlBmd+scMV9XoODqMfYw==&domain=v4lc2tu73R/9lWYKO76SRg=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;COP-5 Financial Assistance to Agricultural Credit Co-operative Banks (PACS/LAMPS) for Reconstruction and Reestablishment (General/Tribal Area)&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to make economically weak but functionally efficient PACS/LAMPS financially viable. These societies play a foundational role in the three-tier cooperative credit system, and their performance impacts District and State Cooperative Banks. The scheme incentivizes societies based on their growth in credit disbursement, loan recovery, and deposit mobilization over the past three years (two years for LAMPS).\n",
+      "benefits_md": "<br>\n\n**Incentive admissible over and above the average amount of the last three years****Percentage of the grant of incentive on the excess amount**For growth from 10% to 15%\t1 %For growth above 15% and up to 20%\t1.5 %For growth above 20%\t2% or a maximum of ₹.50,000/- whichever is less (on deposits up to a ₹2,00,000/- whichever is less)<br>\n\n> **Note:** The benefit of the scheme is available only once in a financial year.\n\n",
+      "briefDescription": "The scheme provides financial assistance to Primary Agricultural Credit Societies (PACS) and Large-sized Agricultural Multi-Purpose Societies (LAMPS) in General and Tribal areas to strengthen their economic viability and ensure their continued contribution to the cooperative credit structure.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"COP-5 Financial Assistance to Agricultural Credit Co-operative Banks (PACS/LAMPS) for Reconstruction and Reestablishment (General/Tribal Area)\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to make economically weak but functionally efficient PACS/LAMPS financially viable. These societies play a foundational role in the three-tier cooperative credit system, and their performance impacts District and State Cooperative Banks. The scheme incentivizes societies based on their growth in credit disbursement, loan recovery, and deposit mobilization over the past three years (two years for LAMPS)."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Incentive admissible over and above the average amount of the last three years",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Percentage of the grant of incentive on the excess amount",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "For growth from 10% to 15%\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 %"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "For growth above 15% and up to 20%\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1.5 %"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "For growth above 20%\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2% or a maximum of ₹.50,000/- whichever is less (on deposits up to a ₹2,00,000/- whichever is less)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "text": "Note: "
+            },
+            {
+              "text": "The benefit of the scheme is available only once in a financial year."
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The concerned Agricultural Credit Co-operative Society must prepare a proposal."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " The proposal should be submitted to the District Registrar Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " The application should include all required supporting documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " The Registrar will verify and forward the eligible applications for financial assistance under the scheme."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The concerned Agricultural Credit Co-operative Society must prepare a proposal.\n**Step 2:** The proposal should be submitted to the District Registrar Office.\n**Step 3:** The application should include all required supporting documents.\n**Step 4:** The Registrar will verify and forward the eligible applications for financial assistance under the scheme.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a registered Agricultural Co-operative Credit Society, either a Primary Agricultural Credit Society (PACS) or a Large-sized Adivasi Multi-Purpose Society (LAMPS).\n1. The society must have been operational and performing for the required duration:\n\n  -  PACS: At least the last three years.\n  - LAMPS: At least the last two years.\n\n1. The applicant must provide performance data for the relevant period, showing:\n\n  - Growth in credit disbursement (short and medium-term).\n  - Improvement in loan recovery rates.\n  - Increase in deposit collection.\n\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a registered Agricultural Co-operative Credit Society, either a Primary Agricultural Credit Society (PACS) or a Large-sized Adivasi Multi-Purpose Society (LAMPS)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The society must have been operational and performing for the required duration:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": " PACS: At least the last three years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "LAMPS: At least the last two years."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must provide performance data for the relevant period, showing:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Growth in credit disbursement (short and medium-term)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Improvement in loan recovery rates."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Increase in deposit collection."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cfaacobrr"
+}

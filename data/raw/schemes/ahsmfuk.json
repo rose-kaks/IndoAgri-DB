@@ -1,0 +1,264 @@
+{
+  "_id": "68ca5608e5c3d708dd294445",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Small Farmer",
+        "Marginal Farmer",
+        "Natural Disaster",
+        "Livestock",
+        "Animal Husbandry"
+      ],
+      "schemeName": "Animal Husbandry: Assistance to Small and Marginal Farmers",
+      "schemeShortTitle": "AHASMF",
+      "implementingAgency": "Uttarakhand State Disaster Management Authority",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000007,
+        "label": "Department Of Disaster Management"
+      },
+      "slug": "ahsmfuk",
+      "briefDescription": "The scheme aims to provide financial assistance to small and marginal farmers for the replacement of productive livestock lost due to notified natural disasters such as floods, landslides, or other calamities."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 306)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Animal Husbandry: Assistance to Small and Marginal Farmers” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to small and marginal farmers for the replacement of productive livestock lost due to notified natural disasters such as floods, landslides, or other calamities.\n<br>\n\n",
+      "benefits_md": "**Replacement of Milk, Agricultural, and Transport Animals:**\n\n- **Milch animals:** ₹37,500/- per animal (Buffalo/Cow/Camel/Yak/Mithun) will be payable.- ₹4,000/- per animal (Sheep/Goat/Pig) will be payable.\n\n**Agricultural and Haulage Animals:** \n\n- ₹32,000/- per animal (Camel/Horse/Bullock) will be payable.\n\n\n- ₹20,000/- per animal (Calf/Donkey/Pony/Mule) will be payable.\n\n**Poultry Farming:**\n\n  - ₹100/- per bird, up to a limit of ₹10,000/- per beneficiary family. The death of birds must be due to a notified natural disaster to be eligible for assistance.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide financial assistance to small and marginal farmers for the replacement of productive livestock lost due to notified natural disasters such as floods, landslides, or other calamities.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Animal Husbandry: Assistance to Small and Marginal Farmers” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to small and marginal farmers for the replacement of productive livestock lost due to notified natural disasters such as floods, landslides, or other calamities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Replacement of Milk, Agricultural, and Transport Animals:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Milch animals:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹37,500/- per animal (Buffalo/Cow/Camel/Yak/Mithun) will be payable."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹4,000/- per animal (Sheep/Goat/Pig) will be payable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Agricultural and Haulage Animals: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹32,000/- per animal (Camel/Horse/Bullock) will be payable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹20,000/- per animal (Calf/Donkey/Pony/Mule) will be payable."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Poultry Farming:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "₹100/- per bird, up to a limit of ₹10,000/- per beneficiary family. The death of birds must be due to a notified natural disaster to be eligible for assistance."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "This assistance shall be limited to the actual loss of productive animals. However, irrespective of the extent of loss, assistance to a single family will be restricted to a maximum of 3 large milch animals, 30 small milch animals, or 3 large agricultural and draught animals (The loss or damage must be verified by a competent authority designated by the State Government)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level.\nThis assistance shall be limited to the actual loss of productive animals. However, irrespective of the extent of loss, assistance to a single family will be restricted to a maximum of 3 large milch animals, 30 small milch animals, or 3 large agricultural and draught animals (The loss or damage must be verified by a competent authority designated by the State Government).\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a Small or Marginal Farmer from Uttarakhand who has lost their milk, agricultural, or haulage animals due to a notified natural disaster.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a Small or Marginal Farmer from Uttarakhand who has lost their milk, agricultural, or haulage animals due to a notified natural disaster."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ahsmfuk"
+}

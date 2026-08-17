@@ -1,0 +1,906 @@
+{
+  "_id": "677fbe7c97d6fc48f60be697",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmers",
+        "Crop Insurance",
+        "Agriculture Subsidy",
+        "Natural Disaster Coverage"
+      ],
+      "schemeName": "National Agriculture Insurance Scheme",
+      "schemeShortTitle": "NAI",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Climate change",
+          "label": "Climate change"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 121226,
+        "label": "Department of Agriculture & Farmers Welfare"
+      },
+      "slug": "nai",
+      "briefDescription": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://pmfby.gov.in/pdf/NAIS_SCHEME.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases. The scheme promotes the stability of farm incomes and encourages farmers to adopt modern agricultural practices.\n<br>\n\n> **Key Features**\n\n\n1. Coverage for food crops, oilseeds, and selected commercial/horticultural crops.\n1. Protection against crop loss due to natural calamities such as drought, flood, hailstorm, cyclone, pests, and diseases.\n1. Coverage for different stages of the crop life cycle:\n\n  - Sowing/planting risk.\n  - Standing crop losses.\n  - Post-harvest losses (due to specified perils).\n  - Losses due to localized risks like hailstorms and landslides.\n\n1. Subsidized premiums for small and marginal farmers.\n1. Availability of the scheme across notified areas and seasons.\n\n> **Claim Process**\n\n\n- **Reporting** Losses: Inform the local agriculture office or insurer within 48 hours of the incident.- **Assessment**: Loss assessment will be conducted by a joint team comprising local authorities and insurance company representatives.- **Claim Settlement:** Upon verification, claims are directly transferred to the farmer’s bank account\n",
+      "benefits_md": "> **Comprehensive Crop Coverage:**\n\n\n\n  - Protection against crop loss due to natural calamities (floods, droughts, hailstorms), pests, diseases, and localized risks.\n  - Includes coverage for sowing, standing crops, and post-harvest losses.\n\n\n> **Subsidized Premiums for Small Farmers:**\n\n\n\n  - Small and marginal farmers receive premium subsidies, making the scheme affordable for them.\n\n\n> **Affordable Premiums for All Farmers:**\n\n\n\n  - Low premium rates for both loanee and non-loanee farmers, with premiums deducted from agricultural loans.\n\n\n> **Quick Claim Settlement:**\n\n\n\n  - Fast processing and direct claim settlement to the farmer’s bank account.\n\n\n> **Encourages Better Farming Practices:**\n\n\n\n  - Promotes risk mitigation and adoption of modern agricultural practices, increasing productivity.\n\n\n> **Wide Crop Coverage:**\n\n\n\n  - Covers food crops, oilseeds, and horticultural crops, ensuring protection for most farmers.\n\n\n> **Nationwide Accessibility:**\n\n\n\n  - Available to farmers across the country, making it a national safety net.\n\n\n<br>\n\n**Premium Rates**\n\n- Food crops and oilseeds:\n\n  - Kharif crops: 3.5% of the sum insured.\n  - Rabi crops: 1.5% of the sum insured.\n\n- Commercial and horticultural crops: Actuarial premium rates apply.\n- The premium for Small &amp; Marginal farmers is subsidised to the extent of 10% which is shared by the State Govt. and Govt. of India\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The National Agriculture Insurance Scheme (NAIS) was introduced by the Government of India to provide comprehensive insurance coverage and financial support to farmers against crop losses due to natural calamities, pests, and diseases. The scheme promotes the stability of farm incomes and encourages farmers to adopt modern agricultural practices."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Key Features",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Coverage for food crops, oilseeds, and selected commercial/horticultural crops."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Protection against crop loss due to natural calamities such as drought, flood, hailstorm, cyclone, pests, and diseases."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Coverage for different stages of the crop life cycle:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Sowing/planting risk."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Standing crop losses."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Post-harvest losses (due to specified perils)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Losses due to localized risks like hailstorms and landslides."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidized premiums for small and marginal farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Availability of the scheme across notified areas and seasons."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Claim Process",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reporting ",
+                  "bold": true
+                },
+                {
+                  "text": "Losses: Inform the local agriculture office or insurer within 48 hours of the incident."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assessment",
+                  "bold": true
+                },
+                {
+                  "text": ": Loss assessment will be conducted by a joint team comprising local authorities and insurance company representatives."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Claim Settlement:",
+                  "bold": true
+                },
+                {
+                  "text": " Upon verification, claims are directly transferred to the farmer’s bank account"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Comprehensive Crop Coverage:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Protection against crop loss due to natural calamities (floods, droughts, hailstorms), pests, diseases, and localized risks."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Includes coverage for sowing, standing crops, and post-harvest losses."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Subsidized Premiums for Small Farmers:",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Small and marginal farmers receive premium subsidies, making the scheme affordable for them."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Affordable Premiums for All Farmers:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Low premium rates for both loanee and non-loanee farmers, with premiums deducted from agricultural loans."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Quick Claim Settlement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Fast processing and direct claim settlement to the farmer’s bank account."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Encourages Better Farming Practices:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Promotes risk mitigation and adoption of modern agricultural practices, increasing productivity."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Wide Crop Coverage:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Covers food crops, oilseeds, and horticultural crops, ensuring protection for most farmers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Nationwide Accessibility:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Available to farmers across the country, making it a national safety net."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Premium Rates",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Food crops and oilseeds:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Kharif crops: 3.5% of the sum insured."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Rabi crops: 1.5% of the sum insured."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Commercial and horticultural crops: Actuarial premium rates apply."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The premium for Small & Marginal farmers is subsidised to the extent of 10% which is shared by the State Govt. and Govt. of India"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process for Loanee Farmers",
+                "underline": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1",
+                "bold": true
+              },
+              {
+                "text": ": Loanee farmers need to visit their nearest bank or primary agricultural cooperative society (PACS) branch, where they have taken the loan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "The bank will automatically enroll the farmer in the NAIS."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Premiums are deducted directly from the loan amount at the time of disbursement"
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process for Non-Loanee Farmers",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-1: Visit the Bank or Insurance Office",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Go to the nearest branch of a bank that offers NAIS or visit the office of an authorized insurance company that provides coverage under NAIS."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: Fill the Application Form",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill out the application form for the National Agriculture Insurance Scheme."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: Provide Required Documents",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit required documents such as:"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Aadhaar card or any government-issued identity proof."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Proof of land ownership or tenancy."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Crop sowing details (if applicable)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank account details for claim disbursement."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: Pay the Premium",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Pay the premium amount at the time of application. The premium amount is based on the type of crop and the coverage opted for."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Contact for Assistance",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If you need help during the application process or have any questions, you can contact:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Toll-Free Helpline:",
+                "bold": true
+              },
+              {
+                "text": " 1800-180-1551"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Email:",
+                "bold": true
+              },
+              {
+                "text": " pmfby-support@gov.in"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Website:",
+                "bold": true
+              },
+              {
+                "text": " "
+              },
+              {
+                "type": "link",
+                "link": "https://www.pmfby.gov.in/",
+                "children": [
+                  {
+                    "text": "https://www.pmfby.gov.in/"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process for Loanee Farmers**\n\n**Step-1**: Loanee farmers need to visit their nearest bank or primary agricultural cooperative society (PACS) branch, where they have taken the loan.\n**Step-2:** The bank will automatically enroll the farmer in the NAIS.\n**Step-3:** Premiums are deducted directly from the loan amount at the time of disbursement\n> **Application Process for Non-Loanee Farmers**\n\n**Step-1: Visit the Bank or Insurance Office**\n\n- Go to the nearest branch of a bank that offers NAIS or visit the office of an authorized insurance company that provides coverage under NAIS.\n\n**Step-2: Fill the Application Form**\n\n- Fill out the application form for the National Agriculture Insurance Scheme.\n\n**Step-3: Provide Required Documents**\n\n- Submit required documents such as:\n- Aadhaar card or any government-issued identity proof.\n- Proof of land ownership or tenancy.\n- Crop sowing details (if applicable).\n- Bank account details for claim disbursement.\n\n**Step-4: Pay the Premium**\n\n- Pay the premium amount at the time of application. The premium amount is based on the type of crop and the coverage opted for.\n\n> **Contact for Assistance**\n\nIf you need help during the application process or have any questions, you can contact:\n**Toll-Free Helpline:** 1800-180-1551\n**Email:** pmfby-support@gov.in\n**Website:** [https://www.pmfby.gov.in/](https://www.pmfby.gov.in/)\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "> **Loanee Farmers:**\n\n\n1. Farmers who avail seasonal agricultural operations (SAO) loans from financial institutions (banks, co-operative societies, etc.) are automatically covered under the scheme.\n1. The coverage for loanee farmers is compulsory, and premiums are deducted from the loan amount.\n\n<br>\n\n> **Non-Loanee Farmers:**\n\n\n1. Non-loanee farmers can apply voluntarily for the insurance coverage.\n1. The application must be submitted before the deadline for each crop season.\n\n<br>\n\n> **Notified Crops and Areas:**\n\n\n1. The crops to be insured and the areas where the scheme is applicable are announced by the government each year.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Loanee Farmers:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers who avail seasonal agricultural operations (SAO) loans from financial institutions (banks, co-operative societies, etc.) are automatically covered under the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The coverage for loanee farmers is compulsory, and premiums are deducted from the loan amount."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "underline": true,
+              "text": "Non-Loanee Farmers:"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-loanee farmers can apply voluntarily for the insurance coverage."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The application must be submitted before the deadline for each crop season."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "bold": true,
+              "underline": true,
+              "text": "Notified Crops and Areas:"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The crops to be insured and the areas where the scheme is applicable are announced by the government each year."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nai"
+}

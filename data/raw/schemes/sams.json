@@ -1,0 +1,273 @@
+{
+  "_id": "65cdf785ed4030e118da90d8",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Agriculture Machineries",
+        "Subsidy"
+      ],
+      "schemeName": "Supply of Agriculture Machineries Scheme",
+      "schemeShortTitle": "SAMS",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "sams",
+      "briefDescription": "The objective of the scheme is to distribute and sale of agricultural machinery such as Power Tillers, etc. to farmers at subsidized rates."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=80"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Supply of Agriculture Machineries Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya for the distribution and sale of Agriculture Machineries such as Power Tillers, etc. to farmers at a subsidized rate.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\n\n- Subsidy on Power tillers, Reapers, Harvesters, etc.\n\n> **Type of Assistance and Entitlement (If Any):**\n\n\n- 50% subsidy sale.\n\n",
+      "briefDescription": "The objective of the scheme is to distribute and sale of agricultural machinery such as Power Tillers, etc. to farmers at subsidized rates.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Supply of Agriculture Machineries Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya for the distribution and sale of Agriculture Machineries such as Power Tillers, etc. to farmers at a subsidized rate."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy on Power tillers, Reapers, Harvesters, etc."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Type of Assistance and Entitlement (If Any):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50% subsidy sale."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01:",
+                "bold": true
+              },
+              {
+                "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02:",
+                "bold": true
+              },
+              {
+                "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Mode of Selection of Beneficiary(s):",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The bonafide farmers shall be selected on a first come first serve basis."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Whom to Contact:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "District Agriculture Officers of the concerned districts"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Sub-divisional Officers of the concerned sub-divisions"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Agriculture Development Officers of the concerned Community and Rural Development Blocks"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Assistant Agriculture Engineer (Mechanical) of the concerned districts"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.\n> **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n> **Whom to Contact:**\n\n\n1. District Agriculture Officers of the concerned districts\n1. Sub-divisional Officers of the concerned sub-divisions\n1. Agriculture Development Officers of the concerned Community and Rural Development Blocks\n1. Assistant Agriculture Engineer (Mechanical) of the concerned districts\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Meghalaya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sams"
+}

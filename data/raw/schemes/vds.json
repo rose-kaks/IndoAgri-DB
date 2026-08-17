@@ -1,0 +1,414 @@
+{
+  "_id": "65c4ac48ed4030e118d1931c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Vegetable Production",
+        "Subsidy",
+        "Vegetable Seed",
+        "Poly House"
+      ],
+      "schemeName": "Vegetable Development Scheme",
+      "schemeShortTitle": "VDS",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "vds",
+      "briefDescription": "The objective of the scheme is to promote vegetable production through HYV Seeds/ Hybrids/ Improved/ Open Pollinated seedlings, including assistance to farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=95"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Vegetable Development Scheme” was launched by the Department of Agriculture &amp; Farmers’ Welfare, Government of Meghalaya to promote vegetable production through HYV seeds/Hybrids/Improved/Open Pollinated seedlings, including assistance to farmers.\n",
+      "benefits_md": "> **Pattern of Assistance:**\n\n\n  - Supply of seeds/ seedlings and garden tools at 50% sales subsidy.\n  - Demonstration on improved methods of vegetable cultivation at the rate 2,600 per farmer is provisioned.\n\n> **Type of Assistance and Entitlement (If Any):**\n\nSl. No.EntitlementOwantum of Assistance1To promote vegetable production by providing hybrid, HYV, and OP quality vegetable seed to farmers including horticultural tools and implements.50% sale to the farmers.2To promote the production of off-season and high-value vegetables under protected cultivation by providing poly houses to farmers.100% assistance for 100sqm per unit area.3To assist farmers in trellis making for squash and other creepers vegetables with locally available materials like bamboo wood etc.Assistance is limited to 200 sqm per beneficiary @ ₹10,000/unit.",
+      "briefDescription": "The objective of the scheme is to promote vegetable production through HYV Seeds/ Hybrids/ Improved/ Open Pollinated seedlings, including assistance to farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Vegetable Development Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to promote vegetable production through HYV seeds/Hybrids/Improved/Open Pollinated seedlings, including assistance to farmers."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Supply of seeds/ seedlings and garden tools at 50% sales subsidy."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Demonstration on improved methods of vegetable cultivation at the rate 2,600 per farmer is provisioned."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Type of Assistance and Entitlement (If Any):",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sl. No."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Entitlement"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Owantum of Assistance"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To promote vegetable production by providing hybrid, HYV, and OP quality vegetable seed to farmers including horticultural tools and implements."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "50% sale to the farmers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To promote the production of off-season and high-value vegetables under protected cultivation by providing poly houses to farmers."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "100% assistance for 100sqm per unit area."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "3"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "To assist farmers in trellis making for squash and other creepers vegetables with locally available materials like bamboo wood etc."
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Assistance is limited to 200 sqm per beneficiary @ ₹10,000/unit."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The eligible bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/Horticulture Circle."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The eligible bonafide farmers will be selected on a first come first serve basis."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " Below officials can be contacted for any concerns or queries:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                        "children": [
+                          {
+                            "text": "District Horticulture Officer"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Horticulture Development Officer"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe eligible bonafide farmers will be selected on a first come first serve basis.\n&gt; **Whom to Contact:** Below officials can be contacted for any concerns or queries:\n\n\n  - [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)  - Horticulture Development Officer\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant/farmer should be a resident of Meghalaya.\n1. The small and marginal farmers having sufficient available cultivable land can apply under the scheme.\n\nNote: The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant/farmer should be a resident of Meghalaya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The small and marginal farmers having sufficient available cultivable land can apply under the scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note: The applicant farmer can avail of the benefits of the scheme on a first come first serve basis."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "vds"
+}

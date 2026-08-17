@@ -1,0 +1,181 @@
+{
+  "_id": "68ccff3689d250875d3ba029",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agricultural Exhibition",
+        "Farmer",
+        "Fair",
+        "Entrepreneur"
+      ],
+      "schemeName": "Akhil Bhartiya Kisan Mela and Krishi Udyog Pradarshani",
+      "schemeShortTitle": "ABKMKUP",
+      "implementingAgency": "Govind Ballabh Pant University Of Agriculture And Technology, Pantnagar",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000001,
+        "label": "Agriculture Department"
+      },
+      "slug": "aikmkue",
+      "briefDescription": "The scheme aims to provide a platform for farmers, agri-entrepreneurs, and stakeholders to access, learn about, and showcase the latest agricultural innovations, technologies, and practices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 188)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Akhil Bhartiya Kisan Mela and Krishi Udyog Pradarshani” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide a platform for farmers, agri-entrepreneurs, and stakeholders to access, learn about, and showcase the latest agricultural innovations, technologies, and practices.\n<br>\n\n",
+      "benefits_md": "The Fair/Exhibition is organized twice a year on the university campus.\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide a platform for farmers, agri-entrepreneurs, and stakeholders to access, learn about, and showcase the latest agricultural innovations, technologies, and practices.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Akhil Bhartiya Kisan Mela and Krishi Udyog Pradarshani” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide a platform for farmers, agri-entrepreneurs, and stakeholders to access, learn about, and showcase the latest agricultural innovations, technologies, and practices."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Fair/Exhibition is organized twice a year on the university campus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The exhibition is organized after agriculture and agriculture-related firms deposit the prescribed participation fee, while farmers participate by registering themselves for the event."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "The exhibition is organized after agriculture and agriculture-related firms deposit the prescribed participation fee, while farmers participate by registering themselves for the event.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Participants should be farmers, farmer entrepreneurs, or agriculture-related firms interested in showcasing and promoting the latest agricultural technologies.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Participants should be farmers, farmer entrepreneurs, or agriculture-related firms interested in showcasing and promoting the latest agricultural technologies."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "aikmkue"
+}

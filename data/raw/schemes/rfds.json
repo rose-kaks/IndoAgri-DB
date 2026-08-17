@@ -1,0 +1,249 @@
+{
+  "_id": "6788cd12d667626b5f0afa50",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Fisheries",
+        "Subsidy",
+        "Development"
+      ],
+      "schemeName": "Reservoir Fisheries Development Scheme",
+      "schemeShortTitle": "RFDS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000027,
+        "label": "Department of Agriculture, Animal Husbandry & Co-operative"
+      },
+      "schemeFor": "Infra",
+      "slug": "rfds",
+      "briefDescription": "The scheme \"Reservoir Fisheries Development Scheme\" by the Department of Fisheries, Government of Jharkhand, enhances fish production and livelihood opportunities for registered fisheries cooperatives through the provision of fish fingerlings, boats, and nets."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D001DO003SD00311092019123014399"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Reservoir Fisheries Development Scheme&quot; by the Department of Fisheries, Government of Jharkhand, aims to enhance fish production and support fishermen&#39;s livelihoods. Through this scheme, fish fingerlings are provided, along with subsidized boats and nets, to registered fisheries cooperative societies. The scheme is implemented by the Directorate of Fisheries and focuses on utilizing water resources like reservoirs, check dams, coal pits, and other water bodies.\n",
+      "benefits_md": "\n- Supply of 530 lakh fish fingerlings annually to various reservoirs.\n- Subsidy of ₹1,000/- or 50% of the cost per member for fishing nets (whichever is lower).\n- Provision of ₹10,000/- or 50% of the cost for one boat per cooperative society (whichever is lower).\n- Encouragement for cage culture in water bodies.\n- Enhanced fish production in 1,06,000 hectares of water bodies.\n- Livelihood support for members of registered fisheries cooperative societies.\n- Focused implementation in mining-affected water bodies.\n\n",
+      "briefDescription": "The scheme \"Reservoir Fisheries Development Scheme\" by the Department of Fisheries, Government of Jharkhand, enhances fish production and livelihood opportunities for registered fisheries cooperatives through the provision of fish fingerlings, boats, and nets.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Reservoir Fisheries Development Scheme\" by the Department of Fisheries, Government of Jharkhand, aims to enhance fish production and support fishermen's livelihoods. Through this scheme, fish fingerlings are provided, along with subsidized boats and nets, to registered fisheries cooperative societies. The scheme is implemented by the Directorate of Fisheries and focuses on utilizing water resources like reservoirs, check dams, coal pits, and other water bodies."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Supply of 530 lakh fish fingerlings annually to various reservoirs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy of ₹1,000/- or 50% of the cost per member for fishing nets (whichever is lower)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provision of ₹10,000/- or 50% of the cost for one boat per cooperative society (whichever is lower)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encouragement for cage culture in water bodies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Enhanced fish production in 1,06,000 hectares of water bodies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Livelihood support for members of registered fisheries cooperative societies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Focused implementation in mining-affected water bodies."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Office.\n**Step 4:** Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a member of a registered fisheries cooperative society.\n1. The cooperative society should be actively involved in fisheries activities.\n1. The water body must be a stable water resource such as a reservoir, check dam, coal pit, or similar areas affected by mining.\n1. The water body should have a minimum size to qualify for stocking and development.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a member of a registered fisheries cooperative society."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The cooperative society should be actively involved in fisheries activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The water body must be a stable water resource such as a reservoir, check dam, coal pit, or similar areas affected by mining."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The water body should have a minimum size to qualify for stocking and development."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rfds"
+}

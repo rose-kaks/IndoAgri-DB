@@ -1,0 +1,376 @@
+{
+  "_id": "65cdc594cd96dc5e0753e4d1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Mission",
+        "Integrated Development",
+        "Horticulture",
+        "Agriculture",
+        "Farmer",
+        "Horticulture"
+      ],
+      "schemeName": "Mission for Integrated Development of Horticulture Sub Scheme Horticulture Mission for North East and Himalayan Region- Meghalaya",
+      "schemeShortTitle": "MIDHHMNEH-MEGHALAYA",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "midhhmneh-meghalaya",
+      "briefDescription": "The scheme is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to promote holistic growth of Horticulture sector thorough promotion, extension, post-harvest management, processing and marketing."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=108"
+        },
+        {
+          "title": "Official Website- MIDH",
+          "url": "https://midh.gov.in/midhSchemes.html"
+        },
+        {
+          "title": "Guidelines- English",
+          "url": "https://midh.gov.in/PDF/midh(English).pdf"
+        },
+        {
+          "title": "Guidelines- Hindi",
+          "url": "https://midh.gov.in/PDF/midh(Hindi).pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to promote holistic growth of Horticulture sector thorough promotion, extension, post-harvest management, processing and marketing.",
+      "detailedDescription_md": "The “Mission for Integrated Development of Horticulture (MIDH) Scheme” is a Centrally Sponsored Scheme, launched by the Ministry of Agriculture and Farmers Welfare, Government of India, for the holistic growth of the horticulture sector covering fruits, vegetables, root &amp;amp; tuber crops, mushrooms, spices, flowers, aromatic plants, coconut, cashew, cocoa, and bamboo. Under MIDH, Government of India (GOI) contributes 60%, of the total outlay for developmental programmes in all the states except states in North East and Himalayas, and 40% share is contributed by State Governments. In the case of North Eastern States and Himalayan States, GOI contributes 90%. MIDH also provides technical advice and administrative support to State Governments/ State Horticulture Missions (SHMs) for the Saffron Mission and other horticulture-related activities Rashtriya Krishi Vikas Yojana (RKVY)/NMSA.\n      In the state of Meghalaya, the Scheme “Mission for Integrated Development of Horticulture (MIDH) Sub Scheme Horticulture Mission for North East and Himalayan Region (HMNEH)” is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya with the  following objectives:\n\n  - To promote holistic growth of the Horticulture sector through promotion, extension, post-harvest management, processing, and marketing.\n  - To encourage aggregation of farmers into farmer groups like FIGs/FPOs and FPCs to bring economy of scale and scope, enhance horticulture production, augment farmers, income, and strengthen nutritional security.\n  - To improve productivity by way of quality germplasm, planting material, and water use efficiency through Micro Irrigation, support skill development, and create employment generation opportunities for rural youth in horticulture and post-harvest management.\n\n",
+      "benefits_md": "**Pattern of Assistance:**\n\n  - Production of planting materials, area expansion, rejuvenation of senile plantation, creation of water sources, protected horticulture, beekeeping, mechanization, post-harvest, and establishment of market infrastructures.\n\n**Type of Assistance:**\n\n  - Grant in Aid, Subsidy sales of inputs, training, and demonstration\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Mission for Integrated Development of Horticulture (MIDH) Scheme” is a Centrally Sponsored Scheme, launched by the Ministry of Agriculture and Farmers Welfare, Government of India, for the holistic growth of the horticulture sector covering fruits, vegetables, root & tuber crops, mushrooms, spices, flowers, aromatic plants, coconut, cashew, cocoa, and bamboo. Under MIDH, Government of India (GOI) contributes 60%, of the total outlay for developmental programmes in all the states except states in North East and Himalayas, and 40% share is contributed by State Governments. In the case of North Eastern States and Himalayan States, GOI contributes 90%. MIDH also provides technical advice and administrative support to State Governments/ State Horticulture Missions (SHMs) for the Saffron Mission and other horticulture-related activities Rashtriya Krishi Vikas Yojana (RKVY)/NMSA."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "      In the state of Meghalaya, the Scheme “Mission for Integrated Development of Horticulture (MIDH) Sub Scheme Horticulture Mission for North East and Himalayan Region (HMNEH)” is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya with the  following objectives:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To promote holistic growth of the Horticulture sector through promotion, extension, post-harvest management, processing, and marketing."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To encourage aggregation of farmers into farmer groups like FIGs/FPOs and FPCs to bring economy of scale and scope, enhance horticulture production, augment farmers, income, and strengthen nutritional security."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To improve productivity by way of quality germplasm, planting material, and water use efficiency through Micro Irrigation, support skill development, and create employment generation opportunities for rural youth in horticulture and post-harvest management."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Production of planting materials, area expansion, rejuvenation of senile plantation, creation of water sources, protected horticulture, beekeeping, mechanization, post-harvest, and establishment of market infrastructures."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Type of Assistance:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Grant in Aid, Subsidy sales of inputs, training, and demonstration"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "1. Managing Director, "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://meghalayasfac.nic.in/mgsfac/content/contact_us.php",
+                    "children": [
+                      {
+                        "text": "Meghalaya Small Farmers' Agri-Business Consortium"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " (MgSFAC)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "2. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                    "children": [
+                      {
+                        "text": "District Horticulture Officer"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "3. Horticulture Development Officer"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. Managing Director, [Meghalaya Small Farmers&amp;#39; Agri-Business Consortium](https://meghalayasfac.nic.in/mgsfac/content/contact_us.php) (MgSFAC)\n2. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n3. Horticulture Development Officer\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture.\n   1. The applicant should possess owned or leased land of at least 0.2 hectares or more.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a permanent resident of Meghalaya."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should possess owned or leased land of at least 0.2 hectares or more."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "midhhmneh-meghalaya"
+}

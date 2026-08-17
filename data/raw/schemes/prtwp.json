@@ -1,0 +1,580 @@
+{
+  "_id": "69006b8a0b4f3268f53568e2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Financial Assistance",
+        "Wheat",
+        "Price"
+      ],
+      "schemeName": "Payment Related to Wheat Procurement",
+      "schemeShortTitle": "PRTWP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300014,
+        "label": "Food, Civil Supplies and Consumer Protection Department"
+      },
+      "slug": "prtwp",
+      "briefDescription": "The scheme aims to ensure timely online payment to farmers for wheat sold at government procurement centers through the Just-In-Time (JIT) system directly into their bank accounts."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=114"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to ensure timely online payment to farmers for wheat sold at government procurement centers through the Just-In-Time (JIT) system directly into their bank accounts.",
+      "detailedDescription_md": "The “Payment Related to Wheat Procurement” scheme was launched by the Department of Food, Civil Supplies and Consumer Protection, Government of Madhya Pradesh. The scheme aims to ensure timely and transparent payment to farmers who sell their wheat at government-operated procurement centers.\n<br>\n\n",
+      "benefits_md": "\n- Ensures timely online payment to farmers selling wheat at government procurement centers.\n- Payment is made directly into the farmer’s registered bank account through the JIT system.\n- Farmers receive the Minimum Support Price (MSP) fixed by the government every year.\n\n<br>\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “Payment Related to Wheat Procurement” scheme was launched by the Department of Food, Civil Supplies and Consumer Protection, Government of Madhya Pradesh. The scheme aims to ensure timely and transparent payment to farmers who sell their wheat at government-operated procurement centers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ensures timely online payment to farmers selling wheat at government procurement centers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Payment is made directly into the farmer’s registered bank account through the JIT system."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers receive the Minimum Support Price (MSP) fixed by the government every year."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Registration e-Uparjan Scheme",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Farmer Registration",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Visit the official "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://mpeuparjan.mp.gov.in/mpeuparjan25/Home.aspx",
+                    "children": [
+                      {
+                        "text": "E-Uparjan Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Click on the “Farmer Registration” option"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter your Aadhaar Number, District, Village Panchayat, Khasra Number, and Crop Details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After filling in all the required details, click Submit."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Once registered, you will receive a Registration Number for future reference."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Slot Booking",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After registration, log in to your account through the E-Uparjan Portal or Mobile App."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Select the “Slot Booking” option."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Choose the date and time slot for selling your crops at the procurement center."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "A Slot Booking Receipt will be generated for the farmer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Crop Procurement",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "On the scheduled date, visit the Procurement Center with your Slot Receipt, Aadhaar Card, and relevant crop documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The crop will be weighed and quality tested."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After successful procurement, you will receive a Procurement Receipt."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Transportation of Grains",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The purchased grains are then transported from the procurement center to the warehouse."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The entire transportation process is monitored through the E-Uparjan system."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Storage in Warehouse",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The transported grains are properly recorded and stored in the designated warehouses."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "This storage process is digitally monitored to ensure transparency."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Payment to Farmer",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After successful procurement and verification, the payment amount is directly credited to the farmer’s Aadhaar-linked bank account."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "NOTE:",
+                "bold": true
+              },
+              {
+                "text": " "
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The payment is automatically transferred online to the farmer’s registered bank account."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The entire process is free of charge; no service or processing fee is applicable."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The payment must be completed within 7 working days after the sale."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Appeal Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "For any issues or disputes, the farmer may appeal to the District Collector or Sub-Divisional Officer (SDO)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### ***Registration e-Uparjan Scheme***\n**Step 1:****** ***Farmer Registration***\n\n- Visit the official [E-Uparjan Portal](https://mpeuparjan.mp.gov.in/mpeuparjan25/Home.aspx)- Click on the “Farmer Registration” option\n- Enter your Aadhaar Number, District, Village Panchayat, Khasra Number, and Crop Details.\n- After filling in all the required details, click Submit.\n- Once registered, you will receive a Registration Number for future reference.\n\n**Step 2:****** ***Slot Booking***\n\n- After registration, log in to your account through the E-Uparjan Portal or Mobile App.\n- Select the “Slot Booking” option.\n- Choose the date and time slot for selling your crops at the procurement center.\n- A Slot Booking Receipt will be generated for the farmer.\n\n**Step 3:****** ***Crop Procurement***\n\n- On the scheduled date, visit the Procurement Center with your Slot Receipt, Aadhaar Card, and relevant crop documents.\n- The crop will be weighed and quality tested.\n- After successful procurement, you will receive a Procurement Receipt.\n\n**Step 4:****** ***Transportation of Grains***\n\n- The purchased grains are then transported from the procurement center to the warehouse.\n- The entire transportation process is monitored through the E-Uparjan system.\n\n**Step 5:****** ***Storage in Warehouse***\n\n- The transported grains are properly recorded and stored in the designated warehouses.\n- This storage process is digitally monitored to ensure transparency.\n\n**Step 6:****** ***Payment to Farmer***\n\n- After successful procurement and verification, the payment amount is directly credited to the farmer’s Aadhaar-linked bank account.\n\n> **NOTE:** \n\n\n- The payment is automatically transferred online to the farmer’s registered bank account.\n- The entire process is free of charge; no service or processing fee is applicable.\n- The payment must be completed within 7 working days after the sale.\n\n> **Appeal Process:**\n\n\n- For any issues or disputes, the farmer may appeal to the District Collector or Sub-Divisional Officer (SDO).\n\n<br>\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be a landholding farmer.\n1. The applicant should have sold wheat at a government-operated procurement center during the notified procurement period.\n\n<br>\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a landholding farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have sold wheat at a government-operated procurement center during the notified procurement period."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "prtwp"
+}

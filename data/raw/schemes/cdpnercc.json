@@ -1,0 +1,411 @@
+{
+  "_id": "654b3e1d5838968fc387a7f1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Subsidy",
+        "DBT",
+        "Financial Assistance"
+      ],
+      "schemeName": "Coffee Development Programme in North Eastern Region: Consolidation of Coffee",
+      "schemeShortTitle": "CDPNER:CC",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "slug": "cdpnercc",
+      "briefDescription": "The scheme \"Consolidation of Coffee\" aims to increase the productivity of the existing coffee holdings by gap filling or rejuvenation, followed by improved cultivation methods such as application of compost, bush management, shade management, pest and disease control, etc."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Grower's Registration (UMANG)",
+          "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Coffee Development Programme in North Eastern Region: Consolidation of Coffee&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to increase the productivity of the existing coffee holdings by gap filling or rejuvenation, followed by improved cultivation methods such as application of compost, bush management, shade management, pest and disease control, etc.\n",
+      "benefits_md": "**Unit Cost:** ₹60,000 per hectare.\n**Scale of Subsidy:** 50% of the Unit Cost, which is ₹30,000 per hectare.\n<br>\n\n> **Release of Subsidy**\n\nThe subsidy will be released in two installments:\n\n- 1st installment: 60% of the unit cost.\n- 2nd installment: 40% of the unit cost.\n\n<br>\n\n> **Mode of Payment**\n\nThe Joint Director (Extn.) / Deputy Director (Extn.), after confirming the admissibility of the claim, will release the 1st and 2nd installments of the eligible subsidy amount to the grower&#39;s bank account through **EFT/RTGS/NEFT**.\n",
+      "briefDescription": "The scheme \"Consolidation of Coffee\" aims to increase the productivity of the existing coffee holdings by gap filling or rejuvenation, followed by improved cultivation methods such as application of compost, bush management, shade management, pest and disease control, etc.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Coffee Development Programme in North Eastern Region: Consolidation of Coffee\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to increase the productivity of the existing coffee holdings by gap filling or rejuvenation, followed by improved cultivation methods such as application of compost, bush management, shade management, pest and disease control, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unit Cost: ",
+              "bold": true
+            },
+            {
+              "text": "₹60,000 per hectare."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Scale of Subsidy: ",
+              "bold": true
+            },
+            {
+              "text": "50% of the Unit Cost, which is ₹30,000 per hectare."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Release of Subsidy",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The subsidy will be released in two installments:"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "1st installment: 60% of the unit cost."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "2nd installment: 40% of the unit cost."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Payment",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Joint Director (Extn.) / Deputy Director (Extn.), after confirming the admissibility of the claim, will release the 1st and 2nd installments of the eligible subsidy amount to the grower's bank account through "
+            },
+            {
+              "text": "EFT/RTGS/NEFT",
+              "bold": true
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Claiming 1st Installment",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested grower should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board after completion of planting."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "The concerned SLO/JLO Office shall scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 1st installment."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Claiming 2nd Installment",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The interested grower should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board during the 2nd year of planting, after filling the vacancies."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "The concerned SLO/JLO Office will scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 2nd installment."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Claiming 1st Installment**\n\n**Step 1:** The interested grower should take print of the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board after completion of planting.\n**Step 4:** The concerned SLO/JLO Office shall scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 1st installment.\n<br>\n\n> **Claiming 2nd Installment**\n\n**Step 1:** The interested grower should take print of the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board during the 2nd year of planting, after filling the vacancies.\n**Step 4:** The concerned SLO/JLO Office will scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 2nd installment.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1. The applicant must be a tribal grower.\n2. The applicant&#39;s area is ineligible for subsidy if it received consolidation subsidy during the XII Plan period.\n3. The applicant&#39;s land records must be in their name.\n4. The applicant should provide land records or a certified possession certificate.\n5. The applicant must procure seed material for gap filling or consolidation exclusively from the Coffee Board.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. The applicant must be a tribal grower."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. The applicant's area is ineligible for subsidy if it received consolidation subsidy during the XII Plan period."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. The applicant's land records must be in their name."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. The applicant should provide land records or a certified possession certificate."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. The applicant must procure seed material for gap filling or consolidation exclusively from the Coffee Board."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cdpnercc"
+}

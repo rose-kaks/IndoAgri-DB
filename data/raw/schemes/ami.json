@@ -1,0 +1,261 @@
+{
+  "_id": "650d7c541a1c949c65ff56e9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agricultural Marketing",
+        "Storage Infrastructure",
+        "Promoter",
+        "Farmer"
+      ],
+      "schemeName": "Agricultural Marketing Infrastructure",
+      "schemeShortTitle": "AMI",
+      "implementingAgency": "Directorate Of Marketing & Inspection, Head Office, Faridabad",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2018-10-28",
+      "targetBeneficiaries": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 121226,
+        "label": "Department of Agriculture & Farmers Welfare"
+      },
+      "slug": "ami",
+      "briefDescription": "The revitalized and farmers’ income enhancing centric sub-scheme Agricultural Marketing Infrastructure (AMI) of Integrated Scheme for Agricultural Marketing (ISAM) is meant for holistic development of agricultural value chain critically focusing each linkage of post-harvest value chain."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dmi.gov.in/Documents/AMI_OG_Scheme.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme envisages value addition and processing at farmers level so as to enhance their income by selling more marketable and processed produce in the market. For creation of Agricultural Marketing Infrastructure including scientific Storage capacity, the Ministry of Agriculture &amp; Farmers Welfare, Govt. of India is implementing capital subsidy sub-scheme “Agricultural Marketing Infrastructure (AMI)” of Integrated Scheme for Agricultural Marketing (ISAM) across the country and is continued till 31.03.2026\n<br>\n\nProjects for creation of storage infrastructure (50-5000 MT for Private &amp;Cooperatives and 50-10,000 MT for State agencies) and other marketing infrastructure projects (other than storage) are eligible for assistance under the scheme.\n<br>\n\nAMI is an open ended, demand driven, credit linked, back ended subsidy scheme. Beneficiaries viz, Individuals, Agri-preneurs, farmers, FPOs, Cooperatives, and state agencies etc. are eligible for assistance. Under the scheme, the subsidy @ 25% for plain areas and 33.33% for NER, hilly area, Women/SC/ST promoters &amp; FPOs etc is available for development of Agricultural Marketing Infrastructure Projects including storage infrastructure, Infrastructure for development/Upgradation of Rural Haats as Grameen Agricultural Market (GrAMs), Common Facilitation Centre for FPOs, Marketing infrastructures in market yards, Infrastructure for direct marketing, Mobile infrastructure for post-harvest operations including reefer vans, Stand-alone cold storages up to 1000 MTs, Integrated Value Chain (IVC) Projects up to primary processing stage etc. Assistance under the sub-scheme is inter-alia available to Individuals, Farmers, Group of farmers/growers, Registered Farmer Produce Organizations (FPOs) / FPCs, firms, companies, corporations, NGOs, SHGs, Cooperatives, Cooperative Marketing Federations, Autonomous Bodies of the Government, Local Bodies, Panchayats, State Agencies etc.\n",
+      "benefits_md": "The scheme envisages the following benefits:\n1)\tEnsure remunerative prices to the farmers for their produce\n2)\tAlternative &amp;competitive marketing channels\n3)\tPromotion of small size processing units\n4)\tReduce post-harvest &amp; handling losses\n5)\tPromote pledge financing and market access\n6)\tFarmer-consumer market linkages and also to assist in integration GrAMs with e-NAM portal\n",
+      "briefDescription": "The revitalized and farmers’ income enhancing centric sub-scheme Agricultural Marketing Infrastructure (AMI) of Integrated Scheme for Agricultural Marketing (ISAM) is meant for holistic development of agricultural value chain critically focusing each linkage of post-harvest value chain.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme envisages value addition and processing at farmers level so as to enhance their income by selling more marketable and processed produce in the market. For creation of Agricultural Marketing Infrastructure including scientific Storage capacity, the Ministry of Agriculture & Farmers Welfare, Govt. of India is implementing capital subsidy sub-scheme “Agricultural Marketing Infrastructure (AMI)” of Integrated Scheme for Agricultural Marketing (ISAM) across the country and is continued till 31.03.2026"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Projects for creation of storage infrastructure (50-5000 MT for Private &Cooperatives and 50-10,000 MT for State agencies) and other marketing infrastructure projects (other than storage) are eligible for assistance under the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "AMI is an open ended, demand driven, credit linked, back ended subsidy scheme. Beneficiaries viz, Individuals, Agri-preneurs, farmers, FPOs, Cooperatives, and state agencies etc. are eligible for assistance. Under the scheme, the subsidy @ 25% for plain areas and 33.33% for NER, hilly area, Women/SC/ST promoters & FPOs etc is available for development of Agricultural Marketing Infrastructure Projects including storage infrastructure, Infrastructure for development/Upgradation of Rural Haats as Grameen Agricultural Market (GrAMs), Common Facilitation Centre for FPOs, Marketing infrastructures in market yards, Infrastructure for direct marketing, Mobile infrastructure for post-harvest operations including reefer vans, Stand-alone cold storages up to 1000 MTs, Integrated Value Chain (IVC) Projects up to primary processing stage etc. Assistance under the sub-scheme is inter-alia available to Individuals, Farmers, Group of farmers/growers, Registered Farmer Produce Organizations (FPOs) / FPCs, firms, companies, corporations, NGOs, SHGs, Cooperatives, Cooperative Marketing Federations, Autonomous Bodies of the Government, Local Bodies, Panchayats, State Agencies etc."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme envisages the following benefits:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1)\tEnsure remunerative prices to the farmers for their produce"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2)\tAlternative &competitive marketing channels"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3)\tPromotion of small size processing units"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4)\tReduce post-harvest & handling losses"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5)\tPromote pledge financing and market access"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6)\tFarmer-consumer market linkages and also to assist in integration GrAMs with e-NAM portal"
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01:Promoter applies for Term Loan (TL) to Financial Institution (FI) "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02:Tem loan sanctioned by FIs"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03:FI applies for Advance Subsidy within 90 days of disbursal of First instalment of TL through ENSURE portal of NABARD"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 04:NABARD, sanctions and releases the Advance Subsidy to the FI"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 05:After completion of the project, FI will submit final subsidy claim to NABARD and requests for Joint Monitoring Inspection (JMI)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 06: NABARD will initiate action for conduct of JMI and Geo-tagged photograph taken during JMI is uploaded to the Ensure Portal"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 07: NABARD sanctions and releases final subsidy to the FI"
+              }
+            ]
+          }
+        ],
+        "process_md": "Step 01:Promoter applies for Term Loan (TL) to Financial Institution (FI) \nStep 02:Tem loan sanctioned by FIs\nStep 03:FI applies for Advance Subsidy within 90 days of disbursal of First instalment of TL through ENSURE portal of NABARD\nStep 04:NABARD, sanctions and releases the Advance Subsidy to the FI\nStep 05:After completion of the project, FI will submit final subsidy claim to NABARD and requests for Joint Monitoring Inspection (JMI)\nStep 06: NABARD will initiate action for conduct of JMI and Geo-tagged photograph taken during JMI is uploaded to the Ensure Portal\nStep 07: NABARD sanctions and releases final subsidy to the FI\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "Anyone can apply for the scheme.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyone can apply for the scheme."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ami"
+}

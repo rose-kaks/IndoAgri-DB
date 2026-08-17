@@ -1,0 +1,335 @@
+{
+  "_id": "64633226023a49decea9e7ed",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-06-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 22,
+        "label": "Chhattisgarh"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2200013,
+        "label": "Forest Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Agriculture",
+        "Plantation",
+        "Commercial Plantation"
+      ],
+      "schemeName": "Mukhyamantri Vriksharopan Protsahan Yojana",
+      "schemeShortTitle": "MVP",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "mvp",
+      "briefDescription": "Chhattisgarh Mukhyamantri Vriksharopan Protsahan Yojana has been started by the Government of Chhattisgarh with the aim of conserving the environment and doubling the income of the farmers by promoting tree plantation in the state."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "http://www.forest.cg.gov.in/CMPlantation/Login.aspx"
+        },
+        {
+          "title": "Application From-1",
+          "url": "http://www.forest.cg.gov.in/CMPlantation/img/FRA_Application.pdf"
+        },
+        {
+          "title": "Application From-2",
+          "url": "http://www.forest.cg.gov.in/CMPlantation/img/JFMC_Application.pdf"
+        },
+        {
+          "title": "Application From-3",
+          "url": "http://www.forest.cg.gov.in/CMPlantation/img/Gram_Panchayat.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Chhattisgarh Mukhyamantri Vriksharopan Protsahan Yojana has been started by the Government of Chhattisgarh with the aim of conserving the environment and doubling the income of the farmers by promoting tree plantation in the state.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Constructions on the private sector of farmers (where paddy has been cultivated in the year 2020 and paddy has been sold to the government), the land of forest rights holders, revenue land of government departments, Joint Forest Management Committee and Gram Panchayats, non- To encourage commercial/industrial plantation of timber species."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Reducing the adverse effects of climate change by improving the environment."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To increase the income of farmers through tree plantation."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "By promoting tree plantation on private and community land, by increasing the production of wood, gradually reducing the import of wood and by reducing the biotic pressure on the wood available in the forests, keeping the forests safe."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Controlling floods, drought etc. by promoting tree plantation and raising the water level of the land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Fulfilment of wood requirements of 6 industries, employment generation on a large scale, G.D.P. increase in"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Those farmers who have taken paddy crop in Kharif year 2020 and sold paddy to the government, if they plant trees in their fields instead of paddy crop, will get Rs. 10,000/- per year for the next 3 years in case of successful plantation. The incentive amount will be given at the rate of (ten thousand) per acre."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The forest/revenue forest land on which the forest rights letter has been given, also on that land If the rights holders do tree plantation, then they will get it for the next 3 years. 10,000/- (ten thousand) per acre per year in case of successful plantation. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the commercial plantation is done with the amount available with the Gram Panchayats, then after one year, in case of the successful plantation, the concerned Gram Panchayats will be given an incentive amount at the rate of Rs.10,000/- (ten thousand) per acre. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "From the amount available with the Joint Forest Management Committees, if the plantation is done on revenue land on a commercial basis, then like the Panchayat, the concerned committee will get an incentive amount at the rate of Rs.10,000/- (ten thousand) per acre after one year."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "\n   1. Constructions on the private sector of farmers (where paddy has been cultivated in the year 2020 and paddy has been sold to the government), the land of forest rights holders, revenue land of government departments, Joint Forest Management Committee and Gram Panchayats, non- To encourage commercial/industrial plantation of timber species.\n   1. Reducing the adverse effects of climate change by improving the environment.\n   1. To increase the income of farmers through tree plantation.\n   1. By promoting tree plantation on private and community land, by increasing the production of wood, gradually reducing the import of wood and by reducing the biotic pressure on the wood available in the forests, keeping the forests safe.\n   1. Controlling floods, drought etc. by promoting tree plantation and raising the water level of the land.\n   1. Fulfilment of wood requirements of 6 industries, employment generation on a large scale, G.D.P. increase in\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "http://www.forest.cg.gov.in/CMPlantation/Login.aspx",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "It will be mandatory for the farmers to register. Unregistered farmers will not be eligible to receive incentives under the scheme."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "type": "link",
+                        "link": "http://www.forest.cg.gov.in/CMPlantation/img/JFMC_Application.pdf",
+                        "children": [
+                          {
+                            "text": "Application form"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " for registration in Chief Minister Tree Plantation Promotion Scheme For Joint Forest Management Committee."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "type": "link",
+                        "link": "http://www.forest.cg.gov.in/CMPlantation/img/FRA_Application.pdf",
+                        "children": [
+                          {
+                            "text": "Application form"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " for registration in Mukhyamantri Vriksharopan Protsahan Yojana for forest rights holders who are planting trees for the first time"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "type": "link",
+                        "link": "http://www.forest.cg.gov.in/CMPlantation/img/Gram_Panchayat.pdf",
+                        "children": [
+                          {
+                            "text": "Application form"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " for registration in Chief Minister Tree Plantation Promotion Scheme for Gram Panchayat."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Fill out the concern application form. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Attach all the required documents."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Now submit the application form to Chhattisgarh Forest Department Office."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. All the farmers of Chhattisgarh state who have sold paddy to the government after cultivating paddy in the year 2020.\n1. Those forest rights holders who had sold paddy to the government last year now want to plant trees instead of paddy on their land.\n1. Forest rights holders who want to plant trees on their land afresh.\n1.  All Gram Panchayats and Joint Forest Management Committees who want to plant trees in revenue land with the amount available with them.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All the farmers of Chhattisgarh state who have sold paddy to the government after cultivating paddy in the year 2020."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Those forest rights holders who had sold paddy to the government last year now want to plant trees instead of paddy on their land."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Forest rights holders who want to plant trees on their land afresh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": " All Gram Panchayats and Joint Forest Management Committees who want to plant trees in revenue land with the amount available with them."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mvp"
+}

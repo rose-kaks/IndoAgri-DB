@@ -1,0 +1,313 @@
+{
+  "_id": "659fbd71a733b1d7327d966e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Fish",
+        "Subsidy",
+        "Fisherman",
+        "Grant",
+        "Transport"
+      ],
+      "schemeName": "Grant of Subsidy for Purchase of Mobile Sea Food Van",
+      "schemeShortTitle": "GSPMSFV",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Public transport and private vehicles",
+          "label": "Public transport and private vehicles"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Roads and road transport",
+          "label": "Roads and road transport"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 34000015,
+        "label": "Fisheries and Fishermen Welfare Department, Puducherry"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Infra",
+      "slug": "gspmsfv",
+      "briefDescription": "The scheme aims to provide the beneficiary with a mobile seafood van. This van, financed through a combination of bank loan and departmental subsidy (25% and 75%, respectively), is intended for the sale of fresh and processed fish and fishery products in areas not served by regular markets."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines & Application Form",
+          "url": "https://fisheries.py.gov.in/sites/default/files/mobile-sea-food-van.pdf"
+        },
+        {
+          "title": "List Of Sub-Offices",
+          "url": "https://fisheries.py.gov.in/sub-offices"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.py.gov.in/contact-us"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to provide the beneficiary with a mobile seafood van. This van, financed through a combination of bank loan and departmental subsidy (25% and 75%, respectively), is intended for the sale of fresh and processed fish and fishery products in areas not served by regular markets.",
+      "detailedDescription_md": "Launched in 2010, the scheme &quot;Grant of Subsidy for Purchase of Mobile Sea Food Van&quot; is a subsidy scheme under the &quot;Puducherry Development of Shore Based Facilities, Ice Plants, Service Unit, Infrastructural Facilities, and Quick Transport Facilities Rules, 2010&quot; by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme aims to provide fisherwomen, fisherwomen self-help groups, and Fisherwomen Co-operative Societies in the Union territory of Puducherry with a mobile seafood van. This van, financed through a combination of bank loan and departmental subsidy (25% and 75%, respectively), is intended for the sale of fresh and processed fish and fishery products in areas not served by regular markets. It focuses on maintaining hygiene and offering competitive prices to the public.\n",
+      "benefits_md": "1. The scheme provides a subsidy of 75% on the cost of the mobile seafood van, including fabrication of the body, procurement of an insulated ice-box, a two-burner stove, cooking utensils, and accessories.\n2. The remaining 25% is expected to be covered by a bank loan.\n<br>\n\n> **MODE OF DISBURSEMENT**\n\nThe subsidy portion will be released to a separate account of the beneficiary in the bank.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Launched in 2010, the scheme \"Grant of Subsidy for Purchase of Mobile Sea Food Van\" is a subsidy scheme under the \"Puducherry Development of Shore Based Facilities, Ice Plants, Service Unit, Infrastructural Facilities, and Quick Transport Facilities Rules, 2010\" by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme aims to provide fisherwomen, fisherwomen self-help groups, and Fisherwomen Co-operative Societies in the Union territory of Puducherry with a mobile seafood van. This van, financed through a combination of bank loan and departmental subsidy (25% and 75%, respectively), is intended for the sale of fresh and processed fish and fishery products in areas not served by regular markets. It focuses on maintaining hygiene and offering competitive prices to the public."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. The scheme provides a subsidy of 75% on the cost of the mobile seafood van, including fabrication of the body, procurement of an insulated ice-box, a two-burner stove, cooking utensils, and accessories."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. The remaining 25% is expected to be covered by a bank loan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "MODE OF DISBURSEMENT",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The subsidy portion will be released to a separate account of the beneficiary in the bank."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sub-offices",
+                "children": [
+                  {
+                    "text": "Office/ Sub-Office"
+                  }
+                ]
+              },
+              {
+                "text": " of the Department of Fisheries and Fishermen Welfare."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should request the hard copy of "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sites/default/files/mobile-sea-food-van.pdf",
+                "children": [
+                  {
+                    "text": "the prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the [Office/ Sub-Office](https://fisheries.py.gov.in/sub-offices) of the Department of Fisheries and Fishermen Welfare.\n**Step 1:** The interested applicant should request the hard copy of [the prescribed format](https://fisheries.py.gov.in/sites/default/files/mobile-sea-food-van.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1. The applicant should belong to the fishermen community.\n2. The applicant should be a resident of the Union territory of Puducherry by birth/domicile.\n3. The applicant should be a non-overdue member of the Primary Fisheries Co-operative Society concerned.\n4. The applicant should be between 18 and 50 years old.\n5. The applicant should not be employed in Government, Government Undertaking, or societies, either part-time or full-time.\n6. The applicant should be a registered Fisherwomen Co-operative Society in the Union territory of Puducherry, or a group under SHGs registered under District Rural Development Agency and Puducherry Urban Development Agency fold.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1. The applicant should belong to the fishermen community."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2. The applicant should be a resident of the Union territory of Puducherry by birth/domicile."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3. The applicant should be a non-overdue member of the Primary Fisheries Co-operative Society concerned."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4. The applicant should be between 18 and 50 years old."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5. The applicant should not be employed in Government, Government Undertaking, or societies, either part-time or full-time."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6. The applicant should be a registered Fisherwomen Co-operative Society in the Union territory of Puducherry, or a group under SHGs registered under District Rural Development Agency and Puducherry Urban Development Agency fold."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gspmsfv"
+}

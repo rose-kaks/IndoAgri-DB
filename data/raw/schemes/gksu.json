@@ -1,0 +1,297 @@
+{
+  "_id": "68cba1f06e1aaee61b2044c8",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Cow Shelter",
+        "Livestock",
+        "Gausadan",
+        "Construction Of Cowshed"
+      ],
+      "schemeName": "Establishment of Cow Shelters",
+      "schemeShortTitle": "ECSUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000004,
+        "label": "Department Of Animal Husbandry"
+      },
+      "slug": "gksu",
+      "briefDescription": "The scheme aims to provide proper shelter and care to unprofitable, abandoned, or roaming cattle by supporting eligible organizations in establishing and maintaining cow shelters with financial assistance from the state government."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 238)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Establishment of Cow Shelters&amp;quot; was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to provide proper shelter and care to unprofitable, abandoned, or roaming cattle by supporting eligible organizations in establishing and maintaining cow shelters with financial assistance from the state government.\n<br>\n\n",
+      "benefits_md": "Under the scheme, to provide proper shelter to unprofitable livestock abandoned by cattle rearers and roaming freely, the applicant organization will be eligible for a government grant of up to 90% of the total expenditure on non-recurring items, such as the construction of the main cowshed building, storage rooms, compound walls, drinking water systems, establishment of a plant for producing cow urine extract, biogas plants, and veterinary dispensaries. The maximum limit of the government grant is ₹25.00 lakh.\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide proper shelter and care to unprofitable, abandoned, or roaming cattle by supporting eligible organizations in establishing and maintaining cow shelters with financial assistance from the state government.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Establishment of Cow Shelters\" was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to provide proper shelter and care to unprofitable, abandoned, or roaming cattle by supporting eligible organizations in establishing and maintaining cow shelters with financial assistance from the state government."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme, to provide proper shelter to unprofitable livestock abandoned by cattle rearers and roaming freely, the applicant organization will be eligible for a government grant of up to 90% of the total expenditure on non-recurring items, such as the construction of the main cowshed building, storage rooms, compound walls, drinking water systems, establishment of a plant for producing cow urine extract, biogas plants, and veterinary dispensaries. The maximum limit of the government grant is ₹25.00 lakh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "The concerned organization shall apply to the Uttarakhand Animal Welfare Board office in Dehradun. The application form can be downloaded from this link ("
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ahd.uk.gov.in/files/Gau_Sadan_Recognition_A%20pplication_Form.pdf",
+                    "children": [
+                      {
+                        "text": "https://ahd.uk.gov.in/files/Gau_Sadan_Recognition_A%20pplication_Form.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ") or obtained from the Livestock Extension Officer/Animal Husbandry Department in the respective area. The following documents are required to be submitted along with the application form:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Land ownership records in the name of the organization, verified by the Revenue Department."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Registration under the Societies Registration Act or the Trust Act."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Resolution or provision in the organization’s service rules to provide shelter to unprofitable cattle."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Name, designation, address, and telephone number of the organization’s management executive."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "No objection certificate issued by the local Gram Sabha, Municipality, or other local body."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Income-expenditure report certified by a chartered accountant."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Bank account details of the institution."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "After the selection of the institution, the applicant organization must sign and submit a contract, valid for a minimum of 5 years, before receiving government financial assistance."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "The concerned organization shall apply to the Uttarakhand Animal Welfare Board office in Dehradun. The application form can be downloaded from this link ([https://ahd.uk.gov.in/files/Gau_Sadan_Recognition_A%20pplication_Form.pdf](https://ahd.uk.gov.in/files/Gau_Sadan_Recognition_A%20pplication_Form.pdf)) or obtained from the Livestock Extension Officer/Animal Husbandry Department in the respective area. The following documents are required to be submitted along with the application form:\n\n  - Land ownership records in the name of the organization, verified by the Revenue Department.\n  - Registration under the Societies Registration Act or the Trust Act.\n  - Resolution or provision in the organization’s service rules to provide shelter to unprofitable cattle.\n  - Name, designation, address, and telephone number of the organization’s management executive.\n  - No objection certificate issued by the local Gram Sabha, Municipality, or other local body.\n  - Income-expenditure report certified by a chartered accountant.\n  - Bank account details of the institution.\n\nAfter the selection of the institution, the applicant organization must sign and submit a contract, valid for a minimum of 5 years, before receiving government financial assistance.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "For the establishment of cow shelters, applications will be accepted from the following non-governmental voluntary organizations registered under the Societies Registration Act, 1860:\n\n  - A charitable institution registered for the welfare of cattle and other animals, a charitable institution formed for the welfare of cattle without any profit motive, or a public trust not registered under any law.\n  - Preference will be given to organizations with a minimum of 3 years of work experience and proven capacity.\n  - Preference will also be given to applicant institutions that own land or have taken land on lease for at least 30 years.\n  - For eligibility for the maintenance grant, the cowshed must shelter a minimum of 25 destitute, non-profitable bovine animals in hilly areas and a minimum of 50 in plain areas.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For the establishment of cow shelters, applications will be accepted from the following non-governmental voluntary organizations registered under the Societies Registration Act, 1860:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A charitable institution registered for the welfare of cattle and other animals, a charitable institution formed for the welfare of cattle without any profit motive, or a public trust not registered under any law."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Preference will be given to organizations with a minimum of 3 years of work experience and proven capacity."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Preference will also be given to applicant institutions that own land or have taken land on lease for at least 30 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For eligibility for the maintenance grant, the cowshed must shelter a minimum of 25 destitute, non-profitable bovine animals in hilly areas and a minimum of 50 in plain areas."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gksu"
+}

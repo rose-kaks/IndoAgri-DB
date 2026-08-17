@@ -1,0 +1,318 @@
+{
+  "_id": "66597b0702cfbde31654851f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Cow",
+        "Milk Production",
+        "Financial Assistance",
+        "Opportunity",
+        "Cattle Farmers"
+      ],
+      "schemeName": "Mukhyamantri Pragatishil Pashupalak Protsahan Yojana",
+      "schemeShortTitle": "MPPPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 9,
+        "label": "Uttar Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 90000014,
+        "label": "Dairy Development Department, Uttar Pradesh"
+      },
+      "schemeFor": "Individual",
+      "slug": "mpppy",
+      "briefDescription": "The \"Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana\" is an initiative under the \"Nand Baba Milk Mission\" aimed to encourage the trend of rearing indigenous breed of cows with high quality and productivity in the state & motivate cattle farmers for breed improvement of cows, their better care."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://updairydevelopment.gov.in/MediaGallery/812_53_2_2023.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://updairydevelopment.gov.in/NBDMSchemes.aspx"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://updairydevelopment.gov.in/MediaGallery/812_53_2_2023_Form.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana&quot; is an initiative under the &quot;Nand Baba Milk Mission&quot; for breed improvement in indigenous cows and an increase in milk productivity. Uttar Pradesh is the leading state in the country in milk production. This scheme will be applicable in all the districts of the state.\n**Objective:**\n(i) To encourage the trend of rearing indigenous breed of cows with high quality and productivity in the state.\n(ii) To motivate cattle farmers for breed improvement of cows, their better care, quality nutrition and health protection.\n(iii) To increase the income of cattle farmers of the state by increasing milk productivity in the state.\n(iv) To increase the per capita availability of milk in the state and bring it to the national level.\n",
+      "benefits_md": "\n- **Cash awards ranging from ₹10,000 to ₹15,000 per cow for high productivity and improved breeds.**\n\n",
+      "briefDescription": "The \"Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana\" is an initiative under the \"Nand Baba Milk Mission\" aimed to encourage the trend of rearing indigenous breed of cows with high quality and productivity in the state & motivate cattle farmers for breed improvement of cows, their better care.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Mukhyamantri Pragatisheel Pashupalak Protsahan Yojana\" is an initiative under the \"Nand Baba Milk Mission\" for breed improvement in indigenous cows and an increase in milk productivity. Uttar Pradesh is the leading state in the country in milk production. This scheme will be applicable in all the districts of the state."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) To encourage the trend of rearing indigenous breed of cows with high quality and productivity in the state."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) To motivate cattle farmers for breed improvement of cows, their better care, quality nutrition and health protection."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) To increase the income of cattle farmers of the state by increasing milk productivity in the state."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iv) To increase the per capita availability of milk in the state and bring it to the national level."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cash awards ranging from ₹10,000 to ₹15,000 per cow for high productivity and improved breeds.",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 01:"
+                  },
+                  {
+                    "text": " Eligible applicants can visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://updairydevelopment.gov.in/NBDMSchemes.aspx",
+                    "children": [
+                      {
+                        "text": "official website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " and download the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://updairydevelopment.gov.in/MediaGallery/812_53_2_2023_Form.pdf",
+                    "children": [
+                      {
+                        "text": "application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " (Annexure-2)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the duly filled and signed application form along with the documents to the Chief Development Officer or Chief Veterinary Officer."
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 04:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Request a receipt or acknowledgment from the Chief Development Officer or Chief Veterinary Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "NOTE: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The application will have to be made within 45 days from the date of calving of the cow."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 01:** Eligible applicants can visit the [official website](https://updairydevelopment.gov.in/NBDMSchemes.aspx) and download the [application form](https://updairydevelopment.gov.in/MediaGallery/812_53_2_2023_Form.pdf) (Annexure-2).\n**Step 02:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application form along with the documents to the Chief Development Officer or Chief Veterinary Officer.\n**Step 04:** Request a receipt or acknowledgment from the Chief Development Officer or Chief Veterinary Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** The application will have to be made within 45 days from the date of calving of the cow.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Uttar Pradesh.\n1. The age of the applicant should be 18 years or above.\n1. Only individual cattle farmers will be eligible, but groups, firms, or organizations will not eligible.\n1. Only indigenous breed of cows like Gir, Sahiwal, Haryana, Gangatiri, and Tharparkar species are eligible.\n1. The cattle farmers of the state can avail the benefit of this incentive amount only once for a maximum of 02 cows.\n1. The cattle farmers will be eligible to receive an incentive amount only once in the lifetime of the cow.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Uttar Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the applicant should be 18 years or above."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Only individual cattle farmers will be eligible, but groups, firms, or organizations will not eligible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Only indigenous breed of cows like Gir, Sahiwal, Haryana, Gangatiri, and Tharparkar species are eligible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The cattle farmers of the state can avail the benefit of this incentive amount only once for a maximum of 02 cows."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The cattle farmers will be eligible to receive an incentive amount only once in the lifetime of the cow."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mpppy"
+}

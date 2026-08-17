@@ -1,0 +1,286 @@
+{
+  "_id": "65f1c8a5938a0b13ccb66105",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Watershed",
+        "Training",
+        "Technology Support",
+        "Subsidy"
+      ],
+      "schemeName": "Integrated Farming in Micro Watershed Scheme",
+      "schemeShortTitle": "IFMWS",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 17,
+        "label": "Meghalaya"
+      },
+      "nodalDepartmentName": {
+        "value": 1777771,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "ifmws",
+      "briefDescription": "The objective of the scheme is to promote integrated farming activities for improved livelihood in a complementary manner."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://megagriculture.gov.in/Home.aspx"
+        },
+        {
+          "title": "Guidelines",
+          "url": "http://megsrcw.nic.in/sites/default/files/field/II%20schemes%20progs%20services%20under%20line%20deptts.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Integrated Farming in Micro Watershed” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to promote integrated farming activities for improved livelihood in a complementary manner.\n**Note:** _This availability of the above state plan scheme in any particular year is subject to the availability of funds and necessary sanction by the State Government. The continuation of any scheme in a particular year is also subject to the discretion of the State Government. Farmers are therefore advised to check the availability of any scheme with the respective District Agriculture Officers._\n",
+      "benefits_md": "> **Type of Assistance and Entitlement:**\n\n\n- Training, Awareness program, Extension, Technology support, and Subsidy on inputs.\n\n",
+      "briefDescription": "The objective of the scheme is to promote integrated farming activities for improved livelihood in a complementary manner.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Integrated Farming in Micro Watershed” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to promote integrated farming activities for improved livelihood in a complementary manner."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note: ",
+                  "bold": true
+                },
+                {
+                  "text": "This availability of the above state plan scheme in any particular year is subject to the availability of funds and necessary sanction by the State Government. The continuation of any scheme in a particular year is also subject to the discretion of the State Government. Farmers are therefore advised to check the availability of any scheme with the respective District Agriculture Officers.",
+                  "italic": true,
+                  "underline": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Type of Assistance and Entitlement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Training, Awareness program, Extension, Technology support, and Subsidy on inputs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Whom to Contact:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Agriculture Development Officer of respective CD Block/Agriculture circle"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Sub-Divisional Agricultural Officer of the concerned sub-divisions"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "District Agricultural Officer of the concerned districts"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\n\n  - The bonafide farmers shall be selected on a first come first serve basis.\n\n&gt; **Whom to Contact:**\n\n\n   1. Agriculture Development Officer of respective CD Block/Agriculture circle\n   1. Sub-Divisional Agricultural Officer of the concerned sub-divisions\n   1. District Agricultural Officer of the concerned districts\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n1. The applicant should possess their own land or leased land of at least 0.025 hectares or more.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Meghalaya."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess their own land or leased land of at least 0.025 hectares or more."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ifmws"
+}

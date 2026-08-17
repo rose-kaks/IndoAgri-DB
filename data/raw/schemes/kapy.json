@@ -1,0 +1,279 @@
+{
+  "_id": "641db4c917a488013cbb36c3",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2011-12-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 29,
+        "label": "Karnataka"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2999999,
+        "label": "Forest Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": null,
+      "schemeSubCategory": [
+        {
+          "value": "Environmental grants",
+          "label": "Environmental grants"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Subsidy",
+        "Farmers",
+        "Tree Plantation",
+        "Three-year Nurturing",
+        "Pahani"
+      ],
+      "schemeName": "Krushy Aranya Protsaha Yojane (kapy)",
+      "schemeShortTitle": "Kapy",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual",
+      "slug": "kapy",
+      "briefDescription": "The Karnataka Forest Department launched 'Krushi Aranya Protsaha Yojane (KAPY)' in 2011-12 to encourage farmers and the public to increase forest and tree cover by providing subsidized seedlings and monetary incentives for planting"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Individual Scheme Details",
+          "url": "https://aranya.gov.in/aranyacms/(S(ioxcli2kh1oqsf1rpfhsomas))/English/IndividualScheme.aspx?HkxuiBwcRAlH/nwkzKruPQ=="
+        },
+        {
+          "title": "Karnataka RTC - Online Land Record Services",
+          "url": "https://rtc.karnataka.gov.in/Service78/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The Karnataka Forest Department launched 'Krushi Aranya Protsaha Yojane (KAPY)' in 2011-12 to encourage farmers and the public to increase forest and tree cover by providing subsidized seedlings and monetary incentives for planting",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Karnataka Forest Department launched the 'Krushi Aranya Protsaha Yojane (KAPY)' program in 2011-12 to encourage farmers and the general public to increase forest and tree cover. The program provides subsidized seedlings to farmers for planting on their lands. Farmers are paid an incentive of Rs 35 for every surviving seedling at the end of the first year, Rs 40 after the completion of the second year, and Rs 50 after the completion of the third year. This is done to encourage the farmers to nurture the seedlings for at least three years."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The amount of money provided as an incentive (Rs 125/- per seedling) more than compensates the cost incurred by the farmer in procuring and planting the seedling. The incentive is quite substantial when the farmer plants more seedlings. In addition to the financial incentive, the farmers are entitled to get handsome returns from the grown-up trees in the form of fruits, seeds, fodder, firewood, pole, timber, and other useful products."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increased forest and tree cover: The main benefit of the Krushi Aranya Protsaha Yojane (KAPY) scheme is the promotion of the cooperation of farmers and the general public in the task of increasing forest and tree cover."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidized seedlings: Under the scheme, farmers are provided seedlings at subsidized rates from the nearest nurseries of the Forest Department for planting in their lands."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Monetary incentive: The farmers are paid an amount of Rs 35 as an incentive for every surviving seedling at the end of the first year, Rs 40 for the second year, and Rs 50 for the third year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encourages nurturing: The incentive is given to encourage the farmer not only to plant the seedlings but also to nurture them at least for three years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Compensates cost: The total amount of money provided (Rs 125/- per seedling) more than compensates the cost incurred by the farmer in procuring and planting the seedling."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Restriction on ineligible species: The scheme has restrictions on ineligible tree species, which helps promote the planting of appropriate tree species and prevents the proliferation of invasive species."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The following species of trees are not eligible for payment of incentive amount- Eucalyptus, Acacia, Silver Oak (if planted in coffee estate), Casuarina, Cassia siamea (Seemetangadi), Gliricidia, Sesbania, Erythrina, Rubber, Subabul, Coconut, Arecanut, Orange, all types of citrus species, and grafted mango."
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "The Karnataka Forest Department launched the &#39;Krushi Aranya Protsaha Yojane (KAPY)&#39; program in 2011-12 to encourage farmers and the general public to increase forest and tree cover. The program provides subsidized seedlings to farmers for planting on their lands. Farmers are paid an incentive of Rs 35 for every surviving seedling at the end of the first year, Rs 40 after the completion of the second year, and Rs 50 after the completion of the third year. This is done to encourage the farmers to nurture the seedlings for at least three years.\n<br>\n\nThe amount of money provided as an incentive (Rs 125/- per seedling) more than compensates the cost incurred by the farmer in procuring and planting the seedling. The incentive is quite substantial when the farmer plants more seedlings. In addition to the financial incentive, the farmers are entitled to get handsome returns from the grown-up trees in the form of fruits, seeds, fodder, firewood, pole, timber, and other useful products.\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01: Visit the nearest Range Forest Office and obtain the prescribed Application Form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02: Fill out the application form with the following details- name, address, and passport-sized photograph of the applicant, Pahani of the land where planting is being proposed, Hand-sketch of the land, Details of seedlings (species, number of seedlings, size of poly-bags, etc.), and Details of the applicant's bank account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03: Submit the application form along with a registration fee of Rs 10."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 04: Once registered, the applicant should visit the nearby nursery to obtain the seedlings. The seedlings are available at subsidized rates as follows- Re 1/- for each seedling in poly-bags of size 5”x8” and 6”x9”, Rs 3/- for each seedling in poly-bags of size 8”x12”, and Rs 5/- for each seedling in poly-bag of size 10”x16” and 14”x 20”. The farmer can choose the appropriate size of the poly-bag based on the seedling species and size."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. This scheme is open to farmers belonging to all communities.\n1. Applicant must have Pahani of the land where planting is being proposed.\n1. Registration should be done before the commencement of the rainy season (by the end of May).\n1. The following species of trees are not eligible for payment of incentive amount- Eucalyptus, Acacia, Silver Oak (if planted in coffee estate), Casuarina, Cassia siamea (Seemetangadi), Gliricidia, Sesbania, Erythrina, Rubber, Subabul, Coconut, Arecanut, Orange, all types of citrus species and grafted mango.\n1. The following documents are required while applying for this scheme - Copy of Aadhaar Card, Passport-sized photograph of the applicant, Pahani of the land where planting is being proposed, Hand-sketch of the land, Details of seedlings (species, number of seedlings, size of poly-bags, etc.), Details of the applicant&#39;s bank account.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This scheme is open to farmers belonging to all communities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicant must have Pahani of the land where planting is being proposed."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registration should be done before the commencement of the rainy season (by the end of May)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The following species of trees are not eligible for payment of incentive amount- Eucalyptus, Acacia, Silver Oak (if planted in coffee estate), Casuarina, Cassia siamea (Seemetangadi), Gliricidia, Sesbania, Erythrina, Rubber, Subabul, Coconut, Arecanut, Orange, all types of citrus species and grafted mango."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The following documents are required while applying for this scheme - Copy of Aadhaar Card, Passport-sized photograph of the applicant, Pahani of the land where planting is being proposed, Hand-sketch of the land, Details of seedlings (species, number of seedlings, size of poly-bags, etc.), Details of the applicant's bank account."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kapy"
+}

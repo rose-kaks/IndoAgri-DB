@@ -1,0 +1,324 @@
+{
+  "_id": "646b8ca89062e559675de10c",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2015-06-05",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 18,
+        "label": "Assam"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1800002,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Farmer",
+        "Cultivation",
+        "Marketing",
+        "Trainning"
+      ],
+      "schemeName": "Chief Minister Floriculture Mission",
+      "schemeShortTitle": "Cmfm",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Infra",
+      "slug": "cmfm",
+      "briefDescription": "This is a special scheme initiated during 2014-15 aimed at all-round development of floriculture sector in the State which incorporates cultivation, marketing, training etc. For the year 2015- 16 cultivation of Gerbera under Shade net house with tissue cultured planting materials is proposed."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dirhorti.assam.gov.in/sites/default/files/swf_utility_folder/departments/horticulture_medhassu_in_oid_5/menu/schemes/3.1.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "This is a special scheme initiated during 2014-15 aimed at all-round development of floriculture sector in the State which incorporates cultivation, marketing, training etc. For the year 2015- 16 cultivation of Gerbera under Shade net house with tissue cultured planting materials is proposed.",
+      "detailedDescription_md": "Prevalence of suitable agro climate has led to natural occurrence of a large number of flowering species in Assam having aesthetic value and horticultural importance. Existence of an ornamental garden is a tradition and characteristic feature of every household in Assam. From time immemorial, the State has been endowed with a rich diversity of flowering annuals and perennials, bulbous ornamental, amazing creepers, ferns and foliage and awesome orchids. In orchid alone, Assam is credited with the natural occurrence of 191 splendid species having diversified forms and wide colour range. Contrary to the potential and scope of commercialization, the State floriculture even till today, is largely confined to household garden as a part of hobby horticulture. The number of commercial pockets can be counted on fingers. Although, the State floriculture sector has shown some amount of growth under the impact of government sponsored development projects like HMNEH, the net position of the State in the National Floriculture Map is yet to be visible. Today, Assam registers an area of 1800 ha under total floriculture which is less than 1% of the total area under floriculture in the country and 7.8% of the total area under floriculture in the neighboring West Bengal.\n<br>\n\nIt is further observed that even the neighboring states like West Bengal has a pride position in terms of area and production of flower crops eventually finding its way to the markets in Assam. Today, the incoming flower basket from West Bengal has virtually captured the State&#39;s flower market primarily due to low internal production and lack of consistency in supply as per desired volumes. According to unofficial estimates, the annual inflow of flowers to the State&#39;s flower market hovers around Rs. 7-8 crores paving out outflow of State&#39;s revenue in substantial quantum.\nIt is now well accepted that in order to sustain agriculture as a profitable venture, due attention must be paid to selection of high value crop options that fetch higher return on investment per unit area. It has been an established fact that as a potential component of horticultural sector, the floriculture based enterprises can provide significantly higher net return to farmers compared to other agricultural production options due to their higher market prices resulting from uniqueness, diversified uses and fascination on part of higher income group.\n<br>\n\n",
+      "benefits_md": "\n- Govt. will provide planting materials, required quantity of shade net and one garden tool kit as Govt. share.\n\n\n- The beneficiaries will have to erect the bamboo/steel structure themselves under observation of departmental officers as beneficiary’s share.\n\n\n- The cost of bed preparation, fertilizer etc. will have to be borne by the beneficiaries.\n\n\n- Departmental officers will provide complete technical support to the beneficiaries.\n- For the year 2015- 16 cultivation of Gerbera under Shade net house with tissue cultured planting materials is proposed to be taken up covering an area of 200 sqm. per unit area.\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prevalence of suitable agro climate has led to natural occurrence of a large number of flowering species in Assam having aesthetic value and horticultural importance. Existence of an ornamental garden is a tradition and characteristic feature of every household in Assam. From time immemorial, the State has been endowed with a rich diversity of flowering annuals and perennials, bulbous ornamental, amazing creepers, ferns and foliage and awesome orchids. In orchid alone, Assam is credited with the natural occurrence of 191 splendid species having diversified forms and wide colour range. Contrary to the potential and scope of commercialization, the State floriculture even till today, is largely confined to household garden as a part of hobby horticulture. The number of commercial pockets can be counted on fingers. Although, the State floriculture sector has shown some amount of growth under the impact of government sponsored development projects like HMNEH, the net position of the State in the National Floriculture Map is yet to be visible. Today, Assam registers an area of 1800 ha under total floriculture which is less than 1% of the total area under floriculture in the country and 7.8% of the total area under floriculture in the neighboring West Bengal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is further observed that even the neighboring states like West Bengal has a pride position in terms of area and production of flower crops eventually finding its way to the markets in Assam. Today, the incoming flower basket from West Bengal has virtually captured the State's flower market primarily due to low internal production and lack of consistency in supply as per desired volumes. According to unofficial estimates, the annual inflow of flowers to the State's flower market hovers around Rs. 7-8 crores paving out outflow of State's revenue in substantial quantum."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is now well accepted that in order to sustain agriculture as a profitable venture, due attention must be paid to selection of high value crop options that fetch higher return on investment per unit area. It has been an established fact that as a potential component of horticultural sector, the floriculture based enterprises can provide significantly higher net return to farmers compared to other agricultural production options due to their higher market prices resulting from uniqueness, diversified uses and fascination on part of higher income group."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Govt. will provide planting materials, required quantity of shade net and one garden tool kit as Govt. share."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiaries will have to erect the bamboo/steel structure themselves under observation of departmental officers as beneficiary’s share."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The cost of bed preparation, fertilizer etc. will have to be borne by the beneficiaries."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Departmental officers will provide complete technical support to the beneficiaries."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For the year 2015- 16 cultivation of Gerbera under Shade net house with tissue cultured planting materials is proposed to be taken up covering an area of 200 sqm. per unit area."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Please contact to the office of below mentioned for apply the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The Secretary to the Govt. of Assam Agriculture Department, Dispur, Guwahati-6."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Director of Horticulture and FP Assam, Khanapara, Guwahati-22."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Please contact to the office of below mentioned for apply the scheme.\n<br>\n\n\n1. The Secretary to the Govt. of Assam Agriculture Department, Dispur, Guwahati-6.\n1. Director of Horticulture and FP Assam, Khanapara, Guwahati-22.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The component will be implemented in rural and urban areas.\n- The beneficiaries should be of small and marginal category.\n- Women SHGs and unemployed youths should get preference.\n- The beneficiaries should have their own land in their premises or rented land on long term lease.\n- Modern cultivation technology will disseminated by the concerning departmental officers through training and skill teaching.\n- One beneficiary can avail only one unit é›200 sqm.\n- Proper representation from SC and ST farmers should be ensured.\n- Beneficiary selection will be finalized by the District Level Beneficiaries Selection Committee through wide publicity in mass media.\n- The District Level Beneficiaries Selection Committee will monitor the program time to time and DAO/DNO will report the progress of work to HQ every fortnight.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The component will be implemented in rural and urban areas."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiaries should be of small and marginal category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women SHGs and unemployed youths should get preference."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiaries should have their own land in their premises or rented land on long term lease."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Modern cultivation technology will disseminated by the concerning departmental officers through training and skill teaching."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One beneficiary can avail only one unit é›200 sqm."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Proper representation from SC and ST farmers should be ensured."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Beneficiary selection will be finalized by the District Level Beneficiaries Selection Committee through wide publicity in mass media."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The District Level Beneficiaries Selection Committee will monitor the program time to time and DAO/DNO will report the progress of work to HQ every fortnight."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmfm"
+}

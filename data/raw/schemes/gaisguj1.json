@@ -1,0 +1,615 @@
+{
+  "_id": "68a455f89a6440be2a4f5ae9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Accident",
+        "Death",
+        "Disability",
+        "Fishermen"
+      ],
+      "schemeName": "Group Accident Insurance Scheme under PMMSY: Accidental death or Permanent Total Disability Gujarat",
+      "schemeShortTitle": "GAISGUJ1",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Insurance",
+          "label": "Insurance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "gaisguj1",
+      "briefDescription": "The scheme aims to provide financial assistance to fishermen/fishermen's families in case of death or injury. Through this scheme, insurance coverage for death permanent partial disability is provided to eligible fishers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cof.gujarat.gov.in/Home/SchemesDetailsPage/A36Rf7FTT%E2%9C%A4556gX2TyXKFw%E2%99%AC%E2%99%AC"
+        },
+        {
+          "title": "Guidelines Issued By NFDB Hyderabad",
+          "url": "https://cof.gujarat.gov.in/ViewFile?fileName=aPNBWj81zn2Uij94k1vn%E2%9C%A4QVwFnxM0iwP0xrtm2ICpfl26QvK6GRM3KEwlWQ%E2%9C%A44yumSy1C4Md5FslYDZmDO9NEF6rHRSQPkjt2MlGbaG1aRssKwRVQvGjQuM8hDcBKoqrL7vGSr6A2C%E2%9C%A42wm83ErUNhHg%E2%99%AC%E2%99%AC"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Group Accident Insurance Scheme under PMMSY&quot; with a component &quot;Accidental death or Permanent Total Disability&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Insurance of Fishers is one of the sub-components of the PMMSY, and it provides insurance coverage to fishers, which includes fishermen, fish workers, fish farmers, and other individuals directly involved in fishing and related activities. The sub scheme offers coverage for death, permanent total disability (PTD). The National Fisheries Development Board (NFDB) and M/s Oriental Insurance Company Limited (OICL) implement the scheme. The premium cost is shared between the Central and State Governments, with no contribution from the beneficiary. The implementing agency of the scheme is the Commissioner of Fisheries.\n<br>\n\n> **Objective of scheme:**\n\n\n- To financially assist the fisherman/fisherman&#39;s family in case of death/injury.\n\n<br>\n\n",
+      "benefits_md": "<br>\n\n**Sr. No.****Name of Component****Standard of assistance****Minimum Time Limit (in Years) for Reclaiming  Benefits**1. Accidental death or Permanent Total Disability₹5,00,000/-Once to the legal heir after death<br>\n\n> **Mode of Disbursement:**\n\n\n- The claim amount is deposited directly into the claimant&#39;s, nominee&#39;s, or legal heir&#39;s savings account via Direct Bank Transfer (DBT).\n\n> **Expected Time of Disbursement:**\n\n\n- The insurance company will settle the claim within 15 working days of receiving the complete claim documentation. If a claim is not settled within this period, the insurance company will pay a simple interest of 10% on the admissible claim amount from the date of document submission until the payment date.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide financial assistance to fishermen/fishermen's families in case of death or injury. Through this scheme, insurance coverage for death permanent partial disability is provided to eligible fishers.",
+      "exclusions_md": "**The scheme does not cover claims for death, injury, or disablement resulting from:**\n\n- Suicide or attempted suicide.\n- Self-inflicted injury.\n- Pregnancy, childbirth, or related consequences.\n- Pre-existing physical or mental defects or infections.\n- Influence of intoxicating liquor or drugs.\n- Venereal diseases or insanity.\n- Engaging in aviation or ballooning, except as a passenger on a licensed aircraft.\n- Committing a breach of law with criminal intent.\n- Ionizing radiation or radioactive contamination from nuclear fuel or waste.\n- Nuclear weapons material.\n- Service in the armed forces.\n- Murder by an immediate beneficiary or nominee.\n- War, invasion, civil war, rebellion, or other hostilities.\n- Natural death.\n- Funeral or ambulance charges (except for accidental hospitalisation claims).\n- Weekly compensation or child education funds.\n\n<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Group Accident Insurance Scheme under PMMSY\" with a component \"Accidental death or Permanent Total Disability\" is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Insurance of Fishers is one of the sub-components of the PMMSY, and it provides insurance coverage to fishers, which includes fishermen, fish workers, fish farmers, and other individuals directly involved in fishing and related activities. The sub scheme offers coverage for death, permanent total disability (PTD). The National Fisheries Development Board (NFDB) and M/s Oriental Insurance Company Limited (OICL) implement the scheme. The premium cost is shared between the Central and State Governments, with no contribution from the beneficiary. The implementing agency of the scheme is the Commissioner of Fisheries."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Objective of scheme:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To financially assist the fisherman/fisherman's family in case of death/injury."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Sr. No.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of Component",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of assistance",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Time Limit (in Years) for Reclaiming  Benefits",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1. "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Accidental death or Permanent Total Disability"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "₹5,00,000/-"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Once to the legal heir after death"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The claim amount is deposited directly into the claimant's, nominee's, or legal heir's savings account via Direct Bank Transfer (DBT)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Expected Time of Disbursement:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The insurance company will settle the claim within 15 working days of receiving the complete claim documentation. If a claim is not settled within this period, the insurance company will pay a simple interest of 10% on the admissible claim amount from the date of document submission until the payment date."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme does not cover claims for death, injury, or disablement resulting from:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Suicide or attempted suicide."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Self-inflicted injury."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pregnancy, childbirth, or related consequences."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pre-existing physical or mental defects or infections."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Influence of intoxicating liquor or drugs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Venereal diseases or insanity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Engaging in aviation or ballooning, except as a passenger on a licensed aircraft."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Committing a breach of law with criminal intent."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Ionizing radiation or radioactive contamination from nuclear fuel or waste."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Nuclear weapons material."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Service in the armed forces."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Murder by an immediate beneficiary or nominee."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "War, invasion, civil war, rebellion, or other hostilities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Natural death."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Funeral or ambulance charges (except for accidental hospitalisation claims)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Weekly compensation or child education funds."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fishers or their legal heirs must submit the required documents to the concerned district office for assistance."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The claim details must be intimated within 90 days of the accident via one of the following recognised communication methods:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Letter to the Insurance Company/NFDB Insurance Cell/Intermediary."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Email to support@pmmsygais.com."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Through the IT & ITES platforms provided by the intermediary."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Via the NFDB Toll-Free Number (1800-425-1660)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To the \"Appropriate Authorities\"."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
+              },
+              {
+                "text": " All claim documents must be submitted within 180 days of the accident."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Fishers or their legal heirs must submit the required documents to the concerned district office for assistance.\n1. The claim details must be intimated within 90 days of the accident via one of the following recognised communication methods:\n\n  - Letter to the Insurance Company/NFDB Insurance Cell/Intermediary.\n  - Email to support@pmmsygais.com.\n  - Through the IT &amp; ITES platforms provided by the intermediary.\n  - Via the NFDB Toll-Free Number (1800-425-1660).\n  - To the &quot;Appropriate Authorities&quot;.\n\n\n> **Note:** All claim documents must be submitted within 180 days of the accident.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a fisher, which includes fishermen, fish workers, fish farmers, and any other person directly involved in fishing or fisheries-related activities.\n1. The applicant must be between 18 and 70 years old.\n1. The insured person should not have been 71 years of age on the date of the accident.\n1. The applicant must be approved by the State/Union Territory (UT) fisheries department.\n1. At the time of a claim, the claimant or insured fisher must be verified and certified by an &quot;Appropriate Authority&quot;.\n1. The applicant should have registered himself in the concerned district office.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a fisher, which includes fishermen, fish workers, fish farmers, and any other person directly involved in fishing or fisheries-related activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be between 18 and 70 years old."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The insured person should not have been 71 years of age on the date of the accident."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be approved by the State/Union Territory (UT) fisheries department."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "At the time of a claim, the claimant or insured fisher must be verified and certified by an \"Appropriate Authority\"."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have registered himself in the concerned district office."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gaisguj1"
+}

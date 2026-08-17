@@ -1,0 +1,521 @@
+{
+  "_id": "63e9e444176538a6b00b289e",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 1,
+        "label": "Jammu and Kashmir"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 262,
+        "label": "Department of Agriculture"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "ngo",
+          "label": "NGO"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Livestock",
+        "Animal Husbandry"
+      ],
+      "schemeName": "Integrated Sheep Development Scheme",
+      "schemeShortTitle": "ISDS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Infra",
+      "slug": "isds",
+      "briefDescription": "ISDS was launched in the year 2020-21 by the J&K Govt. to promote income generation through the establishment of sheep & goat units. This scheme is innovative & self-sustaining as fresh units shall be established in a continuous cyclic manner from the retrieved livestock of previous beneficiaries."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jkash.nic.in/Guidelines/ISDS%202022-23.pdf"
+        },
+        {
+          "title": "Brochure",
+          "url": "https://jksheephusbandrykashmir.nic.in/files/LatestSchemes.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "ISDS was launched in the year 2020-21 by the J&K Govt. to promote income generation through the establishment of sheep & goat units. This scheme is innovative & self-sustaining as fresh units shall be established in a continuous cyclic manner from the retrieved livestock of previous beneficiaries.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Integrated Sheep Development Scheme (ISDS) was launched in the year 2020-21 by the J&K Government to promote income generation through the establishment of sheep & goat units. The scheme is implemented through Sheep Husbandry Department and monitored by the concerned Director. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The support shall be available for the following activities - "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a)\tEstablishment of Sheep/goat units under participatory mode comprising 10 ewes/does"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "b)\tEstablishment of Sheep/goat units on subsidy  mode (20-200 ewes/does)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "c)\tEstablishment of shearing units"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beneficiary can be an Individual / Group of Individuals / Self Help Groups / Cooperative Societies / FPOs, etc. Efforts will be made to cover 20% SC/ST and 10% women beneficiaries. The guidelines will be in force till 31st March 2023 or replaced by a new set of guidelines whichever is earlier."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme is innovative & self-sustaining as fresh units shall be established in a continuous cyclic manner from the retrieved livestock of previous beneficiaries. The beneficiary must have basic infrastructure & grazing avenues available, to maintain the unit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Around 1200 sheep/goat units are to be established with the creation of employment opportunities for around 2400 people. 200 elite crossbred imported merino sheep to be introduced for genetic upgradation of local sheep for the production of more than 8000 elite lambs which will lead to an increase in carcass yield from prevalent 18 kg to 21 kg besides incrementing fine wool production from the existing 2 Kg to 2.5 Kg per sheep. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "value": "Cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Mode-wise Pattern of Assistance",
+              "italic": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Participatory Mode:",
+              "bold": true
+            },
+            {
+              "text": " Selected beneficiaries shall be provided 10 ewes free of cost and from 3rd year onwards 2 ewes/does shall be retrieved for the next 5 years. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy Mode:",
+              "bold": true
+            },
+            {
+              "text": " Selected beneficiaries shall be entitled to a 50% subsidy for the establishment of sheep/goat units of 20-200 ewes/does."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shearing Units:",
+              "bold": true
+            },
+            {
+              "text": " Selected beneficiaries shall be entitled to a 50 % subsidy for the purchase of a shearing unit consisting of a shearing machine, Genset & shearing spares."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Component-wise Pattern of Assistance",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Component:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Establishment of Sheep/Goat unit on participatory mode comprising 25 ewes/does."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ">  Livestock is supplied free of cost."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ">  Retrieval of equivalent livestock from female progeny in a phased manner from 3rd year."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ">  Cost of 25 ewes/does @ Rs 8,000 each (including insurance premium for the first year) @ Rs 2,00,000."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ">  Display board 3’x2’ & misc expenditure @5,000."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ">  Total = Rs 2,05,000"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Component:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Establishment of Sheep/Goat units (25 Sheep/goat per unit)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "50% of the unit cost as total eligible subsidy with a ceiling of ₹ 1,00,000 whichever is less per unit (25 sheep/goat) and a maximum subsidy ceiling of ₹ 8,00,000 for 8 Sheep/Goat units (each unit comprising 25 sheep/goats)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Component:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Procurement of Shearing units (Comprising of one shearing machine, one genset & shearing accessories/spares)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pattern of Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "50% of the unit cost as a total eligible subsidy with a ceiling of Rs 75,000/unit whichever is less."
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "The Integrated Sheep Development Scheme (ISDS) was launched in the year 2020-21 by the J&amp;K Government to promote income generation through the establishment of sheep &amp; goat units. The scheme is implemented through Sheep Husbandry Department and monitored by the concerned Director. \n<br>\n\nThe support shall be available for the following activities - \na)\tEstablishment of Sheep/goat units under participatory mode comprising 10 ewes/does\nb)\tEstablishment of Sheep/goat units on subsidy  mode (20-200 ewes/does)\nc)\tEstablishment of shearing units\nThe beneficiary can be an Individual / Group of Individuals / Self Help Groups / Cooperative Societies / FPOs, etc. Efforts will be made to cover 20% SC/ST and 10% women beneficiaries. The guidelines will be in force till 31st March 2023 or replaced by a new set of guidelines whichever is earlier.\n<br>\n\nThis scheme is innovative &amp; self-sustaining as fresh units shall be established in a continuous cyclic manner from the retrieved livestock of previous beneficiaries. The beneficiary must have basic infrastructure &amp; grazing avenues available, to maintain the unit.\n<br>\n\nAround 1200 sheep/goat units are to be established with the creation of employment opportunities for around 2400 people. 200 elite crossbred imported merino sheep to be introduced for genetic upgradation of local sheep for the production of more than 8000 elite lambs which will lead to an increase in carcass yield from prevalent 18 kg to 21 kg besides incrementing fine wool production from the existing 2 Kg to 2.5 Kg per sheep. \n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Interested beneficiaries shall submit their applications in the format “Annexure B” to their respective District Sheep Husbandry Officer (DSHO) along with a self-attested copy of the required documents."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Component:** Establishment of Sheep/Goat unit on participatory mode comprising 25 ewes/does.\n**Eligibility of Beneficiary:** Any Individual / Group of Individuals / Self Help Group / Cooperative Society / Farmers Producer Organization.\n<br>\n\n**Component:** Establishment of Sheep/Goat units (25 Sheep/goat per unit)\n**Eligibility of Beneficiary:** Any Individual / Group of Individuals / Self Help Group / Cooperative Society / Farmers Producer Organization.\n<br>\n\n**Component:** Procurement of Shearing units (Comprising of one shearing machine, one genset &amp; shearing accessories/spares)\n**Eligibility of Beneficiary:** Any individual (trained in MSS or intending to undergo training in MSS)\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Component: ",
+              "bold": true
+            },
+            {
+              "text": "Establishment of Sheep/Goat unit on participatory mode comprising 25 ewes/does."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligibility of Beneficiary:",
+              "bold": true
+            },
+            {
+              "text": " Any Individual / Group of Individuals / Self Help Group / Cooperative Society / Farmers Producer Organization."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Component:",
+              "bold": true
+            },
+            {
+              "text": " Establishment of Sheep/Goat units (25 Sheep/goat per unit)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligibility of Beneficiary: ",
+              "bold": true
+            },
+            {
+              "text": "Any Individual / Group of Individuals / Self Help Group / Cooperative Society / Farmers Producer Organization."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Component:",
+              "bold": true
+            },
+            {
+              "text": " Procurement of Shearing units (Comprising of one shearing machine, one genset & shearing accessories/spares)"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligibility of Beneficiary:",
+              "bold": true
+            },
+            {
+              "text": " Any individual (trained in MSS or intending to undergo training in MSS)"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isds"
+}

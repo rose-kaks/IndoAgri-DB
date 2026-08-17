@@ -1,0 +1,718 @@
+{
+  "_id": "65ddc332da55878ebe056122",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Water",
+        "Awards",
+        "Development",
+        "Water Resources"
+      ],
+      "schemeName": "National Water Awards",
+      "schemeShortTitle": "NWA",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "nodalMinistryName": {
+        "value": 1559,
+        "label": "Ministry Of Jal Shakti"
+      },
+      "nodalDepartmentName": null,
+      "schemeFor": "Infra",
+      "slug": "nwa",
+      "briefDescription": "The objective of the National Water Awards is to encourage the stakeholders to adopt a holistic approach toward water resource management in the country as surface water and groundwater play a signiﬁcant role in the water cycle. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://awards.gov.in/Home/AwardLibrary"
+        },
+        {
+          "title": "Register",
+          "url": "https://awards.gov.in/Registration/SignUp"
+        },
+        {
+          "title": "Support Document",
+          "url": "https://cdnbbsr.s3waas.gov.in/s3a70dc40477bc2adceef4d2c90f47eb82/uploads/2023/10/20231013570373286.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "National Water Awards under the Department of Water Resources, River Developmen,t and Ganga Rejuvenation Encourage the various stakeholder including Civil Societies, Gram Panchayats, Urban Local Bodies, Water User Associations, Institutions, Corporate Sector, Individuals etc.to adoptg innovative practices of ground water augmentation by rainwater harvesting and artificial recharge, promoting water use efficiency, recycling &amp; re-use of water and creating awareness through people&#39;s participation in the targeted areas resulting into the sustainability of ground water resources development, adequate capacity building amongst the stakeholders etc.\n<br>\n\n> **No. of Awardees :** **32**\n\n<br>\n\n> **Nominate Person**\n\nSelf in respect of Best Individual for Excellence, and Secretary/Principal Secretary of concerned State Departments, District Collector/ District Magistrate/ Head of Body, Prinicipal/Head of School/ College, Head of the Institution/ Industry/ Organisation/Association for other categories of awards.\n<br>\n\n> **Selection Process**\n\nAll applications received for 5th National Water Awards are scrutinized by a Screening Committee of the Department &amp; shortlisted applications are placed before the Jury Committee which is constituted by the Department of Water Resources, River Development and Ganga Rejuvenation, Ministry of Jal Shakti. No Award is conferred except on the recommendation of the Jury Committee. The recommendations of the Committee are submitted to the Hon’ble Minister (Jal Shakti) for approval. Thereafter, the names of winners are announced on a suitable date.\n",
+      "benefits_md": "> **State Level:**\n\n\n- Trophies and citations are awarded to the Best State (1st, 2nd &amp; 3rd place) and Best District in each of the five zones (Northern, Southern, Western, Eastern &amp; North Eastern).\n\n<br>\n\n> **Individual and Institutional Level:**\n\n\n- Trophies, citations, and cash prizes are awarded to winners in the following categories:\n\n\n\n   1. Best Village Panchayat\n   1. Best Urban Local Body\n   1. Best School or College\n   1. Best Industry\n   1. Best Civil Society\n   1. Best Water User Association\n   1. Best Individual for Excellence (Cash prizes: 1st - ₹2,00,000/-,  2nd - ₹1,50,000/- and 3rd - ₹1,00,000/-)\n   1. Best Institution (other than School/College) (Cash prizes: 1st - ₹2,00,000/- and 2nd - ₹1,50,000/-)\n\n\n",
+      "briefDescription": "The objective of the National Water Awards is to encourage the stakeholders to adopt a holistic approach toward water resource management in the country as surface water and groundwater play a signiﬁcant role in the water cycle. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "National Water Awards under the Department of Water Resources, River Developmen,t and Ganga Rejuvenation Encourage the various stakeholder including Civil Societies, Gram Panchayats, Urban Local Bodies, Water User Associations, Institutions, Corporate Sector, Individuals etc.to adoptg innovative practices of ground water augmentation by rainwater harvesting and artificial recharge, promoting water use efficiency, recycling & re-use of water and creating awareness through people's participation in the targeted areas resulting into the sustainability of ground water resources development, adequate capacity building amongst the stakeholders etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "No. of Awardees :",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " 32"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Nominate Person",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Self in respect of Best Individual for Excellence, and Secretary/Principal Secretary of concerned State Departments, District Collector/ District Magistrate/ Head of Body, Prinicipal/Head of School/ College, Head of the Institution/ Industry/ Organisation/Association for other categories of awards."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Selection Process",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All applications received for 5th National Water Awards are scrutinized by a Screening Committee of the Department & shortlisted applications are placed before the Jury Committee which is constituted by the Department of Water Resources, River Development and Ganga Rejuvenation, Ministry of Jal Shakti. No Award is conferred except on the recommendation of the Jury Committee. The recommendations of the Committee are submitted to the Hon’ble Minister (Jal Shakti) for approval. Thereafter, the names of winners are announced on a suitable date."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "State Level:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Trophies and citations are awarded to the Best State (1st, 2nd & 3rd place) and Best District in each of the five zones (Northern, Southern, Western, Eastern & North Eastern)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Individual and Institutional Level:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Trophies, citations, and cash prizes are awarded to winners in the following categories:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best Village Panchayat"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best Urban Local Body"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best School or College"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best Industry"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best Civil Society"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best Water User Association"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best Individual for Excellence (Cash prizes: 1st - ₹2,00,000/-,  2nd - ₹1,50,000/- and 3rd - ₹1,00,000/-)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Best Institution (other than School/College) (Cash prizes: 1st - ₹2,00,000/- and 2nd - ₹1,50,000/-)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration:",
+                "underline": true,
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-1: "
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the "
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Registration/SignUp",
+                "children": [
+                  {
+                    "text": "Registration "
+                  }
+                ]
+              },
+              {
+                "text": "button."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3:",
+                "bold": true
+              },
+              {
+                "text": " Choose the type Individual or  Organization."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4.1: ",
+                "bold": true
+              },
+              {
+                "text": "Under the Individual category provide the following details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Name as per Aadhaar/Valid Identity Proof."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Date of Birth."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Nominator/Applicant Type."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Mobile No."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Email ID."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4.2: ",
+                "bold": true
+              },
+              {
+                "text": "Under Organization category provide the following details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Type of Organization."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Name of the Authorized Person as per Aadhaar/Valid Identity Proof"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Date of Birth."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Brief Description about the Organization (100 Words)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Designation"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Mobile No."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Email ID."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "               - Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-5:"
+              },
+              {
+                "text": " Submit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "            "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "text": "Apply:",
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-1: "
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step-2: "
+              },
+              {
+                "text": "Click on l"
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Login",
+                "children": [
+                  {
+                    "text": "ogin button on"
+                  }
+                ]
+              },
+              {
+                "text": " portal and login using the credentials. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-3: ",
+                "bold": true
+              },
+              {
+                "text": "From the list of awards, select scheme name, then click \"Nominate / Apply Now\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-4: ",
+                "bold": true
+              },
+              {
+                "text": "On the next page, fill in all the mandatory fields in the online application form, "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-5: ",
+                "bold": true
+              },
+              {
+                "text": "Then click \"Submit\"."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Registration:**\n\n**Step-1:** Visit the [official website](https://awards.gov.in/).\n**Step-2:** Click on the [Registration ](https://awards.gov.in/Registration/SignUp)button.\n**Step-3:** Choose the type Individual or  Organization.\n**Step-4.1:** Under the Individual category provide the following details. \n               - Name as per Aadhaar/Valid Identity Proof.\n               - Date of Birth.\n               - Nominator/Applicant Type.\n               - Mobile No.\n               - Email ID.\n               - Aadhaar Number.\n**Step-4.2:** Under Organization category provide the following details.\n               - Type of Organization.\n               - Name of the Authorized Person as per Aadhaar/Valid Identity Proof\n               - Date of Birth.\n               - Brief Description about the Organization (100 Words)\n               - Designation\n               - Mobile No.\n               - Email ID.\n               - Aadhaar Number.\n**Step-5:** Submit.\n            \n> **Apply:**\n\n**Step-1:** Visit the [official website](https://awards.gov.in/).\n**Step-2:** Click on l[ogin button on](https://awards.gov.in/Login) portal and login using the credentials. \n**Step-3:** From the list of awards, select scheme name, then click &quot;Nominate / Apply Now&quot;.\n**Step-4:** On the next page, fill in all the mandatory fields in the online application form, \n**Step-5:** Then click &quot;Submit&quot;.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "> **Following Applicants are eligible to apply** \n\n\n- State Governments.\n- District Administrations.\n- Village Panchayats.\n- Urban Local Bodies.\n- Schools.\n- Colleges.\n- Institutions (other than schools/colleges).\n- Industries.\n- Civil Society Organizations.\n- Water User Associations.\n- Individuals.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Following Applicants are eligible to apply ",
+              "underline": true,
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State Governments."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "District Administrations."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Village Panchayats."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Urban Local Bodies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Schools."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Colleges."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Institutions (other than schools/colleges)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Industries."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Civil Society Organizations."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Water User Associations."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individuals."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nwa"
+}

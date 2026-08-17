@@ -1,0 +1,372 @@
+{
+  "_id": "63fc30049347be0f4e6dc4fd",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Solid Waste Management",
+        "Agriculture",
+        "Renewable Energy"
+      ],
+      "schemeName": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan)",
+      "schemeShortTitle": "GOBARDHAN",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce97ad6d1a3bde468537d",
+          "label": "Utility & Sanitation"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Solid waste management",
+          "label": "Solid waste management"
+        },
+        {
+          "value": "Sanitation / Sewage",
+          "label": "Sanitation / Sewage"
+        },
+        {
+          "value": "Pollution and waste management",
+          "label": "Pollution and waste management"
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        }
+      ],
+      "schemeOpenDate": "2018-01-04",
+      "targetBeneficiaries": null,
+      "nodalMinistryName": {
+        "value": 1559,
+        "label": "Ministry Of Jal Shakti"
+      },
+      "nodalDepartmentName": {
+        "value": 1560,
+        "label": "Department of Drinking Water and Sanitation"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Infra",
+      "slug": "gobardhan",
+      "briefDescription": "GOBARdhan Scheme was launched in April 2018 as a part of the Solid and Liquid Waste Management component under Swachh Bharat Mission (Grameen) to positively impact village cleanliness and generate wealth and energy from cattle and organic waste. The main focus of GOBARDHAN is to keep villages clean."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Framework For Implementation",
+          "url": "https://sbm.gov.in/gbdw20/Documents/GobardhanFramework.pdf"
+        },
+        {
+          "title": "Technical Manual",
+          "url": "https://sbm.gov.in/gbdw20/Documents/GobardhanTechnicalManual.pdf"
+        },
+        {
+          "title": "Brochure",
+          "url": "https://sbm.gov.in/gbdw20/ManualPage.aspx"
+        },
+        {
+          "title": "Infographic (Hindi)",
+          "url": "https://sbm.gov.in/gbdw20/DetailImages.aspx"
+        },
+        {
+          "title": "Queries / Grievance",
+          "url": "https://sbm.gov.in/gbdw20/grievance.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan) was launched by the Ministry of Drinking Water &amp; Sanitation in April 2018 as a part of the Solid and Liquid Waste Management component under the Swachh Bharat Mission (Grameen) to positively impact village cleanliness and generate wealth and energy from cattle and organic waste. The main focus of GOBARDHAN is to keep villages clean, increase the income of rural households, and generate energy and organic manure from cattle waste. As rural India has already attained the Open Defecation Free (ODF) status, the importance of GOBARDHAN has increased as it supports the villages in achieving ODF-plus status, which is an important objective of Swachh Bharat Mission (Grameen) Phase II.\n<br>\n\nGOBARDHAN: Waste to Wealth program has been designed to provide a common platform for schemes of different Ministries/Departments such as the Ministry of New and Renewable Energy (MNRE); Ministry of Petroleum and Natural Gas (MoPNG); Department of Animal Husbandry and Dairying (DAHD); Department of Agriculture, Cooperation and Farmers Welfare (DACFW); Department of Rural Development; and Department of Drinking Water and Sanitation (DDWS). DDWS is the coordinating Department for the implementation of the scheme. DDWS also provides technical and financial assistance to States/UTs for the implementation of GOBARDHAN projects under SBM-G.\n<br>\n\n**Objectives**\n\n1. To support villages in effectively managing their cattle waste, agricultural waste/residue, and all other organic waste\n1. To support communities to convert their organic waste (especially cattle dung) to wealth through the generation of manure and energy out of waste\n1. To create livelihood opportunities in rural areas and enhance the income of farmers and other rural people by supporting them to convert their waste to wealth\n1. To promote rural entrepreneurship by involving entrepreneurs, SHGs, and Youth Groups in the setting up and operation and management of biogas plants\n1. To promote environmental sanitation and curb vector-borne diseases through effective disposal of waste in rural areas\n\n",
+      "benefits_md": "\n1. Helps in managing a major portion of solid waste in villages i.e cattle dung and agricultural waste and promotes environmental sanitation.\n1. Substantially reduces vector-borne diseases and promotes public health.\n1. Promotes household income and saving as the use of biogas reduces the expenditure on LPG.\n1. Helps in generating organic manure which enhances agriculture and farm productivity.\n1. Promotes employment and income generation opportunities for SHGs/farmers&#39; groups.\n1. Helps in reducing greenhouse gas emissions and promotes environmental sustainability.\n1. Helps to save foreign exchange by reducing the need for the import of natural gas.\n\n",
+      "briefDescription": "GOBARdhan Scheme was launched in April 2018 as a part of the Solid and Liquid Waste Management component under Swachh Bharat Mission (Grameen) to positively impact village cleanliness and generate wealth and energy from cattle and organic waste. The main focus of GOBARDHAN is to keep villages clean.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Galvanizing Organic Bio-Agro Resources Dhan (GOBARdhan) was launched by the Ministry of Drinking Water & Sanitation in April 2018 as a part of the Solid and Liquid Waste Management component under the Swachh Bharat Mission (Grameen) to positively impact village cleanliness and generate wealth and energy from cattle and organic waste. The main focus of GOBARDHAN is to keep villages clean, increase the income of rural households, and generate energy and organic manure from cattle waste. As rural India has already attained the Open Defecation Free (ODF) status, the importance of GOBARDHAN has increased as it supports the villages in achieving ODF-plus status, which is an important objective of Swachh Bharat Mission (Grameen) Phase II."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "GOBARDHAN: Waste to Wealth program has been designed to provide a common platform for schemes of different Ministries/Departments such as the Ministry of New and Renewable Energy (MNRE); Ministry of Petroleum and Natural Gas (MoPNG); Department of Animal Husbandry and Dairying (DAHD); Department of Agriculture, Cooperation and Farmers Welfare (DACFW); Department of Rural Development; and Department of Drinking Water and Sanitation (DDWS). DDWS is the coordinating Department for the implementation of the scheme. DDWS also provides technical and financial assistance to States/UTs for the implementation of GOBARDHAN projects under SBM-G."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objectives",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To support villages in effectively managing their cattle waste, agricultural waste/residue, and all other organic waste"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To support communities to convert their organic waste (especially cattle dung) to wealth through the generation of manure and energy out of waste"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To create livelihood opportunities in rural areas and enhance the income of farmers and other rural people by supporting them to convert their waste to wealth"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To promote rural entrepreneurship by involving entrepreneurs, SHGs, and Youth Groups in the setting up and operation and management of biogas plants"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To promote environmental sanitation and curb vector-borne diseases through effective disposal of waste in rural areas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Helps in managing a major portion of solid waste in villages i.e cattle dung and agricultural waste and promotes environmental sanitation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Substantially reduces vector-borne diseases and promotes public health."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promotes household income and saving as the use of biogas reduces the expenditure on LPG."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Helps in generating organic manure which enhances agriculture and farm productivity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promotes employment and income generation opportunities for SHGs/farmers' groups."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Helps in reducing greenhouse gas emissions and promotes environmental sustainability."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Helps to save foreign exchange by reducing the need for the import of natural gas."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " The Gram Panchayat will identify the beneficiaries with the support of SHGs/FPOs/milk cooperatives/milk unions/ private entrepreneurs/CBOs developed under DAY-NRLM/agencies selected or empanelled by States/Districts/BDTCs etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "The project plan document will be prepared with the support of identified/empanelled agencies/ BDTCs etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "masons/barefoot technicians/engineers who would construct the biogas plants will be identified."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Approval for administrative and technical proposals will be sought from competent authorities. O&M plan should also be part of the project proposal."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The Gram Panchayat will identify the beneficiaries with the support of SHGs/FPOs/milk cooperatives/milk unions/ private entrepreneurs/CBOs developed under DAY-NRLM/agencies selected or empanelled by States/Districts/BDTCs etc.\n**Step 2:** The project plan document will be prepared with the support of identified/empanelled agencies/ BDTCs etc.\nmasons/barefoot technicians/engineers who would construct the biogas plants will be identified.\n**Step 3:** Approval for administrative and technical proposals will be sought from competent authorities. O&amp;M plan should also be part of the project proposal.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. **For Individual Household Model:** Individual Households identified by the Gram Panchayats.1. **For Cluster Model:** Cluster of Households identified by the Gram Panchayats, in association with Cooperatives, Milk Unions, Farmer Producer Organizations (FPOs), SHGs, CBOs developed under DAY-NRLM, Private entrepreneurs, etc. These households should have a minimum of 3 to 4 cattle.1. **For Community Model:** Households identified by the Gram Panchayats.1. **For Commercial Model:** Entrepreneurs/Cooperatives/Gaushalas/Dairies, etc. are eligible to setup large biogas/Compressed Bio-gas (CBG) plants1. Villages with a high population of cattle should be taken on priority.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Individual Household Model:",
+                  "bold": true
+                },
+                {
+                  "text": " Individual Households identified by the Gram Panchayats."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Cluster Model:",
+                  "bold": true
+                },
+                {
+                  "text": " Cluster of Households identified by the Gram Panchayats, in association with Cooperatives, Milk Unions, Farmer Producer Organizations (FPOs), SHGs, CBOs developed under DAY-NRLM, Private entrepreneurs, etc. These households should have a minimum of 3 to 4 cattle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Community Model:",
+                  "bold": true
+                },
+                {
+                  "text": " Households identified by the Gram Panchayats."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Commercial Model:",
+                  "bold": true
+                },
+                {
+                  "text": " Entrepreneurs/Cooperatives/Gaushalas/Dairies, etc. are eligible to setup large biogas/Compressed Bio-gas (CBG) plants"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Villages with a high population of cattle should be taken on priority."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gobardhan"
+}

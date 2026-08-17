@@ -1,0 +1,247 @@
+{
+  "_id": "67efbc765a4889e1887afb2e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Husbandry",
+        "Fodder Minikit"
+      ],
+      "schemeName": "Supply of Fodder Minikit",
+      "schemeShortTitle": "SOFMG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "sofmg",
+      "briefDescription": "The \"Supply of Fodder Minikit\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide improved varieties of fodder seeds to farmers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=Bu2wc90IXRdJKrcfHJ/9ew==&domain=12ewfiAgGqKRe600IL5Z/w=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Supply of Fodder Minikit&amp;quot; scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. Under this scheme, improved variety of fodder seeds are provided to beneficiaries for wide spread publicity, demonstration and adaptation by farmers.\n",
+      "benefits_md": "<br>\n\n**Name of Component**\t**Standard of Assistance**\t**Minimum Time Limit(In Year) for Reclaiming Benefits**\tSupply of Fodder Minikit under General People, Schedule Caste People and Schedule Tribe People.\tFree1 Year\t<br>\n\n",
+      "briefDescription": "The \"Supply of Fodder Minikit\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide improved varieties of fodder seeds to farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Supply of Fodder Minikit\" scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. Under this scheme, improved variety of fodder seeds are provided to beneficiaries for wide spread publicity, demonstration and adaptation by farmers."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Name of Component\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Standard of Assistance\t",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Minimum Time Limit(In Year) for Reclaiming Benefits\t",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Supply of Fodder Minikit under General People, Schedule Caste People and Schedule Tribe People.\t"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Free"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1 Year\t"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The beneficiary must visit the nearest Veterinary Dispensary, First Aid Veterinary Centre, or Intensive Cattle Development Programme Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Obtain and submit the physical application form along with the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The concerned authority will verify eligibility and distribute the fodder minikits accordingly."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The beneficiary must visit the nearest Veterinary Dispensary, First Aid Veterinary Centre, or Intensive Cattle Development Programme Office.\n**Step 2:** Obtain and submit the physical application form along with the required documents.\n**Step 3:** The concerned authority will verify eligibility and distribute the fodder minikits accordingly.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. All farmers belonging to the General, Scheduled Caste (SC), and Scheduled Tribe (ST) categories are eligible.\n   1. The applicant must own agricultural land.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "All farmers belonging to the General, Scheduled Caste (SC), and Scheduled Tribe (ST) categories are eligible."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must own agricultural land."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sofmg"
+}

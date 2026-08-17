@@ -1,0 +1,451 @@
+{
+  "_id": "6530c8194c46bfe12b229fa2",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2012-01-01",
+      "schemeCloseDate": null,
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 511,
+        "label": "Department of Agriculture and Cooperation"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Improve Economic Conditions",
+        "Loan"
+      ],
+      "schemeName": "Integrated Scheme on Agriculture Cooperation",
+      "schemeShortTitle": "ISAC",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Infra",
+      "slug": "isac",
+      "briefDescription": "The Integrated Scheme on Agriculture Cooperation (ISAC) is a Central Sector Scheme of the Ministry of Agriculture and Farmers Welfare, Government of India. It is being implemented through the National Cooperative Development Corporation (NCDC)."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Details",
+          "url": "https://wep.gov.in/resource-details?slug=the-central-sector-integrated-scheme-on-agricultur"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://www.ncdc.in/documents/notice-circular/2817230419Guidelines_CSISAC.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://www.ncdc.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "<br>\n\nThe Integrated Scheme on Agriculture Cooperation (ISAC) is a Central Sector Scheme of the Ministry of Agriculture and Farmers Welfare, Government of India. The scheme is being implemented through the National Cooperative Development Corporation (NCDC).\n<br>\n\n**The main objectives of the scheme are**\n\n1. Provide financial assistance to cooperatives to improve their economic conditions.\n1. Remove regional imbalances and speed up cooperative development in agricultural and allied sectors.\n1. Help cotton growers to get better prices for their produce by adding value to it and ensuring that decentralized weavers have access to quality yarn at reasonable rates.\n1. Promote overall development of selected districts in the country through cooperative efforts in agriculture and allied sectors.\n1. Assist National Level Cooperative Federation/Multi State Cooperative Societies (MSCS) in the agriculture and allied sector to undertake promotional and skill development activities\n\n<br>\n\n**Components of the Scheme**\n\n1. Financial assistance will be provided for the following components under the component of Assistance to NCDC Programmes for Development of Cooperatives:\n\n  - Marketing, Processing, Storage, Consumer, Weaker Section Programmes of Cooperatives, Computerization of Primary Agricultural Cooperative Credit Societies (PACS), District Central Cooperative Banks (DCBs), State Cooperative Banks (SCBs) and Technical &amp; Promotional (T&amp;P) Cell Scheme for strengthening Management of State Cooperative Federations [subsidy on tapering basis].\n\n1. Assistance for cotton development including ginning and pressing and establishment of new and modernization/ expansion/ rehabilitation of existing cooperative spinning mills.\n1. Integrated Cooperative Development Projects in selected districts (ICDP):\n\n",
+      "benefits_md": "\n- Grant-in-aid under the ISAC scheme for projects related to weaker sections/women cooperatives and labour cooperatives:\n\n<br>\n\n\n1. Cooperatively least developed states {Arunachal Pradesh, Assam, Bihar, Jharkhand, Jammu &amp; Kashmir, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura} : 25%\n1. Cooperatively under-developed states {Andhra Pradesh*, Chhattisgarh, Goa, Himachal Pradesh, Madhya Pradesh, Odisha, Rajasthan, Telangana, Uttar Pradesh, Uttarakhand, West Bengal, Andaman &amp; Nicobar Islands (UT) and Lakshadweep (UT)}: 20%\n1. Cooperatively developed states {Gujarat, Haryana, Karnataka, Kerala, Maharashtra, Punjab, Tamilnadu, Chandigarh (UT), Dadra &amp; Nagar Haveli (UT), Daman &amp; Diu (UT), Puducherry (UT), Delhi } : 15%\n\n",
+      "briefDescription": "The Integrated Scheme on Agriculture Cooperation (ISAC) is a Central Sector Scheme of the Ministry of Agriculture and Farmers Welfare, Government of India. It is being implemented through the National Cooperative Development Corporation (NCDC).",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Integrated Scheme on Agriculture Cooperation (ISAC) is a Central Sector Scheme of the Ministry of Agriculture and Farmers Welfare, Government of India. The scheme is being implemented through the National Cooperative Development Corporation (NCDC)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main objectives of the scheme are",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Provide financial assistance to cooperatives to improve their economic conditions."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Remove regional imbalances and speed up cooperative development in agricultural and allied sectors."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Help cotton growers to get better prices for their produce by adding value to it and ensuring that decentralized weavers have access to quality yarn at reasonable rates."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promote overall development of selected districts in the country through cooperative efforts in agriculture and allied sectors."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assist National Level Cooperative Federation/Multi State Cooperative Societies (MSCS) in the agriculture and allied sector to undertake promotional and skill development activities"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Components of the Scheme",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance will be provided for the following components under the component of Assistance to NCDC Programmes for Development of Cooperatives:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Marketing, Processing, Storage, Consumer, Weaker Section Programmes of Cooperatives, Computerization of Primary Agricultural Cooperative Credit Societies (PACS), District Central Cooperative Banks (DCBs), State Cooperative Banks (SCBs) and Technical & Promotional (T&P) Cell Scheme for strengthening Management of State Cooperative Federations [subsidy on tapering basis]."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for cotton development including ginning and pressing and establishment of new and modernization/ expansion/ rehabilitation of existing cooperative spinning mills."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Integrated Cooperative Development Projects in selected districts (ICDP):"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Grant-in-aid under the ISAC scheme for projects related to weaker sections/women cooperatives and labour cooperatives:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cooperatively least developed states {Arunachal Pradesh, Assam, Bihar, Jharkhand, Jammu & Kashmir, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura} : 25%"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cooperatively under-developed states {Andhra Pradesh*, Chhattisgarh, Goa, Himachal Pradesh, Madhya Pradesh, Odisha, Rajasthan, Telangana, Uttar Pradesh, Uttarakhand, West Bengal, Andaman & Nicobar Islands (UT) and Lakshadweep (UT)}: 20%"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cooperatively developed states {Gujarat, Haryana, Karnataka, Kerala, Maharashtra, Punjab, Tamilnadu, Chandigarh (UT), Dadra & Nagar Haveli (UT), Daman & Diu (UT), Puducherry (UT), Delhi } : 15%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Cooperative societies intending to avail NCDC’s assistance may contact the Office of Registrar of Cooperative Societies(RCS)/ Commissioner in charge of the specific programme / Agriculture & Cooperation "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://www.ncdc.in/documents/notice-circular/2817230419Guidelines_CSISAC.pdf",
+                        "children": [
+                          {
+                            "text": "Department/ Regional Offices"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " of NCDC. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The list of NCDC’s Regional Offices, its jurisdiction, contact numbers, email address etc. are available in NCDC’s website under the heading “"
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://www.ncdc.in/index.jsp?page=bengaluru=en",
+                        "children": [
+                          {
+                            "text": "Regional Directorate"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "”. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Common Loan Application Forms for various activities are also available in NCDC’s website under heading “"
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://www.ncdc.in/index.jsp?page=common-application=en",
+                        "children": [
+                          {
+                            "text": "Application Form"
+                          }
+                        ]
+                      },
+                      {
+                        "text": "” ."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Cooperative societies intending to avail NCDC’s assistance may contact the Office of Registrar of Cooperative Societies(RCS)/ Commissioner in charge of the specific programme / Agriculture &amp;amp; Cooperation [Department/ Regional Offices](https://www.ncdc.in/documents/notice-circular/2817230419Guidelines_CSISAC.pdf) of NCDC.   - The list of NCDC’s Regional Offices, its jurisdiction, contact numbers, email address etc. are available in NCDC’s website under the heading “[Regional Directorate](https://www.ncdc.in/index.jsp?page=bengaluru=en)”.   - The Common Loan Application Forms for various activities are also available in NCDC’s website under heading “[Application Form](https://www.ncdc.in/index.jsp?page=common-application=en)” .\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Eligible Sectors for NCDC’s assistance.\n\n  - Agricultural Marketing, Processing, Storage, Computerization and weaker sections’ Programmes, and input supply, Plantation/ horticultural crops, SC &amp; ST cooperatives, tribal cooperatives, hill area cooperatives, dairy, poultry, livestock, fisheries, handloom coir, jute, cash crops, sericulture, computerization of cooperatives including PACS, DCCB and State Cooperative Banks, Spinning Mills, modernization/expansion of existing mills, rehabilitation of sick Cooperative Spinning Mills, Margin money assistance to cooperative spinning mills.\n\n1. Eligible Organizations for seeking assistance\n\n  - Societies should not be less than three years older, having positive balance net worth for last three years and having rich experience in the field for which project is proposed under the scheme. In the case of government sponsored projects for cooperatives, this condition could be relaxed on case to case basis by Managing Director, NCDC \n\n1. Cooperatives Sectors/Organizations must :\n\n\n\n  - Be registered under the Cooperative Societies Act of the respective state.\n  - Be undertaking activities related to agriculture and allied sectors, such as marketing, storage, processing of agricultural produce, and supply of agricultural inputs.\n  - Be financially viable and have a good track record.\n  - Be eligible for financial assistance from the NCDC.\n\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Eligible Sectors for NCDC’s assistance."
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Agricultural Marketing, Processing, Storage, Computerization and weaker sections’ Programmes, and input supply, Plantation/ horticultural crops, SC & ST cooperatives, tribal cooperatives, hill area cooperatives, dairy, poultry, livestock, fisheries, handloom coir, jute, cash crops, sericulture, computerization of cooperatives including PACS, DCCB and State Cooperative Banks, Spinning Mills, modernization/expansion of existing mills, rehabilitation of sick Cooperative Spinning Mills, Margin money assistance to cooperative spinning mills."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Eligible Organizations for seeking assistance"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Societies should not be less than three years older, having positive balance net worth for last three years and having rich experience in the field for which project is proposed under the scheme. In the case of government sponsored projects for cooperatives, this condition could be relaxed on case to case basis by Managing Director, NCDC "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cooperatives Sectors/Organizations must :"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Be registered under the Cooperative Societies Act of the respective state."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Be undertaking activities related to agriculture and allied sectors, such as marketing, storage, processing of agricultural produce, and supply of agricultural inputs."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Be financially viable and have a good track record."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Be eligible for financial assistance from the NCDC."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isac"
+}

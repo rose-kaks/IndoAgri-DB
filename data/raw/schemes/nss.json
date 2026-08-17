@@ -1,0 +1,268 @@
+{
+  "_id": "6929598f8c1ba81ed40c5e78",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Fish Farmer",
+        "Children",
+        "Higher Education",
+        "Scholarship",
+        "Student"
+      ],
+      "schemeName": "Nishadraj Scholarship Scheme",
+      "schemeShortTitle": "NSS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Universities and higher education",
+          "label": "Universities and higher education"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300013,
+        "label": "Fisheries Department"
+      },
+      "slug": "nss",
+      "briefDescription": "The scheme aims to promote higher education among children of fisher families working in federation reservoirs by providing scholarships of up to ₹20,000 for technical courses and up to ₹10,000 for non-technical courses."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpfisheries.gov.in/hi/matasaya-mahaasangha/yaojanaa-kai-jaanakaarai"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=986"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Nishadraj Scholarship Scheme” was launched by the Fisheries Welfare and Fisheries Development Department, Government of Madhya Pradesh. The scheme aims to support the higher education of children belonging to fisher families working in the Federation reservoirs. Under this scheme, scholarships for technical and non-technical courses are provided to meritorious students from fisher households to help them continue professional and academic studies.  \n<br>\n\n",
+      "benefits_md": "\n- Scholarship up to ₹20,000 or the actual expenditure (whichever is lower) for technical courses such as Medical, Engineering, CLAT-based Law courses, and equivalent technical programs.\n- Scholarship up to ₹10,000 or the actual expenditure (whichever is lower) for non-technical courses such as B.A., B.Sc., B.Com., B.C.A., B.F.F.C., B.Sc. Agriculture, Law, and similar parallel courses.\n\n> **NOTE:** Scholarship amount is transferred through Direct Benefit Transfer (DBT).\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote higher education among children of fisher families working in federation reservoirs by providing scholarships of up to ₹20,000 for technical courses and up to ₹10,000 for non-technical courses.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “Nishadraj Scholarship Scheme” was launched by the Fisheries Welfare and Fisheries Development Department, Government of Madhya Pradesh. The scheme aims to support the higher education of children belonging to fisher families working in the Federation reservoirs. Under this scheme, scholarships for technical and non-technical courses are provided to meritorious students from fisher households to help them continue professional and academic studies.  "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scholarship up to ₹20,000 or the actual expenditure (whichever is lower) for technical courses such as Medical, Engineering, CLAT-based Law courses, and equivalent technical programs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scholarship up to ₹10,000 or the actual expenditure (whichever is lower) for non-technical courses such as B.A., B.Sc., B.Com., B.C.A., B.F.F.C., B.Sc. Agriculture, Law, and similar parallel courses."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "Scholarship amount is transferred through Direct Benefit Transfer (DBT)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the Regional Manager, Fisheries Federation Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the Fisheries Federation Office. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the Regional Manager, Fisheries Federation Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Fisheries Federation Office. \n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a child of a fisher family working in the federation’s reservoirs.\n1. The applicant should be a student. \n1. The student must belong to General, Other Backward Classes (OBC), Scheduled Castes (SC), Scheduled Tribes (ST), Minority communities, or Below Poverty Line (BPL) categories.\n1. The applicant should be enrolled in a recognized technical course (Medical, Engineering, CLAT-based Law, etc.) or a non-technical course (B.A., B.Com., B.Sc., Agriculture, etc.).\n1. The applicant should be pursuing higher education at the time of application.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a child of a fisher family working in the federation’s reservoirs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a student. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student must belong to General, Other Backward Classes (OBC), Scheduled Castes (SC), Scheduled Tribes (ST), Minority communities, or Below Poverty Line (BPL) categories."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be enrolled in a recognized technical course (Medical, Engineering, CLAT-based Law, etc.) or a non-technical course (B.A., B.Com., B.Sc., Agriculture, etc.)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be pursuing higher education at the time of application."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nss"
+}

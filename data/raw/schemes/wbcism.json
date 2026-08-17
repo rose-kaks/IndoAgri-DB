@@ -1,0 +1,197 @@
+{
+  "_id": "68f76d45cd0b48b25fbac286",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Crop Insurance",
+        "Weather Risk",
+        "Farmer"
+      ],
+      "schemeName": "Weather Based Crop Insurance Scheme",
+      "schemeShortTitle": "WBCISM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Environmental grants",
+          "label": "Environmental grants"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "slug": "wbcism",
+      "briefDescription": "The scheme aims to provide crop insurance protection to farmers against weather-related risks under the Pradhan Mantri Fasal Bima Yojana. It ensures financial support to farmers affected by adverse weather conditions."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Weather Based Crop Insurance Scheme&amp;quot; launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh aims to protect farmers from weather-related losses through insurance coverage for selected crops cultivated during Kharif and Rabi seasons.\n<br>\n\n",
+      "benefits_md": "\n  - **Insurance Coverage for Crops:** Provides protection to crops against losses caused by adverse weather conditions such as high or low temperatures, excess or deficient rainfall, and wind speed.\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide crop insurance protection to farmers against weather-related risks under the Pradhan Mantri Fasal Bima Yojana. It ensures financial support to farmers affected by adverse weather conditions.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Weather Based Crop Insurance Scheme\" launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh aims to protect farmers from weather-related losses through insurance coverage for selected crops cultivated during Kharif and Rabi seasons."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Insurance Coverage for Crops: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Provides protection to crops against losses caused by adverse weather conditions such as high or low temperatures, excess or deficient rainfall, and wind speed."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant should contact the District Office of the Horticulture Department."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "wbcism"
+}

@@ -1,0 +1,553 @@
+{
+  "_id": "65ca1881cd96dc5e07509926",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Irrigation",
+        "Farmer",
+        "Agriculture",
+        "Subsidy",
+        "Crop"
+      ],
+      "schemeName": "Assistance for Installation of Sprinkler / Drip Micro Irrigation Systems",
+      "schemeShortTitle": "AISPMIS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "schemeFor": "Individual",
+      "slug": "aispmis",
+      "briefDescription": "Through this scheme, the Marginal Farmers, Small farmers, Scheduled Caste/ Schedule Tribe Farmers, Women Farmers, Big Farmers and Institutions are provided with a subsidy on the total cost or ₹ 25,000/‐ per hectare whichever is less for the installation of Sprinkler / Drip Micro Irrigation Systems."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Standard Operating Procedure",
+          "url": "https://agri.py.gov.in/sites/default/files/schemes/Sprinkler%20and%20Drip%20SOP.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://agri.py.gov.in/sites/default/files/forms/sprinkler.pdf"
+        },
+        {
+          "title": "Contact Us (Email IDs)",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Contact Us (Telephone Numbers)",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/contact.pdf"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://agri.py.gov.in/citchart.html"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        },
+        {
+          "title": "Responsibility Centers",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Assistance for Installation of Sprinkler / Drip Micro Irrigation Systems&quot; was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the Marginal Farmers, Small farmers, Scheduled Caste/ Schedule Tribe Farmers, Women Farmers, Big Farmers and Institutions are provided with a subsidy on the total cost (or) ₹ 25,000/‐ per hectare whichever is less for the installation of Sprinkler / Drip Micro Irrigation Systems.\n",
+      "benefits_md": "\n- Subsidy of 90% of the total cost (or) ₹ 25,000/‐ per hectare whichever is less for Marginal Farmers, Small Farmers, Scheduled Caste/ Schedule Tribe and Women Farmers.\n- Subsidy of 70% of the total cost (or) ₹ 25,000/‐ per hectare whichever is less for Big Farmers/ Institutions.\n\n****The beneficiaries so selected will be intimated individually if the farmer completes the work on their own fund, the subsidy amount will be released by an Electronic clearing system in the farmer&#39;s bank accounts.***\n****If the farmer chooses manufacturers/ dealers, the subsidy amount will be released directly to the manufacturers/dealers&#39; bank account after obtaining a satisfactory completion letter from the concerned farmer.***\n",
+      "briefDescription": "Through this scheme, the Marginal Farmers, Small farmers, Scheduled Caste/ Schedule Tribe Farmers, Women Farmers, Big Farmers and Institutions are provided with a subsidy on the total cost or ₹ 25,000/‐ per hectare whichever is less for the installation of Sprinkler / Drip Micro Irrigation Systems.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Assistance for Installation of Sprinkler / Drip Micro Irrigation Systems\" was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the Marginal Farmers, Small farmers, Scheduled Caste/ Schedule Tribe Farmers, Women Farmers, Big Farmers and Institutions are provided with a subsidy on the total cost (or) ₹ 25,000/‐ per hectare whichever is less for the installation of Sprinkler / Drip Micro Irrigation Systems."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy of 90% of the total cost (or) ₹ 25,000/‐ per hectare whichever is less for Marginal Farmers, Small Farmers, Scheduled Caste/ Schedule Tribe and Women Farmers."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy of 70% of the total cost (or) ₹ 25,000/‐ per hectare whichever is less for Big Farmers/ Institutions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*The beneficiaries so selected will be intimated individually if the farmer completes the work on their own fund, the subsidy amount will be released by an Electronic clearing system in the farmer's bank accounts.",
+              "bold": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "*If the farmer chooses manufacturers/ dealers, the subsidy amount will be released directly to the manufacturers/dealers' bank account after obtaining a satisfactory completion letter from the concerned farmer."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The advertisement inviting applications will be published in leading local Tamil Dailies in Puducherry and Karaikal regions and through All India Radio."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the concerned office and request the hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/forms/sprinkler.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the respective Uzhavar Udhaviyagams or from the concerned authority:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Puducherry: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Office of the Hydrogeologist‐II, State Ground Water Unit & Soil Conservation, Thattanchavady, Puducherry‐9."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Karaikal: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Office of the Additional Director of Agriculture, Karaikal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the aforementioned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " On receipt of the application, necessary entries will be made in the application receipt register and a unique seniority number will be assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application will be issued to the applicant. "
+              }
+            ]
+          }
+        ],
+        "process_md": "The advertisement inviting applications will be published in leading local Tamil Dailies in Puducherry and Karaikal regions and through All India Radio.\n**Step 1:** The interested applicant should visit (during office hours) the concerned office and request the hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/forms/sprinkler.pdf) of the application form from the respective Uzhavar Udhaviyagams or from the concerned authority:\n\n- **Puducherry:** Office of the Hydrogeologist‐II, State Ground Water Unit &amp; Soil Conservation, Thattanchavady, Puducherry‐9.- **Karaikal:** Office of the Additional Director of Agriculture, Karaikal.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the aforementioned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique seniority number will be assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application will be issued to the applicant. \n"
+      },
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/",
+                "children": [
+                  {
+                    "text": "Official Website"
+                  }
+                ]
+              },
+              {
+                "text": " of the e-District Portal of the Government of Puducherry."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "At the top right corner of the home page, click \""
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/Login.aspx",
+                "children": [
+                  {
+                    "text": "Login"
+                  }
+                ]
+              },
+              {
+                "text": "\". In the login screen, click \""
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/User/Registration.aspx",
+                "children": [
+                  {
+                    "text": "Register a New Membership"
+                  }
+                ]
+              },
+              {
+                "text": "\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/",
+                "children": [
+                  {
+                    "text": "Official Website"
+                  }
+                ]
+              },
+              {
+                "text": " of the e-District Portal of the Government of Puducherry."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "At the top right corner of the home page, click \""
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/Login.aspx",
+                "children": [
+                  {
+                    "text": "Login"
+                  }
+                ]
+              },
+              {
+                "text": "\". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the scheme you wish to apply for. You will be taken to its online application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 8: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 9:",
+                "bold": true
+              },
+              {
+                "text": " Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for "
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/User/TrackApplication.aspx",
+                "children": [
+                  {
+                    "text": "tracking your application"
+                  }
+                ]
+              },
+              {
+                "text": ". The application number will also be received on your Registered Mobile Number / Registered Email ID."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*Track Your Application",
+                "bold": true
+              },
+              {
+                "text": " "
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/User/TrackApplication.aspx",
+                "children": [
+                  {
+                    "text": "here"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "* Access the User Manual for Online Application",
+                "bold": true
+              },
+              {
+                "text": " "
+              },
+              {
+                "type": "link",
+                "link": "https://edistrict.py.gov.in/Help.rar",
+                "children": [
+                  {
+                    "text": "here"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 2:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, click &quot;[Register a New Membership](https://edistrict.py.gov.in/User/Registration.aspx)&quot;.\n**Step 3:** On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click &quot;Signup&quot;.\n**Step 4:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 5:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, provide your Username and Password, fill in the Captcha Code, and click &quot;Sign In&quot;.\n**Step 6:** On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.\n**Step 7:** Click on the scheme you wish to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). \n**Step 9:** Tick the declaration stating &quot;I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge&quot;. Submit the application and note the application number for [tracking your application](https://edistrict.py.gov.in/User/TrackApplication.aspx). The application number will also be received on your Registered Mobile Number / Registered Email ID.\n***Track Your Application** [here](https://edistrict.py.gov.in/User/TrackApplication.aspx)\n*** Access the User Manual for Online Application** [here](https://edistrict.py.gov.in/Help.rar)\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a Marginal Farmer/ Small farmer/ Scheduled Caste Farmer/ Schedule Tribe Farmer/ Women Farmer/ Big Farmers/ Institutions\n- The farmers should own cultivable agricultural land in the Union Territory of Puducherry along with own/leased tubewell with adequate water and pumping system.\n- The farmers who have already availed the maximum subsidy amount during the past 10 years for the sprinkler irrigation system and the past 8 years for the drip irrigation systems are not eligible.\n- The farmers who have already installed micro irrigation system under this component and availed part of the maximum subsidy amount to install a micro-irrigation system during the past 10 years / 8 years in the additional area will be considered and they will be paid the balance amount duly deducting the already noted assistance from the maximum subsidy amount.\n- The land in which the installation of the micro irrigation system under this component, the period of 10 years for the sprinkler irrigation system and 8 years for the drip irrigation system will not be considered even if ownership has been changed.\n- Farmers who have availed of sprinkler irrigation systems earlier are also eligible for drip irrigation systems and vice‐versa, if the farmer opts to cultivate for intercrop for 3 years.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Marginal Farmer/ Small farmer/ Scheduled Caste Farmer/ Schedule Tribe Farmer/ Women Farmer/ Big Farmers/ Institutions"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers should own cultivable agricultural land in the Union Territory of Puducherry along with own/leased tubewell with adequate water and pumping system."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers who have already availed the maximum subsidy amount during the past 10 years for the sprinkler irrigation system and the past 8 years for the drip irrigation systems are not eligible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers who have already installed micro irrigation system under this component and availed part of the maximum subsidy amount to install a micro-irrigation system during the past 10 years / 8 years in the additional area will be considered and they will be paid the balance amount duly deducting the already noted assistance from the maximum subsidy amount."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The land in which the installation of the micro irrigation system under this component, the period of 10 years for the sprinkler irrigation system and 8 years for the drip irrigation system will not be considered even if ownership has been changed."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers who have availed of sprinkler irrigation systems earlier are also eligible for drip irrigation systems and vice‐versa, if the farmer opts to cultivate for intercrop for 3 years."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "aispmis"
+}

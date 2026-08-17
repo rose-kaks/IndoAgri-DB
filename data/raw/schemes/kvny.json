@@ -1,0 +1,778 @@
+{
+  "_id": "6964d8d27a9552024ca8c24a",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Scholarship",
+        "Higher Education",
+        "Farmers Children",
+        "DBT",
+        "CM-KISAN"
+      ],
+      "schemeName": "Krishi Vidya Nidhi Yojana",
+      "schemeShortTitle": "KVNY",
+      "implementingAgency": "Department Of Agriculture & Farmers’ Empowerment, Government Of Odisha (with Verification By Heads Of Institutions And Chief District Agriculture Officers)",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Universities and higher education",
+          "label": "Universities and higher education"
+        },
+        {
+          "value": "Scholarships and student finance",
+          "label": "Scholarships and student finance"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 21,
+        "label": "Odisha"
+      },
+      "nodalDepartmentName": {
+        "value": 2111111,
+        "label": "Agriculture and Farmers Empowerment Department"
+      },
+      "slug": "kvny",
+      "briefDescription": "The scheme aims to provide merit-based financial assistance to children of CM-KISAN beneficiaries pursuing professional and technical courses, supporting higher education through Direct Benefit Transfer."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.odisha.gov.in/sites/default/files/2025-03/6728a6c09079e1730717376_0.pdf"
+        },
+        {
+          "title": "Website / Application Link",
+          "url": "https://scholarship.odisha.gov.in/website/scholarship-details"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Krishi Vidya Nidhi Yojana&amp;quot; has been implemented by the Department of Agriculture &amp;amp; Farmers’ Empowerment, Government of Odisha. It aims to extend financial assistance to the children of the beneficiaries under CM-KISAN for pursuing Professional/ Technical courses. It will lead to better access to Higher Education for children of Small &amp;amp; Marginal farmers (SF/MF) and Landless Agricultural households (LAH). Krishi Vidya Nidhi Yojana will support SF/MF &amp;amp; LAH in empowering their families.\n&gt; **Key Features:**\n\nIn order to ensure proper higher education of their children, support will be provided in the form of Krishi Vidya Nidhi Yojana. The scholarship will be given purely on a merit basis to those who are studying professional/technical courses like Medical and Engineering. Agriculture &amp;amp; Allied, Nursing, Diploma, and different trades in ITI in Government, Private Institutions, and Premier Institutions.\n<br>\n\n",
+      "benefits_md": "&gt; **Scholarship Support:**\n\n\n   1. Scholarship is provided to students pursuing eligible professional, technical, diploma, postgraduate, and doctoral courses.\n   1. The scholarship is awarded purely on a merit basis.\n\n> **Course-Based Financial Assistance:**\n\n\n1. For the students of Government Institutions, the tuition fees, annual fees, one-time fees, hostel charges, and any other fees deposited by the student in the colleges/universities/institutions except the caution money/ any other refundable money as admissible shall be released to the concerned student account.\n1. Scholarship amount for the students studying in Private Institutes of the State shall be released to the student as per the course fee structure enclosed in [Annexure-1](https://agri.odisha.gov.in/sites/default/files/2025-03/6728a6c09079e1730717376_0.pdf).\n> **Premier Institutions Support:**\n\n\n1. For students admitted to premier institutions such as National Institute of Technology (NIT), Indian Institute of Technology(NIT), Indian Institute of Management (IIM), All India Institute of Medical Sciences (AIIMS), Indian Council of Agricultural Research institutions (ICAR)( Indian Agricultural Research Institute (IARI), Indian Veterinary Research Institute (IVRI), Central Institute of Fisheries Education (CIFE), and National Dairy Research Institute (NDRI), the scholarship is limited to the lower of actual recommended fees or ₹1,00,000/-.\n\n> **Hostel and Mess Charges:** \n\n\n1. ₹1,200/- per month for Under Graduate, Post Graduate, Ph.D., and Premier Institution students for 10 months.\n1. ₹1,000/- per month for Diploma, Polytechnic, and Industrial Training Institute students for 10 months.\n\n<br>\n\n",
+      "exclusions_md": "\n  - Students availing more than one scholarship simultaneously are not eligible.\n  - Private institutions located outside the State are excluded.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide merit-based financial assistance to children of CM-KISAN beneficiaries pursuing professional and technical courses, supporting higher education through Direct Benefit Transfer.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Krishi Vidya Nidhi Yojana\" has been implemented by the Department of Agriculture & Farmers’ Empowerment, Government of Odisha. It aims to extend financial assistance to the children of the beneficiaries under CM-KISAN for pursuing Professional/ Technical courses. It will lead to better access to Higher Education for children of Small & Marginal farmers (SF/MF) and Landless Agricultural households (LAH). Krishi Vidya Nidhi Yojana will support SF/MF & LAH in empowering their families."
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Key Features:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In order to ensure proper higher education of their children, support will be provided in the form of Krishi Vidya Nidhi Yojana. The scholarship will be given purely on a merit basis to those who are studying professional/technical courses like Medical and Engineering. Agriculture & Allied, Nursing, Diploma, and different trades in ITI in Government, Private Institutions, and Premier Institutions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Scholarship Support:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Scholarship is provided to students pursuing eligible professional, technical, diploma, postgraduate, and doctoral courses."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The scholarship is awarded purely on a merit basis."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Course-Based Financial Assistance:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For the students of Government Institutions, the tuition fees, annual fees, one-time fees, hostel charges, and any other fees deposited by the student in the colleges/universities/institutions except the caution money/ any other refundable money as admissible shall be released to the concerned student account."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Scholarship amount for the students studying in Private Institutes of the State shall be released to the student as per the course fee structure enclosed in "
+                },
+                {
+                  "type": "link",
+                  "link": "https://agri.odisha.gov.in/sites/default/files/2025-03/6728a6c09079e1730717376_0.pdf",
+                  "children": [
+                    {
+                      "text": "Annexure-1"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Premier Institutions Support:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For students admitted to premier institutions such as National Institute of Technology (NIT), Indian Institute of Technology(NIT), Indian Institute of Management (IIM), All India Institute of Medical Sciences (AIIMS), Indian Council of Agricultural Research institutions (ICAR)( Indian Agricultural Research Institute (IARI), Indian Veterinary Research Institute (IVRI), Central Institute of Fisheries Education (CIFE), and National Dairy Research Institute (NDRI), the scholarship is limited to the lower of actual recommended fees or ₹1,00,000/-."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Hostel and Mess Charges: ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹1,200/- per month for Under Graduate, Post Graduate, Ph.D., and Premier Institution students for 10 months."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹1,000/- per month for Diploma, Polytechnic, and Industrial Training Institute students for 10 months."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Students availing more than one scholarship simultaneously are not eligible."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Private institutions located outside the State are excluded."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The student must visit the Odisha State Scholarship Portal using the following link:"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://scholarship.odisha.gov.in/website/scholarship-details",
+                    "children": [
+                      {
+                        "text": "https://scholarship.odisha.gov.in/website/scholarship-details"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "On the homepage, locate the top navigation bar. Click on the “Scheme” option."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "From the list of available scholarships, identify “Krishi Vidya Nidhi Yojana”. Click on the “Apply” button shown against the scheme."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After clicking “Apply”, select “Register Now”. You will be redirected to a new registration page, where you will enter the student’s Aadhaar number. Complete Aadhaar authentication (OTP-based verification, as shown in the video)& then create a password and complete the registration process."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After successful registration, return to the scheme page. Click again on “Apply”.  Log in using the registered Aadhaar number and the password created during registration."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After logging in, the student must complete the online application form, which includes:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Personal details of the student"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Academic details (course, year, institution, admission type)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Parent/Guardian details, including CM-KISAN beneficiary information"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Bank account details (student’s own Aadhaar-linked bank account)"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Upload scanned copies/photos of the required documents, such as:"
+                  }
+                ]
+              },
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "ul_list",
+                    "children": [
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Aadhaar Card"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Residence Certificate"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Caste Certificate (if required)"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Passport-sized photograph"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Ration Card of the Parent/ guardian"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "CM-KISAN Beneficiary ID of parent/guardian"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Bank Account Details"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Institute Declaration Certificate"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Matriculation Certificate of the Student"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list_item",
+                        "children": [
+                          {
+                            "text": "Marksheet of the last exam passed"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 7: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Carefully review all entered details and uploaded documents. Make corrections if required before final submission. Click on the “Submit” button to complete the application. After submission, keep a copy of the application/acknowledgement for future reference."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 8: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The application is forwarded online to the Head of the Institution, who verifies the student's enrollment, course, and institution details & the academic authenticity. Then the Chief District Agriculture Officer (CDAO) verifies the CM-KISAN beneficiary status of the student’s parent/guardian and the eligibility under the scheme guidelines."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 9: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once all verifications are completed, the Department of Agriculture & Farmers’ Empowerment, Government of Odisha, releases the scholarship amount & the amount is transferred directly to the student’s bank account through DBT (Direct Benefit Transfer)"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Note:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Physical/offline applications are not accepted."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Only online, verified, and authenticated applications are considered."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Incorrect Aadhaar, bank details, or unverified applications may lead to rejection."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The online application portal opens twice in a year, with the first application window available during July or August and the second during November or December."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The student must visit the Odisha State Scholarship Portal using the following link:\n[https://scholarship.odisha.gov.in/website/scholarship-details](https://scholarship.odisha.gov.in/website/scholarship-details)\n**Step 2:** On the homepage, locate the top navigation bar. Click on the “Scheme” option.\nFrom the list of available scholarships, identify “Krishi Vidya Nidhi Yojana”. Click on the “Apply” button shown against the scheme.\n**Step 3:** After clicking “Apply”, select “Register Now”. You will be redirected to a new registration page, where you will enter the student’s Aadhaar number. Complete Aadhaar authentication (OTP-based verification, as shown in the video)&amp;amp; then create a password and complete the registration process.\n**Step 4:** After successful registration, return to the scheme page. Click again on “Apply”.  Log in using the registered Aadhaar number and the password created during registration.\n**Step 5:** After logging in, the student must complete the online application form, which includes:\n\n  - Personal details of the student\n  - Academic details (course, year, institution, admission type)\n  - Parent/Guardian details, including CM-KISAN beneficiary information\n  - Bank account details (student’s own Aadhaar-linked bank account)\n\n**Step 6:** Upload scanned copies/photos of the required documents, such as:\n\n  - Aadhaar Card\n  - Residence Certificate\n  - Caste Certificate (if required)\n  - Passport-sized photograph\n  - Ration Card of the Parent/ guardian\n  - CM-KISAN Beneficiary ID of parent/guardian\n  - Bank Account Details\n  - Institute Declaration Certificate\n  - Matriculation Certificate of the Student\n  - Marksheet of the last exam passed\n\n**Step 7:** Carefully review all entered details and uploaded documents. Make corrections if required before final submission. Click on the “Submit” button to complete the application. After submission, keep a copy of the application/acknowledgement for future reference.\n**Step 8:** The application is forwarded online to the Head of the Institution, who verifies the student&amp;#39;s enrollment, course, and institution details &amp;amp; the academic authenticity. Then the Chief District Agriculture Officer (CDAO) verifies the CM-KISAN beneficiary status of the student’s parent/guardian and the eligibility under the scheme guidelines.\n**Step 9:** Once all verifications are completed, the Department of Agriculture &amp;amp; Farmers’ Empowerment, Government of Odisha, releases the scholarship amount &amp;amp; the amount is transferred directly to the student’s bank account through DBT (Direct Benefit Transfer)\n&gt; **Note:**\n\n\n  - Physical/offline applications are not accepted.\n  - Only online, verified, and authenticated applications are considered.\n  - Incorrect Aadhaar, bank details, or unverified applications may lead to rejection.\n  - The online application portal opens twice in a year, with the first application window available during July or August and the second during November or December.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident/domicile of the State of Odisha.\n   1. The applicant should be a child of an eligible beneficiary under the CM-KISAN scheme, including both components, namely Support to Farmers for Cultivation and Livelihood Support to Landless Agricultural Households.\n   1. The applicant’s parent must be eligible under CM-KISAN, which will be verified during the student’s application process at the Chief District Agriculture Officer (CDAO) level.\n   1. The applicant must have obtained admission on a merit basis in a Government Institution or Private Institution having an AISHE code (All India Survey on Higher Education) of the State, or in a Premier Government Institution, whether located inside or outside the State.\n   1. The applicant must have taken admission in any of the following Subjects and courses:\n    - Professional or Technical Undergraduate courses such as M.B.B.S., B.D.S., B.H.M.S., B.A.M.S., B.Pharm, B.Sc. (Nursing), Post Basic B.Sc. Nursing, B.Sc. (Hons) Agriculture, Bachelor of Veterinary Science and Animal Husbandry, B.Sc. (Hons) Horticulture, B.Sc. (Hons) Forestry, B.Sc. (Fisheries Science), B.Sc. (Community Science), B.Tech (Agricultural Engineering), B.Tech/B.E., B.B.A., B.C.A., and other equivalent courses offered by Government Institutions and Private Institutions having an AISHE code (All India Survey on Higher Education) of the State are covered under the Krishi Vidya Nidhi Yojana. OR\n    - Professional or Technical Postgraduate courses such as M.Tech, M.Sc. (Agriculture), M.Sc. (Forestry), Postgraduate courses in Medical Science, M.B.A., M.C.A., M.Pharm, and other equivalent courses forming part of a Master’s programme are also included. The maximum duration of scholarship support shall be 2 years for Postgraduate courses and 4 years for Ph.D. courses. Ph.D. courses must be related to the eligible postgraduate courses and must be pursued only in Government Institutions located within the State. OR\n    - Diploma courses such as Diploma in Pharmacy, Diploma in Medical Laboratory Technology, Diploma in Medical Radiography Technology, Ophthalmic Assistance or Surgical Ophthalmic Assistance, General Nursing and Midwifery, Auxiliary Nurse Midwifery, Psychiatric Nursing, and other equivalent medical courses recommended by the Directorate of Medical Education and Training, as well as courses offered by Polytechnic and Agricultural Polytechnic Institutions, are also included under the Krishi Vidya Nidhi Yojana.\n\n   1. The applicant admitted to self-financing courses in Government or Private Institutions shall be eligible for the scholarship only as per the capped fee structure.\n   1. The applicant should not be in receipt of any other scholarship. If the applicant is already availing another scholarship, he or she must shift from the existing scholarship scheme to the Krishi Vidya Nidhi Yojana, if they so choose. Only one scholarship can be availed.\n   1. The applicant should apply for only one professional course under this scheme.\n   1. The applicant should not avail more than one scholarship for similar courses.\n   1. The applicant should not be admitted to a Private Institution located outside the State.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident/domicile of the State of Odisha."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a child of an eligible beneficiary under the CM-KISAN scheme, including both components, namely Support to Farmers for Cultivation and Livelihood Support to Landless Agricultural Households."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant’s parent must be eligible under CM-KISAN, which will be verified during the student’s application process at the Chief District Agriculture Officer (CDAO) level."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have obtained admission on a merit basis in a Government Institution or Private Institution having an AISHE code (All India Survey on Higher Education) of the State, or in a Premier Government Institution, whether located inside or outside the State."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must have taken admission in any of the following Subjects and courses:"
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://agri.odisha.gov.in/sites/default/files/2025-03/6728a6c09079e1730717376_0.pdf",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "text": ""
+                    }
+                  ]
+                },
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Professional or Technical Undergraduate courses such as M.B.B.S., B.D.S., B.H.M.S., B.A.M.S., B.Pharm, B.Sc. (Nursing), Post Basic B.Sc. Nursing, B.Sc. (Hons) Agriculture, Bachelor of Veterinary Science and Animal Husbandry, B.Sc. (Hons) Horticulture, B.Sc. (Hons) Forestry, B.Sc. (Fisheries Science), B.Sc. (Community Science), B.Tech (Agricultural Engineering), B.Tech/B.E., B.B.A., B.C.A., and other equivalent courses offered by Government Institutions and Private Institutions having an AISHE code (All India Survey on Higher Education) of the State are covered under the Krishi Vidya Nidhi Yojana. OR"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Professional or Technical Postgraduate courses such as M.Tech, M.Sc. (Agriculture), M.Sc. (Forestry), Postgraduate courses in Medical Science, M.B.A., M.C.A., M.Pharm, and other equivalent courses forming part of a Master’s programme are also included. The maximum duration of scholarship support shall be 2 years for Postgraduate courses and 4 years for Ph.D. courses. Ph.D. courses must be related to the eligible postgraduate courses and must be pursued only in Government Institutions located within the State. OR"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "Diploma courses such as Diploma in Pharmacy, Diploma in Medical Laboratory Technology, Diploma in Medical Radiography Technology, Ophthalmic Assistance or Surgical Ophthalmic Assistance, General Nursing and Midwifery, Auxiliary Nurse Midwifery, Psychiatric Nursing, and other equivalent medical courses recommended by the Directorate of Medical Education and Training, as well as courses offered by Polytechnic and Agricultural Polytechnic Institutions, are also included under the Krishi Vidya Nidhi Yojana."
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant admitted to self-financing courses in Government or Private Institutions shall be eligible for the scholarship only as per the capped fee structure."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not be in receipt of any other scholarship. If the applicant is already availing another scholarship, he or she must shift from the existing scholarship scheme to the Krishi Vidya Nidhi Yojana, if they so choose. Only one scholarship can be availed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should apply for only one professional course under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not avail more than one scholarship for similar courses."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should not be admitted to a Private Institution located outside the State."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kvny"
+}

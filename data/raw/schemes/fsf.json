@@ -1,0 +1,289 @@
+{
+  "_id": "6918aa1e04b813434b124d01",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Mushroom",
+        "Subsidy",
+        "Farmer"
+      ],
+      "schemeName": "Mushroom Production",
+      "schemeShortTitle": "MSPUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "fsf",
+      "briefDescription": "The scheme aims to promote and support mushroom cultivation in the state by providing financial assistance and subsidies for establishing mushroom, compost, and spawn production units, thereby enhancing both farmer income and overall mushroom production in Uttarakhand."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 213)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Mushroom Production” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote and support mushroom cultivation in the state by providing financial assistance and subsidies for establishing mushroom, compost, and spawn production units, thereby enhancing both farmer income and overall mushroom production in Uttarakhand.\n<br>\n\n",
+      "benefits_md": "Under the scheme:\n\n  - To promote mushroom production, a 40% subsidy is provided to the individual sector (farmers or persons interested in mushroom cultivation).\n  - For setting up a mushroom production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit.\n  - For setting up a compost production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit.\n  - For setting up a spawn production unit, a 40% subsidy is provided, up to a maximum of ₹15,00,000/- per unit.\n  - For the public sector (government departments, institutions, agricultural/industrial universities, etc.), 100% subsidy is provided on the total cost.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to promote and support mushroom cultivation in the state by providing financial assistance and subsidies for establishing mushroom, compost, and spawn production units, thereby enhancing both farmer income and overall mushroom production in Uttarakhand.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Mushroom Production” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote and support mushroom cultivation in the state by providing financial assistance and subsidies for establishing mushroom, compost, and spawn production units, thereby enhancing both farmer income and overall mushroom production in Uttarakhand."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under the scheme:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To promote mushroom production, a 40% subsidy is provided to the individual sector (farmers or persons interested in mushroom cultivation)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For setting up a mushroom production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For setting up a compost production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For setting up a spawn production unit, a 40% subsidy is provided, up to a maximum of ₹15,00,000/- per unit."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For the public sector (government departments, institutions, agricultural/industrial universities, etc.), 100% subsidy is provided on the total cost."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To avail the benefits of this scheme, the applicant must first download the application form/proposal format from the department's website https://shm.uk.gov.in/ or obtain it from the Horticulture office of the concerned district."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant must then prepare the application proposal in the prescribed format. If any difficulty arises in preparing the proposal, assistance can be sought from the departmental staff at the Dehradun and Jyolikot Indo-Dutch Mushroom Offices. Once prepared, the proposal must be submitted to the relevant office."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The interested farmer must apply for a bank loan. For this, the applicant is required to provide land documents, Aadhaar card, PAN card, bank account details, income details from mushroom farming, expenditure details, other sources of income, and any land-related documents. The bank will process the loan application and approve it following its standard procedures."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After loan approval, the farmer must submit the application to the office of the Director of Horticulture Mission/Chief Mushroom Development Officer in the prescribed format. The application must include the following documents: land records, bank loan approval letter, Aadhaar card, bank passbook, PAN card, copy of family registry/ration card, permanent residence/account khatauni, khasra and khatauni, mushroom training certificate, affidavit, lease certificate for leased land, and, in the case of owned land, an affidavit of ownership. If any required documents are missing at the time of application, the applicant may be asked to provide them verbally or in writing. The submitted proposal is then evaluated by a committee."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Upon approval of the proposal, the applicant is notified by telephone and receives a formal approval letter from the office of the Director of Horticulture Mission/Chief Mushroom Development Officer. The farmer may then begin establishing the mushroom unit. Following this, departmental personnel conduct a site inspection. Based on the inspection report, the subsidy is disbursed directly into the farmer's account in two installments. Currently, this entire process is conducted offline."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - To avail the benefits of this scheme, the applicant must first download the application form/proposal format from the department&amp;#39;s website https://shm.uk.gov.in/ or obtain it from the Horticulture office of the concerned district.\n  - The applicant must then prepare the application proposal in the prescribed format. If any difficulty arises in preparing the proposal, assistance can be sought from the departmental staff at the Dehradun and Jyolikot Indo-Dutch Mushroom Offices. Once prepared, the proposal must be submitted to the relevant office.\n  - The interested farmer must apply for a bank loan. For this, the applicant is required to provide land documents, Aadhaar card, PAN card, bank account details, income details from mushroom farming, expenditure details, other sources of income, and any land-related documents. The bank will process the loan application and approve it following its standard procedures.\n  - After loan approval, the farmer must submit the application to the office of the Director of Horticulture Mission/Chief Mushroom Development Officer in the prescribed format. The application must include the following documents: land records, bank loan approval letter, Aadhaar card, bank passbook, PAN card, copy of family registry/ration card, permanent residence/account khatauni, khasra and khatauni, mushroom training certificate, affidavit, lease certificate for leased land, and, in the case of owned land, an affidavit of ownership. If any required documents are missing at the time of application, the applicant may be asked to provide them verbally or in writing. The submitted proposal is then evaluated by a committee.\n  - Upon approval of the proposal, the applicant is notified by telephone and receives a formal approval letter from the office of the Director of Horticulture Mission/Chief Mushroom Development Officer. The farmer may then begin establishing the mushroom unit. Following this, departmental personnel conduct a site inspection. Based on the inspection report, the subsidy is disbursed directly into the farmer&amp;#39;s account in two installments. Currently, this entire process is conducted offline.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer interested in mushroom production.\n1. The farmer must either own land or have land on lease.\n1. Each farmer is eligible for assistance for only one unit.\n1. There is no provision to provide assistance or subsidy if the farmer does not take a loan.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer interested in mushroom production."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer must either own land or have land on lease."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each farmer is eligible for assistance for only one unit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "There is no provision to provide assistance or subsidy if the farmer does not take a loan."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fsf"
+}

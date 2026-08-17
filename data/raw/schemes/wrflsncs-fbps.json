@@ -1,0 +1,299 @@
+{
+  "_id": "659be3da6093f0fa3318f73e",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Welfare",
+        "Relief",
+        "Clothes",
+        "Fisheries",
+        "Fisherman"
+      ],
+      "schemeName": "\"Fishing Ban Period Assistance\" under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\"",
+      "schemeShortTitle": "WRFLSNCS-FBPS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Crisis/Disaster/Accident",
+          "label": "Crisis/Disaster/Accident"
+        },
+        {
+          "value": "Aids/Appliances",
+          "label": "Aids/Appliances"
+        },
+        {
+          "value": "Food Security / Public Distribution System",
+          "label": "Food Security / Public Distribution System"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "nodalDepartmentName": {
+        "value": 34000015,
+        "label": "Fisheries and Fishermen Welfare Department, Puducherry"
+      },
+      "schemeFor": "Family",
+      "slug": "wrflsncs-fbps",
+      "briefDescription": "The scheme \"Fishing Ban Period Assistance\" under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\" is introduced with the objective of assisting fishermen families who are deprived of income during natural calamities and fishing ban periods."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.py.gov.in/sites/default/files/ban2020lean20notification.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://fisheries.py.gov.in/sites/default/files/ban-relief-application003.pdf"
+        },
+        {
+          "title": "State Plan Schemes",
+          "url": "https://fisheries.py.gov.in/sites/default/files/fisheries-state-plan-schemes.pdf"
+        },
+        {
+          "title": "List Of Sub-Offices",
+          "url": "https://fisheries.py.gov.in/sub-offices"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.py.gov.in/contact-us"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Fishing Ban Period Assistance&quot; is a Sub-Component under the scheme &quot;Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme&quot;. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective to assist fishermen families who are deprived of income during natural calamities and fishing ban periods, and to conserve the fishery wealth in sea during breeding season.\n",
+      "benefits_md": "100 kgs. of rice and a cash dole at ₹ 750/- per fishermen&#39;s family during the period of ban on fishing during the year. \n",
+      "briefDescription": "The scheme \"Fishing Ban Period Assistance\" under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\" is introduced with the objective of assisting fishermen families who are deprived of income during natural calamities and fishing ban periods.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Fishing Ban Period Assistance\" is a Sub-Component under the scheme \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\". The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective to assist fishermen families who are deprived of income during natural calamities and fishing ban periods, and to conserve the fishery wealth in sea during breeding season."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "100 kgs. of rice and a cash dole at ₹ 750/- per fishermen's family during the period of ban on fishing during the year. "
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit the office of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sub-offices",
+                "children": [
+                  {
+                    "text": "concerned authority"
+                  }
+                ]
+              },
+              {
+                "text": " i.e. Pondicherry State Fishermen Co-operative Federation Limited, Puducherry/The Karaikal Fishermen Co-operative Marketing Union, Karaikal/The Assistant Director of Fisheries and Fishermen Welfare, Mahe/The Assistant Director of Fisheries and Fishermen Welfare, Yanam of the respective regions. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: "
+              },
+              {
+                "text": "The interested applicant should request the hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sites/default/files/ban-relief-application003.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the office of the [concerned authority](https://fisheries.py.gov.in/sub-offices) i.e. Pondicherry State Fishermen Co-operative Federation Limited, Puducherry/The Karaikal Fishermen Co-operative Marketing Union, Karaikal/The Assistant Director of Fisheries and Fishermen Welfare, Mahe/The Assistant Director of Fisheries and Fishermen Welfare, Yanam of the respective regions. \n**Step 1:** The interested applicant should request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/ban-relief-application003.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be an ordinarily resident of the Union territory of Puducherry.\n- The applicant should be a fisherman.\n- The applicant should belong to a group designated to be &quot;Below Poverty Line&quot;.\n- *Beneficiary shall also be considered based on the decisions taken periodically by the Governing Body of the Pondicherry Fishermen Welfare and Distress Relief Society.\n- The applicant should not be ordinarily residing in any foreign nation during the natural calamity, lean season, or ban on the fishing period for which relief assistance is issued.\n- The beneficiary or any other members of the ration card should not be in regular service in the Government/Quasi Government/Government undertakings/Retired Government Pensioner.\n\n*** The benefit under this scheme shall not be denied only on the ground that the head of the family or family member is a recipient of Old Age Pension (OAP);**\n*** The benefit under this scheme shall not be restricted on the ground that the fisherman is in possession of mechanized or motorized or traditional fishing boats or is not in possession of the said fishing boats.**\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an ordinarily resident of the Union territory of Puducherry."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a fisherman."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to a group designated to be \"Below Poverty Line\"."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "*Beneficiary shall also be considered based on the decisions taken periodically by the Governing Body of the Pondicherry Fishermen Welfare and Distress Relief Society."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not be ordinarily residing in any foreign nation during the natural calamity, lean season, or ban on the fishing period for which relief assistance is issued."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary or any other members of the ration card should not be in regular service in the Government/Quasi Government/Government undertakings/Retired Government Pensioner."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "* The benefit under this scheme shall not be denied only on the ground that the head of the family or family member is a recipient of Old Age Pension (OAP);",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "* The benefit under this scheme shall not be restricted on the ground that the fisherman is in possession of mechanized or motorized or traditional fishing boats or is not in possession of the said fishing boats.",
+              "bold": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "wrflsncs-fbps"
+}

@@ -1,0 +1,612 @@
+{
+  "_id": "69031bb99ed7aa424237bb1c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Cattle",
+        "Farmer",
+        "Subsidy",
+        "Animal",
+        "Vaccination"
+      ],
+      "schemeName": "Gomantak Govsamvardhan Yojana",
+      "schemeShortTitle": "GGY-GOA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000003,
+        "label": "Animal Husbandry & Veterinary Services Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "ggy-goa",
+      "briefDescription": "The scheme aims to support the conservation and rearing of Local Breeds of Cattle in the State of Goa. It provides financial assistance of ₹80/- per animal per day to Dairy Farmers or Individuals who are bonafide residents of Goa to encourage responsible stall feeding and conservation practices."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://goaprintingpress.gov.in/downloads/2425/2425-24-SI-OG-0.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to support the conservation and rearing of Local Breeds of Cattle in the State of Goa. It provides financial assistance of ₹80/- per animal per day to Dairy Farmers or Individuals who are bonafide residents of Goa to encourage responsible stall feeding and conservation practices.",
+      "detailedDescription_md": "The scheme &quot;Gomantak Govsamvardhan Yojana&quot; was launched by the Department of Animal Husbandry, Government of Goa. The scheme aims to conserve the Local Breeds of Cattle in the State of Goa by ensuring that Dairy Farmers or individuals rear these cattle, feeding them with feed, fodder, and providing water on a daily basis in their own property and cattle shed. The scheme provides financial assistance of ₹80/- per animal per day, disbursed quarterly, to cover maintenance costs including feed, fodder, and other miscellaneous costs, with a maximum limit of 05 Local Breed Cattle per family. The applications for this scheme are accepted by submitting a duly completed form along with a Notarized Agreement Bond to the relevant local area Assistant Director or Veterinary Officer.\n<br>\n\n",
+      "benefits_md": "\n- Financial assistance of ₹80/- per animal per day.\n- This assistance covers the cost of maintenance of Local Breed Cattle, which includes feed, fodder, and other miscellaneous costs, bundled together in one component.\n- Microchipping or ear tagging of the cattle will be done by the area Assistant Director, Veterinary Officer, or Veterinary Assistant of the Veterinary Hospital/Dispensary sub-centres under the instruction of the Assistant Director or Veterinary Officer.\n- The subsidy will be credited in the account of the beneficiary.\n\n\n- Financial assistance will be provided on a quarterly basis.\n- The area Assistant Director or Veterinary Officer shall visit the cattle shed every month and submit the quarterly report (as per Annexure “A”) for the release of the subsidy.\n\n##### ***Benefit Limitations***\n\n- The Scheme will be limited for a maximum of total 05 Local Breed Cattle per family.\n- The Government has the power to restrict the number of cows to be reared per applicant.\n- The number of cattle to be reared shall be restricted to 250 cows per District for the Scheme in the financial year 2024-2025, with subsequent increases based on response.\n\n##### ***Conditions***\n\n- The beneficiary must ensure the cattle are stall-fed in the cattle shed or kept within the paddock area.\n- The cattle must be housed as per the approved housing regulations for cattle by the Bureau of Indian Standards.\n- The cattle must be housed in a fashion that can be easily inspected and counted by the local area Assistant Director or Veterinary Officer of the Department of Animal Husbandry and Veterinary Services.\n- The Local Breed Cattle must be regularly vaccinated. Refusal to vaccinate the cattle will lead to the forfeiture of the benefits of the scheme immediately, including any benefits supposed to be received.\n- If the Local Breeds Cattle are found let loose outside the paddock area, further benefit of the Scheme will be stopped immediately and the farmer will not be considered in the Scheme in the future.\n- One-Time Exemption: In case the animal has let itself loose due to circumstances beyond the control of the owner, only one chance will be given. This requires a written request providing photographic proof of the animals, duly recommended by the Area Officer, and addressed to the Director, Animal Husbandry and Veterinary Services.\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Gomantak Govsamvardhan Yojana\" was launched by the Department of Animal Husbandry, Government of Goa. The scheme aims to conserve the Local Breeds of Cattle in the State of Goa by ensuring that Dairy Farmers or individuals rear these cattle, feeding them with feed, fodder, and providing water on a daily basis in their own property and cattle shed. The scheme provides financial assistance of ₹80/- per animal per day, disbursed quarterly, to cover maintenance costs including feed, fodder, and other miscellaneous costs, with a maximum limit of 05 Local Breed Cattle per family. The applications for this scheme are accepted by submitting a duly completed form along with a Notarized Agreement Bond to the relevant local area Assistant Director or Veterinary Officer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹80/- per animal per day."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This assistance covers the cost of maintenance of Local Breed Cattle, which includes feed, fodder, and other miscellaneous costs, bundled together in one component."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Microchipping or ear tagging of the cattle will be done by the area Assistant Director, Veterinary Officer, or Veterinary Assistant of the Veterinary Hospital/Dispensary sub-centres under the instruction of the Assistant Director or Veterinary Officer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy will be credited in the account of the beneficiary."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance will be provided on a quarterly basis."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The area Assistant Director or Veterinary Officer shall visit the cattle shed every month and submit the quarterly report (as per Annexure “A”) for the release of the subsidy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Benefit Limitations",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Scheme will be limited for a maximum of total 05 Local Breed Cattle per family."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Government has the power to restrict the number of cows to be reared per applicant."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The number of cattle to be reared shall be restricted to 250 cows per District for the Scheme in the financial year 2024-2025, with subsequent increases based on response."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary must ensure the cattle are stall-fed in the cattle shed or kept within the paddock area."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The cattle must be housed as per the approved housing regulations for cattle by the Bureau of Indian Standards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The cattle must be housed in a fashion that can be easily inspected and counted by the local area Assistant Director or Veterinary Officer of the Department of Animal Husbandry and Veterinary Services."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Local Breed Cattle must be regularly vaccinated. Refusal to vaccinate the cattle will lead to the forfeiture of the benefits of the scheme immediately, including any benefits supposed to be received."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If the Local Breeds Cattle are found let loose outside the paddock area, further benefit of the Scheme will be stopped immediately and the farmer will not be considered in the Scheme in the future."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One-Time Exemption: In case the animal has let itself loose due to circumstances beyond the control of the owner, only one chance will be given. This requires a written request providing photographic proof of the animals, duly recommended by the Area Officer, and addressed to the Director, Animal Husbandry and Veterinary Services."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Application Form Submission",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must access and duly fill in the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://goaprintingpress.gov.in/downloads/2425/2425-24-SI-OG-0.pdf",
+                    "children": [
+                      {
+                        "text": "prescribed application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ", ensuring it is completed in all respects, including all relevant details such as the permanent address where the cattle shed is located and bank account details. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must submit this completed application, along with all the required documents and the Notarized Agreement Bond, to the local area Assistant Director or Veterinary Officer of the Department of Animal Husbandry and Veterinary Services."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Payment of Application Fee",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must pay the non-refundable application processing fee, which is fixed at ₹50/-. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "This fee receipt or proof of payment must be submitted along with the application form."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Verification Survey and Recommendation",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The area Assistant Director or Veterinary Officer will conduct a mandatory verification survey of the premises and the number of local breed cattle, inspecting the cattle shed to ensure it meets the prescribed housing guidelines. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Following a satisfactory inspection, the officer will duly recommend the application and submit the entire file to the Director of Animal Husbandry & Veterinary Services for final sanction."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Microchipping or Ear Tagging",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon approval, the Local Breed Cattle will undergo either microchipping or ear tagging, a procedure which will be carried out by the area Assistant Director, Veterinary Officer, or Veterinary Assistant. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "This procedure is mandatory for the cattle to be eligible for availing the financial benefit of the Scheme."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Disbursement",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "To ensure compliance and continuity of benefits, the area Assistant Director or Veterinary Officer shall visit the cattle shed every month. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The officer will compile a quarterly progress report (Annexure “A”) to verify the maintenance and presence of the cattle. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Based on this approved quarterly report, the calculated financial subsidy amount will be credited directly into the savings bank account of the beneficiary."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### **Step 1:****** ***Application Form Submission***\n\n- The applicant must access and duly fill in the [prescribed application form](https://goaprintingpress.gov.in/downloads/2425/2425-24-SI-OG-0.pdf), ensuring it is completed in all respects, including all relevant details such as the permanent address where the cattle shed is located and bank account details. - The applicant must submit this completed application, along with all the required documents and the Notarized Agreement Bond, to the local area Assistant Director or Veterinary Officer of the Department of Animal Husbandry and Veterinary Services.\n\n##### **Step 2:****** ***Payment of Application Fee***\n\n- The applicant must pay the non-refundable application processing fee, which is fixed at ₹50/-. \n- This fee receipt or proof of payment must be submitted along with the application form.\n\n##### **Step 3:****** ***Verification Survey and Recommendation***\n\n- The area Assistant Director or Veterinary Officer will conduct a mandatory verification survey of the premises and the number of local breed cattle, inspecting the cattle shed to ensure it meets the prescribed housing guidelines. \n- Following a satisfactory inspection, the officer will duly recommend the application and submit the entire file to the Director of Animal Husbandry &amp; Veterinary Services for final sanction.\n\n##### **Step 4:****** ***Microchipping or Ear Tagging***\n\n- Upon approval, the Local Breed Cattle will undergo either microchipping or ear tagging, a procedure which will be carried out by the area Assistant Director, Veterinary Officer, or Veterinary Assistant. \n- This procedure is mandatory for the cattle to be eligible for availing the financial benefit of the Scheme.\n\n##### ***Disbursement***\n\n- To ensure compliance and continuity of benefits, the area Assistant Director or Veterinary Officer shall visit the cattle shed every month. \n- The officer will compile a quarterly progress report (Annexure “A”) to verify the maintenance and presence of the cattle. \n- Based on this approved quarterly report, the calculated financial subsidy amount will be credited directly into the savings bank account of the beneficiary.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a Dairy Farmer or an Individual of the State of Goa.\n- The applicant must be a bonafide resident of Goa for at least the preceding 15 years.\n- The applicant must own non-descript cattle or Shwet Kapila cattle.\n- The applicant must have an adequate cattle shed as per the Bureau of Indian Standard.\n- The scheme shall be applicable to rural areas and Class C and B Municipalities.\n- The applicant must be responsible for fulfilling the Pollution Control Board norms if the number of cattle reared exceeds 25 in number.\n\n_*If the number of applications received for rearing are more than 250 cattle per district, priority can be decided based on the grazing area of the beneficiary._\n##### ***Reservation***\n\n- Out of the 250 cattle per district, 12% shall be reserved for the Scheduled Tribes (ST).\n- Out of the 250 cattle per district, 2% shall be reserved for the Scheduled Castes (SC) respectively.\n- In case there is no demand in the reserved categories, the demand shall be booked under the general component.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a Dairy Farmer or an Individual of the State of Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a bonafide resident of Goa for at least the preceding 15 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must own non-descript cattle or Shwet Kapila cattle."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have an adequate cattle shed as per the Bureau of Indian Standard."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme shall be applicable to rural areas and Class C and B Municipalities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be responsible for fulfilling the Pollution Control Board norms if the number of cattle reared exceeds 25 in number."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*If the number of applications received for rearing are more than 250 cattle per district, priority can be decided based on the grazing area of the beneficiary.",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Reservation",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Out of the 250 cattle per district, 12% shall be reserved for the Scheduled Tribes (ST)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Out of the 250 cattle per district, 2% shall be reserved for the Scheduled Castes (SC) respectively."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case there is no demand in the reserved categories, the demand shall be booked under the general component."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ggy-goa"
+}

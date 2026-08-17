@@ -1,0 +1,265 @@
+{
+  "_id": "64657da58919dbd7e6f62a67",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 12,
+        "label": "Arunachal Pradesh"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 12111112,
+        "label": "Agriculture and Marketing Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": null,
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Malnutrition",
+        "Vegetable Cultivation",
+        "Livestock Rearing"
+      ],
+      "schemeName": "Cluster Nutritional Kitchen Garden Scheme",
+      "schemeShortTitle": "CNKGS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual",
+      "slug": "cnkgs",
+      "briefDescription": "The Cluster Nutritional Kitchen Garden Scheme (CNKGS) is an initiative launched by the government of Arunachal Pradesh to promote self-sufficiency and improve nutritional needs by encouraging the establishment of kitchen gardens."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Notification",
+          "url": "https://changlang.nic.in/scheme/cluster-nutritional-kitchen-garden-scheme/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The Cluster Nutritional Kitchen Garden Scheme (CNKGS) is an initiative launched by the government of Arunachal Pradesh to promote self-sufficiency and improve nutritional needs by encouraging the establishment of kitchen gardens.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Cluster Nutritional Kitchen Garden Scheme (CNKGS) aims to empower marginal farmers and the general public by promoting the cultivation of vegetables and the rearing of livestock within their own households. The scheme seeks to enhance self-sufficiency and improve nutritional requirements by enabling individuals to grow their own fresh and healthy produce. This initiative will be implemented at the district level under the guidance of the respective MLAs (Members of Legislative Assembly) and Deputy Commissioners."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Reduced dependence on other states for vegetables and livestock."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Improved self-sufficiency and availability of fresh and nutritious produce."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increased dietary diversity and improved nutritional intake."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Generation of additional income through surplus produce."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Promotion of sustainable farming practices and agro-ecological techniques."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Enhancement of food security at the household level."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Empowerment of marginalized farmers and the general public through skill development and entrepreneurship opportunities."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Large-scale commercial farmers who already have established farming operations."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individuals residing in urban areas without adequate space for kitchen gardening."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Those who do not have the necessary time, resources, or interest in maintaining a kitchen garden."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "The Cluster Nutritional Kitchen Garden Scheme (CNKGS) aims to empower marginal farmers and the general public by promoting the cultivation of vegetables and the rearing of livestock within their own households. The scheme seeks to enhance self-sufficiency and improve nutritional requirements by enabling individuals to grow their own fresh and healthy produce. This initiative will be implemented at the district level under the guidance of the respective MLAs (Members of Legislative Assembly) and Deputy Commissioners.\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Contact District Authority: Interested individuals should contact the respective district authority, such as the office of the MLA or the Deputy Commissioner, to express their intention to participate in the Cluster Nutritional Kitchen Garden Scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Obtain Application Form: The district authority will provide the applicants with the necessary application form and guidelines for the scheme. Applicants should carefully fill out the form with accurate information."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Submission of Application: The completed application form, along with the required documents, should be submitted to the designated authority within the specified timeline. The applicants may need to make multiple copies of the application form and documents for record-keeping."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Resident of Arunachal Pradesh: Applicants must be permanent residents of Arunachal Pradesh, possessing valid residential proof such as ration card, electricity bill, or driving license.\n- Marginal Farmers: The scheme is open to marginal farmers who own or lease small areas of agricultural land suitable for kitchen gardening. Land ownership documents or lease agreements may be required as proof.\n- General Public: Individuals from the general public who are interested in establishing a kitchen garden and meet the eligibility criteria are also eligible to apply for the scheme.\n- Availability of Space: Applicants must have sufficient space within their premises to establish a kitchen garden. Adequate land or open space is necessary for growing vegetables and rearing livestock.\n- Commitment and Capability: Eligible individuals should demonstrate the commitment and capability to maintain and sustain the kitchen garden. This includes dedicating time and effort for regular care, watering, and management of the garden.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Resident of Arunachal Pradesh: Applicants must be permanent residents of Arunachal Pradesh, possessing valid residential proof such as ration card, electricity bill, or driving license."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Marginal Farmers: The scheme is open to marginal farmers who own or lease small areas of agricultural land suitable for kitchen gardening. Land ownership documents or lease agreements may be required as proof."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General Public: Individuals from the general public who are interested in establishing a kitchen garden and meet the eligibility criteria are also eligible to apply for the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Availability of Space: Applicants must have sufficient space within their premises to establish a kitchen garden. Adequate land or open space is necessary for growing vegetables and rearing livestock."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Commitment and Capability: Eligible individuals should demonstrate the commitment and capability to maintain and sustain the kitchen garden. This includes dedicating time and effort for regular care, watering, and management of the garden."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cnkgs"
+}

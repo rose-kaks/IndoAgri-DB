@@ -1,0 +1,197 @@
+{
+  "_id": "68cbc41d6e1aaee61b21365d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Financial Assistance",
+        "Milk",
+        "Cooperative Society",
+        "Milk Production",
+        "Cattle"
+      ],
+      "schemeName": "Dugdh Mulya Protsahan Yojana",
+      "schemeShortTitle": "DMPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000068,
+        "label": "Dairy Development Department"
+      },
+      "slug": "dmpy",
+      "briefDescription": "The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 241)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Dugdh Mulya Protsahan Yojana” was launched by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies.\n<br>\n\n",
+      "benefits_md": "Under this scheme, in addition to paying the price of milk to cattle farmers who supply milk to milk cooperative societies, an incentive of ₹4.00 per litre or ₹3.00 per litre is also paid, as per the prescribed standards.\n<br>\n\n",
+      "briefDescription": "The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Dugdh Mulya Protsahan Yojana” was launched by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, in addition to paying the price of milk to cattle farmers who supply milk to milk cooperative societies, an incentive of ₹4.00 per litre or ₹3.00 per litre is also paid, as per the prescribed standards."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Members who supply milk to the cooperative society are paid ₹3.00 per litre for the prescribed standard (7.50% to 7.99% fat-free solids) and ₹4.00 per litre for 8.00% or higher fat-free solids. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The incentive is credited to the milk society members through Direct Benefit Transfer (DBT) into their bank accounts. For this purpose, milk suppliers must provide their bank account details to the cooperative society."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Members who supply milk to the cooperative society are paid ₹3.00 per litre for the prescribed standard (7.50% to 7.99% fat-free solids) and ₹4.00 per litre for 8.00% or higher fat-free solids. \n  - The incentive is credited to the milk society members through Direct Benefit Transfer (DBT) into their bank accounts. For this purpose, milk suppliers must provide their bank account details to the cooperative society.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a member of a milk-producing cooperative society supplying milk to the society.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a member of a milk-producing cooperative society supplying milk to the society."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dmpy"
+}

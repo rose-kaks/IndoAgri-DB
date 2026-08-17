@@ -1,0 +1,638 @@
+{
+  "_id": "689436146c611d43684e0396",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Tribal Farmers",
+        "Farm Mechanization",
+        "Post Harvest Management",
+        "Subsidy"
+      ],
+      "schemeName": "Integrated Horticulture Development Program for Tribal Area Farmers (TASP) HRT-3",
+      "schemeShortTitle": "IHDPTAF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "ihdptaf",
+      "briefDescription": "The scheme \"Integrated Horticulture Development Program for Tribal Area Farmers (TASP) HRT-3\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance the horticulture sector through financial assistance and subsidies to tribal area farmers across the state."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 270)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &amp;quot;Integrated Horticulture Development Program for Tribal Area Farmers (TASP) HRT-3&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to strengthen horticulture-based livelihoods and promote modern horticultural practices among tribal farmers through financial assistance for farm mechanization, processing units, crop protection, post-harvest management, and export-related infrastructure. The scheme provides targeted subsidies on equipment, units, and inputs to ensure sustainable horticultural growth in tribal areas.\n<br>\n\n",
+      "benefits_md": "> **Capacity Building &amp; Promotion:**\n\n\n- Assistance for publication and promotional materials related to horticultural crops.\n- Financial support for organizing and participating in exhibitions, competitions, and seminars.\n- Subsidy for organizing or participating in Krishi Melas and payment for stall rentals.\n\n> **Farm Mechanization Support:**\n\n\n- Subsidy for purchase of power tillers and mini tractors to enhance horticultural productivity.\n- Financial aid for harvesting equipment and crop protection equipment.\n\n> **Processing &amp; Value Addition:**\n\n\n- Support for establishment of new distillation units for medicinal and aromatic crops.\n\n\n- Subsidy for setting up new processing units for cashew and other fruit crops.\n\n\n- Assistance for processing equipment for value addition.\n\n> **Export Promotion:**\n\n\n- Sea fridge subsidy for export of fruits, vegetables, flowers, and plants.\n- Air fridge subsidy to promote export of horticultural produce.\n\n> **Price Stabilization:**\n\n\n- Minimum Support Price (MSP) assistance to ensure stable market prices for horticultural crops.\n\n> **Infrastructure &amp; Utilities Support:**\n\n\n- Subsidy on electricity bills for operating greenhouses and tissue culture laboratories.\n- Support for hi-tech greenhouses (with fan and pad system).\n- Support for naturally ventilated polyhouses and net houses.\n\n> **Post-Harvest Management:**\n\n\n- Subsidy for packing materials used in post-harvest handling of horticultural produce.\n- Support for setting up kaccha mandaps for tomato/chilly and other vegetable marketing.\n- Construction of vegetable trellises and half-lined pedestrian paths for climbing vegetable crops.\n\n<br>\n\n",
+      "briefDescription": "The scheme \"Integrated Horticulture Development Program for Tribal Area Farmers (TASP) HRT-3\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance the horticulture sector through financial assistance and subsidies to tribal area farmers across the state.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Integrated Horticulture Development Program for Tribal Area Farmers (TASP) HRT-3\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to strengthen horticulture-based livelihoods and promote modern horticultural practices among tribal farmers through financial assistance for farm mechanization, processing units, crop protection, post-harvest management, and export-related infrastructure. The scheme provides targeted subsidies on equipment, units, and inputs to ensure sustainable horticultural growth in tribal areas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Capacity Building & Promotion:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for publication and promotional materials related to horticultural crops."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial support for organizing and participating in exhibitions, competitions, and seminars."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy for organizing or participating in Krishi Melas and payment for stall rentals."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Farm Mechanization Support:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy for purchase of power tillers and mini tractors to enhance horticultural productivity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial aid for harvesting equipment and crop protection equipment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Processing & Value Addition:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for establishment of new distillation units for medicinal and aromatic crops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy for setting up new processing units for cashew and other fruit crops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance for processing equipment for value addition."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Export Promotion:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sea fridge subsidy for export of fruits, vegetables, flowers, and plants."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Air fridge subsidy to promote export of horticultural produce."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Price Stabilization:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Minimum Support Price (MSP) assistance to ensure stable market prices for horticultural crops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Infrastructure & Utilities Support:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy on electricity bills for operating greenhouses and tissue culture laboratories."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for hi-tech greenhouses (with fan and pad system)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for naturally ventilated polyhouses and net houses."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Post-Harvest Management:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy for packing materials used in post-harvest handling of horticultural produce."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Support for setting up kaccha mandaps for tomato/chilly and other vegetable marketing."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Construction of vegetable trellises and half-lined pedestrian paths for climbing vegetable crops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "align_justify",
+                "children": [
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Registration Process:",
+                        "bold": true
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1: ",
+                        "bold": true
+                      },
+                      {
+                        "text": "The applicant may visit and apply online at the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "children": [
+                          {
+                            "text": "I-Khedut"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Login Process:",
+                        "bold": true
+                      },
+                      {
+                        "text": " "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 1:",
+                        "bold": true
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/site/",
+                        "children": [
+                          {
+                            "text": "I-Khedut"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " Portal."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 2:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 3:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 4:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on the \"Apply New\" button and submit a new application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 5:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 6:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Once the application is done, confirm it."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "children": [
+                      {
+                        "text": "Step 7:",
+                        "bold": true
+                      },
+                      {
+                        "text": " Take a printout of the confirmed application."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "block_quote",
+                    "children": [
+                      {
+                        "text": "Contact Us:",
+                        "bold": true
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "&amp;gt; **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side, then click on &amp;amp;quot;Beneficiary Registration&amp;amp;quot; and select any one from the &amp;amp;#39;Farmer&amp;amp;#39; or &amp;amp;#39;Institutional&amp;amp;#39; or &amp;amp;#39;Except For the Farmer&amp;amp;#39; as the Beneficiary Type.\n**Step 3:** Select the District, Taluka, and Village, choose &amp;amp;#39;what type of account holder you are?&amp;amp;#39;, enter your Account Number and Name, solve the Captcha, and click &amp;amp;#39;Save and Next&amp;amp;#39;.\n**Step 4:** Enter your Mobile Number and Email address, click &amp;amp;#39;Send OTP&amp;amp;#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &amp;amp;#39;Submit&amp;amp;#39;.\n&amp;gt; **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/site/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant should be a resident of Gujarat.\n  - The applicant should be a farmer.\n  - The applicant should belong to the Scheduled Tribe (ST) category.\n  - The applicant should be practicing horticulture in tribal areas.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Gujarat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should belong to the Scheduled Tribe (ST) category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be practicing horticulture in tribal areas."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ihdptaf"
+}

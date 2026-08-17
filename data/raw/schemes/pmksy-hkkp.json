@@ -1,0 +1,293 @@
+{
+  "_id": "68d7d9854f63c0ebeb90c944",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Irrigation",
+        "Surface Irrigation",
+        "Agriculture"
+      ],
+      "schemeName": "Pradhan Mantri Krishi Sinchayee Yojana - Har Khet Ko Pani (Surface Scheme) Uttarakhand",
+      "schemeShortTitle": "PMKSYHKKP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000029,
+        "label": "Minor Irrigation Department"
+      },
+      "slug": "pmksy-hkkp",
+      "briefDescription": "The scheme aims to provide every farmer with reliable surface irrigation facilities by developing sustainable irrigation infrastructure, ensuring that every field receives adequate water to improve agricultural productivity."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 245)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://minorirrigation.uk.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana – Har Khet Ko Pani (Surface Irrigation Scheme)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide every farmer with reliable surface irrigation facilities by developing sustainable irrigation infrastructure, ensuring that every field receives adequate water to improve agricultural productivity. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share.\n<br>\n\n",
+      "benefits_md": "Under this scheme, farmers are provided with free irrigation facilities. The following works are carried out to ensure irrigation support:\n\n- Pipelines / Gool (water channels)\n- Storage tanks / Geo-lined tanks\n- Solar pump sets\n- Small gated weirs\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide every farmer with reliable surface irrigation facilities by developing sustainable irrigation infrastructure, ensuring that every field receives adequate water to improve agricultural productivity.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Pradhan Mantri Krishi Sinchayee Yojana – Har Khet Ko Pani (Surface Irrigation Scheme)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide every farmer with reliable surface irrigation facilities by developing sustainable irrigation infrastructure, ensuring that every field receives adequate water to improve agricultural productivity. This scheme is a centrally sponsored scheme with a funding pattern of 90% Central share and 10% State share."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under this scheme, farmers are provided with free irrigation facilities. The following works are carried out to ensure irrigation support:"
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pipelines / Gool (water channels)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Storage tanks / Geo-lined tanks"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Solar pump sets"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Small gated weirs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After examination by the departmental TAC, the DPR is forwarded to the headquarters. Thereafter, following approval by the State-level Technical Advisory Committee, the proposals are forwarded to the State Level Sanctioning Committee, chaired by the Chief Secretary of the Government of Uttarakhand. Upon approval, the DPR is forwarded to the Government of India for financial sanction. The construction work of the projects is initiated after receiving financial approval from the Government of India."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - For construction of the project, project&amp;#39;s proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.\n  - After examination by the departmental TAC, the DPR is forwarded to the headquarters. Thereafter, following approval by the State-level Technical Advisory Committee, the proposals are forwarded to the State Level Sanctioning Committee, chaired by the Chief Secretary of the Government of Uttarakhand. Upon approval, the DPR is forwarded to the Government of India for financial sanction. The construction work of the projects is initiated after receiving financial approval from the Government of India.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must be a farmer engaged in agricultural activities.\n   1. As per the guidelines issued by the Government of India:\n\n\n  - For the construction of collective irrigation schemes, clusters will be formed within a radius of 5 km from the proposed village, with a command area of 20 hectares or more.\n  - In the case of an individual scheme, the command area should be 10 hectares or more.\n  - The cost of the scheme must not exceed ₹4.00 lakh per hectare.\n  - The benefit-cost ratio of the scheme must be greater than 1.0.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The beneficiary must be a resident of Uttarakhand."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The beneficiary must be a farmer engaged in agricultural activities."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "As per the guidelines issued by the Government of India:"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For the construction of collective irrigation schemes, clusters will be formed within a radius of 5 km from the proposed village, with a command area of 20 hectares or more."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In the case of an individual scheme, the command area should be 10 hectares or more."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The cost of the scheme must not exceed ₹4.00 lakh per hectare."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The benefit-cost ratio of the scheme must be greater than 1.0."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pmksy-hkkp"
+}

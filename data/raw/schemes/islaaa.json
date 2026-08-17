@@ -1,0 +1,307 @@
+{
+  "_id": "65700aa4f2dded0c8096577c",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000017,
+        "label": "Fisheries Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Fisheries",
+        "Animal Husbandry",
+        "Loan",
+        "Agriculture",
+        "Subsidy"
+      ],
+      "schemeName": "Interest Subsidy on Loans for Agriculture and Allied Activities",
+      "schemeShortTitle": "ISLAAA",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeFor": "Individual",
+      "slug": "islaaa",
+      "briefDescription": "“Interest Subsidy on Loans for Agriculture and Allied Activities” is a scheme by the Dept. of Fisheries, Govt. of Goa. The bonafide agriculturist, individual of the animal husbandry/fisheries sector from Goa are provided a loan of upto ₹ 5,00,000 for the purpose of Agriculture and Allied Activities."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.goa.gov.in/schemes-services/"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "“Interest Subsidy on Loans for Agriculture and Allied Activities” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the bonafide agriculturist, individuals of the animal husbandry sector/ fisheries sector from Goa are provided a loan of upto ₹ 5,00,000 for the purpose of Agriculture and Allied Activities. The applications are accepted only in offline mode. \n",
+      "benefits_md": "\n- Loan of upto ₹ 5,00,000.\n- Interest Subsidy on Short-Term Loans: 4% to farmers who promptly repay their loans.\n- Interest Subsidy on Long-Term Loans: Equal to the difference between a 4% interest rate and the normal rate charged by eligible Banks, in line with their policies. The subsidy is subject to a maximum limit of 8%.\n\n",
+      "briefDescription": "“Interest Subsidy on Loans for Agriculture and Allied Activities” is a scheme by the Dept. of Fisheries, Govt. of Goa. The bonafide agriculturist, individual of the animal husbandry/fisheries sector from Goa are provided a loan of upto ₹ 5,00,000 for the purpose of Agriculture and Allied Activities.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Interest Subsidy on Loans for Agriculture and Allied Activities” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the bonafide agriculturist, individuals of the animal husbandry sector/ fisheries sector from Goa are provided a loan of upto ₹ 5,00,000 for the purpose of Agriculture and Allied Activities. The applications are accepted only in offline mode. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Loan of upto ₹ 5,00,000."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interest Subsidy on Short-Term Loans: 4% to farmers who promptly repay their loans."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interest Subsidy on Long-Term Loans: Equal to the difference between a 4% interest rate and the normal rate charged by eligible Banks, in line with their policies. The subsidy is subject to a maximum limit of 8%."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should request the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the department."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+              },
+              {
+                "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "BDO Office/ Sub-Offices"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": " of the Department of Fisheries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Grievance Redressal",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "Grievance Redressal Officer"
+                  }
+                ]
+              },
+              {
+                "text": ". The grievance can also be lodged on the link "
+              },
+              {
+                "text": "dir-fish.goa@nic.in",
+                "bold": true
+              },
+              {
+                "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should request the [prescribed format](https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf) of the application form from the department.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "> **For Inland Fisheries**\n\n\n- The applicant should own or lease any of the fisheries-related activities, such as pond, tank, open water bodies, raceway, hatchery, rearing unit, possess the necessary license for fish farming and fishing-related activities, and any other state-specific fisheries and allied activities.\n- The applicant may include fishers, fish farmers (individual &amp; groups/partners/share/croppers/tenants/farmers), self-help groups, joint liability groups, and women groups.\n\n> **For Marine Fisheries**\n\n\n- The applicant should own or lease a registered fishing vessel/boat, possess the necessary fishing license/permission for fishing in estuaries and sea, engage in fish farming/mariculture activities in estuaries and open sea, and participate in any other state-specific fisheries and allied activities.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "For Inland Fisheries",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should own or lease any of the fisheries-related activities, such as pond, tank, open water bodies, raceway, hatchery, rearing unit, possess the necessary license for fish farming and fishing-related activities, and any other state-specific fisheries and allied activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant may include fishers, fish farmers (individual & groups/partners/share/croppers/tenants/farmers), self-help groups, joint liability groups, and women groups."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "For Marine Fisheries",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should own or lease a registered fishing vessel/boat, possess the necessary fishing license/permission for fishing in estuaries and sea, engage in fish farming/mariculture activities in estuaries and open sea, and participate in any other state-specific fisheries and allied activities."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "islaaa"
+}

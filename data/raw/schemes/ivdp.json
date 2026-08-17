@@ -1,0 +1,212 @@
+{
+  "_id": "68f0d82a6e57497683c40118",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Vegetable Production",
+        "Hybrid Seeds",
+        "Seed Treatment"
+      ],
+      "schemeName": "Integrated Vegetable Development Program",
+      "schemeShortTitle": "IVDP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "slug": "ivdp",
+      "briefDescription": "The scheme aims to increase vegetable production in all district headquarters and within a 20 km radius of industrial establishments in Madhya Pradesh through integrated vegetable development."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Integrated Vegetable Development Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to increase vegetable production through integrated vegetable development by providing financial assistance for hybrid and improved seeds and seed treatment to farmers within the targeted area.\n<br>\n\n",
+      "benefits_md": "\n  - **For General Category Farmers:** Financial assistance of ₹1,500/- per hectare, including ₹1,400/- for hybrid/improved seeds and ₹100/- for seed treatment medicine.  - **For Scheduled Caste/Scheduled Tribe Farmers:** Financial assistance of ₹2,250/- per hectare, including ₹2,100/- for hybrid/improved seeds and ₹150/- for seed treatment medicine.\n<br>\n\n",
+      "briefDescription": "The scheme aims to increase vegetable production in all district headquarters and within a 20 km radius of industrial establishments in Madhya Pradesh through integrated vegetable development.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Integrated Vegetable Development Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to increase vegetable production through integrated vegetable development by providing financial assistance for hybrid and improved seeds and seed treatment to farmers within the targeted area."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For General Category Farmers: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Financial assistance of ₹1,500/- per hectare, including ₹1,400/- for hybrid/improved seeds and ₹100/- for seed treatment medicine."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For Scheduled Caste/Scheduled Tribe Farmers: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Financial assistance of ₹2,250/- per hectare, including ₹2,100/- for hybrid/improved seeds and ₹150/- for seed treatment medicine."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant should contact the District Office of the Horticulture Department."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n  - The applicant must belong to the General/ Scheduled Caste/ Scheduled Tribe category.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must belong to the General/ Scheduled Caste/ Scheduled Tribe category."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ivdp"
+}

@@ -1,0 +1,411 @@
+{
+  "_id": "642169ee4149152a5caef36c",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2011-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444462,
+        "label": "Rural Development Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Mukhya Mantri",
+        "Mahila",
+        "Kisan",
+        "Sashaktikaran Yojana"
+      ],
+      "schemeName": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana",
+      "schemeShortTitle": "MMKSY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "mmksy",
+      "briefDescription": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana (MMKSY) is a scheme launched by the Government of Gujarat to empower women farmers in the state. The scheme was announced in the 2018-19 budget and is being implemented by the Department of Agriculture and Co-operation. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mksp.gov.in/images/MKSP_Agriculture_Guidelines.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Mukhya Mantri Mahila Kisan Sashaktikaran Yojana (MMKSY) is a scheme launched by the Government of Gujarat to empower women farmers in the state. The scheme was announced in the 2018-19 budget and is being implemented by the Department of Agriculture and Co-operation. ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Detailed ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Under the MMKSY scheme, women farmers in Gujarat are provided with financial assistance and training to help them enhance their agricultural productivity and income. The scheme aims to provide a holistic approach towards the development of women farmers, including improving their access to inputs, credit, technology, and market."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of the key components of the scheme include:"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Providing financial assistance for farm activities, such as purchasing agricultural inputs, seeds, equipment, etc."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Providing training and capacity building for women farmers to enhance their skills and knowledge."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Encouraging the formation of women farmer groups and providing support for their collective activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Providing access to credit for women farmers through various financial institutions."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Providing market linkages and support for marketing their produce."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The MMKSY scheme is aimed at promoting women's participation in agriculture and reducing the gender gap in agriculture-related activities. It is expected to benefit around 7 lakh women farmers in the state of Gujarat"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Benefits",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Assistance: The scheme provides financial assistance to women farmers for various farm activities like purchasing inputs, seeds, equipment, etc. This helps in improving their agricultural productivity and income."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Training and Capacity Building: The scheme offers training and capacity-building programs to women farmers to enhance their skills and knowledge about modern agricultural practices. This helps in improving their productivity and income."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Access to Credit: The scheme aims to provide easy access to credit to women farmers through various financial institutions. This helps in reducing their dependency on moneylenders and promotes financial inclusion."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exclusions",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Government employees are not allowed to apply to the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The student obtaining benefits under this scheme shall not be allowed to avail of benefits under any other scheme for this purpose."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "**Detailed** \nUnder the MMKSY scheme, women farmers in Gujarat are provided with financial assistance and training to help them enhance their agricultural productivity and income. The scheme aims to provide a holistic approach towards the development of women farmers, including improving their access to inputs, credit, technology, and market.\n<br>\n\nSome of the key components of the scheme include:\n\n1. Providing financial assistance for farm activities, such as purchasing agricultural inputs, seeds, equipment, etc.\n1. Providing training and capacity building for women farmers to enhance their skills and knowledge.\n1. Encouraging the formation of women farmer groups and providing support for their collective activities.\n1. Providing access to credit for women farmers through various financial institutions.\n1. Providing market linkages and support for marketing their produce.\n\n<br>\n\nThe MMKSY scheme is aimed at promoting women&#39;s participation in agriculture and reducing the gender gap in agriculture-related activities. It is expected to benefit around 7 lakh women farmers in the state of Gujarat\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process ",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Visit the nearest government agriculture office or village panchayat office to obtain the application form for MMKSY."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill in the application form with all the required details such as personal information, landholding details, agricultural activities, etc."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach all the necessary documents, such as land ownership documents, identity proof, and bank account details, along with the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the application form along with the documents to the government agriculture office or village panchayat office."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After submission, the application will be verified by the concerned authorities, and financial assistance will be provided to eligible women farmers."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "bold": true,
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Eligibility** \n\n1. Women Farmers: Only women farmers are eligible to apply for the scheme. Women farmers who own or operate agricultural land are eligible to apply.\n1. Resident of Gujarat: Only women farmers who are residents of Gujarat are eligible to apply.\n1. Age Criteria: There is no specific age limit for the scheme. Women farmers of all age groups can apply.\n1. Income Criteria: There is no specific income criteria for the scheme. However, preference is given to women farmers who belong to economically weaker sections.\n1. Land Holding: Women farmers who own or operate agricultural land are eligible to apply. The size of the landholding is not a criterion for eligibility.\n1. Registration: Women farmers have to register themselves with the Department of Agriculture and Co-operation to apply for the scheme.\n1. Group Formation: Women farmers can also form groups and apply for the scheme collectively..\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligibility ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Women Farmers: Only women farmers are eligible to apply for the scheme. Women farmers who own or operate agricultural land are eligible to apply."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Resident of Gujarat: Only women farmers who are residents of Gujarat are eligible to apply."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Age Criteria: There is no specific age limit for the scheme. Women farmers of all age groups can apply."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Income Criteria: There is no specific income criteria for the scheme. However, preference is given to women farmers who belong to economically weaker sections."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Land Holding: Women farmers who own or operate agricultural land are eligible to apply. The size of the landholding is not a criterion for eligibility."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registration: Women farmers have to register themselves with the Department of Agriculture and Co-operation to apply for the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Group Formation: Women farmers can also form groups and apply for the scheme collectively.."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mmksy"
+}

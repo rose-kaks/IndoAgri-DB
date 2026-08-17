@@ -1,0 +1,244 @@
+{
+  "_id": "685d2e3b4a527a64d8114035",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Solar Pump",
+        "Lift Irrigation",
+        "Minor Irrigation",
+        "Irrigation",
+        "Farmer"
+      ],
+      "schemeName": "Construction of Solar Pump-Based Lift Irrigation Projects (For Hilly Areas)",
+      "schemeShortTitle": "CSPLIP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000029,
+        "label": "Minor Irrigation Department"
+      },
+      "slug": "cspblisuk",
+      "briefDescription": "The scheme aims to provide free and reliable irrigation facilities to farmers in hilly areas by constructing solar-powered lift irrigation projects on high-altitude agricultural lands where conventional canal or pipeline irrigation is not feasible."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines Page No. 247",
+          "url": "https://www.google.com/url?q=https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf&sa=D&source=docs&ust=1750927616357877&usg=AOvVaw04FwRQf8ZVw0xT2NNrjJSo"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://minorirrigation.uk.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Construction of Solar Pump-Based Lift Irrigation Projects (For Hilly Areas)” was launched by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide free and reliable irrigation facilities to farmers in hilly areas by constructing solar-powered lift irrigation projects on high-altitude agricultural lands where conventional canal or pipeline irrigation is not feasible. It is a 100% state government-funded scheme.\n<br>\n\n",
+      "benefits_md": "Under this scheme, farmers will be provided with free irrigation facilities. \nIn hilly areas, irrigation facilities is made available by constructing solar-powered lift irrigation projects on agricultural lands located at high altitudes, where providing irrigation through canals or pipelines is not feasible.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide free and reliable irrigation facilities to farmers in hilly areas by constructing solar-powered lift irrigation projects on high-altitude agricultural lands where conventional canal or pipeline irrigation is not feasible.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Construction of Solar Pump-Based Lift Irrigation Projects (For Hilly Areas)” was launched by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide free and reliable irrigation facilities to farmers in hilly areas by constructing solar-powered lift irrigation projects on high-altitude agricultural lands where conventional canal or pipeline irrigation is not feasible. It is a 100% state government-funded scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, farmers will be provided with free irrigation facilities. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "In hilly areas, irrigation facilities is made available by constructing solar-powered lift irrigation projects on agricultural lands located at high altitudes, where providing irrigation through canals or pipelines is not feasible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After examination by the departmental TAC, the DPR is forwarded to the headquarters. After which the proposal is sent to the government for approval. The construction work of the projects is initiated after receiving financial approval from the Government."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - For construction of the project, project&amp;#39;s proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.\n  - After examination by the departmental TAC, the DPR is forwarded to the headquarters. After which the proposal is sent to the government for approval. The construction work of the projects is initiated after receiving financial approval from the Government.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The beneficiary must be a resident of Uttarakhand.\n- The beneficiary must be a farmer engaged in agricultural activities.\n- Collective irrigation projects will be constructed under the project.\n- The project cost must not exceed ₹4.00 lakh per hectare, and the benefit-cost ratio must be greater than 1.0.\n- The project is to be implemented specifically in hilly areas.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a farmer engaged in agricultural activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Collective irrigation projects will be constructed under the project."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The project cost must not exceed ₹4.00 lakh per hectare, and the benefit-cost ratio must be greater than 1.0."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The project is to be implemented specifically in hilly areas."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cspblisuk"
+}

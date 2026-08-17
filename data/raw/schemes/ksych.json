@@ -1,0 +1,388 @@
+{
+  "_id": "64e460df9a06d82f412c1865",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2200001,
+        "label": "Agriculture Development and Farmer Welfare and Bio-Technology Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Farmers",
+        "Agriculture",
+        "Pump Installation"
+      ],
+      "schemeName": "Kisan Samriddhi Yojana - Chhattisgarh",
+      "schemeShortTitle": "Ksych",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 22,
+        "label": "Chhattisgarh"
+      },
+      "schemeFor": "Individual",
+      "slug": "ksych",
+      "briefDescription": "Chhattisgarh State Government started a scheme \"Kisan Samriddhi Yojana\" for farmer."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines-1",
+          "url": "https://agriportal.cg.nic.in/agridept/StateScheme/2%20kisansamriddhi.pdf"
+        },
+        {
+          "title": "Guidelines-2",
+          "url": "https://agriportal.cg.nic.in/agridept/StateScheme/2.%20amnd-kisansamriddhi.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "This scheme provide grant to farmers on tube well mining and pump installation. The main objective of the scheme is to increase the productivity and crop intensity by making proper use of available ground water through tube wells and providing irrigation facilities to the crops.\n",
+      "benefits_md": "**Mining Grant:**\n**S. No.****Farmer Category****Grant Eligibility**1GeneralActual Cost of mining (Including casing pipe) or Rs. 10,000/- whichever is less2SC/ST Actual Cost of mining (Including casing pipe) or Rs. 18,000/- whichever is less<br>\n\n**Subsidy on pump installation:**\n**S. No.****Farmer Category****Grant Eligibility**1GeneralCost of pump and accessories or Rs. 20,000/- whichever is less.2SC/STCost of pump and accessories or Rs. 25,000/- whichever is less.<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "Chhattisgarh State Government started a scheme \"Kisan Samriddhi Yojana\" for farmer.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This scheme provide grant to farmers on tube well mining and pump installation. The main objective of the scheme is to increase the productivity and crop intensity by making proper use of available ground water through tube wells and providing irrigation facilities to the crops."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mining Grant:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "S. No.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Farmer Category",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Grant Eligibility",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "General"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Actual Cost of mining (Including casing pipe) or Rs. 10,000/- whichever is less"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "SC/ST "
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Actual Cost of mining (Including casing pipe) or Rs. 18,000/- whichever is less"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subsidy on pump installation:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "S. No.",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Farmer Category",
+                      "bold": true
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Grant Eligibility",
+                      "bold": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "1"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "General"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Cost of pump and accessories or Rs. 20,000/- whichever is less."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table_row",
+              "children": [
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "2"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "SC/ST"
+                    }
+                  ]
+                },
+                {
+                  "type": "table_cell",
+                  "children": [
+                    {
+                      "text": "Cost of pump and accessories or Rs. 25,000/- whichever is less."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant farmer need to approach panchayat first."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The selection of farmers will be done with the approval of the three-tier panchayat."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n- Applicant farmer need to approach panchayat first.\n- The selection of farmers will be done with the approval of the three-tier panchayat.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Farmers of all categories of districts will be benefited.\n1. Preference will be given to small and marginal farmers\n1. The farmers who have received the benefit of tube well mining grant in the past under any other scheme run by the department or under this scheme will not be eligible.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers of all categories of districts will be benefited."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Preference will be given to small and marginal farmers"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers who have received the benefit of tube well mining grant in the past under any other scheme run by the department or under this scheme will not be eligible."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ksych"
+}

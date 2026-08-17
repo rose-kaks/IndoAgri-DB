@@ -1,0 +1,489 @@
+{
+  "_id": "690066e8b29d98f5f7bab5fe",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Incentive",
+        "Agriculture",
+        "Procurement",
+        "Subsidy"
+      ],
+      "schemeName": "Mukhya Mantri Krishak Samriddhi Yojana",
+      "schemeShortTitle": "MMKSY-MP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300011,
+        "label": "Farmer Welfare and Agriculture Development Department"
+      },
+      "slug": "mmksy-mp",
+      "briefDescription": "The scheme aims to incentivize farmers for improving production and quality of specific Rabi and Kharif crops by providing an incentive payment over and above the Minimum Support Price received. It provides varying financial incentives per quintal to registered farmers selling wheat, paddy, etc."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpkrishi.mp.gov.in/hindisite_New/MKSY.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Mukhya Mantri Krishak Samriddhi Yojana” was launched by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh. The scheme aims to incentivize farmers based on the cost of cultivation, increase in productivity, and the Fair Average Quality (FAQ) of their agricultural produce. The scheme provides varying financial incentives per quintal for registered farmers who sell specific crops during designated marketing seasons, including ₹265/- per quintal for wheat and ₹100/- per quintal for gram, lentil, and mustard in Rabi Marketing Season 2017-18, and ₹200/- per quintal for paddy (Kharif 2016) and wheat (Rabi 2016-17). The applicant must be a registered farmer who has sold their eligible produce during the designated period and whose bank account details have been authenticated for receiving the incentive amount. The scheme is implemented by the Farmer Welfare and Agriculture Development Department, Madhya Pradesh Government. The applications for this scheme are accepted based on prior registration under the e-Upajan Scheme and verified sales data recorded through Agricultural Produce Market Committees (Mandis) or procurement centers.\n<br>\n\n",
+      "benefits_md": "\n- An incentive amount of ₹200/- per quintal is provided for Paddy cultivated during Kharif 2016.\n- An incentive amount of ₹200/- per quintal is provided for Wheat cultivated during Rabi Marketing Season 2016-17.\n- An incentive amount of ₹265/- per quintal is provided for Wheat cultivated during Rabi Marketing Season 2017-18.\n- An incentive amount of ₹100/- per quintal is provided for Gram, Lentil (Masur), and Mustard (Sarson) cultivated during Rabi Marketing Season 2017-18.\n\n<br>\n\n***Mode, Frequency, and Time of Disbursal***\n\n- **Mode of Disbursal:** Real Time Gross Settlement (RTGS) or National Electronic Funds Transfer (NEFT).- **Frequency:** One-time payment per eligible season/crop (Implied).- **Time of Disbursal:** Actions for depositing the incentive amounts for Rabi Marketing Season 2017-18 crops (Wheat, Gram, Lentil, Mustard) must be completed by 10 June 2018.\n<br>\n\n***Conditions***\n\n- The incentive amount is granted for Wheat sold by registered farmers in the Agricultural Produce Market Committee (Mandi) or through procurement between 15 March 2018 and 26 May 2018.\n- The incentive amount is granted for Gram, Lentil, or Mustard sold by registered farmers in the Agricultural Produce Market Committee (Mandi) or through procurement between 10 April 2018 and 9 June 2018.\n- The benefit is paid regardless of whether the produce was sold at the Agricultural Produce Market Committee below the Minimum Support Price or above the Minimum Support Price.\n- The bank account of the beneficiary farmer must be authenticated and verified by the relevant authorities.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to incentivize farmers for improving production and quality of specific Rabi and Kharif crops by providing an incentive payment over and above the Minimum Support Price received. It provides varying financial incentives per quintal to registered farmers selling wheat, paddy, etc.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Mukhya Mantri Krishak Samriddhi Yojana” was launched by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh. The scheme aims to incentivize farmers based on the cost of cultivation, increase in productivity, and the Fair Average Quality (FAQ) of their agricultural produce. The scheme provides varying financial incentives per quintal for registered farmers who sell specific crops during designated marketing seasons, including ₹265/- per quintal for wheat and ₹100/- per quintal for gram, lentil, and mustard in Rabi Marketing Season 2017-18, and ₹200/- per quintal for paddy (Kharif 2016) and wheat (Rabi 2016-17). The applicant must be a registered farmer who has sold their eligible produce during the designated period and whose bank account details have been authenticated for receiving the incentive amount. The scheme is implemented by the Farmer Welfare and Agriculture Development Department, Madhya Pradesh Government. The applications for this scheme are accepted based on prior registration under the e-Upajan Scheme and verified sales data recorded through Agricultural Produce Market Committees (Mandis) or procurement centers."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An incentive amount of ₹200/- per quintal is provided for Paddy cultivated during Kharif 2016."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An incentive amount of ₹200/- per quintal is provided for Wheat cultivated during Rabi Marketing Season 2016-17."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An incentive amount of ₹265/- per quintal is provided for Wheat cultivated during Rabi Marketing Season 2017-18."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An incentive amount of ₹100/- per quintal is provided for Gram, Lentil (Masur), and Mustard (Sarson) cultivated during Rabi Marketing Season 2017-18."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mode, Frequency, and Time of Disbursal",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mode of Disbursal:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " Real Time Gross Settlement (RTGS) or National Electronic Funds Transfer (NEFT)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Frequency:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " One-time payment per eligible season/crop (Implied)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Time of Disbursal:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " Actions for depositing the incentive amounts for Rabi Marketing Season 2017-18 crops (Wheat, Gram, Lentil, Mustard) must be completed by 10 June 2018."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The incentive amount is granted for Wheat sold by registered farmers in the Agricultural Produce Market Committee (Mandi) or through procurement between 15 March 2018 and 26 May 2018."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The incentive amount is granted for Gram, Lentil, or Mustard sold by registered farmers in the Agricultural Produce Market Committee (Mandi) or through procurement between 10 April 2018 and 9 June 2018."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The benefit is paid regardless of whether the produce was sold at the Agricultural Produce Market Committee below the Minimum Support Price or above the Minimum Support Price."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The bank account of the beneficiary farmer must be authenticated and verified by the relevant authorities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Registration Process",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must register themselves on the dedicated e-Upajan portal, which was developed by the National Informatics Centre (N.I.C.). "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "This mandatory registration process requires the farmer to submit specific details, including their Aadhaar Card, mobile number, bank account information, the year of cultivation, the expected payment period, and the expected payment details."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Application Process",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The applicant must cultivate and sell the specified crop (such as Wheat, Gram, Lentil, or Mustard) during the designated marketing season and within the prescribed timeframe. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "This sale must take place at either an authorized Agricultural Produce Market Committee (Mandi) or a Procurement Center. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Upon completion of the sale, documentation recording the Mandi entry slip sequence number, the date of sale, the commodity sequence number, the quantity sold, and the total payment received must be acquired and recorded."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Post-Application Process",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The data pertaining to the registered farmer, their bank account, and the details of the quantity of produce sold are subject to a verification and authentication process. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "This task is carried out by the District Level Implementation Committee, which operates under the chairmanship of the District Collector."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Disbursement Of Incentive Funds",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Following successful verification and approval by the District Level Implementation Committee, the calculated incentive amount is transferred directly to the eligible applicant's bank account. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The transfer uses electronic methods, specifically Real Time Gross Settlement (RTGS) or National Electronic Funds Transfer (NEFT), to ensure the funds reach the account registered on the e-Upajan portal."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "##### ***Registration Process***\n\n- The applicant must register themselves on the dedicated e-Upajan portal, which was developed by the National Informatics Centre (N.I.C.). \n- This mandatory registration process requires the farmer to submit specific details, including their Aadhaar Card, mobile number, bank account information, the year of cultivation, the expected payment period, and the expected payment details.\n\n##### ***Application Process***\n\n- The applicant must cultivate and sell the specified crop (such as Wheat, Gram, Lentil, or Mustard) during the designated marketing season and within the prescribed timeframe. \n- This sale must take place at either an authorized Agricultural Produce Market Committee (Mandi) or a Procurement Center. \n- Upon completion of the sale, documentation recording the Mandi entry slip sequence number, the date of sale, the commodity sequence number, the quantity sold, and the total payment received must be acquired and recorded.\n\n##### ***Post-Application Process***\n\n- The data pertaining to the registered farmer, their bank account, and the details of the quantity of produce sold are subject to a verification and authentication process. \n- This task is carried out by the District Level Implementation Committee, which operates under the chairmanship of the District Collector.\n\n##### ***Disbursement Of Incentive Funds***\n\n- Following successful verification and approval by the District Level Implementation Committee, the calculated incentive amount is transferred directly to the eligible applicant&#39;s bank account. \n- The transfer uses electronic methods, specifically Real Time Gross Settlement (RTGS) or National Electronic Funds Transfer (NEFT), to ensure the funds reach the account registered on the e-Upajan portal.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a registered farmer.\n- The applicant must have registered for the e-Upajan Yojana.\n- The applicant must be registered in the e-Upajan system within the specified period (e.g., between 28 March and 26 May for Wheat eligibility in Rabi Marketing Season 2017-18).\n- The applicant must have cultivated and sold the eligible crops (Paddy, Wheat, Gram, Lentil, or Mustard) during the specified marketing season.\n- The applicant must sell the produce up to the limit of their registration/productivity/production capacity.\n- The applicant must have sold Wheat during the Rabi Marketing Season 2017-18 between 15 March 2018 and 26 May 2018 to receive the ₹265/- per quintal incentive.\n- The applicant must have sold Gram, Lentil, or Mustard during the Rabi Marketing Season 2017-18 between 10 April 2018 and 9 June 2018 to receive the ₹100/- per quintal incentive.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a registered farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have registered for the e-Upajan Yojana."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be registered in the e-Upajan system within the specified period (e.g., between 28 March and 26 May for Wheat eligibility in Rabi Marketing Season 2017-18)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have cultivated and sold the eligible crops (Paddy, Wheat, Gram, Lentil, or Mustard) during the specified marketing season."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must sell the produce up to the limit of their registration/productivity/production capacity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have sold Wheat during the Rabi Marketing Season 2017-18 between 15 March 2018 and 26 May 2018 to receive the ₹265/- per quintal incentive."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have sold Gram, Lentil, or Mustard during the Rabi Marketing Season 2017-18 between 10 April 2018 and 9 June 2018 to receive the ₹100/- per quintal incentive."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mmksy-mp"
+}

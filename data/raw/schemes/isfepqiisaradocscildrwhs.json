@@ -1,0 +1,396 @@
+{
+  "_id": "6a0c42124b58867f4f3e1eb7",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Rain Water Harvesting",
+        "Agriculture",
+        "Land Development",
+        "Farmer",
+        "Small Cardamom"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom:Small Cardamom Irrigation Land Development : Rain water harvesting structure (nos)",
+      "schemeShortTitle": "ISFEPQIISARADOCSCILDRWHS",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "isfepqiisaradocscildrwhs",
+      "briefDescription": "Under this scheme to motivate the growers to bring more area under irrigation and land development by constructing rain water harvesting structures for increasing the productivity and improving quality of small cardamom."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        },
+        {
+          "title": "Application Portal",
+          "url": "https://serviceonline.gov.in/dbt/login.do"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Under this scheme to motivate the growers to bring more area under irrigation and land development by constructing rain water harvesting structures for increasing the productivity and improving quality of small cardamom.",
+      "detailedDescription_md": "The Rain Water Harvesting Structure Scheme implemented by the Spices Board under the Ministry of Commerce and Industry, Government of India, and as per the Modalities and Scheme Guidelines approved by the Competent Authority for the implementation of the “Integrated Scheme for Export Promotion and Quality Improvement in Spices and Research and Development of Cardamom” during the 15th Finance Commission period (2021–22 to 2025–26), financial assistance is provided to motivate growers to bring more area under irrigation and land development through the construction of rain water harvesting structures. The scheme aims to increase productivity and improve the quality of small cardamom.\n<br>\n\n",
+      "benefits_md": "\n1. 33.33 % of cost of construction subject to a maximum of ₹18,000 per structure for General and 75% subject to maximum of ₹40,000 /- per structure for SC/ST.\n1. The above assistance will be for a structure of 200 cu. Mt. capacity lined with silpauline sheet. For lesser capacity the assistance will be limited proportionate to the water holding capacity.\n1. Devices can be for harvesting water from direct rainfall as well as surface run off without blocking the natural flow of water including streams.\n1. Registered cardamom growers having land holding size of 0.10 Ha to 8 Ha\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Rain Water Harvesting Structure Scheme implemented by the Spices Board under the Ministry of Commerce and Industry, Government of India, and as per the Modalities and Scheme Guidelines approved by the Competent Authority for the implementation of the “Integrated Scheme for Export Promotion and Quality Improvement in Spices and Research and Development of Cardamom” during the 15th Finance Commission period (2021–22 to 2025–26), financial assistance is provided to motivate growers to bring more area under irrigation and land development through the construction of rain water harvesting structures. The scheme aims to increase productivity and improve the quality of small cardamom."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "33.33 % of cost of construction subject to a maximum of ₹18,000 per structure for General and 75% subject to maximum of ₹40,000 /- per structure for SC/ST."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The above assistance will be for a structure of 200 cu. Mt. capacity lined with silpauline sheet. For lesser capacity the assistance will be limited proportionate to the water holding capacity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Devices can be for harvesting water from direct rainfall as well as surface run off without blocking the natural flow of water including streams."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Registered cardamom growers having land holding size of 0.10 Ha to 8 Ha"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicesPlus"
+                  }
+                ]
+              },
+              {
+                "text": " website."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Click on the “"
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                "children": [
+                  {
+                    "text": "Register” "
+                  }
+                ]
+              },
+              {
+                "text": "option on the homepage."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Review all details carefully and submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Login",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                "children": [
+                  {
+                    "text": "“Login.”"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Enter your Email ID, Password, and Captcha."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: Select the relevant service/scheme name."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Fill in the required details in the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Submit the application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a registered small cardamom grower eligible under the scheme guidelines of the Spices Board.\n1. The rain water harvesting structure should not block the natural flow of water, streams, or drainage channels, and should not create objections from the local community or concerned authorities.\n1. The constructed structure must be inspected by the designated officials, and assistance will be recommended only for eligible cases as per the approved delegation.\n1. The Inspecting Officer must ensure that all scheme conditions are complied with before recommending the case for sanction.\n1. Random checking of the approved structures may be conducted by the respective controlling officers.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a registered small cardamom grower eligible under the scheme guidelines of the Spices Board."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The rain water harvesting structure should not block the natural flow of water, streams, or drainage channels, and should not create objections from the local community or concerned authorities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The constructed structure must be inspected by the designated officials, and assistance will be recommended only for eligible cases as per the approved delegation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Inspecting Officer must ensure that all scheme conditions are complied with before recommending the case for sanction."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Random checking of the approved structures may be conducted by the respective controlling officers."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isfepqiisaradocscildrwhs"
+}

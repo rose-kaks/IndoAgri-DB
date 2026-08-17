@@ -1,0 +1,328 @@
+{
+  "_id": "649566df380f8e123542a437",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2020-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000001,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Low Cost Fartming",
+        "Agriculture",
+        "Farmer",
+        "Training"
+      ],
+      "schemeName": "Zero Budget Natural Farming",
+      "schemeShortTitle": "ZBNF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "zbnf",
+      "briefDescription": "The Rajasthan State government started a scheme \"Zero Budget Natual Farming\" in 2020-21 to promote  natural farming. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/440"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Zero Budget Natural Farming is natural farming based on cow-products (cow urine, dung) produced by indigenous cows. All agricultural inputs are prepared by the farmer from his own farm, no inputs are purchased from the market. Therefore, he does not have to spend anything directly. Due to which it is called zero budget based farming. At present, reducing the indiscriminate use of chemical fertilizers, pesticides and irrigation. To reduce the cost of agriculture, improve the quality of agricultural products and increase production per acre. Use of Beejamrit for treatment of seeds and Dravjeevamrit and Ghanjeevamrit etc. for nutrition. Use of Neemastra, Brahrastra and Aagnestra for the prevention of insects.\n&lt;br&gt;\n\n**Objective:-**\n\n   1. To promote environment-protected and climate-tolerant natural farming practices so that the fertility power of the land can be increased.\n   1. To reduce the cost of cultivation by less irrigation, sustainable and integrated organic methods so that farmers can get more income per unit area.\n   1. Production of chemical free and nutritious food for human health and wellness.\n   1. Protecting biodiversity and environment.\n   1. Empowering farmers for production, processing and progress by developing them in the form of clusters / groups.\n   1. To make farmers entrepreneurs for marketing and by connecting directly with the national market.\n\n",
+      "benefits_md": "\n   1. A subsidy of 50% provides to farmers to buy the farming items.\n   1. A large drum of 200 litres, a small drum of 50 litres capacity, a bucket of 20 litres capacity, a Jug, filter, water spray, sprayer, Trichoderma, cow-urine, dung, etc. Material and organic mulch material like leaves of trees, weed bedding, leaves of millet-sorghum, etc., groundnut peels, and in the field for moisture conservation between the rows, 50% of the total cost of available other waste material or a maximum of Rs.600/- per farmer will be given as subsidy by DBT. \n   1. Training and Farmers Tours.\n   1. Gram Panchayat level Training.\n\n",
+      "briefDescription": "The Rajasthan State government started a scheme \"Zero Budget Natual Farming\" in 2020-21 to promote  natural farming. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Zero Budget Natural Farming is natural farming based on cow-products (cow urine, dung) produced by indigenous cows. All agricultural inputs are prepared by the farmer from his own farm, no inputs are purchased from the market. Therefore, he does not have to spend anything directly. Due to which it is called zero budget based farming. At present, reducing the indiscriminate use of chemical fertilizers, pesticides and irrigation. To reduce the cost of agriculture, improve the quality of agricultural products and increase production per acre. Use of Beejamrit for treatment of seeds and Dravjeevamrit and Ghanjeevamrit etc. for nutrition. Use of Neemastra, Brahrastra and Aagnestra for the prevention of insects."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Objective:-",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To promote environment-protected and climate-tolerant natural farming practices so that the fertility power of the land can be increased."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To reduce the cost of cultivation by less irrigation, sustainable and integrated organic methods so that farmers can get more income per unit area."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Production of chemical free and nutritious food for human health and wellness."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Protecting biodiversity and environment."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Empowering farmers for production, processing and progress by developing them in the form of clusters / groups."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To make farmers entrepreneurs for marketing and by connecting directly with the national market."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A subsidy of 50% provides to farmers to buy the farming items."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A large drum of 200 litres, a small drum of 50 litres capacity, a bucket of 20 litres capacity, a Jug, filter, water spray, sprayer, Trichoderma, cow-urine, dung, etc. Material and organic mulch material like leaves of trees, weed bedding, leaves of millet-sorghum, etc., groundnut peels, and in the field for moisture conservation between the rows, 50% of the total cost of available other waste material or a maximum of Rs.600/- per farmer will be given as subsidy by DBT. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Training and Farmers Tours."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Gram Panchayat level Training."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Get the application form to apply under this scheme."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Enter all the necessary information asked in the form carefully."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Attach the required documents with the application form."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the application form to the same agriculture department."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana.\n1. Get the application form to apply under this scheme.\n1. Enter all the necessary information asked in the form carefully.\n1. Attach the required documents with the application form.\n1. Submit the application form to the same agriculture department.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Interested farmers should be selected for the scheme who have a special interest in natural farming. Every farmer must have a minimum of one-acre land ownership or family account holder.\n1. Interested farmers may be from the same village, neighboring villages, or different villages as far as possible. \n1. Interested farmers will be selected by the Regional Assistant Agriculture Officer / Agriculture Supervisor.\n1. Horticulture crops and animal husbandry should also be included in natural farming.\n1. For the selection of farmers, priority should be given to SC, ST, BPL, small and marginal farmers as much as possible. Youths up to 35 years should be included for natural farming so that their capacity can increase.\n1. Necessary material like drum, bucket, jug etc. will be given on grant to the concerned farmer for setting up the input unit for natural farming. \n1. Farmers selected under Paramparagat Krishi Vikas Yojana should not be included in this scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interested farmers should be selected for the scheme who have a special interest in natural farming. Every farmer must have a minimum of one-acre land ownership or family account holder."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interested farmers may be from the same village, neighboring villages, or different villages as far as possible. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Interested farmers will be selected by the Regional Assistant Agriculture Officer / Agriculture Supervisor."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Horticulture crops and animal husbandry should also be included in natural farming."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For the selection of farmers, priority should be given to SC, ST, BPL, small and marginal farmers as much as possible. Youths up to 35 years should be included for natural farming so that their capacity can increase."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Necessary material like drum, bucket, jug etc. will be given on grant to the concerned farmer for setting up the input unit for natural farming. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers selected under Paramparagat Krishi Vikas Yojana should not be included in this scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "zbnf"
+}

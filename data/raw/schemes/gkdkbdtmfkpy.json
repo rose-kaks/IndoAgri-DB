@@ -1,0 +1,357 @@
+{
+  "_id": "67c00378bc7b1cbfd2f3f492",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Oilseed",
+        "Farmer",
+        "Crop",
+        "Rural"
+      ],
+      "schemeName": "Grishm Kaleen Dhan Ke Badle Dalhan, Tilhan, Makka Fasal ko Protsahan Yojana",
+      "schemeShortTitle": "GKDKBDTMFKPY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": "2013-04-30",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 22,
+        "label": "Chhattisgarh"
+      },
+      "nodalDepartmentName": {
+        "value": 2200001,
+        "label": "Agriculture Development and Farmer Welfare and Bio-Technology Department"
+      },
+      "slug": "gkdkbdtmfkpy",
+      "briefDescription": "The scheme was launched on April 30, 2014,  under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. The scheme aims to promote the cultivation of pulses, oilseeds, and maize as an alternative to summer rice, helping to conserve groundwater."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agriportal.cg.nic.in/agridept/StateScheme/1.3%20grishmkalindhankebadle.pdf"
+        },
+        {
+          "title": "Website",
+          "url": "https://agriportal.cg.nic.in/PortHi/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Launched on 30th April 2014, the scheme &quot;Grishm Kaleen Dhan Ke Badle Dalhan, Tilhan, Makka Fasal ko Protsahan Yojana&quot; was introduced under the Agriculture Development and Farmer Welfare and Biotechnology Department, Govt. of Chhattisgarh. The scheme aims to promote the cultivation of pulses, oilseeds, and maize as an alternative to summer rice, helping to conserve groundwater and increase crop production in the state. Under this scheme, farmers receive subsidies per acre in the form of seeds, fertilizers, and other inputs. Beneficiaries can purchase these inputs from cooperative societies, the Chhattisgarh State Seed and Agriculture Development Corporation, or authorized private vendors, with the state government reimbursing the cost up to the subsidy limit.\n<br>\n\n",
+      "benefits_md": "\n- The subsidy amount is ₹2,000/- per acre (0.4 hectare).\n- A maximum subsidy of ₹10,000/- is available for up to 2 hectares.\n- The subsidy will be ₹10,000/- or the actual cost, whichever is lower.\n- Each farmer must cultivate a minimum area of 0.4 hectares to be eligible.\n\n",
+      "briefDescription": "The scheme was launched on April 30, 2014,  under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. The scheme aims to promote the cultivation of pulses, oilseeds, and maize as an alternative to summer rice, helping to conserve groundwater.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Launched on 30th April 2014, the scheme \"Grishm Kaleen Dhan Ke Badle Dalhan, Tilhan, Makka Fasal ko Protsahan Yojana\" was introduced under the Agriculture Development and Farmer Welfare and Biotechnology Department, Govt. of Chhattisgarh. The scheme aims to promote the cultivation of pulses, oilseeds, and maize as an alternative to summer rice, helping to conserve groundwater and increase crop production in the state. Under this scheme, farmers receive subsidies per acre in the form of seeds, fertilizers, and other inputs. Beneficiaries can purchase these inputs from cooperative societies, the Chhattisgarh State Seed and Agriculture Development Corporation, or authorized private vendors, with the state government reimbursing the cost up to the subsidy limit."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy amount is ₹2,000/- per acre (0.4 hectare)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A maximum subsidy of ₹10,000/- is available for up to 2 hectares."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The subsidy will be ₹10,000/- or the actual cost, whichever is lower."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each farmer must cultivate a minimum area of 0.4 hectares to be eligible."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " The interested applicant should visit (during office hours) the Rural Agriculture Extension Officer, and request the hard copy of the prescribed format of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Ensure that the application is submitted within the prescribed period, if any."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Process After Submitting the Application",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " ",
+                "underline": true
+              },
+              {
+                "text": "The Rural Agriculture Extension Officer will review the application and forward it to the Senior Agriculture Development Officer of the block within a week, along with the recommendation/approval of the Agriculture Development Officer and the Village Panchayat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "text": "The Senior Agriculture Development Officer will seek approval from the Agriculture Standing Committee of the District Panchayat, as per the allocated target, and submit it to the Deputy Director of Agriculture by 30th November."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " It is mandatory for the registered farmer to inform the Regional Rural Agriculture Extension Officer about the sowing of the summer crop within 15 days of sowing, but no later than 15th February."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Upon receiving the sowing information, the Rural Agriculture Extension Officer will verify the crop through the Gram Panchayat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the Rural Agriculture Extension Officer, and request the hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.\n<br>\n\n**Process After Submitting the Application**\n**Step 1:** The Rural Agriculture Extension Officer will review the application and forward it to the Senior Agriculture Development Officer of the block within a week, along with the recommendation/approval of the Agriculture Development Officer and the Village Panchayat.\n**Step 2:****** The Senior Agriculture Development Officer will seek approval from the Agriculture Standing Committee of the District Panchayat, as per the allocated target, and submit it to the Deputy Director of Agriculture by 30th November.\n**Step 3:** It is mandatory for the registered farmer to inform the Regional Rural Agriculture Extension Officer about the sowing of the summer crop within 15 days of sowing, but no later than 15th February.\n**Step 4:** Upon receiving the sowing information, the Rural Agriculture Extension Officer will verify the crop through the Gram Panchayat.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a farmer cultivating pulses, oilseeds, or maize in place of Rabi/Summer rice.\n1. The applicant should be growing these crops in the same or an additional area as in previous years.\n1. The applicant should be cultivating pulses, oilseeds, or maize in lieu of summer paddy to be eligible for the subsidy.\n1. The applicant should be a sharecropper or landowning farmer, as both are entitled to the scheme benefits.\n1. The applicant should be a first-time cultivator of summer pulses, oilseeds, or maize to receive priority.\n1. The applicant should submit their application early, as selection will be on a first-come, first-served basis if applications exceed the target.\n1. The applicant should note that a particular farmer will be eligible for the benefit only once under the scheme.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer cultivating pulses, oilseeds, or maize in place of Rabi/Summer rice."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be growing these crops in the same or an additional area as in previous years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be cultivating pulses, oilseeds, or maize in lieu of summer paddy to be eligible for the subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a sharecropper or landowning farmer, as both are entitled to the scheme benefits."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a first-time cultivator of summer pulses, oilseeds, or maize to receive priority."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should submit their application early, as selection will be on a first-come, first-served basis if applications exceed the target."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should note that a particular farmer will be eligible for the benefit only once under the scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gkdkbdtmfkpy"
+}

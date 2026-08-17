@@ -1,0 +1,261 @@
+{
+  "_id": "66bb4e08c5af5de226823193",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Nalkoop",
+        "Farmer",
+        "Pump",
+        "Subsidy",
+        "Tube Well"
+      ],
+      "schemeName": "Nalkoop Khanan Yojana- Madhya Pradesh",
+      "schemeShortTitle": "NKYMP",
+      "implementingAgency": "Farmer Welfare And Agriculture Development Department, Government Of Madhya Pradesh",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": "2001-12-31",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2300011,
+        "label": "Farmer Welfare and Agriculture Development Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "nkymp",
+      "briefDescription": "Under this scheme, farmers from SC and ST categories are eligible for a subsidy covering 75% of the unit cost (up to ₹25,000/-) for digging a tube well and 75% of the unit cost (up to ₹15,000/-) for the successful installation of a tube well submersible pump."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Scheme Details",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=941"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://mpkrishi.mp.gov.in/Englishsite_New/pdfs/Nalkoop.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://mpkrishi.mp.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Under this scheme, farmers from SC and ST categories are eligible for a subsidy covering 75% of the unit cost (up to ₹25,000/-) for digging a tube well and 75% of the unit cost (up to ₹15,000/-) for the successful installation of a tube well submersible pump.",
+      "detailedDescription_md": "The &amp;quot;Nalkoop Khanan Yojana&amp;quot; was launched on 31st December 2001, by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh, to increase the irrigation area by harnessing underground water. Under this scheme, farmers from Scheduled Caste and Scheduled Tribe categories are eligible for a subsidy covering 75% of the unit cost (up to ₹25,000/-) for digging a tube well and 75% of the unit cost (up to ₹15,000/-) for the successful installation of a tube well submersible pump. This scheme is effective in entire Madhya Pradesh, except in Shajapur and Indore.\n",
+      "benefits_md": "&gt; **Subsidy for Tube Well Digging:**\n\n\n  - A grant of 75% of the unit cost (up to a maximum of ₹25,000/-), is provided for digging a tube well.\n  - Applicable for both successful and unsuccessful digging.\n\n&gt; **Subsidy for Submersible Pump Installation:**\n\n\n  - A grant of 75% of the unit cost (up to a maximum of ₹15,000/-), is provided for the successful installation of a submersible pump on a tube well.\n  - Applicable only for successful installation of a Submersible Pump.\n\n**Note:** The subsidy is transferred to the bank account of the farmers.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Nalkoop Khanan Yojana\" was launched on 31st December 2001, by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh, to increase the irrigation area by harnessing underground water. Under this scheme, farmers from Scheduled Caste and Scheduled Tribe categories are eligible for a subsidy covering 75% of the unit cost (up to ₹25,000/-) for digging a tube well and 75% of the unit cost (up to ₹15,000/-) for the successful installation of a tube well submersible pump. This scheme is effective in entire Madhya Pradesh, except in Shajapur and Indore."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Subsidy for Tube Well Digging:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A grant of 75% of the unit cost (up to a maximum of ₹25,000/-), is provided for digging a tube well."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Applicable for both successful and unsuccessful digging."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Subsidy for Submersible Pump Installation:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A grant of 75% of the unit cost (up to a maximum of ₹15,000/-), is provided for the successful installation of a submersible pump on a tube well."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Applicable only for successful installation of a Submersible Pump."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                },
+                {
+                  "text": " The subsidy is transferred to the bank account of the farmers."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Eligible farmers can apply for benefits under the scheme by visiting the office of the Deputy Director, Farmers Welfare and Agriculture Development Department in their respective district in Madhya Pradesh."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Eligible farmers can apply for benefits under the scheme by visiting the office of the Deputy Director, Farmers Welfare and Agriculture Development Department in their respective district in Madhya Pradesh.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Madhya Pradesh.\n   1. The applicant should be a farmer.\n   1. Farmers from Shajapur and Indore districts of Madhya Pradesh are excluded from this scheme.\n   1. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.\n   1. The applicant should own agricultural land within the state.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a native of Madhya Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers from Shajapur and Indore districts of Madhya Pradesh are excluded from this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should belong to the Scheduled Caste or Scheduled Tribe category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should own agricultural land within the state."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nkymp"
+}

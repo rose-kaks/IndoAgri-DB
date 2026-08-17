@@ -1,0 +1,236 @@
+{
+  "_id": "68189ae749682aad75cd96d1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Solar Subsidy",
+        "Milk Cooperatives",
+        "Renewable Energy",
+        "Electricity Saving"
+      ],
+      "schemeName": "Capital Subsidy Scheme for Setting Up Solar Plant in Milk Cooperatives in Gujarat State (Tribal Area)",
+      "schemeShortTitle": "CSSSSPG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "csssspg",
+      "briefDescription": "The scheme aims to promote renewable energy and reduce electricity expenses. Through this scheme, a 75% subsidy is provided for setting up solar plants (1KW to 40KW) in milk cooperative societies in tribal areas."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Scheme No. 103)",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        },
+        {
+          "title": "User Manual (Applicant Registration)",
+          "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Scheme of Capital Assistance for Setting Up Solar Plants in Milk Cooperative Societies in the State of Gujarat (Tribal Areas)&amp;quot; by the Department of Agriculture, Farmers Welfare and Cooperation, Government of Gujarat aims to promote renewable energy and reduce electricity expenses. Through this scheme, a 75% subsidy is provided for setting up solar plants (1KW to 40KW) in milk cooperative societies in tribal areas.\n<br>\n\n",
+      "benefits_md": "\n  - **Financial Assistance:** 75% subsidy on capital cost for installation of solar systems ranging from 1KW to 40KW.\n<br>\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote renewable energy and reduce electricity expenses. Through this scheme, a 75% subsidy is provided for setting up solar plants (1KW to 40KW) in milk cooperative societies in tribal areas.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Scheme of Capital Assistance for Setting Up Solar Plants in Milk Cooperative Societies in the State of Gujarat (Tribal Areas)\" by the Department of Agriculture, Farmers Welfare and Cooperation, Government of Gujarat aims to promote renewable energy and reduce electricity expenses. Through this scheme, a 75% subsidy is provided for setting up solar plants (1KW to 40KW) in milk cooperative societies in tribal areas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial Assistance: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "75% subsidy on capital cost for installation of solar systems ranging from 1KW to 40KW."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Collect the plain paper application form from the District Registrar's office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in all required details in the application form and attach the necessary documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the completed application to the District Registrar."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Collect the plain paper application form from the District Registrar&amp;#39;s office.\n**Step 2:** Fill in all required details in the application form and attach the necessary documents.\n**Step 3:** Submit the completed application to the District Registrar.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. A registered milk cooperative society located in the tribal areas of Gujarat shall be eligible under this scheme.\n   1. The society must extensively use electricity for milk collection, cooling, and processing.\n   1. The society must be willing to install a solar power plant with a capacity between 1KW and 40KW.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A registered milk cooperative society located in the tribal areas of Gujarat shall be eligible under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The society must extensively use electricity for milk collection, cooling, and processing."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The society must be willing to install a solar power plant with a capacity between 1KW and 40KW."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "csssspg"
+}

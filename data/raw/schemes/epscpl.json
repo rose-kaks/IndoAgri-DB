@@ -1,0 +1,628 @@
+{
+  "_id": "67bb7f09550228dc0e10429c",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Pig Farm",
+        "Pig Semen",
+        "Processing Lab",
+        "Genetic Improvement",
+        "Boar"
+      ],
+      "schemeName": "National Livestock Mission: Genetic Improvement of Pig breeds - Establishment of Pig Semen Collection and Processing Lab",
+      "schemeShortTitle": "NLMGIPBEPSCPL",
+      "implementingAgency": "State Animal Husbandry Department",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        },
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 1572,
+        "label": "Ministry of Fisheries,Animal Husbandry and Dairying"
+      },
+      "nodalDepartmentName": {
+        "value": 121225,
+        "label": "Department of Animal Husbandry & Dairying"
+      },
+      "slug": "epscpl",
+      "briefDescription": "The Scheme aims to enhance per-animal productivity, reduce inbreeding, and minimize sexually transmitted diseases in pigs. Through this scheme, financial assistance is provided for establishing semen processing labs at government pig farms."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.dahd.gov.in/sites/default/files/2023-11/NLMGuidelinesFinalApprovedByEC.pdf"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://nlm.udyamimitra.in/Home/SubmissionOnBreed"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Establishment of Pig Semen Collection and Processing Lab” is a component under the Genetic Improvement of Pig Breeds activity of the Sub-Mission on Breed Development of Livestock and Poultry under the National Livestock Mission. The scheme is implemented by the Department of Animal Husbandry and Dairying under the Ministry of Fisheries, Animal Husbandry and Dairying, Government of India through State Animal Husbandry Departments. Under the scheme, financial assistance of up to ₹150.00 lakh is provided as one-time Central share for establishment of semen laboratories and maintenance of breeding boar units. An additional ₹30.00 lakh is provided for procurement of consumables, medicines, chemicals, and other items required for initial semen processing activities. The scheme aims to improve pig productivity through artificial insemination, reduce inbreeding, and control sexually transmitted diseases in pigs.\n<br>\n\n",
+      "benefits_md": "&gt; **Establishment of Semen Processing Laboratory:** \n\n- Assistance is provided for setting up a semen processing laboratory at government pig farms to produce high-quality liquid boar semen for artificial insemination.\n&gt; **Financial Assistance for Laboratory Setup:** \n\n- One-time grants-in-aid of up to ₹1.5 crore are provided as the Central share for the construction of semen laboratories and maintenance of breeding boar units.\n&gt; **Support for Initial Operational Expenses:** \n\n- Financial assistance of ₹30 lakh is provided for the procurement of consumables, medicines, chemicals, and other materials required for initial semen processing activities.\n- Funding Pattern:\n- General States: Funding is shared in the ratio of 60:40 between the Central Government and the State Government.\n- North Eastern &amp;amp; Himalayan States: Funding is shared in the ratio of 90:10 between the Central Government and the State Government.\n&gt; **Mode of Disbursement:**\n\n\n  - The funds are provided as a one-time grant to the concerned state government through its Animal Husbandry Department.\n\n&gt; **Frequency of Disbursement:**\n\n\n  - One-time disbursement.\n\n&gt; **Validity:**\n\n\n  - The financial assistance is granted for the establishment of the laboratory and the first-time procurement of necessary materials.\n\n<br>\n\n",
+      "briefDescription": "The Scheme aims to enhance per-animal productivity, reduce inbreeding, and minimize sexually transmitted diseases in pigs. Through this scheme, financial assistance is provided for establishing semen processing labs at government pig farms.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Establishment of Pig Semen Collection and Processing Lab” is a component under the Genetic Improvement of Pig Breeds activity of the Sub-Mission on Breed Development of Livestock and Poultry under the National Livestock Mission. The scheme is implemented by the Department of Animal Husbandry and Dairying under the Ministry of Fisheries, Animal Husbandry and Dairying, Government of India through State Animal Husbandry Departments. Under the scheme, financial assistance of up to ₹150.00 lakh is provided as one-time Central share for establishment of semen laboratories and maintenance of breeding boar units. An additional ₹30.00 lakh is provided for procurement of consumables, medicines, chemicals, and other items required for initial semen processing activities. The scheme aims to improve pig productivity through artificial insemination, reduce inbreeding, and control sexually transmitted diseases in pigs."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Establishment of Semen Processing Laboratory: ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance is provided for setting up a semen processing laboratory at government pig farms to produce high-quality liquid boar semen for artificial insemination."
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Financial Assistance for Laboratory Setup: ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One-time grants-in-aid of up to ₹1.5 crore are provided as the Central share for the construction of semen laboratories and maintenance of breeding boar units."
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Support for Initial Operational Expenses: ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹30 lakh is provided for the procurement of consumables, medicines, chemicals, and other materials required for initial semen processing activities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Funding Pattern:"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General States: Funding is shared in the ratio of 60:40 between the Central Government and the State Government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "North Eastern & Himalayan States: Funding is shared in the ratio of 90:10 between the Central Government and the State Government."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Mode of Disbursement:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The funds are provided as a one-time grant to the concerned state government through its Animal Husbandry Department."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Frequency of Disbursement:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "One-time disbursement."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Validity:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The financial assistance is granted for the establishment of the laboratory and the first-time procurement of necessary materials."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://nlm.udyamimitra.in/",
+                    "children": [
+                      {
+                        "text": "Official Website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " of \"National Livestock Mission\" and click \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://nlm.udyamimitra.in/Login/Login",
+                    "children": [
+                      {
+                        "text": "Apply Here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\"."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " The following methods of Logging In will be displayed:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Login as Entrepreneur"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Login as Government / Other Agencies"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Login as Research & Innovation"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Login to the website using your preferred method."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": " In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5: ",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "text": "Agree to the \"Declaration & Authorization\" by ticking the checkbox. Provide the Date & Place, and finally click \"Submit\"."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Post-Application Processes",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": "Screening of application by State Implementing Agency (SIA)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "SIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " Loan sanction by Lender"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "After the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal diligent process. After sanctioning the loan, Lender will upload sanction letter on the portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "underline": true,
+                    "bold": true
+                  },
+                  {
+                    "text": " Recommendation from State Level Executive Committee (SLEC)",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Once the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry & Dairying)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4:",
+                    "underline": true,
+                    "bold": true
+                  },
+                  {
+                    "text": " Approval of subsidy by DAHD",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "DAHD will approve the subsidy and will mark the approval of the same on portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 5:",
+                    "underline": true,
+                    "bold": true
+                  },
+                  {
+                    "text": " Disbursement and release of subsidy",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "After compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Track Application Status",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "You can check your application status from the \"TRACK STATUS\" tab available in the upper right corner of the portal"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Help and Support",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "If you encounter any issues or have questions, visit the \""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://nlm.udyamimitra.in/Home/Contact",
+                    "children": [
+                      {
+                        "text": "Contact Us"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "\" page."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [Official Website](https://nlm.udyamimitra.in/) of &amp;quot;National Livestock Mission&amp;quot; and click &amp;quot;[Apply Here](https://nlm.udyamimitra.in/Login/Login)&amp;quot;.\n**Step 2:** The following methods of Logging In will be displayed:\n\n  - Login as Entrepreneur\n  - Login as Government / Other Agencies\n  - Login as Research &amp;amp; Innovation\n\nLogin to the website using your preferred method.\n**Step 3:** On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. \n**Step 4:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\n**Step 5:** Agree to the &amp;quot;Declaration &amp;amp; Authorization&amp;quot; by ticking the checkbox. Provide the Date &amp;amp; Place, and finally click &amp;quot;Submit&amp;quot;.\n&gt; **Post-Application Processes**\n\n**Step 1:** **Screening of application by State Implementing Agency (SIA)**\nSIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc.\n**Step 2:** **Loan sanction by Lender**\nAfter the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal diligent process. After sanctioning the loan, Lender will upload sanction letter on the portal.\n**Step 3:** **Recommendation from State Level Executive Committee (SLEC)**\nOnce the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry &amp;amp; Dairying).\n**Step 4:** **Approval of subsidy by DAHD**\nDAHD will approve the subsidy and will mark the approval of the same on portal.\n**Step 5:** **Disbursement and release of subsidy**\nAfter compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries.\n&gt; **Track Application Status**\n\n&gt; You can check your application status from the &amp;quot;TRACK STATUS&amp;quot; tab available in the upper right corner of the portal\n\n&gt; **Help and Support**\n\n&gt; If you encounter any issues or have questions, visit the &amp;quot;[Contact Us](https://nlm.udyamimitra.in/Home/Contact)&amp;quot; page.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Eligible Entity:**\n\n1. State Livestock Agencies,\n1. Animal Husbandry Department, State Government\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligible Entity:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State Livestock Agencies,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Animal Husbandry Department, State Government"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "epscpl"
+}

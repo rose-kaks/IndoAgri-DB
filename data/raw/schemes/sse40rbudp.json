@@ -1,0 +1,298 @@
+{
+  "_id": "647822b6380f8e12353c193a",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Intensive Poultry Development Project Office, District Poultry Extension Centre",
+      "tags": [
+        "Poultry Farming",
+        "Divyang",
+        "Subsidy",
+        "Rhode Island Red (RIR)",
+        "Employment"
+      ],
+      "schemeName": "Subsidy Scheme On Establishment Of 40 R.I.R. Birds Unit For Divyang People",
+      "schemeShortTitle": "SSE40RBUDP",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "sse40rbudp",
+      "briefDescription": "The scheme “Subsidy Scheme on Establishment of 40 R.I.R. Birds Unit for Divyang People” was launched by the Dept. of Agriculture, Farmers Welfare & Co-operation, Govt. of Gujarat to provide employment, nutritious diet and to raise the income of Divyang People of the society of Gujarat State."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/English-Poultry-Development-web.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Subsidy Scheme on Establishment of 40 R.I.R. Birds Unit for Divyang People” was launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat to provide employment, nutritious diet and to raise the income of Divyang People of the society of Gujarat State. Under this scheme, the beneficiary will be given 40 R.I.R birds unit along with poultry feed and a subsidy will be given 90% of the cost of the scheme (maximum ₹7200/- in form birds and poultry feed).\n**Terms and conditions of the scheme:-**\n\n- Eligible applications will be sanctioned by Regional Joint Director.\n- As and when birds get infected, they should be given treatment immediately.\n- As and when the Government officer visits the farm the beneficiary will have to show income and expenditure statement.\n- In normal cases, the unit will have to maintain for two years.\n- In all terms and conditions, the final authority will be the Director of Animal Husbandry, Gujarat State, Gandhinagar.\n\n",
+      "benefits_md": "1.\tThe beneficiary will be given 40 R.I.R birds unit along with poultry feed.\n2.\tThe subsidy will be given 90% of the unit cost of the scheme (maximum ₹7200/- in the form of birds and poultry feed).\n3.\tUnder the scheme, the birds will be given vaccination regularly.\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme “Subsidy Scheme on Establishment of 40 R.I.R. Birds Unit for Divyang People” was launched by the Dept. of Agriculture, Farmers Welfare & Co-operation, Govt. of Gujarat to provide employment, nutritious diet and to raise the income of Divyang People of the society of Gujarat State.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Subsidy Scheme on Establishment of 40 R.I.R. Birds Unit for Divyang People” was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to provide employment, nutritious diet and to raise the income of Divyang People of the society of Gujarat State. Under this scheme, the beneficiary will be given 40 R.I.R birds unit along with poultry feed and a subsidy will be given 90% of the cost of the scheme (maximum ₹7200/- in form birds and poultry feed)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Terms and conditions of the scheme:-",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Eligible applications will be sanctioned by Regional Joint Director."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "As and when birds get infected, they should be given treatment immediately."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "As and when the Government officer visits the farm the beneficiary will have to show income and expenditure statement."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In normal cases, the unit will have to maintain for two years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In all terms and conditions, the final authority will be the Director of Animal Husbandry, Gujarat State, Gandhinagar."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.\tThe beneficiary will be given 40 R.I.R birds unit along with poultry feed."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.\tThe subsidy will be given 90% of the unit cost of the scheme (maximum ₹7200/- in the form of birds and poultry feed)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.\tUnder the scheme, the birds will be given vaccination regularly."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant needs to visit the nearest Intensive Poultry Development Project Office or District Poultry Extension Centre and collect the application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill in all the mandatory fields of the application form, attach all the (self-attested) required documents, and submit it to the designated receiving authority."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After successful verification, the applicant can avail the benefit of the scheme."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 01:** The applicant needs to visit the nearest Intensive Poultry Development Project Office or District Poultry Extension Centre and collect the application form.\n**Step 02:** Fill in all the mandatory fields of the application form, attach all the (self-attested) required documents, and submit it to the designated receiving authority.\n**Step 03:** After successful verification, the applicant can avail the benefit of the scheme.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The benefits of this scheme will only be given to the adult of Divyang people of the society of Gujarat State.\n1. The beneficiary will have to provide income proof along with the application.\n1. Females and beneficiaries below poverty line will be given priority.\n1. The beneficiary should have taken poultry-keeping training.\n1. The beneficiary will have to manage to keep the birds safe during night hours.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The benefits of this scheme will only be given to the adult of Divyang people of the society of Gujarat State."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary will have to provide income proof along with the application."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Females and beneficiaries below poverty line will be given priority."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should have taken poultry-keeping training."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary will have to manage to keep the birds safe during night hours."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "sse40rbudp"
+}

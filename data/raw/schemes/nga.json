@@ -1,0 +1,510 @@
+{
+  "_id": "69c2425a53937261838ec002",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Geoscience",
+        "Awards",
+        "Mineral Discovery",
+        "Mining Technology"
+      ],
+      "schemeName": "National Geoscience Awards",
+      "schemeShortTitle": "NGA",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": null,
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "nodalMinistryName": {
+        "value": 1576,
+        "label": "Ministry Of Mines"
+      },
+      "nodalDepartmentName": null,
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "nga",
+      "briefDescription": "The objective of the scheme is to honour individuals and teams for extraordinary achievements and outstanding contributions in the field of mineral discovery & exploration, fundamental / applied geosciences, mining and allied areas. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mines.gov.in/admin/download/69147a7c06e181762949756.pdf"
+        },
+        {
+          "title": "Website",
+          "url": "https://awards.gov.in/Home/AwardLibrary"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The National Mineral Awards Scheme was instituted in the year 1966 by the Ministry of Mines, Government of India. The scope of the awards has been expanded and the name changed to National Geoscience Awards (NGA) from 2009.\nThe objective of the scheme is to honour individuals and teams for extraordinary achievements and outstanding contributions in the field of mineral discovery &amp; exploration, fundamental / applied geosciences, mining and allied areas. \n**Broad Disciplines:-**\n1) Mineal Discovery &amp; Exploration \n2) Mining Technology, Mineral Beneficiation &amp; Sustainable Mineral Development \n3) Basic Geosciences\n4) Applied Geosciences\n**No. of Awardees**\n1) National Geoscience Award for Lifetime Achievement - 1 \n2) National Geoscience Award - 10 (Individual/ Team) \n3) National Young Geoscientist Award - 1\n**There are three categories of awards under the National Geoscience Awards:**\n(i) National Geoscience Award for Lifetime Achievement\n(ii) National Geoscience Award and\n(iii) National Young Geoscientist Award\n<br>\n\n",
+      "benefits_md": "> **The awardees are presented with certificate and a plaque.**\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The objective of the scheme is to honour individuals and teams for extraordinary achievements and outstanding contributions in the field of mineral discovery & exploration, fundamental / applied geosciences, mining and allied areas. ",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The National Mineral Awards Scheme was instituted in the year 1966 by the Ministry of Mines, Government of India. The scope of the awards has been expanded and the name changed to National Geoscience Awards (NGA) from 2009."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The objective of the scheme is to honour individuals and teams for extraordinary achievements and outstanding contributions in the field of mineral discovery & exploration, fundamental / applied geosciences, mining and allied areas. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Broad Disciplines:-",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1) Mineal Discovery & Exploration "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2) Mining Technology, Mineral Beneficiation & Sustainable Mineral Development "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3) Basic Geosciences"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4) Applied Geosciences"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. of Awardees",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1) National Geoscience Award for Lifetime Achievement - 1 "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2) National Geoscience Award - 10 (Individual/ Team) "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3) National Young Geoscientist Award - 1"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are three categories of awards under the National Geoscience Awards:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(i) National Geoscience Award for Lifetime Achievement"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(ii) National Geoscience Award and"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(iii) National Young Geoscientist Award"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "The awardees are presented with certificate and a plaque.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the o"
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/",
+                "children": [
+                  {
+                    "text": "fficial website"
+                  }
+                ]
+              },
+              {
+                "text": " and click on the"
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Registration/SignUp",
+                "children": [
+                  {
+                    "text": " Registration button."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Select your category: Individual or Organization."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in the required details:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Individual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Organization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Click Submit to complete registration."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Apply:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " "
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Login",
+                "children": [
+                  {
+                    "text": "Log in"
+                  }
+                ]
+              },
+              {
+                "text": " to the portal using your registered credentials."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Select the scheme from the list of awards and click "
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Home/AwardLibrary",
+                "children": [
+                  {
+                    "text": "\"Nominate / Apply Now\"."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in all mandatory fields in the online application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Click Submit to complete your application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration:**\n**Step 1:** Visit the o[fficial website](https://awards.gov.in/) and click on the[ Registration button.](https://awards.gov.in/Registration/SignUp)\n**Step 2:** Select your category: Individual or Organization.\n**Step 3:** Fill in the required details:\nIndividual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number.\nOrganization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number.\n**Step 4:** Click Submit to complete registration.\n**Apply:**\n**Step 1:** [Log in](https://awards.gov.in/Login) to the portal using your registered credentials.\n**Step 2:** Select the scheme from the list of awards and click [&quot;Nominate / Apply Now&quot;.](https://awards.gov.in/Home/AwardLibrary)\n**Step 3:** Fill in all mandatory fields in the online application form.\n**Step 4:** Click Submit to complete your application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be an Indian citizen and a professionally qualified geoscientist, engineer, technologist, or academician with significant contributions in relevant fields.\n1. The applicant’s work should primarily be carried out in India within the last ten years, except for the Lifetime Achievement Award.\n1. A team nomination can include a maximum of four members, with limited team awards available.\n1. The applicant for the Young Geoscientist Award should be below 35 years of age as of 31st December of the preceding year.\n1. The applicant can receive an award only once in a particular field but may apply in other fields.\n1. Recipients of the Lifetime Achievement Award are not eligible to apply for any other awards.\n1. A certificate from the head of institution or department confirming the nominee’s work is desirable but not mandatory.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an Indian citizen and a professionally qualified geoscientist, engineer, technologist, or academician with significant contributions in relevant fields."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s work should primarily be carried out in India within the last ten years, except for the Lifetime Achievement Award."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A team nomination can include a maximum of four members, with limited team awards available."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant for the Young Geoscientist Award should be below 35 years of age as of 31st December of the preceding year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant can receive an award only once in a particular field but may apply in other fields."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Recipients of the Lifetime Achievement Award are not eligible to apply for any other awards."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A certificate from the head of institution or department confirming the nominee’s work is desirable but not mandatory."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nga"
+}

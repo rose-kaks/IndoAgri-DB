@@ -1,0 +1,225 @@
+{
+  "_id": "691351157d196c06c709aafc",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Aromatic Cultivation",
+        "Farmer",
+        "Aromatic Plants",
+        "Minimum Support Price",
+        "Aromatic Oil"
+      ],
+      "schemeName": "Minimum Support Price for Aromatic Oils/Products - Centre for Aromatic Plants",
+      "schemeShortTitle": "MSPAOPCAP",
+      "implementingAgency": "Centre For Aromatic Plants, Selaqui, Dehradun",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000100,
+        "label": "Horticulture Department"
+      },
+      "slug": "mspaopcap",
+      "briefDescription": "The scheme aims to provide registered farmers engaged in aromatic cultivation with a fair price and a guaranteed market for their produce."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 233)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Minimum Support Price for Aromatic Oils/Products” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to provide registered farmers engaged in aromatic cultivation with a fair price and a guaranteed market for their produce.\n<br>\n\n",
+      "benefits_md": "\n  - Farmers can sell 25 varieties of aromatic oils/products at the prescribed price to the Centre for Aromatic Plants (CAP).\n  - Farmers are ensured a fair price and a guaranteed market for the aromatic oils they produce.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide registered farmers engaged in aromatic cultivation with a fair price and a guaranteed market for their produce.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Minimum Support Price for Aromatic Oils/Products” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to provide registered farmers engaged in aromatic cultivation with a fair price and a guaranteed market for their produce."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers can sell 25 varieties of aromatic oils/products at the prescribed price to the Centre for Aromatic Plants (CAP)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers are ensured a fair price and a guaranteed market for the aromatic oils they produce."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "If a farmer is willing to sell the aromatic oils/products of the 25 identified species at the prescribed minimum support price (details of prices are available on the website), they must first contact CAP, Selaqui. The farmer will then bring the produced oil at their own expense, along with photocopies of the crop registration form, bank statement, and other relevant documents. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The CAP office tests the quality of the oil in its laboratory, and only after passing the quality test are the essential oils/products accepted for purchase. The purchase amount is then transferred directly to the farmer's bank account. If the quality of the oil does not meet the prescribed standards, it will not be purchased."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - If a farmer is willing to sell the aromatic oils/products of the 25 identified species at the prescribed minimum support price (details of prices are available on the website), they must first contact CAP, Selaqui. The farmer will then bring the produced oil at their own expense, along with photocopies of the crop registration form, bank statement, and other relevant documents. \n  - The CAP office tests the quality of the oil in its laboratory, and only after passing the quality test are the essential oils/products accepted for purchase. The purchase amount is then transferred directly to the farmer&amp;#39;s bank account. If the quality of the oil does not meet the prescribed standards, it will not be purchased.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The farmer must be engaged in the cultivation of aromatic plants.\n   1. The farmer must be registered with the Centre for Aromatic Plants (CAP), Selaqui, Dehradun.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The farmer must be engaged in the cultivation of aromatic plants."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The farmer must be registered with the Centre for Aromatic Plants (CAP), Selaqui, Dehradun."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mspaopcap"
+}

@@ -1,0 +1,251 @@
+{
+  "_id": "67f511eb13ec05eecbbaadb0",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Chicks",
+        "MPACS",
+        "Poultry Farming",
+        "Poultry Valley",
+        "Loan"
+      ],
+      "schemeName": "Establishment of Poultry Valley",
+      "schemeShortTitle": "EPVUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000004,
+        "label": "Department Of Animal Husbandry"
+      },
+      "slug": "kgsuk",
+      "briefDescription": "The scheme aims to promote sustainable and organized poultry farming among cooperative society members, especially women, by providing financial and technical support for poultry rearing, thereby enhancing income generation and livelihood opportunities in the state."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 237)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "<br>\n\nThe scheme &amp;quot;Establishment of Poultry Valley&amp;quot; was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote sustainable and organized poultry farming among cooperative society members, especially women, by providing financial and technical support for poultry rearing, thereby enhancing income generation and livelihood opportunities in the state.\n<br>\n\n",
+      "benefits_md": "\n  - Under the project, each farmer will rear 750 chicks annually in three phases. The Animal Husbandry Department will supply 500 one-day-old chicks from the state sector budget through M-PACS, while the farmer will bear the cost of the remaining 250 chicks.\n  - The Cooperative Department will provide an interest-free loan for the construction of poultry sheds and for the care &amp;amp; rearing of the chicks.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote sustainable and organized poultry farming among cooperative society members, especially women, by providing financial and technical support for poultry rearing, thereby enhancing income generation and livelihood opportunities in the state.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Establishment of Poultry Valley\" was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote sustainable and organized poultry farming among cooperative society members, especially women, by providing financial and technical support for poultry rearing, thereby enhancing income generation and livelihood opportunities in the state."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under the project, each farmer will rear 750 chicks annually in three phases. The Animal Husbandry Department will supply 500 one-day-old chicks from the state sector budget through M-PACS, while the farmer will bear the cost of the remaining 250 chicks."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Cooperative Department will provide an interest-free loan for the construction of poultry sheds and for the care & rearing of the chicks."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Beneficiaries must apply through the Cooperative Department and the Veterinary Officer. The application must submit the following documents along with application form: Aadhaar card, bank account details, land records/registry/lease documents, and a certificate or affidavit from the concerned bank stating that the applicant is not a loan defaulter."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Beneficiaries must apply through the Cooperative Department and the Veterinary Officer. The application must submit the following documents along with application form: Aadhaar card, bank account details, land records/registry/lease documents, and a certificate or affidavit from the concerned bank stating that the applicant is not a loan defaulter.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a member of a Multi-Purpose Agricultural Cooperative Society (MPACS).\n   1. Preference will be given to female beneficiaries under this scheme.\n   1. The applicant must not have any outstanding loans from MPACS or any other bank.\n   1. The selected applicant must be eligible to receive Medium-Term (MT) and Short-Term (ST) loans under the Deendayal Upadhyaya Krishi Kalyan Yojana.\n   1. The applicant must own or have land on lease.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a member of a Multi-Purpose Agricultural Cooperative Society (MPACS)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Preference will be given to female beneficiaries under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must not have any outstanding loans from MPACS or any other bank."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The selected applicant must be eligible to receive Medium-Term (MT) and Short-Term (ST) loans under the Deendayal Upadhyaya Krishi Kalyan Yojana."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must own or have land on lease."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kgsuk"
+}

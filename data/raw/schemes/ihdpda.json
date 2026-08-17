@@ -1,0 +1,293 @@
+{
+  "_id": "65cb413eed4030e118d8126f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Horticulture",
+        "Subsidy",
+        "Farmer",
+        "DBT"
+      ],
+      "schemeName": "Integrated Horticultural Development Program Through Diversification of Agriculture",
+      "schemeShortTitle": "IHDPDA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "ihdpda",
+      "briefDescription": "Through this scheme, the farmers are provided subsidies through DBT mode for Organic Manures for Coconut Palms, Tools and Implements for Agricultural Purposes, Mud Pots or Cement Pots, Plant Protection Chemicals, Motor Pumpset for Irrigation Purposes, Biogas Unit, Planting Materials, etc."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Standard Operating Procedure",
+          "url": "https://agri.py.gov.in/sites/default/files/schemes/IHDP%20Mahe%20SOP.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf"
+        },
+        {
+          "title": "Citizen's Charter",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Through this scheme, the farmers are provided subsidies through DBT mode for Organic Manures for Coconut Palms, Tools and Implements for Agricultural Purposes, Mud Pots or Cement Pots, Plant Protection Chemicals, Motor Pumpset for Irrigation Purposes, Biogas Unit, Planting Materials, etc.",
+      "detailedDescription_md": "The scheme “Integrated Horticultural Development Program Through Diversification of Agriculture (IHDPDA)&quot; was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the farmers are provided subsidy through DBT (Direct Benefit Transfer) mode for Organic Manures for Coconut Palms, Tools and Implements for Agricultural Purpose, Mud Pots or Cement Pots, Plant Protection Chemicals, Motor Pumpset for Irrigation Purpose, Biogas Unit, Planting Materials and Vegetable Seeds, Compensation for Disease Affected/ Unproductive Palms, Back Ended Investment Subsidy.\n",
+      "benefits_md": "\n- Organic Manures for Coconut Palms @ 75% Subsidy.\n- Tools and Implements for Agricultural Purpose @ 50% Subsidy.\n- Mud Pots or Cement Pots @ 50% Subsidy.\n- Plant Protection Chemicals @ 50% Subsidy.  \n- Motor Pumpset for Irrigation Purpose@ 50% Subsidy.\n- Biogas Unit @50% Subsidy.  \n- Planting Materials and Vegetable Seeds @ 75% Subsidy.  \n- Compensation for Disease Affected/ Unproductive Palms @ ₹250/palm.\n- Back Ended Investment Subsidy @ 50 % of Cultivation Cost. \n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Integrated Horticultural Development Program Through Diversification of Agriculture (IHDPDA)\" was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the farmers are provided subsidy through DBT (Direct Benefit Transfer) mode for Organic Manures for Coconut Palms, Tools and Implements for Agricultural Purpose, Mud Pots or Cement Pots, Plant Protection Chemicals, Motor Pumpset for Irrigation Purpose, Biogas Unit, Planting Materials and Vegetable Seeds, Compensation for Disease Affected/ Unproductive Palms, Back Ended Investment Subsidy."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Organic Manures for Coconut Palms @ 75% Subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Tools and Implements for Agricultural Purpose @ 50% Subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Mud Pots or Cement Pots @ 50% Subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Plant Protection Chemicals @ 50% Subsidy.  "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Motor Pumpset for Irrigation Purpose@ 50% Subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Biogas Unit @50% Subsidy.  "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Planting Materials and Vegetable Seeds @ 75% Subsidy.  "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Compensation for Disease Affected/ Unproductive Palms @ ₹250/palm."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Back Ended Investment Subsidy @ 50 % of Cultivation Cost. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/emailcontact.html",
+                "children": [
+                  {
+                    "text": "Department of Agriculture and Farmer's Welfare/ Uzhavar Udhaviyagam (Farmers' Help Centres)/ Agricultural Officer, Mahe"
+                  }
+                ]
+              },
+              {
+                "text": " and request a hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Department of Agriculture and Farmer&#39;s Welfare/ Uzhavar Udhaviyagam (Farmers&#39; Help Centres)/ Agricultural Officer, Mahe](https://agri.py.gov.in/emailcontact.html) and request a hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "All farmers are eligible.\n_*The Agricultural officer (Mahe) shall maintain a separate register in the prescribed format for the receipt of applications and conduct periodic field inspections to verify the progress of the cultivation._\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All farmers are eligible."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "*The Agricultural officer (Mahe) shall maintain a separate register in the prescribed format for the receipt of applications and conduct periodic field inspections to verify the progress of the cultivation.",
+              "italic": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ihdpda"
+}

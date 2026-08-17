@@ -1,0 +1,308 @@
+{
+  "_id": "66e289df42d76022fd749fe2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Integrated Pest Management",
+        "Training"
+      ],
+      "schemeName": "Integrated Pest Management Demonstration Cum Training",
+      "schemeShortTitle": "IPMDCT",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "institution",
+          "label": "University / Institution"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "nodalDepartmentName": {
+        "value": 3333332,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "ipmdct",
+      "briefDescription": "The “Integrated Pest Management Demonstration Cum Training” scheme provides financial assistance for 30 farmers to conduct pest management demonstrations and training using a cluster approach in Farmer Field Schools.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/6848"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Integrated Pest Management Demonstration Cum Training” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, supports pest management practices through demonstrations and training in Farmer Field Schools. Financial assistance is granted for each 40-hectare demonstration and training cluster. The scheme aims to enhance pest control knowledge among farmers, helping them manage pests effectively while reducing reliance on chemical pesticides.\n",
+      "benefits_md": "\n  - **For Farmer Field Schools:** Financial Assistance: Grants of ₹17,000/- is allowed towards Demonstration of 40 Ha. each and Training per Farmers Field School through cluster approach.  - **For Farmers:** Training &amp;amp; Demonstration: Hands-on training in pest management through Farmer Field Schools.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The “Integrated Pest Management Demonstration Cum Training” scheme provides financial assistance for 30 farmers to conduct pest management demonstrations and training using a cluster approach in Farmer Field Schools.\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Integrated Pest Management Demonstration Cum Training” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, supports pest management practices through demonstrations and training in Farmer Field Schools. Financial assistance is granted for each 40-hectare demonstration and training cluster. The scheme aims to enhance pest control knowledge among farmers, helping them manage pests effectively while reducing reliance on chemical pesticides."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For Farmer Field Schools: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Financial Assistance: Grants of ₹17,000/- is allowed towards Demonstration of 40 Ha. each and Training per Farmers Field School through cluster approach."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For Farmers: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Training & Demonstration: Hands-on training in pest management through Farmer Field Schools."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Collect the application form from the nearest Agricultural Office."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the form to the concerned office:"
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Village Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the application to the Assistant Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Block Level:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "District Level: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit to the Joint Director of Agriculture."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "&gt; **For Farmer:**\n\n\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be willing to adopt Integrated Pest Management practices.\n\n&gt; **For Farmer Field Schools:**\n\n\n  - The entity/organization should be a Farmer Field School.\n  - The entity/organization should be interested in conducting a Demonstration and Training program for the Farmers.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "For Farmer:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a Farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a resident of Tamil Nadu."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be willing to adopt Integrated Pest Management practices."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "For Farmer Field Schools:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The entity/organization should be a Farmer Field School."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The entity/organization should be interested in conducting a Demonstration and Training program for the Farmers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ipmdct"
+}

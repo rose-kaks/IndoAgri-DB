@@ -1,0 +1,308 @@
+{
+  "_id": "6319853248063dc46f33b28d",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2000-12-25",
+      "schemeCloseDate": null,
+      "state": null,
+      "nodalMinistryName": {
+        "value": 487,
+        "label": "Ministry Of Rural Development"
+      },
+      "nodalDepartmentName": {
+        "value": 505,
+        "label": "Department of Rural Development"
+      },
+      "otherMinistryName": [
+        {
+          "value": 1146,
+          "label": "Ministry Of Road Transport & Highways"
+        }
+      ],
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Roads and road transport",
+          "label": "Roads and road transport"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Rural Works Departments And State PWDs",
+      "tags": [
+        "Road",
+        "Rural"
+      ],
+      "schemeName": "Pradhan Mantri Gram Sadak Yojana",
+      "schemeShortTitle": "PMGSY",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        }
+      ],
+      "schemeFor": "Infra",
+      "slug": "pmgsy",
+      "briefDescription": "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weather access to eligible unconnected habitations."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "PMGSY-III Guidelines",
+          "url": "https://pmgsy.nic.in/sites/default/files/PMGSY_III_guidelines.pdf"
+        },
+        {
+          "title": "FAQs",
+          "url": "https://pmgsy.nic.in/frequently-asked-questions-pradhan-mantri-gram-sadak-yojana-pmgsy"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weather access to eligible unconnected habitations.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weather access to eligible unconnected habitations with a population of up to 500(Census 2001) in plain area and 250 and above in Special category States(States of North East, Jammu, and Kashmir, Himachal Pradesh, Uttarakhand), Desert Area as identified by Desert Development Program and 88 selected Backward Districts as identified by the Ministry of Home Affairs/Planning Commission as a strategy for poverty alleviation."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As of 8th December 2021, a total of 6,80,040 km of road length has been constructed under various interventions of Pradhan Mantri Gram Sadak Yojana (PMGSY). The primary objective of PMGSY concerns building robust, all-weather roads in rural habitations and other core areas. Panchayati Rajs and elected local representatives decide which habitations to be selected. This scheme was centrally funded only up to 2015-16. Since then, the funds have been divided between the Centre and the State. For North Eastern and Himalayan States (Jammu & Kashmir, Uttarakhand, and Himachal Pradesh) 90% of a project is the Union Government funds, and 10% of this cost, is the State Government funds. For the Other States, the Union Government funds around 60% of a project while the remaining 40% is by State Government funds."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some prominent features of PMGSY are -"
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Proper decentralized planning for the building of roads."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Build roads according to the Indian Road Congress and Rural Roads Manual."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3-tier quality management system."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An unbroken flow of funds."
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "value": "in kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The benefits of the Pradhan Mantri Gram Sadak Yojana (PMGSY) are -"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.  All-weather connection to the hamlets that are least or not connected."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.  Overall Development of the country allows for easy movement of goods and vehicles."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.  There are better employment opportunities for those from villages thanks to road connections."
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "With the objective of providing rural connectivity, the Government of India launched the Pradhan Mantri Gram Sadak Yojana (referred to as PMGSY-I hereinafter) on 25th December 2000 to provide all-weather access to eligible unconnected habitations with a population of up to 500(Census 2001) in plain area and 250 and above in Special category States(States of North East, Jammu, and Kashmir, Himachal Pradesh, Uttarakhand), Desert Area as identified by Desert Development Program and 88 selected Backward Districts as identified by the Ministry of Home Affairs/Planning Commission as a strategy for poverty alleviation.\n<br>\n\nAs of 8th December 2021, a total of 6,80,040 km of road length has been constructed under various interventions of Pradhan Mantri Gram Sadak Yojana (PMGSY). The primary objective of PMGSY concerns building robust, all-weather roads in rural habitations and other core areas. Panchayati Rajs and elected local representatives decide which habitations to be selected. This scheme was centrally funded only up to 2015-16. Since then, the funds have been divided between the Centre and the State. For North Eastern and Himalayan States (Jammu &amp; Kashmir, Uttarakhand, and Himachal Pradesh) 90% of a project is the Union Government funds, and 10% of this cost, is the State Government funds. For the Other States, the Union Government funds around 60% of a project while the remaining 40% is by State Government funds.\n<br>\n\nSome prominent features of PMGSY are -\nProper decentralized planning for the building of roads.\nBuild roads according to the Indian Road Congress and Rural Roads Manual.\n3-tier quality management system.\nAn unbroken flow of funds.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The list of road works to be taken up under the Programme will be finalized each year by the District Panchayat in accordance with the allocation of funds communicated to the district. The District Panchayat has to ensure along with the consultative process, that the lists of proposed road works are part of the Core Network and that new connectivity is given priority."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1.  A region must be a habitation. It cannot be a hamlet or revenue village to be eligible for the Pradhan Mantri Gram Sadak Yojana (PMGSY).\n<br>\n\n2.  The Central Government describes habitation as a population cluster residing within an area that remains constant over time. Some of the local words used to describe a habitation are:\nMajras, Desam, Hamlets, Tolas, Dhanis\n<br>\n\n3.  The hamlet must have a higher population as per the 2001 Census to be eligible for road connection. The eligible habitations have a population of above 500 persons in plain areas and around 250 persons and above in hilly areas.\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.  A region must be a habitation. It cannot be a hamlet or revenue village to be eligible for the Pradhan Mantri Gram Sadak Yojana (PMGSY)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2.  The Central Government describes habitation as a population cluster residing within an area that remains constant over time. Some of the local words used to describe a habitation are:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Majras, Desam, Hamlets, Tolas, Dhanis"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.  The hamlet must have a higher population as per the 2001 Census to be eligible for road connection. The eligible habitations have a population of above 500 persons in plain areas and around 250 persons and above in hilly areas."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pmgsy"
+}

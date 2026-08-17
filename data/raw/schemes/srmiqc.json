@@ -1,0 +1,284 @@
+{
+  "_id": "65cb606fed4030e118d83786",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Soil",
+        "Quality",
+        "Sample",
+        "Testing",
+        "Lab"
+      ],
+      "schemeName": "Soil Resource Management and Inputs Quality Control",
+      "schemeShortTitle": "SRMIQC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "schemeFor": "Individual",
+      "slug": "srmiqc",
+      "briefDescription": "Through the scheme “Soil Resource Management and Inputs Quality Control\", the farmers can give their soil and water samples to the soil testing lab for analysis and recommendation at completely free of cost."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "Through the scheme “Soil Resource Management and Inputs Quality Control\", the farmers can give their soil and water samples to the soil testing lab for analysis and recommendation at completely free of cost.",
+      "detailedDescription_md": "The scheme “Soil Resource Management and Inputs Quality Control&quot; was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the farmers can give their soil and water samples to the soil testing lab attached to the Office of the Additional Director of Agriculture (LUP &amp; QC), Thatanchavady, Puducherry, for analysis and recommendation at completely free of cost.\n<br>\n\n> **Objectives**\n\n\n- To monitor the soil fertility status effectively by intensive sampling and to build up a reliable database of Soil Resources for interpretation in relation to its production potential.\n- To maintain the soil health for sustaining the production potential and generating fertilizer recommendations for individual crops to meet the farmers’ requirement based on the soil database thus created.\n- To prevent further deterioration of soil productivity, fertility and sustainability.\n\n",
+      "benefits_md": "\n- The farmers from the Puducherry region can give their soil and water samples to the soil testing lab attached to this office for analysis and recommendation.\n- The farmers of the Puducherry region are provided with soil health cards for their cultivable lands within a month.\n- This office is also involved in analyzing the quality of the three most important inputs used by the farmers namely (i) Seeds (ii) fertilizers and (iii) Pesticides by trained analysis. Samples taken by the notified quality inspectors are analysed and the quality of the inputs is determined.\n- If Farmers have doubts about the quality of important inputs like seeds, fertilizers and pesticides they may contact the agricultural officer (U.U.) concerned to assess the quality of these inputs by submitting the sample.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme “Soil Resource Management and Inputs Quality Control\" was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the farmers can give their soil and water samples to the soil testing lab attached to the Office of the Additional Director of Agriculture (LUP & QC), Thatanchavady, Puducherry, for analysis and recommendation at completely free of cost."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Objectives",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To monitor the soil fertility status effectively by intensive sampling and to build up a reliable database of Soil Resources for interpretation in relation to its production potential."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To maintain the soil health for sustaining the production potential and generating fertilizer recommendations for individual crops to meet the farmers’ requirement based on the soil database thus created."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To prevent further deterioration of soil productivity, fertility and sustainability."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers from the Puducherry region can give their soil and water samples to the soil testing lab attached to this office for analysis and recommendation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers of the Puducherry region are provided with soil health cards for their cultivable lands within a month."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This office is also involved in analyzing the quality of the three most important inputs used by the farmers namely (i) Seeds (ii) fertilizers and (iii) Pesticides by trained analysis. Samples taken by the notified quality inspectors are analysed and the quality of the inputs is determined."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "If Farmers have doubts about the quality of important inputs like seeds, fertilizers and pesticides they may contact the agricultural officer (U.U.) concerned to assess the quality of these inputs by submitting the sample."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+                "children": [
+                  {
+                    "text": "Office of the Additional Director of Agriculture (Land Use Planning & Quality Control)"
+                  }
+                ]
+              },
+              {
+                "text": " and request the hard copy of the prescribed format of the application form from the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/emailcontact.html",
+                "children": [
+                  {
+                    "text": "Deputy Director of Agriculture (Chemistry)"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the Deputy Director of Agriculture (Chemistry)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Office of the Additional Director of Agriculture (Land Use Planning &amp; Quality Control)](https://agri.py.gov.in/sites/default/files/citchart/response.pdf) and request the hard copy of the prescribed format of the application form from the [Deputy Director of Agriculture (Chemistry)](https://agri.py.gov.in/emailcontact.html).\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the Deputy Director of Agriculture (Chemistry).\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a citizen of Puducherry.\n- The applicant should be a Farmer.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a citizen of Puducherry."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Farmer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "srmiqc"
+}

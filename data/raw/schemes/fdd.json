@@ -1,0 +1,211 @@
+{
+  "_id": "68ef7bb68ba160c15f3a1479",
+  "en": {
+    "schemeDefinitions": [],
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The applicant should contact the District Office of the Horticulture Department."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+      }
+    ],
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Flower Development (Demonstration)” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to promote flower cultivation by conducting demonstrations of major flowers such as rose, tuberose, aster, marigold, chrysanthemum, and gladiolus in farmers&amp;#39; fields. Under this scheme, demonstrations are carried out in an area of 0.04 hectares (400 square meters) to encourage farmers to adopt flower farming practices.\n<br>\n\n",
+      "benefits_md": "\n  - Exhibition: Demonstrations of major flowers such as rose, tuberose, aster, marigold, chrysanthemum, and gladiolus are conducted in farmers’ fields over an area of 0.04 hectares (400 square meters).\n\n\n  - Financial Assistance: A subsidy is provided at the rate of 75% or a maximum of ₹3,000/- per demonstration, whichever is less, based on ₹4,000/- per demonstration for seeds, plants, bulbs, or suckers.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote flower cultivation through demonstrations of major flowers like rose, tuberose, and marigold by providing financial assistance to farmers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Flower Development (Demonstration)” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to promote flower cultivation by conducting demonstrations of major flowers such as rose, tuberose, aster, marigold, chrysanthemum, and gladiolus in farmers' fields. Under this scheme, demonstrations are carried out in an area of 0.04 hectares (400 square meters) to encourage farmers to adopt flower farming practices."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Exhibition: Demonstrations of major flowers such as rose, tuberose, aster, marigold, chrysanthemum, and gladiolus are conducted in farmers’ fields over an area of 0.04 hectares (400 square meters)."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial Assistance: A subsidy is provided at the rate of 75% or a maximum of ₹3,000/- per demonstration, whichever is less, based on ₹4,000/- per demonstration for seeds, plants, bulbs, or suckers."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Flower Development",
+        "Horticulture",
+        "Floriculture",
+        "Farmer"
+      ],
+      "schemeName": "Flower Development (Demonstration)",
+      "schemeShortTitle": "FDD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Exhibitions/Trade fairs/Buyer-seller meet, market development",
+          "label": "Exhibitions/Trade fairs/Buyer-seller meet, market development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300018,
+        "label": "Horticulture and Food Processing Department"
+      },
+      "slug": "fdd",
+      "briefDescription": "The scheme aims to promote flower cultivation through demonstrations of major flowers like rose, tuberose, and marigold by providing financial assistance to farmers."
+    },
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fdd"
+}

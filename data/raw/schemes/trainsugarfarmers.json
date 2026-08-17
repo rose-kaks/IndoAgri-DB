@@ -1,0 +1,219 @@
+{
+  "_id": "68d0ff62b2e73f1808ee55e5",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Sugarcane Cultivation",
+        "Training",
+        "Sugarcane Farmer",
+        "Sugarcane"
+      ],
+      "schemeName": "Training Programme for Sugarcane Farmers",
+      "schemeShortTitle": "TPSF",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000039,
+        "label": "Sugarcane Development And Sugar Industries"
+      },
+      "slug": "trainsugarfarmers",
+      "briefDescription": "The scheme aims to enhance the knowledge and skills of sugarcane farmers by providing free training and information on advanced and modern sugarcane cultivation techniques."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 257)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Training Programme for Sugarcane Farmers” was launched by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to enhance the knowledge and skills of sugarcane farmers by providing free training and information on advanced and modern sugarcane cultivation techniques.\n<br>\n\n",
+      "benefits_md": "Under this scheme, information and training on advanced and modern sugarcane farming practices are provided to farmers free of cost.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to enhance the knowledge and skills of sugarcane farmers by providing free training and information on advanced and modern sugarcane cultivation techniques.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Training Programme for Sugarcane Farmers” was launched by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to enhance the knowledge and skills of sugarcane farmers by providing free training and information on advanced and modern sugarcane cultivation techniques."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, information and training on advanced and modern sugarcane farming practices are provided to farmers free of cost."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Village-level and state-level seminars are organized by the Sugarcane Farmers Institute and Training Centre, where farmers receive training from scientists of sugarcane research institutions and officers of the Sugarcane Department on advanced and modern methods of sugarcane cultivation. Training also covers pest and disease management and their prevention. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Sugarcane Farmers Institute organizes study tours to state and inter-state sugarcane research centres to provide farmers with practical exposure to innovative farming practices."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Village-level and state-level seminars are organized by the Sugarcane Farmers Institute and Training Centre, where farmers receive training from scientists of sugarcane research institutions and officers of the Sugarcane Department on advanced and modern methods of sugarcane cultivation. Training also covers pest and disease management and their prevention. \n  - The Sugarcane Farmers Institute organizes study tours to state and inter-state sugarcane research centres to provide farmers with practical exposure to innovative farming practices.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer associated with a sugar mill area or a member of a cooperative society.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer associated with a sugar mill area or a member of a cooperative society."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "trainsugarfarmers"
+}

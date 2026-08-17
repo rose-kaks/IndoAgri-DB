@@ -1,0 +1,222 @@
+{
+  "_id": "67442470b63acbe8ffb70e9f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Housing",
+        "Fish Farmer",
+        "Disabled",
+        "BPL"
+      ],
+      "schemeName": "Ved-Vyas Housing Construction Scheme",
+      "schemeShortTitle": "V-VHCS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7d2d6d1a3bde46852c2",
+          "label": "Housing & Shelter"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Shelter, integrated support and assistance",
+          "label": "Shelter, integrated support and assistance"
+        },
+        {
+          "value": "Slum Rehabilitation/Redevelopment",
+          "label": "Slum Rehabilitation/Redevelopment"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Housing",
+          "label": "Housing"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2023-06-06",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000027,
+        "label": "Department of Agriculture, Animal Husbandry & Co-operative"
+      },
+      "schemeFor": "Individual",
+      "slug": "v-vhcs",
+      "briefDescription": "The \"Ved Vyas Housing Construction Scheme\" provides financial assistance to active and traditional fish farmers in Simdega district for building houses. The scheme prioritizes individuals particularly those living in kutcha or thatched houses. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2023/10/2023102792.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Ved Vyas Housing Construction Scheme&quot; was launched by the Department of Agriculture, Animal Husbandry and Co-operative, Government of Jharkhand. The scheme aims to provide financial assistance to active and traditional fish farmers in Simdega district for building houses. The scheme prioritizes individuals particularly those living in kutcha or thatched houses, and ensures benefits for women and disabled applicants. \n",
+      "benefits_md": "\n- **Financial assistance of ₹1,20,000/- for housing construction.**\n\n",
+      "briefDescription": "The \"Ved Vyas Housing Construction Scheme\" provides financial assistance to active and traditional fish farmers in Simdega district for building houses. The scheme prioritizes individuals particularly those living in kutcha or thatched houses. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Ved Vyas Housing Construction Scheme\" was launched by the Department of Agriculture, Animal Husbandry and Co-operative, Government of Jharkhand. The scheme aims to provide financial assistance to active and traditional fish farmers in Simdega district for building houses. The scheme prioritizes individuals particularly those living in kutcha or thatched houses, and ensures benefits for women and disabled applicants. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance of ₹1,20,000/- for housing construction.",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the District Fisheries Office, Simdega and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Office, Simdega."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the District Fisheries Office, Simdega to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Office, Simdega and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Office, Simdega.\n**Step 4:** Request a receipt or acknowledgment from the District Fisheries Office, Simdega to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be an active or traditional fish farmer. \n1. The applicant should be living in kutcha or thatched houses.\n1. The applicant&#39;s family belongs to the below poverty line.\n1. The applicant must not have previously benefited from the departmental fishermen housing scheme or Indira Awas or equivalent housing scheme of the Central/State Government\n1. The applicant must own land for house construction.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be an active or traditional fish farmer. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be living in kutcha or thatched houses."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's family belongs to the below poverty line."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not have previously benefited from the departmental fishermen housing scheme or Indira Awas or equivalent housing scheme of the Central/State Government"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must own land for house construction."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "v-vhcs"
+}

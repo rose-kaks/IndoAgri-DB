@@ -1,0 +1,564 @@
+{
+  "_id": "66a892b3ff82e3090fb49fc0",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Productivity",
+        "Fish Farming",
+        "Group"
+      ],
+      "schemeName": "Khule Jalsroto Mei Pen Aadharit Matsya Paalan ki Yojana",
+      "schemeShortTitle": "KJMPAMPKY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        }
+      ],
+      "schemeOpenDate": "2022-07-22",
+      "targetBeneficiaries": [
+        {
+          "value": "joint-liability-groups",
+          "label": "Joint Liability Groups (JLGS)"
+        }
+      ],
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalDepartmentName": {
+        "value": 10111112,
+        "label": "Animal & Fisheries Resources Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "kjmpampky",
+      "briefDescription": "The \"Khule Jalsroto Mei Pen Aadharit Matsya Paalan ki Yojana\" objective of this scheme is to increase fish productivity and production through semi-intensive / intensive fisheries of large-scale available government wetland water sources (Man, Chaur and Lake etc.), strengthening aquaculture through"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://misfisheries.bihar.gov.in/docs/pencul.pdf"
+        },
+        {
+          "title": "Oficial Website",
+          "url": "https://fisheries.bihar.gov.in/Default.aspx"
+        },
+        {
+          "title": "Login",
+          "url": "https://misfisheries.bihar.gov.in/login.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Khule Jalsroto Mei Pen Aadharit Matsya Paalan ki Yojana&quot; was launched by the Animal and Fisheries Resources Department, Government of Bihar. The scheme aims to increase fish productivity and production through semi-intensive/intensive fisheries of large-scale available government wetland water sources (Man, Chaur, and Lake, etc.), and strengthen aquaculture through species diversification. It seeks to increase the income of farmers/fishermen and provide new employment opportunities.\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n",
+      "benefits_md": "\n- **A 75% subsidy is provided on the fixed unit expenditure of ₹10,50,000/- per pen unit.** \n\n",
+      "briefDescription": "The \"Khule Jalsroto Mei Pen Aadharit Matsya Paalan ki Yojana\" objective of this scheme is to increase fish productivity and production through semi-intensive / intensive fisheries of large-scale available government wetland water sources (Man, Chaur and Lake etc.), strengthening aquaculture through",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Khule Jalsroto Mei Pen Aadharit Matsya Paalan ki Yojana\" was launched by the Animal and Fisheries Resources Department, Government of Bihar. The scheme aims to increase fish productivity and production through semi-intensive/intensive fisheries of large-scale available government wetland water sources (Man, Chaur, and Lake, etc.), and strengthen aquaculture through species diversification. It seeks to increase the income of farmers/fishermen and provide new employment opportunities."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A 75% subsidy is provided on the fixed unit expenditure of ₹10,50,000/- per pen unit. ",
+                  "bold": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Select the \""
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/RegisterFisheries.aspx",
+                "children": [
+                  {
+                    "text": "Registration for Fisheries Schemes"
+                  }
+                ]
+              },
+              {
+                "text": "\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03:",
+                "bold": true
+              },
+              {
+                "text": " Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " Enter a valid 10-digit mobile number and click to send OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05:",
+                "bold": true
+              },
+              {
+                "text": " An OTP will be sent to the provided mobile number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06:",
+                "bold": true
+              },
+              {
+                "text": " Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-07:",
+                "bold": true
+              },
+              {
+                "text": " Click on the \"Login\" and enter the Registration Number and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Form Filling Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Click \"If your already register, "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/login.aspx",
+                "children": [
+                  {
+                    "text": "login here"
+                  }
+                ]
+              },
+              {
+                "text": "\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03",
+                "bold": true
+              },
+              {
+                "text": ": Select \"Application form\" under the \"scheme name\" option on the top menu."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " Applicant need to provide the following details :"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Details of RFF group"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Permanent address"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Details of members of Fishermen Cooperative Society and group"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Land details"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Financial availability of the scheme"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05",
+                "bold": true
+              },
+              {
+                "text": ": Upload the required documents"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Training Certificate"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Land Lease Receipt"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "PAN/RFF Group Statement"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Photocopy of Photo ID (Aadhaar/Photo ID Card recognized by Govt. of India)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Original copy of Consent Letter (in prescribed format)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Self attested photocopy of Bank Passbook or Cheque (with Bank Name, Branch Name, Account No., IFSC Code)"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the submit button and a receipt will be generated."
+              }
+            ]
+          }
+        ],
+        "process_md": "> ***Registration Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;. \n**Step-02:** Select the &quot;[Registration for Fisheries Schemes](https://misfisheries.bihar.gov.in/RegisterFisheries.aspx)&quot;\n**Step-03:** Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.\n**Step-04:** Enter a valid 10-digit mobile number and click to send OTP.\n**Step-05:** An OTP will be sent to the provided mobile number.\n**Step-06:** Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.\n**Step-07:** Click on the &quot;Login&quot; and enter the Registration Number and Password.\n<br>\n\n> ***Application Form Filling Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;.\n**Step-02:** Click &quot;If your already register, [login here](https://misfisheries.bihar.gov.in/login.aspx)&quot;. \n**Step-03**: Select &quot;Application form&quot; under the &quot;scheme name&quot; option on the top menu.\n**Step-04:** Applicant need to provide the following details :\n\n\n  - Details of RFF group\n  - Permanent address\n  - Details of members of Fishermen Cooperative Society and group\n  - Bank account details\n  - Land details\n  - Financial availability of the scheme\n\n\n**Step-05**: Upload the required documents\n\n\n  - Training Certificate\n  - Land Lease Receipt\n  - PAN/RFF Group Statement\n  - Photocopy of Photo ID (Aadhaar/Photo ID Card recognized by Govt. of India)\n  - Original copy of Consent Letter (in prescribed format)\n  - Self attested photocopy of Bank Passbook or Cheque (with Bank Name, Branch Name, Account No., IFSC Code)\n\n\n**Step-06:** Click on the submit button and a receipt will be generated.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Groups formed from lessees of the committee in Man, Chaur, and Lake are eligible to apply.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Groups formed from lessees of the committee in Man, Chaur, and Lake are eligible to apply."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kjmpampky"
+}

@@ -1,0 +1,453 @@
+{
+  "_id": "687caa9ab547bf42f3741ce2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Holiday",
+        "Tea",
+        "Income Tax",
+        "Incentive",
+        "Industry"
+      ],
+      "schemeName": "\"Agricultural Income Tax Holiday\" under the \"Assam Tea Industries Special Incentives Scheme\"",
+      "schemeShortTitle": "AITH-ATISIS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Banking and money",
+          "label": "Banking and money"
+        },
+        {
+          "value": "Land and water resources",
+          "label": "Land and water resources"
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 18,
+        "label": "Assam"
+      },
+      "nodalDepartmentName": {
+        "value": 1800011,
+        "label": "Finance Department"
+      },
+      "slug": "aith-atisis",
+      "briefDescription": "The scheme aims to ensure long-term financial sustainability of the Tea industry and to incentivize manufacturers to move from Crush, Tear, Curl tea to Orthodox tea production. The scheme is implemented by the Finance Department and the Industries & Commerce Department, Government of Assam."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://atisis.assam.gov.in/atsisver/pdfView.html?filename=Notification_ATISIS_2020.pdf"
+        },
+        {
+          "title": "Amendment",
+          "url": "https://atisis.assam.gov.in/atsisver/pdfView.html?filename=Ammended_Notification.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Launched in 2020, the scheme &quot;Assam Tea Industries Special Incentives Scheme (ATISIS)&quot; by the Finance (Institutional Finance) Department, Government of Assam, aims to ensure long-term financial sustainability of the Tea industry and to incentivize manufacturers to move from Crush, Tear, Curl tea to Orthodox tea production. The scheme is implemented by the Finance Department and the Industries &amp; Commerce Department, Government of Assam, through multiple implementing agencies, including banks and the District Industries &amp; Commerce Centre. The applications for this scheme are accepted online through a dedicated portal with a Direct Benefit Transfer mechanism for reimbursement.\n<br>\n\n",
+      "benefits_md": "**Benefit Period:** 3 years of Agricultural Income Tax holiday.\n**Applicable Financial Years:** 2022-23 to 2024-25.\n**Condition:** Returns must be filed within the due date; if not filed on the due date, interest and penalty will be applicable.\n<br>\n\n",
+      "briefDescription": "The scheme aims to ensure long-term financial sustainability of the Tea industry and to incentivize manufacturers to move from Crush, Tear, Curl tea to Orthodox tea production. The scheme is implemented by the Finance Department and the Industries & Commerce Department, Government of Assam.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Launched in 2020, the scheme \"Assam Tea Industries Special Incentives Scheme (ATISIS)\" by the Finance (Institutional Finance) Department, Government of Assam, aims to ensure long-term financial sustainability of the Tea industry and to incentivize manufacturers to move from Crush, Tear, Curl tea to Orthodox tea production. The scheme is implemented by the Finance Department and the Industries & Commerce Department, Government of Assam, through multiple implementing agencies, including banks and the District Industries & Commerce Centre. The applications for this scheme are accepted online through a dedicated portal with a Direct Benefit Transfer mechanism for reimbursement."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Benefit Period:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " 3 years of Agricultural Income Tax holiday."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applicable Financial Years:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " 2022-23 to 2024-25."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Condition:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " Returns must be filed within the due date; if not filed on the due date, interest and penalty will be applicable."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration Process",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://atisis.assam.gov.in/atsisver/login.html",
+                "children": [
+                  {
+                    "text": "dedicated portal"
+                  }
+                ]
+              },
+              {
+                "text": " of \"Assam Tea Industries Special Incentives\" Scheme. Click on the \"New User Registration\" option."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the registration form, fill in basic details including name, mobile number, and email address. Create a username and password following the portal's password policy. Verify your mobile number through one-time password verification. Complete Captcha Code verification. Submit the registration form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Check your registered email for the account activation link. Click on the activation link to activate the account. Log in to the portal using registered credentials."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Upload all supporting documents of eligibility in the prescribed format. Fill in complete unit details, including location, type of tea production, and capacity. Submit the unit registration form. Wait for registration approval."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Log in to the portal using registered credentials. Navigate to the \"Apply for Benefits\" section. Select the scheme component that you intend to apply for."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Fill in the prescribed application form with all mandatory fields. Upload all supporting documents as mentioned in the portal. Ensure file formats and file size restrictions are followed as per the portal guidelines. Review all entered information for accuracy."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Upload documents in the specified format and size. Ensure all documents are clear and legible. Complete document verification checklist."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Review the complete application before submission. Apply online."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*Note down the application reference number. Save a copy of the submitted application form.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*Applicants are strongly encouraged to save a copy of the submitted application, confirmation message, and application reference number for future reference and tracking purposes.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Status Tracking",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Log in to the portal to check application status. Track application progress through different stages of verification. Receive Short Message Service alerts throughout the process, including registration, fund release, etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "*For Technical Support, please write to atisis.assam@gmail.com.",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "italic": true,
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Disbursement Process",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Finance Department releases the benefit directly to the beneficiary's bank account. Short Message Service alerts sent for funds disbursement. The beneficiary receives the Direct Benefit Transfer in a registered bank account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration Process**\n**Step 1:** Visit the [dedicated portal](https://atisis.assam.gov.in/atsisver/login.html) of &quot;Assam Tea Industries Special Incentives&quot; Scheme. Click on the &quot;New User Registration&quot; option.\n**Step 2:** In the registration form, fill in basic details including name, mobile number, and email address. Create a username and password following the portal&#39;s password policy. Verify your mobile number through one-time password verification. Complete Captcha Code verification. Submit the registration form.\n**Step 3:** Check your registered email for the account activation link. Click on the activation link to activate the account. Log in to the portal using registered credentials.\n**Step 4:** Upload all supporting documents of eligibility in the prescribed format. Fill in complete unit details, including location, type of tea production, and capacity. Submit the unit registration form. Wait for registration approval.\n<br>\n\n**Application Process**\n**Step 1:** Log in to the portal using registered credentials. Navigate to the &quot;Apply for Benefits&quot; section. Select the scheme component that you intend to apply for.\n**Step 2:** Fill in the prescribed application form with all mandatory fields. Upload all supporting documents as mentioned in the portal. Ensure file formats and file size restrictions are followed as per the portal guidelines. Review all entered information for accuracy.\n**Step 3:** Upload documents in the specified format and size. Ensure all documents are clear and legible. Complete document verification checklist.\n**Step 4:** Review the complete application before submission. Apply online.\n_*Note down the application reference number. Save a copy of the submitted application form._\n_*Applicants are strongly encouraged to save a copy of the submitted application, confirmation message, and application reference number for future reference and tracking purposes._\n<br>\n\n**Application Status Tracking**\nLog in to the portal to check application status. Track application progress through different stages of verification. Receive Short Message Service alerts throughout the process, including registration, fund release, etc.\n_*For Technical Support, please write to atisis.assam@gmail.com._\n<br>\n\n**Disbursement Process**\nThe Finance Department releases the benefit directly to the beneficiary&#39;s bank account. Short Message Service alerts sent for funds disbursement. The beneficiary receives the Direct Benefit Transfer in a registered bank account.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a tea plantation across all sizes.\n\n\n- The applicant must be a tea manufacturing unit manufacturing Crush, Tear, Curl Tea, Orthodox Tea, or Speciality tea including Green tea, Oolong Tea, White tea, Yellow tea and Purple tea.\n- The applicant must be located entirely in Assam.\n- The applicant must not have any part of the plantation or manufacturing facility located outside the State of Assam.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a tea plantation across all sizes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a tea manufacturing unit manufacturing Crush, Tear, Curl Tea, Orthodox Tea, or Speciality tea including Green tea, Oolong Tea, White tea, Yellow tea and Purple tea."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be located entirely in Assam."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must not have any part of the plantation or manufacturing facility located outside the State of Assam."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "aith-atisis"
+}

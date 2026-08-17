@@ -1,0 +1,401 @@
+{
+  "_id": "64723279527a0d6debd41fa3",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 2,
+        "label": "Himachal Pradesh"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 21111113,
+        "label": "Animal Husbandry Department, Himachal Pradesh"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": "Department Of Animal Husbandry, Himachal Pradesh",
+      "tags": [
+        "Farmer",
+        "Poultry Farming",
+        "Subsidy",
+        "Self Employment"
+      ],
+      "schemeName": "Him Kukkut Palan Yojna",
+      "schemeShortTitle": "HKPY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeType": null,
+      "schemeFor": "Individual",
+      "slug": "hkpy",
+      "briefDescription": "The scheme “Him Kukkut Palan Yojna” was launched by the Department of Animal Husbandry, Government of Himachal Pradesh to provide the subsidy to the entrepreneurs/farmers who are interested and engaged in poultry farming in the state."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Website",
+          "url": "https://hpahdbt.hp.gov.in/Home/broiler_establishment"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Him Kukkut Palan Yojna” was launched by the Department of Animal Husbandry, Government of Himachal Pradesh to provide the subsidy to the entrepreneurs/farmers who are interested and engaged in poultry farming in the state. Since more and more poultry farmers have shown an inclination towards adopting poultry as per occupation consequent to their success in backyard schemes, they want the department to focus on commercial broiler farming in the state as well. For the benefit of such entrepreneurs/farmers and seeing the benefits of poultry rearing as an enterprise, such farmers need to be incentivized by way of assistance through Government by Broiler scheme on a subsidy basis in the state.\n**The following aims and objectives will also be achieved:-**\n\n  - To provide a good diet to the people of the state. It will be possible to make poultry available at reasonable rates if it is produced locally. Large rural populations face the problem of protein-calorie malnutrition, thus needing animal proteins with high biological values which can be met through poultry meat.\n  - To augment the income of the rural people where poultry farming along with livestock rearing is being carried on as a mixed farming complementary to crop production.\n  - Doubling of income of farmers.\n  - To increase the employment opportunities for the rural population since most of them are unemployed or grossly underemployed.\n  - To produce manure of high grade at a minimal cost.\n\n",
+      "benefits_md": "\n- The government shall be providing funds against Capital Investment in this scheme under a subsidy component as per approved norms on a first come first serve basis as per the availability of budget.\n- For the subsidy on total capital investment, 60% will be the subsidy assistance while a maximum of 40% will be the component to be provided by the beneficiary/banks to the beneficiaries belonging to SC, ST &amp;amp; General Category.\n- Since the beneficiary may not be able to raise 3000 chicks at one go due to constraints, so provision is being kept to provide chicks in installments of 1000 chicks as per requirement.\n- To produce manure of high grade at a minimal cost.\n\n<br>\n\n",
+      "briefDescription": "The scheme “Him Kukkut Palan Yojna” was launched by the Department of Animal Husbandry, Government of Himachal Pradesh to provide the subsidy to the entrepreneurs/farmers who are interested and engaged in poultry farming in the state.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Him Kukkut Palan Yojna” was launched by the Department of Animal Husbandry, Government of Himachal Pradesh to provide the subsidy to the entrepreneurs/farmers who are interested and engaged in poultry farming in the state. Since more and more poultry farmers have shown an inclination towards adopting poultry as per occupation consequent to their success in backyard schemes, they want the department to focus on commercial broiler farming in the state as well. For the benefit of such entrepreneurs/farmers and seeing the benefits of poultry rearing as an enterprise, such farmers need to be incentivized by way of assistance through Government by Broiler scheme on a subsidy basis in the state."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The following aims and objectives will also be achieved:-",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To provide a good diet to the people of the state. It will be possible to make poultry available at reasonable rates if it is produced locally. Large rural populations face the problem of protein-calorie malnutrition, thus needing animal proteins with high biological values which can be met through poultry meat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To augment the income of the rural people where poultry farming along with livestock rearing is being carried on as a mixed farming complementary to crop production."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Doubling of income of farmers."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To increase the employment opportunities for the rural population since most of them are unemployed or grossly underemployed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To produce manure of high grade at a minimal cost."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The government shall be providing funds against Capital Investment in this scheme under a subsidy component as per approved norms on a first come first serve basis as per the availability of budget."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For the subsidy on total capital investment, 60% will be the subsidy assistance while a maximum of 40% will be the component to be provided by the beneficiary/banks to the beneficiaries belonging to SC, ST & General Category."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Since the beneficiary may not be able to raise 3000 chicks at one go due to constraints, so provision is being kept to provide chicks in installments of 1000 chicks as per requirement."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To produce manure of high grade at a minimal cost."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://hpahdbt.hp.gov.in/Home/Him_Kukkut_Palan_Yojna",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the official website of the concerned department of the Government of Himachal Pradesh. ("
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://hpahdbt.hp.gov.in/Home/Him_Kukkut_Palan_Yojna",
+                    "children": [
+                      {
+                        "text": "https://hpahdbt.hp.gov.in/Home/Him_Kukkut_Palan_Yojna"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ")"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Look for the scheme for \"Him Kukkut Palan Yojna\"."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Read the guidelines and eligibility criteria of the scheme carefully. Further, agree with the terms & conditions and click on ‘Proceed’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"New Registration\" and fill out the application form for the scheme. (https://hpahdbt.hp.gov.in/Home/RegistrationFormHimkukkut)"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Attach all the necessary documents as required for the scheme, such as proof of BPL status, bank account details, etc."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 06:",
+                    "bold": true
+                  },
+                  {
+                    "text": " For submitting the application form, click on ‘Submit’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 07:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Check the status & follow up with the concerned department to track the status of the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " It is important for farmers to keep a copy of the application form and documents submitted for future reference."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Farmers should ensure that they comply with the guidelines and regulations of the scheme to ensure that they are eligible for the benefits of the scheme."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 01:** Visit the official website of the concerned department of the Government of Himachal Pradesh. ([https://hpahdbt.hp.gov.in/Home/Him_Kukkut_Palan_Yojna](https://hpahdbt.hp.gov.in/Home/Him_Kukkut_Palan_Yojna))\n**Step 02:** Look for the scheme for &amp;quot;Him Kukkut Palan Yojna&amp;quot;.\n**Step 03:** Read the guidelines and eligibility criteria of the scheme carefully. Further, agree with the terms &amp;amp; conditions and click on ‘Proceed’.\n**Step 04:** Click on &amp;quot;New Registration&amp;quot; and fill out the application form for the scheme. (https://hpahdbt.hp.gov.in/Home/RegistrationFormHimkukkut)\n**Step 05:** Attach all the necessary documents as required for the scheme, such as proof of BPL status, bank account details, etc.\n**Step 06:** For submitting the application form, click on ‘Submit’.\n**Step 07:** Check the status &amp;amp; follow up with the concerned department to track the status of the application.\n**Note 01:** It is important for farmers to keep a copy of the application form and documents submitted for future reference.\n**Note 02:** Farmers should ensure that they comply with the guidelines and regulations of the scheme to ensure that they are eligible for the benefits of the scheme.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Himachal Pradesh.\n   1. The beneficiary/farmer belonging to SC/ST/General categories who have undertaken training in poultry farming from Government Poultry farms.\n   1. Approximately 100 farmers per year will be assisted under the scheme.\n   1. The poultry breeders who have been assisted earlier (more than two years) under different commercial broiler scheme run by the department may also apply for benefits under the scheme with condition that he/she is running the scheme successfully and the established unit is still viable.\n   1. The beneficiary has not availed of any such benefit earlier under Commercial Broiler Schemes. He/she will not discontinue the scheme during course of the project and if he/she discontinues the scheme or flout any of the terms and condition of scheme, shall have to refund the entire amount of scheme along with interest @ 12%. The said amount shall be recovered from the balance capital subsidy from them.\n   1. The beneficiary has to provide the certified/authenticated copy of documents establishing ownership/ possession of land on which the shed is constructed/to be constructed.\n   1. In order to avail subsidy for construction of shed &amp;amp; store, the beneficiary has to submit the completion certificate duly verified by the officer of the rank of the Junior Engineer or above concerned Block/HPPWD sub-division. \n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a permanent resident of Himachal Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary/farmer belonging to SC/ST/General categories who have undertaken training in poultry farming from Government Poultry farms."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Approximately 100 farmers per year will be assisted under the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The poultry breeders who have been assisted earlier (more than two years) under different commercial broiler scheme run by the department may also apply for benefits under the scheme with condition that he/she is running the scheme successfully and the established unit is still viable."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary has not availed of any such benefit earlier under Commercial Broiler Schemes. He/she will not discontinue the scheme during course of the project and if he/she discontinues the scheme or flout any of the terms and condition of scheme, shall have to refund the entire amount of scheme along with interest @ 12%. The said amount shall be recovered from the balance capital subsidy from them."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary has to provide the certified/authenticated copy of documents establishing ownership/ possession of land on which the shed is constructed/to be constructed."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In order to avail subsidy for construction of shed & store, the beneficiary has to submit the completion certificate duly verified by the officer of the rank of the Junior Engineer or above concerned Block/HPPWD sub-division. "
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "hkpy"
+}

@@ -1,0 +1,594 @@
+{
+  "_id": "6752cfde4d7e442115f21fab",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Subsidy",
+        "Crops Damage",
+        "Financial Assistance",
+        "Crop Insurance"
+      ],
+      "schemeName": "Krishi Input Anudan Yojana",
+      "schemeShortTitle": "KIAY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Environmental grants",
+          "label": "Environmental grants"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalDepartmentName": {
+        "value": 10111111,
+        "label": "Agriculture Department"
+      },
+      "slug": "kiay",
+      "briefDescription": "The scheme aims to provide agricultural input subsidies in affected areas due to the rise in water levels of rivers like Ganga and Kosi and flood-related crop damage from heavy rainfall.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dbtagriculture.bihar.gov.in/Instructions/4657(Revised%20Guideline%20of%20Flood%202024).pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "“Krishi Input Anudan Yojana” launched by the Department of Agriculture, Bihar, is designed to offer agricultural input subsidies in areas affected by rising water levels in rivers such as the Ganga and Kosi. Assistance are provided for crop damage more than 33% caused by heavy rainfall and flooding.\n&lt;br&gt;\n\n",
+      "benefits_md": "&gt; **Subsidy Amounts per Hectare:**\n\n\n\n      1. Non-irrigated (year-dependent) crop areas: ₹8,500/-.\n      1. Irrigated crop areas: ₹17,000/-.\n      1. Perpetual/ perennial crops: ₹22,500/-.\n\n\n&gt; **Minimum Subsidy Amounts to Farmers:**\n\n\n\n      1. Non-irrigated (year-dependent) crop areas: ₹1,000/-.\n      1. Irrigated crop areas: ₹2,000/-.\n      1. Perpetual/ perennial crops: ₹2,500/-.\n\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to provide agricultural input subsidies in affected areas due to the rise in water levels of rivers like Ganga and Kosi and flood-related crop damage from heavy rainfall.\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“Krishi Input Anudan Yojana” launched by the Department of Agriculture, Bihar, is designed to offer agricultural input subsidies in areas affected by rising water levels in rivers such as the Ganga and Kosi. Assistance are provided for crop damage more than 33% caused by heavy rainfall and flooding."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Subsidy Amounts per Hectare:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "align_justify",
+                  "children": [
+                    {
+                      "type": "ol_list",
+                      "children": [
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "Non-irrigated (year-dependent) crop areas: ₹8,500/-."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "Irrigated crop areas: ₹17,000/-."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "Perpetual/ perennial crops: ₹22,500/-."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Minimum Subsidy Amounts to Farmers:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "align_justify",
+                  "children": [
+                    {
+                      "type": "align_justify",
+                      "children": [
+                        {
+                          "type": "ol_list",
+                          "children": [
+                            {
+                              "type": "align_justify",
+                              "children": [
+                                {
+                                  "type": "align_justify",
+                                  "children": [
+                                    {
+                                      "type": "align_justify",
+                                      "children": [
+                                        {
+                                          "type": "align_justify",
+                                          "children": [
+                                            {
+                                              "type": "ol_list",
+                                              "children": [
+                                                {
+                                                  "type": "list_item",
+                                                  "children": [
+                                                    {
+                                                      "text": "Non-irrigated (year-dependent) crop areas: ₹1,000/-."
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "type": "list_item",
+                                                  "children": [
+                                                    {
+                                                      "text": "Irrigated crop areas: ₹2,000/-."
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "type": "list_item",
+                                                  "children": [
+                                                    {
+                                                      "text": "Perpetual/ perennial crops: ₹2,500/-."
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "DBT Registration Process:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://dbtagriculture.bihar.gov.in/RegFarmer/",
+                "children": [
+                  {
+                    "text": "registration page"
+                  }
+                ]
+              },
+              {
+                "text": " of the DBT portal. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Enter the OTP. Click on “Validate OTP”. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6:",
+                "bold": true
+              },
+              {
+                "text": " In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: ",
+                "bold": true
+              },
+              {
+                "text": "Validate with OTP. Click on “Register” to generate the Registration Id."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
+              },
+              {
+                "text": "  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "bold": true,
+                "underline": true,
+                "text": "Online Application of the Scheme:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the official "
+              },
+              {
+                "type": "link",
+                "link": "https://dbtagriculture.bihar.gov.in/",
+                "children": [
+                  {
+                    "text": "website"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the “'Apply Online” from the menu bar."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Select “Agricultural Input Subsidy Scheme-2024 for crop damage caused by floods due to unexpected rise in the water level of Ganga, Kosi, and other rivers due to rainfall in the month of September of Kharif 2024” from the dropdown list."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Now enter the 13-digit registration number and fill in the required details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true
+              },
+              {
+                "text": " Enter Captcha. Click on “GET OTP”. Verify the OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Upload the required documents then click on “Submit”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: ",
+                "bold": true
+              },
+              {
+                "text": "Application number will be sent to the registered mobile number through SMS."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Check application Details:",
+                "bold": true
+              },
+              {
+                "text": " Click "
+              },
+              {
+                "type": "link",
+                "link": "https://dbtagriculture.bihar.gov.in/InputTest/PrintInput202223.aspx",
+                "children": [
+                  {
+                    "text": "here "
+                  }
+                ]
+              },
+              {
+                "text": "to know. "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Helpdesk:",
+                "bold": true
+              },
+              {
+                "text": " Click "
+              },
+              {
+                "type": "link",
+                "link": "https://dbtagriculture.bihar.gov.in/ContactNew.html",
+                "children": [
+                  {
+                    "text": "here"
+                  }
+                ]
+              },
+              {
+                "text": " to know."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **DBT Registration Process:**\n\n**Step 1:** Visit the [registration page](https://dbtagriculture.bihar.gov.in/RegFarmer/) of the DBT portal. \n**Step 2:** Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.\n**Step 3:** Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.\n**Step 4:** Enter the OTP. Click on “Validate OTP”. \n**Step 5:** Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.\n**Step 6:** In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.\n**Step 7:** Validate with OTP. Click on “Register” to generate the Registration Id.\n> **Note:**  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.\n\n<br>\n\n> **Online Application of the Scheme:**\n\n**Step 1:** Visit the official [website](https://dbtagriculture.bihar.gov.in/). \n**Step 2:** Click on the “&#39;Apply Online” from the menu bar.\n**Step 3:** Select “Agricultural Input Subsidy Scheme-2024 for crop damage caused by floods due to unexpected rise in the water level of Ganga, Kosi, and other rivers due to rainfall in the month of September of Kharif 2024” from the dropdown list.\n**Step 4:** Now enter the 13-digit registration number and fill in the required details.\n**Step 5:** Enter Captcha. Click on “GET OTP”. Verify the OTP.\n**Step 6:** Upload the required documents then click on “Submit”.\n**Step 7:** Application number will be sent to the registered mobile number through SMS.\n<br>\n\n> **Check application Details:** Click [here ](https://dbtagriculture.bihar.gov.in/InputTest/PrintInput202223.aspx)to know. \n\n> **Helpdesk:** Click [here](https://dbtagriculture.bihar.gov.in/ContactNew.html) to know.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a farmer.\n   1. The applicant should belong to the reported Panchayats of the identified blocks in the specified districts.\n   1. The applicant must be registered on the DBT portal.\n   1. Applicant&amp;#39;s bank account must be linked with the Aadhaar number,\n\n&gt; Note: Farmers cultivating on others&amp;#39; land will be identified and verified as &amp;quot;actual cultivators&amp;quot; through joint certification by the Agriculture Coordinator and Farmer Advisor. This process ensures that only genuine cultivators receive subsidy benefits.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should belong to the reported Panchayats of the identified blocks in the specified districts."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be registered on the DBT portal."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Applicant's bank account must be linked with the Aadhaar number,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Note: Farmers cultivating on others' land will be identified and verified as \"actual cultivators\" through joint certification by the Agriculture Coordinator and Farmer Advisor. This process ensures that only genuine cultivators receive subsidy benefits."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kiay"
+}

@@ -1,0 +1,419 @@
+{
+  "_id": "65d47222ed4030e118e0afda",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Climate Resilience",
+        "Farmers",
+        "NDKSP",
+        "Drought",
+        "Water Conservation",
+        "POCRA"
+      ],
+      "schemeName": "Nanaji Deshmukh Krishi Sanjivani Prakalp",
+      "schemeShortTitle": "POCRA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2018-01-17",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 27,
+        "label": "Maharashtra"
+      },
+      "nodalDepartmentName": {
+        "value": 27111111,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "pocra",
+      "briefDescription": "The project aims to enhance climate-resilience and profitability of smallholder farming systems in 15 project districts of Maharashtra through promotion of climate resilient technology and commodity value chain across approximately 5,000 drought-prone and/or sodicity/salinity affected villages."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Online Application",
+          "url": "https://dbt.mahapocra.gov.in"
+        },
+        {
+          "title": "PoCRA",
+          "url": "https://mahapocra.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Nanaji Deshmukh Krishi Sanjivani Prakalp was conceptualised by the Department of Agriculture, Government of Maharashtra and the World Bank to develop a drought-proofing and climate-resilient strategy for the agriculture sector as a long-term and sustainable measure, to address the likely impacts of climate variabilities and climate change. The project focuses on the evidence-based scientific implementation of this plan.\n<br>\n\nThe project has introduced transformational changes in the agriculture sector by scaling up the adoption of climate-smart technologies and practices at the farm and micro-watershed level, contributing to drought-proofing and creation of new opportunities in villages worst hit by drought and salinity/sodicity affected villages in the state. The project is supporting investments by farmers, farmers’ collectives, and communities for accessing water, optimal utilization of natural resources, value addition of agriculture commodities, and adoption of climate-resilient agriculture technologies. The project has taken a gender-sensitive approach to prioritize the needs of the women stakeholders in the planning and implementation of project interventions which is being driven through “Krushi Tais” (female mobilizers) at the village level.\n<br>\n\nDirect Benefit Transfer portal and mobile application allow farmers to apply for matching grants for their farm-level investments aimed at improving incomes. The DBT portal is a workflow-based end to end online system through which the project officials can verify the eligibility and assets created and transfer the matching grants directly to the farmer’s Aadhar linked bank account. Another module of this portal allows the farmers’ collectives to receive matching grants for their value chain based agribusiness proposals.\n<br>\n\n",
+      "benefits_md": "1)\tBack ended financial subsidies for Farmers to adopt climate resilient agricultural initiatives in their farms\n2)\tFinancial assistance available for protected cultivation techniques such as Poly House, Poly Tunnels, etc.\n3)\tSubsidy also available for on farm water conservation activities such as Drip, Sprinklers, Farm Pond, Farm Pond linings, etc.\n4)\tClimate Resilient seed production also covered\n5)\tSpecial assistance for Farmer Producing Organizations/companies and Self Help Groups\n6)\tDisbursement through Aadhaar enabled payment system\n7)\tPrivilege given to women, person with disabilities and landless labourers\n<br>\n\n",
+      "exclusions_md": "1.\tFarmers with land holding more than 5.00 ha\n",
+      "briefDescription": "The project aims to enhance climate-resilience and profitability of smallholder farming systems in 15 project districts of Maharashtra through promotion of climate resilient technology and commodity value chain across approximately 5,000 drought-prone and/or sodicity/salinity affected villages.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Nanaji Deshmukh Krishi Sanjivani Prakalp was conceptualised by the Department of Agriculture, Government of Maharashtra and the World Bank to develop a drought-proofing and climate-resilient strategy for the agriculture sector as a long-term and sustainable measure, to address the likely impacts of climate variabilities and climate change. The project focuses on the evidence-based scientific implementation of this plan."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The project has introduced transformational changes in the agriculture sector by scaling up the adoption of climate-smart technologies and practices at the farm and micro-watershed level, contributing to drought-proofing and creation of new opportunities in villages worst hit by drought and salinity/sodicity affected villages in the state. The project is supporting investments by farmers, farmers’ collectives, and communities for accessing water, optimal utilization of natural resources, value addition of agriculture commodities, and adoption of climate-resilient agriculture technologies. The project has taken a gender-sensitive approach to prioritize the needs of the women stakeholders in the planning and implementation of project interventions which is being driven through “Krushi Tais” (female mobilizers) at the village level."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Direct Benefit Transfer portal and mobile application allow farmers to apply for matching grants for their farm-level investments aimed at improving incomes. The DBT portal is a workflow-based end to end online system through which the project officials can verify the eligibility and assets created and transfer the matching grants directly to the farmer’s Aadhar linked bank account. Another module of this portal allows the farmers’ collectives to receive matching grants for their value chain based agribusiness proposals."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1)\tBack ended financial subsidies for Farmers to adopt climate resilient agricultural initiatives in their farms"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2)\tFinancial assistance available for protected cultivation techniques such as Poly House, Poly Tunnels, etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3)\tSubsidy also available for on farm water conservation activities such as Drip, Sprinklers, Farm Pond, Farm Pond linings, etc."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4)\tClimate Resilient seed production also covered"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5)\tSpecial assistance for Farmer Producing Organizations/companies and Self Help Groups"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "6)\tDisbursement through Aadhaar enabled payment system"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "7)\tPrivilege given to women, person with disabilities and landless labourers"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.\tFarmers with land holding more than 5.00 ha"
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Link: "
+              },
+              {
+                "type": "link",
+                "link": "https://dbt.mahapocra.gov.in",
+                "children": [
+                  {
+                    "text": "https://dbt.mahapocra.gov.in  "
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01: Registration"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02: Application"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03: Pre-sanction by Agriculture officer"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 04: Work completion by farmer"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 05: Payment request by farmer"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 06: Payment approval by the project"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 07: Payment disbursement in Aadhaar linked bank account of the beneficiary farmer"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Application Link: [https://dbt.mahapocra.gov.in  ](https://dbt.mahapocra.gov.in)\n<br>\n\nStep 01: Registration\n<br>\n\nStep 02: Application\n<br>\n\nStep 03: Pre-sanction by Agriculture officer\n<br>\n\nStep 04: Work completion by farmer\n<br>\n\nStep 05: Payment request by farmer\n<br>\n\nStep 06: Payment approval by the project\n<br>\n\nStep 07: Payment disbursement in Aadhaar linked bank account of the beneficiary farmer\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "1)\tFarmers producer companies under the project in the district, registered farmer groups/self-help groups in the project village.\n2)\tIn the project, FPC’s registered with a minimum of 100 members from the district will be eligible to avail benefits under the agribusiness components.\n3)\tFor the project, any eligible group of interested/qualified farmers/women/landless individuals registered with any govt. department (e.g., ATMA, MAVIM, MSRLM etc.) selected in the village can apply for the Prime Minister&amp;#39;s Farmer Scheme, based on the family&amp;#39;s eligibility criteria (husband, wife, and dependent children over 18 years of age). The explanation of the family&amp;#39;s composition from different families within the group, with a minimum of 11 members in each family, is necessary. The benefits of the agribusiness components should not be directed solely towards one family; attention should be paid to this aspect.\n4)\tThe financial condition of applicant farmers&amp;#39; producer companies/registered farmers/self help groups is proposed to be capable enough to establish and operate agricultural input service centers/industries.\n5)\tThe project mandates that loans sanctioned to farmers&amp;#39; producer companies/registered banks/financial institutions for projects exceeding Rs. 20.00 lakhs must be approved. The approved amount of the existing loan should be at least 1.25 times the minimum grant aid.\n6)\tThe proposal of Rs. 20.00 lakhs will be funded through self-financing. In such proposals, assurance should be given that the required funds are available in the registered bank account of the group/company or will be raised from the members (include this decision in the company/group resolution). While providing financial assistance under the project, the expenditure incurred for the project from the bank account of the group/company will be considered eligible for reimbursement.\n7)\tIf there&amp;#39;s a loan involved, it&amp;#39;s essential for the farmers&amp;#39; producer company and registered farmers/self help groups to enter into a tripartite agreement with the registered bank/financial institution and the relevant project management authority.\n&lt;br&gt;\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1)\tFarmers producer companies under the project in the district, registered farmer groups/self-help groups in the project village."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2)\tIn the project, FPC’s registered with a minimum of 100 members from the district will be eligible to avail benefits under the agribusiness components."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3)\tFor the project, any eligible group of interested/qualified farmers/women/landless individuals registered with any govt. department (e.g., ATMA, MAVIM, MSRLM etc.) selected in the village can apply for the Prime Minister's Farmer Scheme, based on the family's eligibility criteria (husband, wife, and dependent children over 18 years of age). The explanation of the family's composition from different families within the group, with a minimum of 11 members in each family, is necessary. The benefits of the agribusiness components should not be directed solely towards one family; attention should be paid to this aspect."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "4)\tThe financial condition of applicant farmers' producer companies/registered farmers/self help groups is proposed to be capable enough to establish and operate agricultural input service centers/industries."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "5)\tThe project mandates that loans sanctioned to farmers' producer companies/registered banks/financial institutions for projects exceeding Rs. 20.00 lakhs must be approved. The approved amount of the existing loan should be at least 1.25 times the minimum grant aid."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "6)\tThe proposal of Rs. 20.00 lakhs will be funded through self-financing. In such proposals, assurance should be given that the required funds are available in the registered bank account of the group/company or will be raised from the members (include this decision in the company/group resolution). While providing financial assistance under the project, the expenditure incurred for the project from the bank account of the group/company will be considered eligible for reimbursement."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "7)\tIf there's a loan involved, it's essential for the farmers' producer company and registered farmers/self help groups to enter into a tripartite agreement with the registered bank/financial institution and the relevant project management authority."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pocra"
+}

@@ -1,0 +1,480 @@
+{
+  "_id": "646f4a3a9062e559675fb6ad",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 27,
+        "label": "Maharashtra"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 27111139,
+        "label": "Social Justice and Special Assistance Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Vidya Niketan",
+        "Education",
+        "Public School",
+        "Vimukta Jatis And Nomadic Tribes"
+      ],
+      "schemeName": "Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes",
+      "schemeShortTitle": "OMPS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        },
+        {
+          "value": "628ce76cd6d1a3bde4685292",
+          "label": "Education & Learning"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "omps",
+      "briefDescription": "The Government of Maharashtra has introduced a scheme \"Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes\" to voluntary organizations to run the Public School (Vidya Niketan) on a grant-in-aid basis."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidlines",
+          "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training?&Submit=Submit&page=1"
+        },
+        {
+          "title": "Application Link",
+          "url": "https://mahadbt.maharashtra.gov.in/login/login"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Government of Maharashtra has introduced a scheme &quot;Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes&quot; to the voluntary organization to run the Public School (Vidya Niketan) on a grant-in-aid basis at Kamlewadi, Taluka Mukhed, District Nanded for the needy, brilliant and talented students belonging to VJNT Category. In this public school, students get an education from 5th to 12th standard on a merit basis.\nThe Benefits provided by the Government of Maharashtra are Financial Assistance given to the institution for maintenance assistance given on building rent. 100 percent salary grants for approved teaching and non-teaching staff. Students are provided with facilities like books, notebooks, uniforms, education stationary free lodging, and boarding facilities. Rs.1450/- p.m. per residential student is admissible.\n",
+      "benefits_md": "\n1. Financial Assistance is given to the institution for maintenance assistance is given on building rent.\n1. 100 percent salary grants for approved teaching and non-teaching staff.\n1. Students are provided with facilities like books, notebooks, uniforms, education stationary free lodging, and boarding facilities. \n1. ₹1450/- p.m. per residential student is admissible.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The Government of Maharashtra has introduced a scheme \"Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes\" to voluntary organizations to run the Public School (Vidya Niketan) on a grant-in-aid basis.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Government of Maharashtra has introduced a scheme \"Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes\" to the voluntary organization to run the Public School (Vidya Niketan) on a grant-in-aid basis at Kamlewadi, Taluka Mukhed, District Nanded for the needy, brilliant and talented students belonging to VJNT Category. In this public school, students get an education from 5th to 12th standard on a merit basis."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Benefits provided by the Government of Maharashtra are Financial Assistance given to the institution for maintenance assistance given on building rent. 100 percent salary grants for approved teaching and non-teaching staff. Students are provided with facilities like books, notebooks, uniforms, education stationary free lodging, and boarding facilities. Rs.1450/- p.m. per residential student is admissible."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Assistance is given to the institution for maintenance assistance is given on building rent."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "100 percent salary grants for approved teaching and non-teaching staff."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Students are provided with facilities like books, notebooks, uniforms, education stationary free lodging, and boarding facilities. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹1450/- p.m. per residential student is admissible."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://mahadbt.maharashtra.gov.in",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://mahadbt.maharashtra.gov.in",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "href": "https://mahadbt.maharashtra.gov.in/login/login",
+                    "children": [
+                      {
+                        "text": "official website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "text": "of Aaple Sarkar / Maha DBT."
+              },
+              {
+                "type": "link",
+                "href": "https://mahadbt.maharashtra.gov.in/login/login",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Click on \""
+              },
+              {
+                "type": "link",
+                "link": "https://mahadbt.maharashtra.gov.in/RegistrationLogin/RegistrationLogin",
+                "children": [
+                  {
+                    "text": "New Applicant Registration"
+                  }
+                ]
+              },
+              {
+                "text": "\". Register using your Name, Mobile Number, and Email ID. Create a Username and Password. Your Mobile Number and Email ID will be verified via OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
+              },
+              {
+                "text": " The username should contain only alphabets and numbers. The username should be greater than 4 characters and less than 15 characters."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note:",
+                "bold": true
+              },
+              {
+                "text": " Password Length should be a minimum of 8 characters and a maximum of 20 characters. Password must contain at least 1 UpperCase Alphabet, 1 LowerCase Alphabet, 1 Number, and 1 Special Character."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Now visit "
+              },
+              {
+                "type": "link",
+                "link": "https://mahadbt.maharashtra.gov.in/Login/Login",
+                "children": [
+                  {
+                    "text": "Login Page "
+                  }
+                ]
+              },
+              {
+                "text": "and log in using your Username and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "You will be directed to"
+              },
+              {
+                "type": "link",
+                "link": "https://mahadbt.maharashtra.gov.in/Home/Home",
+                "children": [
+                  {
+                    "text": " Login Page"
+                  }
+                ]
+              },
+              {
+                "text": ""
+              },
+              {
+                "type": "link",
+                "href": "https://mahadbt.maharashtra.gov.in/Home/Home",
+                "children": [
+                  {
+                    "text": ". "
+                  }
+                ]
+              },
+              {
+                "text": "In the left pane, click \"Aadhaar Bank Link\" to link your Aadhaar with your Bank Account."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "In the left pane, click \"Profile\". Fill in all the mandatory details and upload the mandatory documents (Personal Details, Address Information, Other Information, Current Course, Past Qualification, and Hostel Details). Click \"Save\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "In the left pane, click \"All Schemes\". A list of schemes will appear. Click on \"Savitribai Phule Scholarship\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in all the additional information and upload the mandatory documents. Click \"Submit\" to submit your application. A pop-up will appear, displaying your Application ID. Save the Application ID for future reference. Click \"OK\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Optional: ",
+                "bold": true
+              },
+              {
+                "text": "You can track the status of your application (Under Scrutiny / Approved / Rejected / Fund Disbursed) by clicking on \"My Applied Scheme History\" in the left pane."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [[official website]() ](https://mahadbt.maharashtra.gov.in)of Aaple Sarkar / Maha DBT.\n<br>\n\n**Step 2:** Click on &quot;[New Applicant Registration](https://mahadbt.maharashtra.gov.in/RegistrationLogin/RegistrationLogin)&quot;. Register using your Name, Mobile Number, and Email ID. Create a Username and Password. Your Mobile Number and Email ID will be verified via OTP.\n<br>\n\n**Note:** The username should contain only alphabets and numbers. The username should be greater than 4 characters and less than 15 characters.\n<br>\n\n**Note:** Password Length should be a minimum of 8 characters and a maximum of 20 characters. Password must contain at least 1 UpperCase Alphabet, 1 LowerCase Alphabet, 1 Number, and 1 Special Character.\n<br>\n\n**Step 3:** Now visit [Login Page ](https://mahadbt.maharashtra.gov.in/Login/Login)and log in using your Username and Password.\nYou will be directed to[ Login Page](https://mahadbt.maharashtra.gov.in/Home/Home)[. ]()In the left pane, click &quot;Aadhaar Bank Link&quot; to link your Aadhaar with your Bank Account.\n<br>\n\n**Step 4:** In the left pane, click &quot;Profile&quot;. Fill in all the mandatory details and upload the mandatory documents (Personal Details, Address Information, Other Information, Current Course, Past Qualification, and Hostel Details). Click &quot;Save&quot;.\n<br>\n\n**Step 5:** In the left pane, click &quot;All Schemes&quot;. A list of schemes will appear. Click on &quot;Savitribai Phule Scholarship&quot;.\n<br>\n\n**Step 6:** Fill in all the additional information and upload the mandatory documents. Click &quot;Submit&quot; to submit your application. A pop-up will appear, displaying your Application ID. Save the Application ID for future reference. Click &quot;OK&quot;.\n<br>\n\n**Optional:** You can track the status of your application (Under Scrutiny / Approved / Rejected / Fund Disbursed) by clicking on &quot;My Applied Scheme History&quot; in the left pane.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The beneficiary should be a student.\n1. The beneficiary should be a resident of Maharashtra.\n1. The beneficiary should belong to the VJNT community.\n1. The income of the parents should not be more than Rs. 24000/- per annum.\n1. The beneficiary should clear the competitive examination Students belonging to the VJNT category &amp; those who studying in 4th Standard are eligible to take admitted to VJNT Ashram School on a merit basis\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be a student."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be a resident of Maharashtra."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should belong to the VJNT community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The income of the parents should not be more than Rs. 24000/- per annum."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should clear the competitive examination Students belonging to the VJNT category & those who studying in 4th Standard are eligible to take admitted to VJNT Ashram School on a merit basis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "omps"
+}

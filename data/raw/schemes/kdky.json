@@ -1,0 +1,477 @@
+{
+  "_id": "64862b84380f8e12353e4288",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2019-09-14",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 9,
+        "label": "Uttar Pradesh"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 90000003,
+        "label": "Agriculture Department, Uttar Pradesh"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Death Benefits",
+        "Disability",
+        "Farmers"
+      ],
+      "schemeName": "Krishak Durghatna Kalyan Yojana",
+      "schemeShortTitle": "KDKY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Family",
+      "slug": "kdky",
+      "briefDescription": "The government will provide compensation to the farmers after any accident."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://bor.up.nic.in/pdf/0aaf0062-9da1-4124-9433-027bb1b23c24---050320075949PM.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Under this scheme, while expanding the definition of a farmer, along with the Khatauni registered account holder / co-account holder, such earning members of their family whose main source of livelihood is agricultural income from the land registered in the name of the account holder / co-account holder and such landless persons. Those who do agricultural work on the land obtained on lease or on share and whose main means of livelihood is agriculture on the land taken on such lease or share have also been included.\n",
+      "benefits_md": "In this scheme, the Uttar Pradesh government will provide the following amount / financial assistance or compensation amount to the farmers if they are victims of the accident –\n\n1. Compensation for loss of both hands and legs of the farmer – Rs 5 lakh. \n1. In case of loss of 1 hand and 1 foot – Rs.5 lakh. \n1. In case of disability of one leg and one hand – financial assistance ranges from 2 to 3 lakhs.\n1. In case of the death of a farmer in an accident – ​​a compensation amount of up to Rs.5 lakh will be given. \n1. In the case of disability which is more than 25% but less than 50% – assistance is between 1 to 2 lakhs. \n1. In case of loss of an eye due to the accident – ​​assistance up to Rs.5 lakh. \n\n<br>\n\n**Assistance will be given to the victims of these accidents :** Farmers have to apply to get profit compensation under the scheme. Under the scheme, the government will provide benefits to the victims of these accidents –\n\n1. On damage and/or death due to falling tree\n1. due to landslide.\n1. travel incident.\n1. struck by lightning.\n1. being swept away by a flood.\n1. animal bite.\n1. due to electrocution.\n1. burning in fire.\n1. house collapse.\n1. terrorist attack.\n1. accident in a fight.\n1. falling into the chamber.\n1. murder in robbery.\n\n",
+      "briefDescription": "The government will provide compensation to the farmers after any accident.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, while expanding the definition of a farmer, along with the Khatauni registered account holder / co-account holder, such earning members of their family whose main source of livelihood is agricultural income from the land registered in the name of the account holder / co-account holder and such landless persons. Those who do agricultural work on the land obtained on lease or on share and whose main means of livelihood is agriculture on the land taken on such lease or share have also been included."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this scheme, the Uttar Pradesh government will provide the following amount / financial assistance or compensation amount to the farmers if they are victims of the accident –"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Compensation for loss of both hands and legs of the farmer – Rs 5 lakh. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of loss of 1 hand and 1 foot – Rs.5 lakh. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of disability of one leg and one hand – financial assistance ranges from 2 to 3 lakhs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of the death of a farmer in an accident – ​​a compensation amount of up to Rs.5 lakh will be given. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In the case of disability which is more than 25% but less than 50% – assistance is between 1 to 2 lakhs. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of loss of an eye due to the accident – ​​assistance up to Rs.5 lakh. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Assistance will be given to the victims of these accidents : ",
+              "bold": true
+            },
+            {
+              "text": "Farmers have to apply to get profit compensation under the scheme. Under the scheme, the government will provide benefits to the victims of these accidents –"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "On damage and/or death due to falling tree"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "due to landslide."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "travel incident."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "struck by lightning."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "being swept away by a flood."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "animal bite."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "due to electrocution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "burning in fire."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "house collapse."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "terrorist attack."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "accident in a fight."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "falling into the chamber."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "murder in robbery."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://edistrict.up.gov.in/edistrictup/",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to go to the official website of the scheme "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://edistrict.up.gov.in/edistrictup/",
+                    "children": [
+                      {
+                        "text": "e-District"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Go to the registered user login section on the home page.  "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now the farmers have to complete the registration process on the portal."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Those who are not already registered need to complete the registration by clicking on the option of New User Registration."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now login and click on the application form in the service section of the Department of Agriculture  Honorable Chief Minister Farmer Accident Assistance Scheme."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "The application form related to the scheme will open on the next page."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill in all the information asked in it."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Such as – details of the accident victim,  address and business of the claimant, details of the accident etc."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Also, upload all the required documents."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Finally, submit the application form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants have to go to the official website of the scheme [e-District](https://edistrict.up.gov.in/edistrictup/).1. Go to the registered user login section on the home page.  \n1. Now the farmers have to complete the registration process on the portal.\n1. Those who are not already registered need to complete the registration by clicking on the option of New User Registration.\n1. Now login and click on the application form in the service section of the Department of Agriculture  Honorable Chief Minister Farmer Accident Assistance Scheme.\n1. The application form related to the scheme will open on the next page.\n1. Fill in all the information asked in it.\n1. Such as – details of the accident victim,  address and business of the claimant, details of the accident etc.\n1. Also, upload all the required documents.\n1. Finally, submit the application form.\n\n"
+      },
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "First of all, within 45 days of the accident, the farmer or his family members will have to give all the information about the accident in the application form to the District Collector's office."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After this, the application will be submitted to the Tehsil, during which all the details will be scrutinized by the officials."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After the completion of the verification process, the applicant farmer will be provided benefits under this scheme"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. First of all, within 45 days of the accident, the farmer or his family members will have to give all the information about the accident in the application form to the District Collector&#39;s office.\n1. After this, the application will be submitted to the Tehsil, during which all the details will be scrutinized by the officials.\n1. After the completion of the verification process, the applicant farmer will be provided benefits under this scheme\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. After September 14, 2019,  the families of the farmers who were victims of the accident can also get the benefit of the scheme.\n1. The age of the applicant farmer should be between 18 to 70 years.\n1. After the death of the applicant farmer in the accident, the parents, wife, daughter-in-law, son, daughter, grandson and granddaughter of his family will be provided financial assistance by the government.\n1. Those farmers of the state who do not have their own agricultural land and do the work of farming on share or rent.\n1. The benefit of UP Chief Minister Farmer Accident Welfare Scheme will be given to the farmer suffering from 60 percent or more disability.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "After September 14, 2019,  the families of the farmers who were victims of the accident can also get the benefit of the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the applicant farmer should be between 18 to 70 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "After the death of the applicant farmer in the accident, the parents, wife, daughter-in-law, son, daughter, grandson and granddaughter of his family will be provided financial assistance by the government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Those farmers of the state who do not have their own agricultural land and do the work of farming on share or rent."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The benefit of UP Chief Minister Farmer Accident Welfare Scheme will be given to the farmer suffering from 60 percent or more disability."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "kdky"
+}

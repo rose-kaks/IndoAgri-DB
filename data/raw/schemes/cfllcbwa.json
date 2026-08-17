@@ -1,0 +1,619 @@
+{
+  "_id": "68e8f04dc65aa5cce1180f42",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Financial Assistance",
+        "Wild Animal",
+        "Relief",
+        "Livestock"
+      ],
+      "schemeName": "Compensation for Livestock Loss Caused by Wild Animals",
+      "schemeShortTitle": "CFLLCBWA",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7a2d6d1a3bde46852b1",
+          "label": "Health & Wellness"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        },
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Disease and conditions",
+          "label": "Disease and conditions"
+        }
+      ],
+      "schemeOpenDate": "2010-09-24",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "slug": "cfllcbwa",
+      "briefDescription": "The scheme aims to provide financial relief to livestock owners for losses due to wild animal attacks."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=312"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Compensation for Livestock Loss Caused by Wild Animals” scheme is launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to provide financial relief to individuals whose livestock is injured or killed by wild animals. The scheme applies to both urban and rural areas and covers a variety of livestock including cows, buffaloes, camels, goats, sheep, donkeys, mules, and pigs.\n<br>\n\n",
+      "benefits_md": "**Compensation Amounts:**\n\n- Dairy animals (cow, buffalo, camel): ₹30,000\n- Sheep/Goat: ₹3,000\n- Non-dairy animals (bull, buffalo, camel, horse): ₹25,000\n- Young animals (calf of cow/buffalo/horse/camel), Donkey/Mule: ₹16,000\n- Pig: ₹3,000\n\n**Injury Compensation:** \n\n- 50% of the amount payable for injury under revenue circular provisions.\n\n**Mode of Disbursement:**\n\n- Compensation is paid directly to the beneficiary via e-payment.\n\n**Expected Time of Disbursement:**\n\n- Compensation is provided within 30 working days of claim verification.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide financial relief to livestock owners for losses due to wild animal attacks.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The “Compensation for Livestock Loss Caused by Wild Animals” scheme is launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to provide financial relief to individuals whose livestock is injured or killed by wild animals. The scheme applies to both urban and rural areas and covers a variety of livestock including cows, buffaloes, camels, goats, sheep, donkeys, mules, and pigs."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compensation Amounts:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Dairy animals (cow, buffalo, camel): ₹30,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sheep/Goat: ₹3,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Non-dairy animals (bull, buffalo, camel, horse): ₹25,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Young animals (calf of cow/buffalo/horse/camel), Donkey/Mule: ₹16,000"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pig: ₹3,000"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Injury Compensation:",
+              "bold": true,
+              "underline": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "50% of the amount payable for injury under revenue circular provisions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mode of Disbursement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Compensation is paid directly to the beneficiary via e-payment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Expected Time of Disbursement:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Compensation is provided within 30 working days of claim verification."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the Official Website of \""
+              },
+              {
+                "type": "link",
+                "link": "https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx",
+                "children": [
+                  {
+                    "text": "Madhya Pradesh Lok Sewa Guarantee Portal"
+                  }
+                ]
+              },
+              {
+                "text": "\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " On the homepage, click \"Citizen Registration\". You will be taken to the registration page."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click \"Verify Mobile Number.\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " A verification code will be sent to your mobile number. Enter the code and complete the registration."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Visit the Official Website of \"Madhya Pradesh Lok Sewa Guarantee Portal\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Enter your User ID, Password, and Captcha Code, and click \"Login.\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " Click on \"Apply Online Service\" and select the scheme you intend to apply for."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "text": " In the scheme's online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click \"Submit\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note 1:",
+                "bold": true
+              },
+              {
+                "text": " The incident must be reported within 48 hours to the nearest Forest Range Officer, either verbally or in writing."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note 2:",
+                "bold": true
+              },
+              {
+                "text": " The dead or injured animal should remain at the site for verification by the forest authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration**\n**Step 1:** Visit the Official Website of &quot;[Madhya Pradesh Lok Sewa Guarantee Portal](https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx)&quot;.\n**Step 2:** On the homepage, click &quot;Citizen Registration&quot;. You will be taken to the registration page.\n**Step 3:** On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click &quot;Verify Mobile Number.&quot;\n**Step 4:** A verification code will be sent to your mobile number. Enter the code and complete the registration.\n**Application**\n**Step 1:** Visit the Official Website of &quot;Madhya Pradesh Lok Sewa Guarantee Portal&quot;.\n**Step 2:** Enter your User ID, Password, and Captcha Code, and click &quot;Login.&quot;\n**Step 3:** Click on &quot;Apply Online Service&quot; and select the scheme you intend to apply for.\n**Step 4:** In the scheme&#39;s online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click &quot;Submit&quot;.\n**Note 1:** The incident must be reported within 48 hours to the nearest Forest Range Officer, either verbally or in writing.\n**Note 2:** The dead or injured animal should remain at the site for verification by the forest authority.\n<br>\n\n"
+      },
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the nearest Forest Range Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the Forest Range Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Request a receipt or acknowledgment from the Forest Range Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). "
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Post-Application Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The Forest Range Officer verifies the incident and prepares a recommendation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Approved claims are processed for e-payment to the beneficiary within 30 working days."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Appeal Process: ",
+                "bold": true
+              },
+              {
+                "text": "If the application is rejected"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "First appeal can be made within 30 days to the Divisional/Assistant Conservator of Forests. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Second appeal within 60 days to the Conservator of Forests."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note 1:",
+                "bold": true
+              },
+              {
+                "text": " The incident must be reported within 48 hours to the nearest Forest Range Officer, either verbally or in writing."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note 2:",
+                "bold": true
+              },
+              {
+                "text": " The dead or injured animal should remain at the site for verification by the forest authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Application Process:**\n\n**Step 1:** The interested applicant should visit (during office hours) the nearest Forest Range Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Forest Range Office.\n**Step 4:** Request a receipt or acknowledgment from the Forest Range Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable). \n> **Post-Application Process:**\n\n**Step 1:** The Forest Range Officer verifies the incident and prepares a recommendation.\n**Step 2:** Approved claims are processed for e-payment to the beneficiary within 30 working days.\n> **Appeal Process:** If the application is rejected\n\n**Step 1:** First appeal can be made within 30 days to the Divisional/Assistant Conservator of Forests. \n**Step 2:** Second appeal within 60 days to the Conservator of Forests.\n**Note 1:** The incident must be reported within 48 hours to the nearest Forest Range Officer, either verbally or in writing.\n**Note 2:** The dead or injured animal should remain at the site for verification by the forest authority.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant should be the owner of the livestock injured or killed by wild animals.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Madhya Pradesh."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be the owner of the livestock injured or killed by wild animals."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cfllcbwa"
+}

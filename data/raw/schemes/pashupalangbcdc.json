@@ -1,0 +1,478 @@
+{
+  "_id": "686e49095028722a6aa6996d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Cow",
+        "Buffalo",
+        "Agriculture Activities",
+        "Loan"
+      ],
+      "schemeName": "Pashupalan (GBCDC)",
+      "schemeShortTitle": "PASHUPALANGBCDC",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Loan",
+          "label": "Loan"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444464,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "pashupalangbcdc",
+      "briefDescription": "The scheme aims to provide an amount for animal husbandry activities. Low-interest loans are provided to Pashu Palaks."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://sje.gujarat.gov.in/gbcdc/Schemes/1450"
+        },
+        {
+          "title": "Scheme Details",
+          "url": "https://mariyojana.gujarat.gov.in/ResultData.aspx"
+        },
+        {
+          "title": "Online Application",
+          "url": "https://gbcdconline.gujarat.gov.in/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Pashupalan (GBCDC)&quot; by the Social Justice and Empowerment Department, owned by the Centre and the Gujarat Government, aims to provide financial assistance for agriculture-related activities. Through this scheme, a low-interest loan amount is provided to support Pashu Palaks (Animal Rearers) in undertaking animal husbandry activities such as purchasing cows and buffaloes. The scheme&#39;s core objective is to offer financial aid at low-interest rates, supporting eligible individuals from socially and educationally backwards classes.\n<br>\n\n",
+      "benefits_md": "\n1. **Low-Interest Loan:** A loan is provided at an interest rate of 6 per cent per annum.1. **Maximum Loan Limit:** The maximum loan limit in this scheme is up to ₹1,00,000/-.1. **Unit Cost Coverage:** 85 per cent of the unit cost will be loaned.\n\n- Out of this 85 per cent, 85 per cent will be from the national corporation.\n\n\n- 10 per cent will be from the state government.\n- 5 per cent will be from the beneficiary&#39;s contribution.\n\n<br>\n\n> **Intended Use:** The loan is for agriculture-related activities, specifically animal husbandry (cow-buffalo).\n\n> **Repayment Terms:** This loan is to be repaid in 60 equal monthly instalments, including interest.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide an amount for animal husbandry activities. Low-interest loans are provided to Pashu Palaks.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Pashupalan (GBCDC)\" by the Social Justice and Empowerment Department, owned by the Centre and the Gujarat Government, aims to provide financial assistance for agriculture-related activities. Through this scheme, a low-interest loan amount is provided to support Pashu Palaks (Animal Rearers) in undertaking animal husbandry activities such as purchasing cows and buffaloes. The scheme's core objective is to offer financial aid at low-interest rates, supporting eligible individuals from socially and educationally backwards classes."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Low-Interest Loan:",
+                  "bold": true
+                },
+                {
+                  "text": " A loan is provided at an interest rate of 6 per cent per annum."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Maximum Loan Limit: ",
+                  "bold": true
+                },
+                {
+                  "text": "The maximum loan limit in this scheme is up to ₹1,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unit Cost Coverage:",
+                  "bold": true
+                },
+                {
+                  "text": " 85 per cent of the unit cost will be loaned."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Out of this 85 per cent, 85 per cent will be from the national corporation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10 per cent will be from the state government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "5 per cent will be from the beneficiary's contribution."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Intended Use: ",
+              "bold": true
+            },
+            {
+              "text": "The loan is for agriculture-related activities, specifically animal husbandry (cow-buffalo)."
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Repayment Terms:",
+              "bold": true
+            },
+            {
+              "text": " This loan is to be repaid in 60 equal monthly instalments, including interest."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: Visit the Official Website: ",
+                "bold": true
+              },
+              {
+                "text": "Go to the "
+              },
+              {
+                "type": "link",
+                "link": "https://gbcdconline.gujarat.gov.in/",
+                "children": [
+                  {
+                    "text": ""
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ggdconline.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "Official Website"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " Gujarat Backwards Caste Development Corporation."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: Locate and Apply for Scheme:",
+                "bold": true
+              },
+              {
+                "text": " Scroll down on the homepage, find the \"Pashupalan,\" and click on \"Apply Now\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "Access Application Form:",
+                "bold": true
+              },
+              {
+                "text": " You will be directed to the "
+              },
+              {
+                "type": "link",
+                "link": "https://gbcdconline.gujarat.gov.in/SchemePasupalan/AddEdit",
+                "children": [
+                  {
+                    "text": "application form"
+                  }
+                ]
+              },
+              {
+                "text": ". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: Scheme Selection & Loan Details: ",
+                "bold": true
+              },
+              {
+                "text": "Select \"Pashupalan\", enter Unit Cost, and specify the Required Loan Amount."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: Applicant's Details: ",
+                "bold": true
+              },
+              {
+                "text": "Provide Aadhaar, Ration, Voter ID, full name (Last, First, Father/Husband), address, district, taluka, village, PIN, date of birth, age (21-45 as of 14/08/2023), caste, subcaste, phone, mobile, email, gender, and marital status."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: Income Details: ",
+                "bold": true
+              },
+              {
+                "text": "Enter income certificate number, issue date, issuing officer's name, total annual family income (up to ₹ 3,00,000/-), and parent/guardian's occupation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7: Disability Details (if applicable): ",
+                "bold": true
+              },
+              {
+                "text": "If \"Physically Handicapped,\" select \"Yes\" or \"No\". If you selected \"Yes\", provide the percentage (in %)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 8: Employment Details (if applicable): ",
+                "bold": true
+              },
+              {
+                "text": "Indicate if any family member works in a government or private job. If \"Yes,\" provide their Name, Designation, Place, and Salary details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 9: Educational Qualification: ",
+                "bold": true
+              },
+              {
+                "text": "Select your Education Qualification: Uneducated, Educated, Graduation, Post Graduation, or Other Degree."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 10: Loan History: ",
+                "bold": true
+              },
+              {
+                "text": "If you have taken a past loan, select \"Yes\" or \"No\". If you selected \"Yes\" provide loan details (date, amount, paid, remaining) and your account number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 12: Bank Account Details: ",
+                "bold": true
+              },
+              {
+                "text": "Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 13: Submission: ",
+                "bold": true
+              },
+              {
+                "text": "Click the \"Submit\" button to complete your application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1: Visit the Official Website:** Go to the [[Official Website](https://ggdconline.gujarat.gov.in/) Gujarat Backwards Caste Development Corporation.](https://gbcdconline.gujarat.gov.in/)\n**Step 2: Locate and Apply for Scheme:** Scroll down on the homepage, find the &quot;Pashupalan,&quot; and click on &quot;Apply Now&quot;.\n**Step 3:** **Access Application Form:** You will be directed to the [application form](https://gbcdconline.gujarat.gov.in/SchemePasupalan/AddEdit). \n**Step 4: Scheme Selection &amp; Loan Details:** Select &quot;Pashupalan&quot;, enter Unit Cost, and specify the Required Loan Amount.\n**Step 5: Applicant&#39;s Details:** Provide Aadhaar, Ration, Voter ID, full name (Last, First, Father/Husband), address, district, taluka, village, PIN, date of birth, age (21-45 as of 14/08/2023), caste, subcaste, phone, mobile, email, gender, and marital status.\n**Step 6: Income Details:** Enter income certificate number, issue date, issuing officer&#39;s name, total annual family income (up to ₹ 3,00,000/-), and parent/guardian&#39;s occupation.\n**Step 7: Disability Details (if applicable):** If &quot;Physically Handicapped,&quot; select &quot;Yes&quot; or &quot;No&quot;. If you selected &quot;Yes&quot;, provide the percentage (in %).\n**Step 8: Employment Details (if applicable):** Indicate if any family member works in a government or private job. If &quot;Yes,&quot; provide their Name, Designation, Place, and Salary details.\n**Step 9: Educational Qualification:** Select your Education Qualification: Uneducated, Educated, Graduation, Post Graduation, or Other Degree.\n**Step 10: Loan History:** If you have taken a past loan, select &quot;Yes&quot; or &quot;No&quot;. If you selected &quot;Yes&quot; provide loan details (date, amount, paid, remaining) and your account number.\n**Step 12: Bank Account Details:** Provide bank account number, bank name, branch name, name as per account, account type (Saving/Current), MICR code, and IFSC code.\n**Step 13: Submission:** Click the &quot;Submit&quot; button to complete your application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be from a Socially and Educationally Backward Class (SEBC).\n1. The total annual income of the applicant&#39;s family should not exceed ₹3,00,000/-.\n1. The applicant&#39;s age should be between 21 and 45 years on the date of application.\n1. The applicant must have experience in a business requiring technical and other skills.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be from a Socially and Educationally Backward Class (SEBC)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The total annual income of the applicant's family should not exceed ₹3,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's age should be between 21 and 45 years on the date of application."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have experience in a business requiring technical and other skills."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pashupalangbcdc"
+}

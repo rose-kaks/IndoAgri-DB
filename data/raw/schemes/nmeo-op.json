@@ -1,0 +1,351 @@
+{
+  "_id": "651267fe7846de4ead1d889b",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Oil Palm",
+        "Area Expansion",
+        "Oil Palm Mill",
+        "Seed Garden",
+        "Seed Nursery",
+        "Processor"
+      ],
+      "schemeName": "National Mission on Edible Oils- Oil Palm",
+      "schemeShortTitle": "NMEO OP",
+      "implementingAgency": "State Government Department",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "centrally-sponsored-scheme",
+        "label": "Centrally Sponsored Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2021-01-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "institution",
+          "label": "University / Institution"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        }
+      ],
+      "schemeFor": "Infra",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 121226,
+        "label": "Department of Agriculture & Farmers Welfare"
+      },
+      "slug": "nmeo-op",
+      "briefDescription": "The Mission was launched with the aim to enhance the edible oilseeds production and oils availability in the country by harnessing Oil Palm area expansion, increasing CPO production and to reduce import burden on edible oils. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://nmeo.dac.gov.in/nmeodoc/NMEO-OPGUIEDELINES.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The State Department of Agriculture, State Department of Horticulture, Central University, ICAR Institutions, CDDs, SAUs, KVKs, Central Agencies/Cooperatives, Oil palm processors/ Associations, DD Kisan, etc. will be the implementing stake holders of the NMEO-Oil palm.\nThe Department of Agriculture/Horticulture of the State Governments will be the Nodal agency for undertaking area expansion programme of Oil Palm in their States with close partnership with Processors. The processors are also eligible for setting up of seed gardens and seed nurseries, distribution of planting material etc. \nThe funds will be released to the State Departments of Agriculture/Horticulture through their respective State Governments. DBT will be used for transfer of funds to the State /Agencies/ Farmers/Processors/SAUs. The private sectors and NGOs could be involved through the State Department of Agriculture, Horticulture &amp; ICAR.\nAssistance will be provided for the following components:\n•\tArea Expansion\n•\tPlanting Material\n•\tMaintenance\n•\tIntercropping\n•\tDrip irrigation/ Pump-set/ Borewell/ Water harvesting structure\n•\tHarvesting Tools\n•\tCustom Hiring Center\n•\tSeed Gardens\n•\tSeed Nursery\n•\tOil Palm processing Mill\n•\tReplanting of Oil Palm garden\n•\tHalf moon terrace\n•\tFencing\n",
+      "benefits_md": "The scheme targets to provide following benefits:\n1)\tEnhance production and productivity of oilpalm\n2)\tPromotion and extension of improved technologies.\n3)\tProvision of quality planting material\n4)\tSupport for nutrient management and pest management\n5)\tProvision of various components for Interventions covering farm implements/ machines, capacity building of farmers, water carrying pipes, Fertigation, harvesting technology, etc.\n",
+      "briefDescription": "The Mission was launched with the aim to enhance the edible oilseeds production and oils availability in the country by harnessing Oil Palm area expansion, increasing CPO production and to reduce import burden on edible oils. ",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The State Department of Agriculture, State Department of Horticulture, Central University, ICAR Institutions, CDDs, SAUs, KVKs, Central Agencies/Cooperatives, Oil palm processors/ Associations, DD Kisan, etc. will be the implementing stake holders of the NMEO-Oil palm."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Department of Agriculture/Horticulture of the State Governments will be the Nodal agency for undertaking area expansion programme of Oil Palm in their States with close partnership with Processors. The processors are also eligible for setting up of seed gardens and seed nurseries, distribution of planting material etc. "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The funds will be released to the State Departments of Agriculture/Horticulture through their respective State Governments. DBT will be used for transfer of funds to the State /Agencies/ Farmers/Processors/SAUs. The private sectors and NGOs could be involved through the State Department of Agriculture, Horticulture & ICAR."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Assistance will be provided for the following components:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tArea Expansion"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tPlanting Material"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tMaintenance"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tIntercropping"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tDrip irrigation/ Pump-set/ Borewell/ Water harvesting structure"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tHarvesting Tools"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tCustom Hiring Center"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tSeed Gardens"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tSeed Nursery"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tOil Palm processing Mill"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tReplanting of Oil Palm garden"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tHalf moon terrace"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "•\tFencing"
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme targets to provide following benefits:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1)\tEnhance production and productivity of oilpalm"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2)\tPromotion and extension of improved technologies."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3)\tProvision of quality planting material"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "4)\tSupport for nutrient management and pest management"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "5)\tProvision of various components for Interventions covering farm implements/ machines, capacity building of farmers, water carrying pipes, Fertigation, harvesting technology, etc."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01: Interested beneficiary can get in touch with District Agriculture Officer / Block Agriculture Officer to apply for the scheme. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02: SLSC will finalise the entrepreneur’s proposals received from the districts. The allocation of funds to the States would be made on the basis of their Annual Action Plan (AAP)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03: State government shall sanction and release funds to the district."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 04: District agriculture department will allocate funds to individual beneficiaries"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Step 01: Interested beneficiary can get in touch with District Agriculture Officer / Block Agriculture Officer to apply for the scheme. \nStep 02: SLSC will finalise the entrepreneur’s proposals received from the districts. The allocation of funds to the States would be made on the basis of their Annual Action Plan (AAP).\nStep 03: State government shall sanction and release funds to the district.\nStep 04: District agriculture department will allocate funds to individual beneficiaries\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "> Anyone is eligible to apply under the scheme.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Anyone is eligible to apply under the scheme."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nmeo-op"
+}

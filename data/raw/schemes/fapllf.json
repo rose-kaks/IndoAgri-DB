@@ -1,0 +1,291 @@
+{
+  "_id": "6570480053ed274f6a929895",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000017,
+        "label": "Fisheries Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": false,
+      "implementingAgency": null,
+      "tags": [
+        "Fish",
+        "Fishermen",
+        "Financial Assistance",
+        "Fisheries"
+      ],
+      "schemeName": "Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen",
+      "schemeShortTitle": "FAPLLF",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeFor": "Individual",
+      "slug": "fapllf",
+      "briefDescription": "“Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen” is a scheme by the Dept. of Fisheries, Govt. of Goa. Through this scheme, financial assistance amounting to ₹50% is provided by the Government to eligible fishermen for the Purchase of Lifejackets and Lifebuoys."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Citizen's Charter",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.goa.gov.in/schemes-services/"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Application-form-Life-jacket-Life-Buoy.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "“Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance amounting to ₹50% is provided by the Government to eligible fishermen for the Purchase of Lifejackets and Lifebuoys. The applications are accepted only in offline mode.\n",
+      "benefits_md": "\n- The support is extended up to ₹1,000/- per lifejacket and ₹1,500/- per lifebuoy.\n- For Canoe Fitted With OBM: 05 Life Jackets and 01 Lifebuoy.\n- For Mechanised Trawlers Engaged in Trawling Operations: 08 Life Jackets and 02 Lifebuoys.\n- For Mechanised Trawlers Engaged in Purse Seining Operation: 25 Life Jackets and 04 Lifebuoys.\n\n",
+      "briefDescription": "“Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen” is a scheme by the Dept. of Fisheries, Govt. of Goa. Through this scheme, financial assistance amounting to ₹50% is provided by the Government to eligible fishermen for the Purchase of Lifejackets and Lifebuoys.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance amounting to ₹50% is provided by the Government to eligible fishermen for the Purchase of Lifejackets and Lifebuoys. The applications are accepted only in offline mode."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The support is extended up to ₹1,000/- per lifejacket and ₹1,500/- per lifebuoy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Canoe Fitted With OBM: 05 Life Jackets and 01 Lifebuoy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Mechanised Trawlers Engaged in Trawling Operations: 08 Life Jackets and 02 Lifebuoys."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "For Mechanised Trawlers Engaged in Purse Seining Operation: 25 Life Jackets and 04 Lifebuoys."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Application-form-Life-jacket-Life-Buoy.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+              },
+              {
+                "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at ",
+                "bold": true
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "BDO Office/ Sub-Offices"
+                  }
+                ]
+              },
+              {
+                "bold": true,
+                "text": " of the Department of Fisheries."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Grievance Redressal",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                "children": [
+                  {
+                    "text": "Grievance Redressal Officer"
+                  }
+                ]
+              },
+              {
+                "text": ". The grievance can also be lodged on the link "
+              },
+              {
+                "text": "dir-fish.goa@nic.in",
+                "bold": true
+              },
+              {
+                "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should take print of the [prescribed format](https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Application-form-Life-jacket-Life-Buoy.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a traditional fisherman by birth or profession.\n- The applicant should be a resident of Goa.\n- The applicant should possess one of the following: a Canoe Fitted With OBM; Mechanised Trawlers Engaged in Trawling or Purse Seining Operations.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a traditional fisherman by birth or profession."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should possess one of the following: a Canoe Fitted With OBM; Mechanised Trawlers Engaged in Trawling or Purse Seining Operations."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fapllf"
+}

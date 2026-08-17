@@ -1,0 +1,258 @@
+{
+  "_id": "659f9c176093f0fa331c543a",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Fish",
+        "Plant",
+        "Grant",
+        "Subsidy",
+        "Financial Assistance"
+      ],
+      "schemeName": "Grant of Subsidy For Setting up of Ice-Plant /Cold Storage/Fish Processing Unit",
+      "schemeShortTitle": "GSIS-ICFSFPU",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce924d6d1a3bde4685354",
+          "label": "Transport & Infrastructure"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Infrastructure",
+          "label": "Infrastructure"
+        },
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 34000015,
+        "label": "Fisheries and Fishermen Welfare Department, Puducherry"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Infra",
+      "slug": "gsis-icfsfpu",
+      "briefDescription": " This scheme aims to preserve fish and fishery products by facilitating the establishment of Ice Plant-cum-Cold Storage Units and Fish Processing Units. Through this scheme, eligible beneficiaries can avail a 10% subsidy."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.py.gov.in/sites/default/files/shore-based-facilities.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf"
+        },
+        {
+          "title": "List Of Sub-Offices",
+          "url": "https://fisheries.py.gov.in/sub-offices"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://fisheries.py.gov.in/contact-us"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": " This scheme aims to preserve fish and fishery products by facilitating the establishment of Ice Plant-cum-Cold Storage Units and Fish Processing Units. Through this scheme, eligible beneficiaries can avail a 10% subsidy.",
+      "detailedDescription_md": "The scheme &quot;Grant of Subsidy For Setting up of Ice-Plant /Cold Storage/Fish Processing Unit&quot; is a fisheries development scheme by the Department of Fisheries and Fishermen Welfare, Government of India. This scheme aims to preserve fish and fishery products by facilitating the establishment of Ice Plant-cum-Cold Storage Units and Fish Processing Units. Through this scheme, eligible entities, including the Private Sector, Fishermen, Fisherwomen Cooperative Societies, and Entrepreneurs, can avail of a 10% subsidy.\n",
+      "benefits_md": "\n- 10% subsidy, subject to a maximum of ₹3,00,000 per unit, for the establishment of Ice Plant-cum-Cold Storage.\n- 10% subsidy, subject to a maximum of ₹10,00,000 per unit, for the establishment of a Processing Unit.\n- Grant-in-aid for construction and maintenance of fishing harbor, fish landing center, fish landing jetty, fish drying platform, fish curing yard, work sheds, cyclone shelters, community halls, etc.\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Grant of Subsidy For Setting up of Ice-Plant /Cold Storage/Fish Processing Unit\" is a fisheries development scheme by the Department of Fisheries and Fishermen Welfare, Government of India. This scheme aims to preserve fish and fishery products by facilitating the establishment of Ice Plant-cum-Cold Storage Units and Fish Processing Units. Through this scheme, eligible entities, including the Private Sector, Fishermen, Fisherwomen Cooperative Societies, and Entrepreneurs, can avail of a 10% subsidy."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10% subsidy, subject to a maximum of ₹3,00,000 per unit, for the establishment of Ice Plant-cum-Cold Storage."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "10% subsidy, subject to a maximum of ₹10,00,000 per unit, for the establishment of a Processing Unit."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Grant-in-aid for construction and maintenance of fishing harbor, fish landing center, fish landing jetty, fish drying platform, fish curing yard, work sheds, cyclone shelters, community halls, etc."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sub-offices",
+                "children": [
+                  {
+                    "text": "Office/ Sub-Office"
+                  }
+                ]
+              },
+              {
+                "text": " of the Department of Fisheries and Fishermen Welfare, and request the hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit the [Office/ Sub-Office](https://fisheries.py.gov.in/sub-offices) of the Department of Fisheries and Fishermen Welfare, and request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a Private Sector/Fishermen/Fisherwomen Cooperative Societies/Fishermen /Entrepreneurs.\n- The applicant should be between 18 to 50 years old.\n- The applicant should not have availed any benefit of loan/subsidy from any other source for the intended purpose.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Private Sector/Fishermen/Fisherwomen Cooperative Societies/Fishermen /Entrepreneurs."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be between 18 to 50 years old."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should not have availed any benefit of loan/subsidy from any other source for the intended purpose."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gsis-icfsfpu"
+}

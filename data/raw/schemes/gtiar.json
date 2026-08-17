@@ -1,0 +1,305 @@
+{
+  "_id": "67751bb409be7bb7df9e02f1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Educated",
+        "Unemployed",
+        "Youth",
+        "Training"
+      ],
+      "schemeName": "Gausevak Training (Initial and Refresher)",
+      "schemeShortTitle": "GTIAR",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Rural services",
+          "label": "Rural services"
+        },
+        {
+          "value": "Employment services and jobs",
+          "label": "Employment services and jobs"
+        },
+        {
+          "value": "Training and Skill Up-gradation",
+          "label": "Training and Skill Up-gradation"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "gtiar",
+      "briefDescription": "The scheme \"Gausevak Training (Initial and Refresher)\" aims to empower educated unemployed rural youth with self-employment opportunities and the skills to provide primary veterinary services in remote rural areas. A 100% stipend of ₹6,000 for initial training and ₹500 for refresher training."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mpdah.gov.in/schemes/view/MVROZ3BmNnl1NCtnKzNOYUZGSG1CUT09"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Gausevak Training (Initial and Refresher)&quot; by the Animal Husbandry Department, Government of Madhya Pradesh, aims to empower educated unemployed rural youth with self-employment opportunities and the skills to provide primary veterinary services in remote rural areas. Under this scheme, the department provides a 100% stipend of ₹6,000 for initial training and ₹500 for refresher training. Additionally, a kit worth ₹1,200 for initial training and study material worth ₹100 for refresher training are also fully funded by the department.\n",
+      "benefits_md": "**Initial Training:**\nTraining cost: ₹6,000.\nStipend: ₹1,200 for six months at ₹1,000 per month.\nTotal: ₹7,200 per Gausevak.\n**Refresher Training:**\nStipend: ₹500.\nStudy material: ₹100.\nTotal: ₹600 per Gausevak.\n",
+      "briefDescription": "The scheme \"Gausevak Training (Initial and Refresher)\" aims to empower educated unemployed rural youth with self-employment opportunities and the skills to provide primary veterinary services in remote rural areas. A 100% stipend of ₹6,000 for initial training and ₹500 for refresher training.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Gausevak Training (Initial and Refresher)\" by the Animal Husbandry Department, Government of Madhya Pradesh, aims to empower educated unemployed rural youth with self-employment opportunities and the skills to provide primary veterinary services in remote rural areas. Under this scheme, the department provides a 100% stipend of ₹6,000 for initial training and ₹500 for refresher training. Additionally, a kit worth ₹1,200 for initial training and study material worth ₹100 for refresher training are also fully funded by the department."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Initial Training:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Training cost: ₹6,000."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stipend: ₹1,200 for six months at ₹1,000 per month."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Total: ₹7,200 per Gausevak."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Refresher Training:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stipend: ₹500."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Study material: ₹100."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Total: ₹600 per Gausevak."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For Initial Training:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The applicant from each Gram Panchayat will be selected on the approval of Janpad Panchayat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For Refresher Training:",
+                "bold": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Gausevaks who have received initial training will be selected on the basis of seniority."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For queries and documentation requirements, applicants should contact:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Nearest Veterinary Officer of the concerned district"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Incharge of the veterinary dispensary"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Deputy Director, Veterinary Medicine"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**For Initial Training:**\nThe applicant from each Gram Panchayat will be selected on the approval of Janpad Panchayat.\n**For Refresher Training:**\nGausevaks who have received initial training will be selected on the basis of seniority.\n<br>\n\nFor queries and documentation requirements, applicants should contact:\n\n- Nearest Veterinary Officer of the concerned district\n- Incharge of the veterinary dispensary\n- Deputy Director, Veterinary Medicine\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be in the age group of 18 to 35 years.\n1. The applicant should be unemployed.\n1. The applicant should be from a rural area.\n1. The applicant should have passed the 10th standard.\n1. The applicant should be a cow-helper.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be in the age group of 18 to 35 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be unemployed."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be from a rural area."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have passed the 10th standard."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a cow-helper."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gtiar"
+}

@@ -1,0 +1,354 @@
+{
+  "_id": "64105c13d58cf01bf7d09db5",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "1996-01-26",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": "Gujrat Comprehensive Community Accidental Insurance",
+      "tags": [
+        "Accident",
+        "Insurance",
+        "Farmer",
+        "Financial Assistance",
+        "Person With Disability"
+      ],
+      "schemeName": "Janta Juth Accidental Insurance Scheme",
+      "schemeShortTitle": "JJAIS",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Family",
+      "slug": "jjais",
+      "briefDescription": "\"Janta Juth\" is a Farmer's Accidental Insurance Scheme by the Govt. of Gujarat to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. The objective is to assist the successor of the farmer in case of death or disability due to an accident."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dag.gujarat.gov.in/farmers-accidental-insurance-scheme.htm"
+        },
+        {
+          "title": "Amount Of Assistance",
+          "url": "https://dag.gujarat.gov.in/images/directorofagriculture/pdf/Janta-Juth-Accidental-Insurance-Scheme.pdf"
+        },
+        {
+          "title": "Guidelines (Gujarati) And Application Form",
+          "url": "https://dag.gujarat.gov.in/Portal/Document/12_4318_3_KKVY_FORM.pdf"
+        },
+        {
+          "title": "Check Application Status",
+          "url": "https://gsjjavy.gujarat.gov.in/claimsearch.php"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "\"Janta Juth\" is a Farmer's Accidental Insurance Scheme by the Govt. of Gujarat to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. The objective is to assist the successor of the farmer in case of death or disability due to an accident.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\"Janta Juth\" is a Farmer's Accidental Insurance Scheme launched by the Govt. of Gujarat on 26th January 1996 to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. It is a 100% state-sponsored scheme. The main objective is to assist the successor of the farmer in case of death or disability due to an accident. In this scheme, insurance premium is paid by the State Government for all farmers. This scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar. In case of accidental death or permanent disability, all registered farmers, any child (son/daughter) of the farmer and husband/wife of the farmer having age of 5 to 70 years are beneficiaries for the scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of accidental death or permanent disability 100% assistance of ₹ 2,00,000."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of accidental loss of two eyes / two limbs / hand and leg / one eye and one hand or leg 100% assistance of ₹ 2,00,000 (100% full sight loss in case of eye, In case of hand- loss of upper part of the wrist and in case of the leg- totally cut off from the knee)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of accidental loss of one eye or one limb 50% assistance of ₹ 1,00,000."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Suicide or Natural death are not covered in this scheme."
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "&amp;quot;Janta Juth&amp;quot; is a Farmer&amp;#39;s Accidental Insurance Scheme launched by the Govt. of Gujarat on 26th January 1996 to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. It is a 100% state-sponsored scheme. The main objective is to assist the successor of the farmer in case of death or disability due to an accident. In this scheme, insurance premium is paid by the State Government for all farmers. This scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar. In case of accidental death or permanent disability, all registered farmers, any child (son/daughter) of the farmer and husband/wife of the farmer having age of 5 to 70 years are beneficiaries for the scheme.\n<br>\n\n<br>\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "https://dag.gujarat.gov.in/Portal/Document/12_4318_3_KKVY_FORM.pdf",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Applicant Should Submit the Application Along With the Relevant Papers in the "
+              },
+              {
+                "type": "link",
+                "href": "https://dag.gujarat.gov.in/Portal/Document/12_4318_3_KKVY_FORM.pdf",
+                "children": [
+                  {
+                    "text": "Prescribed Format"
+                  }
+                ]
+              },
+              {
+                "text": " to the Concerned District Agricultural Officer, District Panchayat Within 150 Days From the Date of Death or Date of Accidental Disabilities. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE 1:",
+                "bold": true
+              },
+              {
+                "text": " In Case of Accidental Death, the Applicant Will Be an Accidental Farmer's Successor and in the Case of Accidental Disability, the Applicant Will Be a Disabled Person Himself. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE 2:",
+                "bold": true
+              },
+              {
+                "text": " Application Received After 150 Days Will Not Be Eligible."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The Deceased or the Person with Permanent Disability Should Be a Registered Farmer (Have Individual or Joint Name Land) or Child of a Registered Farmer (Son or Daughter) or the Husband/ Wife.\n1. The Death or Permanent Disability Must Be Due to an Accident.\n1. The Deceased or the Person with Permanent Disability should be between the age of 5 to 70 years.\n1. The Application Should Be Made Within 150 Days to the Office of the Concerned District Agriculture Officer.\n\n<br>\n\n**The sequence of the beneficiary under the scheme in chronological order:**\n\n1. Husband/Wife: In his/her absence\n1. Children Son/Daughter: In their absence\n1. Parent Father/Mother: In their absence\n1. Grandson/Grandaughter: In the absence of 1, 2, 3\n1. Unmarried/ Widow/ Exiled Sister who is dependent and living with the beneficiary\n1. Any heirs declared under the Heirs Act applied to the beneficiary involved in other than above mentioned cases and controversial case\n\n<br>\n\n**Note:** Suicide or Natural Death Are Not Covered in This Scheme.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Deceased or the Person with Permanent Disability Should Be a Registered Farmer (Have Individual or Joint Name Land) or Child of a Registered Farmer (Son or Daughter) or the Husband/ Wife."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Death or Permanent Disability Must Be Due to an Accident."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Deceased or the Person with Permanent Disability should be between the age of 5 to 70 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Application Should Be Made Within 150 Days to the Office of the Concerned District Agriculture Officer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The sequence of the beneficiary under the scheme in chronological order:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Husband/Wife: In his/her absence"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Children Son/Daughter: In their absence"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Parent Father/Mother: In their absence"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Grandson/Grandaughter: In the absence of 1, 2, 3"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Unmarried/ Widow/ Exiled Sister who is dependent and living with the beneficiary"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Any heirs declared under the Heirs Act applied to the beneficiary involved in other than above mentioned cases and controversial case"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Note:",
+              "bold": true
+            },
+            {
+              "text": " Suicide or Natural Death Are Not Covered in This Scheme."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "jjais"
+}

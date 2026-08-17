@@ -1,0 +1,317 @@
+{
+  "_id": "6842dda0a9a9e74d7bf63921",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Subsidy",
+        "Scheduled Caste",
+        "Scheduled Tribe",
+        "Fish Farmer",
+        "Fish Farming",
+        "Poultry Farming"
+      ],
+      "schemeName": "Fish Farming Diversification (Scheduled Caste / Scheduled Tribe) Scheme",
+      "schemeShortTitle": "FFDS",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000011,
+        "label": "Department Of Fisheries"
+      },
+      "slug": "ffds",
+      "briefDescription": "The scheme aims to promote economic empowerment and livelihood diversification among Scheduled Caste and Scheduled Tribe communities through fisheries-based activities."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 247)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The “Fish Farming Diversification (Scheduled Caste / Scheduled Tribe) Scheme” scheme was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to promote economic empowerment and livelihood diversification among Scheduled Caste and Scheduled Tribe communities through fisheries-based activities such as duck, poultry, and horticulture-based fisheries.\n<br>\n\n",
+      "benefits_md": "Under this scheme:\n\n  - Fishermen who already own ponds are provided a 60% subsidy for repairing or improving their ponds, or for undertaking duck/poultry farming and other integrated activities.\n  - To connect landless individuals with fish processing and marketing businesses, a 60% subsidy of ₹1,50,000/- is provided against the cost of a mobile fish stall amounting to ₹2,50,000/-.\n  - A 60% subsidy of ₹42,000/- is provided against the cost of ₹70,000/- for the improvement of a 100-square-meter pond.\n  - A 60% subsidy of ₹3,00,000/- is provided against the cost of ₹5,00,000/- for the improvement of a 10-hectare pond in plain areas.\n  - A 60% subsidy of ₹83,000/- is provided against the cost of ₹1,39,000/- for establishing one integrated unit (chicken/duck/banana/papaya) in mountainous areas.\n  - In plain areas, a grant of 60%, i.e. ₹3,96,000/-, is provided against the cost of construction of one integrated unit valued at ₹6,60,000/-.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote economic empowerment and livelihood diversification among Scheduled Caste and Scheduled Tribe communities through fisheries-based activities.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The “Fish Farming Diversification (Scheduled Caste / Scheduled Tribe) Scheme” scheme was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to promote economic empowerment and livelihood diversification among Scheduled Caste and Scheduled Tribe communities through fisheries-based activities such as duck, poultry, and horticulture-based fisheries."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Fishermen who already own ponds are provided a 60% subsidy for repairing or improving their ponds, or for undertaking duck/poultry farming and other integrated activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To connect landless individuals with fish processing and marketing businesses, a 60% subsidy of ₹1,50,000/- is provided against the cost of a mobile fish stall amounting to ₹2,50,000/-."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A 60% subsidy of ₹42,000/- is provided against the cost of ₹70,000/- for the improvement of a 100-square-meter pond."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A 60% subsidy of ₹3,00,000/- is provided against the cost of ₹5,00,000/- for the improvement of a 10-hectare pond in plain areas."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A 60% subsidy of ₹83,000/- is provided against the cost of ₹1,39,000/- for establishing one integrated unit (chicken/duck/banana/papaya) in mountainous areas."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In plain areas, a grant of 60%, i.e. ₹3,96,000/-, is provided against the cost of construction of one integrated unit valued at ₹6,60,000/-."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To avail the benefits of the scheme, eligible beneficiaries are required to submit an application for pond improvement, integrated fisheries, or fish processing/marketing business to the office of the Assistant Director of Fisheries or District Fisheries In-charge at the district level."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For applications related to pond improvement or integrated fisheries, the applicant must attach the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, mobile number, and pond details."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For fish processing/marketing, the application must include: Aadhaar card, permanent residence certificate, caste certificate, bank account details, and mobile number."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "In the future, the application process will be made available online through the ",
+                    "italic": true,
+                    "bold": true
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://eservices.uk.gov.in/",
+                    "children": [
+                      {
+                        "italic": true,
+                        "bold": true,
+                        "text": "Apuni Sarkar Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "italic": true,
+                    "bold": true,
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After submission of the application, a survey is conducted by the fisheries inspectors or field personnel, and a proposal is prepared in consultation with the beneficiary. Once the proposal is finalized, it is approved by the concerned district officer. Thereafter, under the supervision and technical guidance of field staff, the pond repair/improvement work, integrated activities, or fish stall setup is completed. Following the successful completion of work, the subsidy amount is disbursed through Direct Benefit Transfer (DBT) on the basis of a work completion certificate."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - To avail the benefits of the scheme, eligible beneficiaries are required to submit an application for pond improvement, integrated fisheries, or fish processing/marketing business to the office of the Assistant Director of Fisheries or District Fisheries In-charge at the district level.\n  - For applications related to pond improvement or integrated fisheries, the applicant must attach the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, mobile number, and pond details.\n  - For fish processing/marketing, the application must include: Aadhaar card, permanent residence certificate, caste certificate, bank account details, and mobile number.\n\n***In the future, the application process will be made available online through the*** [***Apuni Sarkar Portal***](https://eservices.uk.gov.in/)***.***\n\n  - After submission of the application, a survey is conducted by the fisheries inspectors or field personnel, and a proposal is prepared in consultation with the beneficiary. Once the proposal is finalized, it is approved by the concerned district officer. Thereafter, under the supervision and technical guidance of field staff, the pond repair/improvement work, integrated activities, or fish stall setup is completed. Following the successful completion of work, the subsidy amount is disbursed through Direct Benefit Transfer (DBT) on the basis of a work completion certificate.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant should be a native of Uttarakhand.\n   1. The applicant should belong to the Scheduled Caste or Scheduled Tribe community.\n   1. The applicant should be engaged in fish production and possess a pond or be landless and interested in engaging in fish processing or marketing businesses to be eligible.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ol_list",
+                  "children": [
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The applicant should be a native of Uttarakhand."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The applicant should belong to the Scheduled Caste or Scheduled Tribe community."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "list_item",
+                      "children": [
+                        {
+                          "text": "The applicant should be engaged in fish production and possess a pond or be landless and interested in engaging in fish processing or marketing businesses to be eligible."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ffds"
+}

@@ -1,0 +1,593 @@
+{
+  "_id": "679b019bc4ea5da14d0220cf",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Entrepreneurship",
+        "Environment Infrastructure",
+        "Environmental Compliance"
+      ],
+      "schemeName": "Scheme of Assistance for Common Environment Infrastructure: Scheme of Assistance for Strengthening the Regulation and Environmental Compliance",
+      "schemeShortTitle": "SACEIASRE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": "2020-08-07",
+      "targetBeneficiaries": [
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        },
+        {
+          "value": "industries",
+          "label": "Industries"
+        },
+        {
+          "value": "government-organisation",
+          "label": "Government Organisation"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444452,
+        "label": "Industries and Mines Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeCloseDate": "2025-08-06",
+      "schemeFor": "Infra",
+      "slug": "saceiasre",
+      "briefDescription": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" under the Gujarat Industrial Policy aims to provide incentives for environmental compliance to ensure long-term economic and ecological balance.\n\n",
+      "detailedDescription_md": "The scheme &amp;quot;Scheme of Assistance for Common Environment Infrastructure&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.\nThe component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability.\n",
+      "benefits_md": "\n  - **Quantum of Assistance:** Need based support, maximum ₹50,00,000/-, will be provided as may be decided by the State Level Empowered Committee.\n",
+      "exclusions_md": "\n  - The Project availing incentives under this scheme will not be entitled to avail incentives under any other scheme of the State Government for the same component, unless specified otherwise. However, the project will be eligible to avail incentives available under schemes of Government of India or any other institutions.\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme \"Scheme of Assistance for Common Environment Infrastructure\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Quantum of Assistance:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Need based support, maximum ₹50,00,000/-, will be provided as may be decided by the State Level Empowered Committee."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Project availing incentives under this scheme will not be entitled to avail incentives under any other scheme of the State Government for the same component, unless specified otherwise. However, the project will be eligible to avail incentives available under schemes of Government of India or any other institutions."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Prepare a Detailed Project Report (DPR)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Fill out the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf",
+                    "children": [
+                      {
+                        "text": "prescribed application form"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the application with the required documents to the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ic.gujarat.gov.in/ic-contact.aspx",
+                    "children": [
+                      {
+                        "text": "Industries Commissionerate"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Helpdesk",
+                    "bold": true,
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": ": "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static",
+                    "children": [
+                      {
+                        "text": "Contact Here"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Prepare a Detailed Project Report (DPR).\n**Step 2:** Fill out the [prescribed application form](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf).\n**Step 3:** Submit the application with the required documents to the [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx).\n**Step 4:** Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.\n&gt; **Helpdesk****:** [Contact Here](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)\n\n"
+      }
+    ],
+    "schemeDefinitions": [
+      {
+        "name": "Eligible Activities ",
+        "definition": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1. Scientific Research & Pilot Projects:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Support for scientific reports and pilot projects on cleaner production and technology."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Conducted through institutions such as IITs, NITs, Science & Engineering Colleges, and recognized R&D institutions."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Involves organizations like GPCB, GEMI, and GCPC."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2. Environmental Monitoring Infrastructure:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Installation of testing infrastructure to monitor ambient environmental quality."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Real-time and online monitoring systems for continuous data availability."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Data to be shared with GPCB, GEMI, GCPC, and recognized science and engineering colleges."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "3. Pollution Source Inventory & Remediation Programs:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Identification and mitigation of pollution sources in rivers and vulnerable areas."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Environmental impact assessments for industrial zones, districts, and estates."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Air quality monitoring, emission inventory, and source apportionment studies for affected areas."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Conducted through IITs, NITs, scientific R&D institutions, and recognized Science & Engineering Colleges."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "4. Capacity-Building Workshops & Seminars:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Organized by GPCB, GEMI, and GCPC to promote:"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Environmental compliance and enforcement."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Industrial pollution prevention, control, and remediation."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Knowledge-sharing on best practices in environmental sustainability."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "5. Environment Clinics:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Establishment of environment clinics to create a common platform for industries, associations, and environmental experts."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Aims to provide expert advice and cost-effective solutions to real-time environmental challenges."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "To be executed by GPCB with the help of scientific and R&D institutions, GEMI, GCPC, and recognized science and engineering colleges."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "6. Training & Skill Development Programs:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Assistance for establishing training centers or conducting training programs."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Skill development for instructors, operators, and industry managers in environmental management."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Conducted by the Environment and Forest Department, GPCB, GEMI, and GCPC, in collaboration with industry associations."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "7. Other Approved Activities:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Any additional activities related to environmental regulation and compliance as approved by the State Level Empowered Committee (SLEC)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "definitions_md": "**1. Scientific Research &amp; Pilot Projects:**\n\n- Support for scientific reports and pilot projects on cleaner production and technology.\n- Conducted through institutions such as IITs, NITs, Science &amp; Engineering Colleges, and recognized R&amp;D institutions.\n- Involves organizations like GPCB, GEMI, and GCPC.\n\n**2. Environmental Monitoring Infrastructure:**\n\n- Installation of testing infrastructure to monitor ambient environmental quality.\n- Real-time and online monitoring systems for continuous data availability.\n- Data to be shared with GPCB, GEMI, GCPC, and recognized science and engineering colleges.\n\n**3. Pollution Source Inventory &amp; Remediation Programs:**\n\n- Identification and mitigation of pollution sources in rivers and vulnerable areas.\n- Environmental impact assessments for industrial zones, districts, and estates.\n- Air quality monitoring, emission inventory, and source apportionment studies for affected areas.\n- Conducted through IITs, NITs, scientific R&amp;D institutions, and recognized Science &amp; Engineering Colleges.\n\n**4. Capacity-Building Workshops &amp; Seminars:**\n\n- Organized by GPCB, GEMI, and GCPC to promote:\n- Environmental compliance and enforcement.\n- Industrial pollution prevention, control, and remediation.\n- Knowledge-sharing on best practices in environmental sustainability.\n\n**5. Environment Clinics:**\n\n- Establishment of environment clinics to create a common platform for industries, associations, and environmental experts.\n- Aims to provide expert advice and cost-effective solutions to real-time environmental challenges.\n- To be executed by GPCB with the help of scientific and R&amp;D institutions, GEMI, GCPC, and recognized science and engineering colleges.\n\n**6. Training &amp; Skill Development Programs:**\n\n- Assistance for establishing training centers or conducting training programs.\n- Skill development for instructors, operators, and industry managers in environmental management.\n- Conducted by the Environment and Forest Department, GPCB, GEMI, and GCPC, in collaboration with industry associations.\n\n**7. Other Approved Activities:**\n\n- Any additional activities related to environmental regulation and compliance as approved by the State Level Empowered Committee (SLEC).\n\n",
+        "source": ""
+      }
+    ],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc.\n  - The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) &amp;amp; Gujarat Pollution Control Board (GPCB) [regulations](https://gpcb.gujarat.gov.in/ViewFile?fileName=%E2%9C%BF84VtA%E2%9C%A45Y2S5am0gZge7C5DIhraFNMo2Ft55An9ZyFCK3Aq9K4dpmnxwVOuBnFXqslsR%E2%9C%A4PycTDCIhX4VZROM%E2%9C%BFi06yKqnt6WggtDpEP%E2%9C%A49qS%E2%9C%A4OqhmJOM%E2%9C%A4HY9NwlZsBW6x0te88%E2%9C%BF%E2%9C%BF0jyrttC7nRRU7AbQ%E2%99%AC%E2%99%AC).  - The project must remain operational for a minimum of 5 years post-completion.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) & Gujarat Pollution Control Board (GPCB) "
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://gpcb.gujarat.gov.in/ViewFile?fileName=%E2%9C%BF84VtA%E2%9C%A45Y2S5am0gZge7C5DIhraFNMo2Ft55An9ZyFCK3Aq9K4dpmnxwVOuBnFXqslsR%E2%9C%A4PycTDCIhX4VZROM%E2%9C%BFi06yKqnt6WggtDpEP%E2%9C%A49qS%E2%9C%A4OqhmJOM%E2%9C%A4HY9NwlZsBW6x0te88%E2%9C%BF%E2%9C%BF0jyrttC7nRRU7AbQ%E2%99%AC%E2%99%AC",
+                      "children": [
+                        {
+                          "text": "regulations"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The project must remain operational for a minimum of 5 years post-completion."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "saceiasre"
+}

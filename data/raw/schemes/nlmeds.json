@@ -1,0 +1,310 @@
+{
+  "_id": "68cbdc1b89d250875d370ee2",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Entrepreneurship",
+        "Poultry Farming",
+        "Piggery Farming",
+        "Livestock",
+        "Livestock Mission"
+      ],
+      "schemeName": "National Livestock Mission: Entrepreneurship Development Scheme - Uttarakhand Livestock Development Board",
+      "schemeShortTitle": "NLMEDS",
+      "implementingAgency": "Uttarakhand Livestock Development Board",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "joint-liability-groups",
+          "label": "Joint Liability Groups (JLGS)"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        },
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        },
+        {
+          "value": "ngo",
+          "label": "NGO"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000004,
+        "label": "Department Of Animal Husbandry"
+      },
+      "slug": "nlmeds",
+      "briefDescription": "The scheme aims to promote employment generation through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sectors by providing financial and institutional support to individuals and organized groups under the National Livestock Mission."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 196)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Entrepreneurship Development Scheme”, a sub-component of the National Livestock Mission, is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote employment generation through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sectors by providing financial and institutional support to individuals and organized groups under the National Livestock Mission.\n<br>\n\n",
+      "benefits_md": "Under this scheme, employment generation is promoted through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sector.\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote employment generation through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sectors by providing financial and institutional support to individuals and organized groups under the National Livestock Mission.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Entrepreneurship Development Scheme”, a sub-component of the National Livestock Mission, is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote employment generation through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sectors by providing financial and institutional support to individuals and organized groups under the National Livestock Mission."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, employment generation is promoted through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sector."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Applicants can submit their applications online at "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://nlm.udyamimitra.in/",
+                    "children": [
+                      {
+                        "text": "www.nlm.udyamimitra.in"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ". The process involves the following steps:"
+                  }
+                ]
+              },
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Screening of Applications by the State Implementing Agency."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Loan Approval by the designated lender."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Recommendation by the State Level Executive Committee (SLEC)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Sanction of Subsidy by the Animal Husbandry and Dairying Department."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "For detailed guidelines on the release of subsidy, please visit the department’s website "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://dahd.gov.in/",
+                        "children": [
+                          {
+                            "text": "www.dahd.nic.in"
+                          }
+                        ]
+                      },
+                      {
+                        "text": " or contact the State Animal Husbandry Department."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Applicants can submit their applications online at [www.nlm.udyamimitra.in](https://nlm.udyamimitra.in/). The process involves the following steps:\n\n  - Screening of Applications by the State Implementing Agency.\n  - Loan Approval by the designated lender.\n  - Recommendation by the State Level Executive Committee (SLEC).\n  - Sanction of Subsidy by the Animal Husbandry and Dairying Department.\n  - For detailed guidelines on the release of subsidy, please visit the department’s website [www.dahd.nic.in](https://dahd.gov.in/) or contact the State Animal Husbandry Department.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The applicant must belong to one of the following eligible categories:\n\n  - Individual Entrepreneur\n  - Self Help Group (SHG)\n  - Farmer Producer Organization (FPO)\n  - Farmers Cooperative (FCO)\n  - Joint Liability Group (JLG)\n  - Section 8 Company\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The applicant must belong to one of the following eligible categories:"
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Individual Entrepreneur"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Self Help Group (SHG)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmer Producer Organization (FPO)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers Cooperative (FCO)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Joint Liability Group (JLG)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Section 8 Company"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "nlmeds"
+}

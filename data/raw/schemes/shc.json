@@ -1,0 +1,254 @@
+{
+  "_id": "68c2aebdec02ce9609d9fb6f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Soil Health",
+        "Agriculture",
+        "Soil Testing"
+      ],
+      "schemeName": "Soil Health Card Scheme - Uttarakhand",
+      "schemeShortTitle": "SHCSUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Soil health",
+          "label": "Soil health"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000001,
+        "label": "Agriculture Department"
+      },
+      "slug": "shc",
+      "briefDescription": "The scheme aims to provide Soil Health Cards to all farmers in the state, helping them understand the nutrient composition of their soil and the type and quantity of fertilizers suitable for their crops."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline (Page No. 199)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Soil Health Card Scheme” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide Soil Health Cards to all farmers in the state, helping them understand the nutrient composition of their soil and the type and quantity of fertilizers suitable for their crops.\n<br>\n\n",
+      "benefits_md": "\n  - To provide Soil Health Cards to all farmers in the state.\n  - The soil of each farmer’s field is tested at soil testing laboratories, which are operational in all 13 districts.\n  - Farmers receive detailed information about the nutrient content of their soil, along with recommendations on the type and quantity of fertilizers best suited for their crops.\n  - Soil testing is provided free of cost to farmers.\n  - In hilly areas, a Soil Health Card is issued for agricultural land up to 2.5 hectares, while in plain areas, it is issued for land up to 10 hectares. Each card is valid for three years.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to provide Soil Health Cards to all farmers in the state, helping them understand the nutrient composition of their soil and the type and quantity of fertilizers suitable for their crops.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Soil Health Card Scheme” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide Soil Health Cards to all farmers in the state, helping them understand the nutrient composition of their soil and the type and quantity of fertilizers suitable for their crops."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "To provide Soil Health Cards to all farmers in the state."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The soil of each farmer’s field is tested at soil testing laboratories, which are operational in all 13 districts."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers receive detailed information about the nutrient content of their soil, along with recommendations on the type and quantity of fertilizers best suited for their crops."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Soil testing is provided free of cost to farmers."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In hilly areas, a Soil Health Card is issued for agricultural land up to 2.5 hectares, while in plain areas, it is issued for land up to 10 hectares. Each card is valid for three years."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": null
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "First, the farmer must collect a soil sample from his or her field. The process is as follows: The farmer should identify six locations in his or her field from which he or she wishes to collect samples. He or she should clean the area from which the sample is to be taken, such as removing the grass on top of the soil. Dry soil is used for soil testing. If the collected soil sample is moist, it should be dried in the shade to allow it to air dry."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To collect a sample, dig a V-shaped pit 6 inches deep, 6 inches long, and 4 inches wide with a shovel or hoe. Collect approximately 1–2 inches of soil from the top to the bottom along the edge of the pit. Remove this collected soil and place it in a clean area. Collect soil from six locations in this manner. Once the soil is collected, mix it thoroughly and remove any pebbles, stones, grass, or roots. Divide the thoroughly mixed soil into four equal parts, discarding two, and retain the remaining two. Mix the remaining two parts thoroughly again, then divide them into four equal parts, discarding two. Repeat this process until you have half a kilogram of soil left. Half a kilogram of soil is a suitable sample for testing."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "This half-kilogram soil sample should be kept in a clean bag, and a slip should be put in the bag in which the farmer’s name, complete address, Khasra number, mobile number, and information about the crop he or she wants to grow are mentioned. Along with the sample, the Aadhar card, residence certificate, and mobile number should also be included."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Farmers can submit this sample to the soil testing laboratory of their district themselves or through the Assistant Agriculture Officer of their Panchayat. After submission, when this sample is tested, the farmer is provided with his or her soil health card, according to which he or she can carry out farming and use manure and fertilizers. If a farmer in a remote district is unable to reach the headquarters, he or she can avail of the soil testing facility by contacting the in-charge of the Agriculture Department of his or her Panchayat, and the Aadhar card, residence certificate, and mobile number will be required."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - First, the farmer must collect a soil sample from his or her field. The process is as follows: The farmer should identify six locations in his or her field from which he or she wishes to collect samples. He or she should clean the area from which the sample is to be taken, such as removing the grass on top of the soil. Dry soil is used for soil testing. If the collected soil sample is moist, it should be dried in the shade to allow it to air dry.\n  - To collect a sample, dig a V-shaped pit 6 inches deep, 6 inches long, and 4 inches wide with a shovel or hoe. Collect approximately 1–2 inches of soil from the top to the bottom along the edge of the pit. Remove this collected soil and place it in a clean area. Collect soil from six locations in this manner. Once the soil is collected, mix it thoroughly and remove any pebbles, stones, grass, or roots. Divide the thoroughly mixed soil into four equal parts, discarding two, and retain the remaining two. Mix the remaining two parts thoroughly again, then divide them into four equal parts, discarding two. Repeat this process until you have half a kilogram of soil left. Half a kilogram of soil is a suitable sample for testing.\n  - This half-kilogram soil sample should be kept in a clean bag, and a slip should be put in the bag in which the farmer’s name, complete address, Khasra number, mobile number, and information about the crop he or she wants to grow are mentioned. Along with the sample, the Aadhar card, residence certificate, and mobile number should also be included.\n  - Farmers can submit this sample to the soil testing laboratory of their district themselves or through the Assistant Agriculture Officer of their Panchayat. After submission, when this sample is tested, the farmer is provided with his or her soil health card, according to which he or she can carry out farming and use manure and fertilizers. If a farmer in a remote district is unable to reach the headquarters, he or she can avail of the soil testing facility by contacting the in-charge of the Agriculture Department of his or her Panchayat, and the Aadhar card, residence certificate, and mobile number will be required.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer.\n1. The farmer must own agricultural land in the state and be actively engaged in farming activities.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer must own agricultural land in the state and be actively engaged in farming activities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "shc"
+}

@@ -1,0 +1,266 @@
+{
+  "_id": "66f68b55c50f851fc661806f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Tribal Welfare",
+        "Afforestation",
+        "Incentives",
+        "Employment"
+      ],
+      "schemeName": "Afforestation Schemes Providing Incentives And Employment To Tribals In Forest",
+      "schemeShortTitle": "ASPIE",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Employment services and jobs",
+          "label": "Employment services and jobs"
+        },
+        {
+          "value": "Wildlife and biodiversity",
+          "label": "Wildlife and biodiversity"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 33,
+        "label": "Tamil Nadu"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 3333331,
+        "label": "Adi Dravidar and Tribal Welfare Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "schemeFor": "Individual",
+      "slug": "aspie",
+      "briefDescription": "This scheme offers grants to unemployed tribals for afforestation work, providing them with incentives and employment opportunities in forest operations."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.tn.gov.in/scheme/data_view/83087"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "This scheme offers grants to unemployed tribals for afforestation work, providing them with incentives and employment opportunities in forest operations.",
+      "detailedDescription_md": "The scheme “Afforestation Schemes Providing Incentives And Employment To Tribals In Forest” by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, aims to incentivize unemployed tribals by offering grants to participate in forest operations. The program not only focuses on forest conservation through afforestation but also provides a livelihood for tribal communities living in and around forest areas. The initiative promotes sustainable forest management while creating employment opportunities for these marginalized groups.\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+      "benefits_md": "\n  - **Incentive:** Financial grants for afforestation activities.  - **Employment:** Employment opportunities in forest management.\n&lt;br&gt;\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Afforestation Schemes Providing Incentives And Employment To Tribals In Forest” by the Adi Dravidar and Tribal Welfare Department, Tamil Nadu, aims to incentivize unemployed tribals by offering grants to participate in forest operations. The program not only focuses on forest conservation through afforestation but also provides a livelihood for tribal communities living in and around forest areas. The initiative promotes sustainable forest management while creating employment opportunities for these marginalized groups."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Incentive: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Financial grants for afforestation activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Employment: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "Employment opportunities in forest management."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The interested applicant should collect the application form from the office of the District Forest Officer (DFO)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the duly filled and signed application form along with the documents to the office of the District Forest Officer (DFO)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should collect the application form from the office of the District Forest Officer (DFO).\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the office of the District Forest Officer (DFO).\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable).\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The beneficiary should be a resident of Tamil Nadu.\n- The beneficiary should belong to the Tribal community.\n- The beneficiary should be Unemployed.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be a resident of Tamil Nadu."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should belong to the Tribal community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The beneficiary should be Unemployed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "aspie"
+}

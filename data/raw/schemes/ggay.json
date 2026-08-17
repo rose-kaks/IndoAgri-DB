@@ -1,0 +1,232 @@
+{
+  "_id": "6498914e481f59106a6e05a4",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-08-01",
+      "schemeCloseDate": "2026-08-01",
+      "state": {
+        "value": 8,
+        "label": "Rajasthan"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 8000016,
+        "label": "Forest Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Health",
+        "Planting",
+        "Disease-free Life",
+        "Agriculture"
+      ],
+      "schemeName": "Ghar Ghar Aushodhi Yojana",
+      "schemeShortTitle": "GGAY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "ggay",
+      "briefDescription": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOR_/GGAY/BeneficiaryPdf_783_34d44cea-Be48-4fb8-8626-Edf6963f9ff9.Pdf"
+        },
+        {
+          "title": "Details-1",
+          "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/PhotoVideoGallery/2022/685b4c39-3f42-4fc7-bd46-2b0104e05470.pdf"
+        },
+        {
+          "title": "Details-2",
+          "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/783"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state. The state government is planning to implement the scheme to boost the immunity and defense system of the citizens of the state. Under this Rajasthan Ghar Ghar Aushadhi Yojana, medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh will be distributed.\n",
+      "benefits_md": "The main objective of the Rajasthan Ghar Ghar Aushadhi Yojana is to provide medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh to everyone.\n\n1. It aims to promote medicinal plants and their use in daily life\n1. It aims to help people to boost their immunity, lead a healthy and disease-free life\n1. Each family will be provided 24 saplings over a period of 5 years\n1. This Rajasthan Ghar Ghar Aushadhi Yojana will help in boosting a strong defence system which will lead to a good health for all and thus overall development in the state.\n\n",
+      "briefDescription": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rajasthan government has planned a new scheme called Rajasthan Ghar Ghar Aushadhi Yojana to promote the use of Ayurvedic and medicinal herbs across the state. The state government is planning to implement the scheme to boost the immunity and defense system of the citizens of the state. Under this Rajasthan Ghar Ghar Aushadhi Yojana, medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh will be distributed."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main objective of the Rajasthan Ghar Ghar Aushadhi Yojana is to provide medicinal plants like Tulsi, Ashwagandha, Giloy and Kalmegh to everyone."
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "It aims to promote medicinal plants and their use in daily life"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "It aims to help people to boost their immunity, lead a healthy and disease-free life"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Each family will be provided 24 saplings over a period of 5 years"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This Rajasthan Ghar Ghar Aushadhi Yojana will help in boosting a strong defence system which will lead to a good health for all and thus overall development in the state."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to contact Nagar Panchayat, Municipal Corporation and Municipality."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Plants will be distributed through Nagar Panchayat, Municipal Corporation and Municipality. These medicinal plants will be given every year before the onset of monsoon."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to get a form and fill it out with the required details."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants must have the Jan Aadhaar details to get the benefits."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Submit the form with the required details and documents to the same department. "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Applicants have to contact Nagar Panchayat, Municipal Corporation and Municipality.\n1. Plants will be distributed through Nagar Panchayat, Municipal Corporation and Municipality. These medicinal plants will be given every year before the onset of monsoon.\n1. Applicants have to get a form and fill it out with the required details.\n1. Applicants must have the Jan Aadhaar details to get the benefits.\n1. Submit the form with the required details and documents to the same department. \n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. Applicant must be a native of Rajasthan state.\n1. Should have Jan Aadhaar Card of Rajasthan Government.\n1. Should have enough space to plant.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Applicant must be a native of Rajasthan state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should have Jan Aadhaar Card of Rajasthan Government."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Should have enough space to plant."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ggay"
+}

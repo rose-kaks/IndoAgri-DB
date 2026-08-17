@@ -1,0 +1,562 @@
+{
+  "_id": "69c3b7129d266e2072493bb0",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Krishi",
+        "Award",
+        "Farmer",
+        "Sciences",
+        "Technologies"
+      ],
+      "schemeName": "Rashtriya Krishi Vigyan Puraskar",
+      "schemeShortTitle": "RKVP",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "nodalMinistryName": {
+        "value": 498,
+        "label": "Ministry Of Agriculture and Farmers Welfare"
+      },
+      "nodalDepartmentName": {
+        "value": 513,
+        "label": "Department of Agriculture Research and Education"
+      },
+      "slug": "rkvp",
+      "briefDescription": "The Rashtriya Krishi Vigyan Puraskar (RKVP) aims to honor scientists and technical experts for outstanding contributions and innovations in agriculture and allied sciences."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://awards.gov.in/Home/AwardLibrary"
+        },
+        {
+          "title": "Website",
+          "url": "https://icar.org.in/hi/node/22890"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Rashtriya Krishi Vigyan Puraskar under Indian Council of Agricultural Research (ICAR),Ministry of Agriculture &amp; Farmers Welfare, Government of India, recognizes and honors scientists and technical personnel who have made outstanding contributions in agriculture, agricultural education, extension, and allied sciences. This includes the development of new processes, products, tools, technologies, and innovative practices that enhance agricultural productivity and sustainability in India.\n**Fields Covered:**\n**The awards are categorized under three main streams, each covering the following four fields:**\n\n1. Crops &amp; Horticultural Sciences\n1. Natural Resources Management &amp; Agricultural Engineering\n1. Animal &amp; Fisheries Sciences\n1. Social Sciences\n\n**Award Categories &amp; Number of Awardees:**\n\n1. Innovation &amp; Technology in Agriculture &amp; Allied Sciences – 4 awardees\n1. Research in Agriculture &amp; Allied Sciences – 4 awardees\n1. Outstanding Interdisciplinary Team Research in Agriculture, Agricultural Education, Extension &amp; Allied Sciences – 1 awardee\n1. Outstanding Woman Scientist in Agriculture, Agricultural Education, Extension &amp; Allied Sciences – 1 awardee\n1. Outstanding Young Scientist in Agriculture &amp; Allied Sciences – 4 awardees\n\n<br>\n\n",
+      "benefits_md": "i. In the Award Ceremony, the Awardees shall be presented a Sanad (certificate) signed by the Hon&#39;ble Union Minister (Agriculture &amp; Farmers Welfare) &amp; President, ICAR. A commemorative brochure, containing the citation and photograph of the awardees shall also be released on the day of the ceremony.\nii. The decoration to such persons who are not able to attend the award ceremony due to personal reasons (including indisposition, preoccupation, etc.) shall be deemed to have been conferred. No other person (including the spouse/next of kin) should be allowed to receive the award on behalf of the absentee awardee except in posthumous cases.\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The Rashtriya Krishi Vigyan Puraskar (RKVP) aims to honor scientists and technical experts for outstanding contributions and innovations in agriculture and allied sciences.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Rashtriya Krishi Vigyan Puraskar under Indian Council of Agricultural Research (ICAR),Ministry of Agriculture & Farmers Welfare, Government of India, recognizes and honors scientists and technical personnel who have made outstanding contributions in agriculture, agricultural education, extension, and allied sciences. This includes the development of new processes, products, tools, technologies, and innovative practices that enhance agricultural productivity and sustainability in India."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Fields Covered:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The awards are categorized under three main streams, each covering the following four fields:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Crops & Horticultural Sciences"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Natural Resources Management & Agricultural Engineering"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Animal & Fisheries Sciences"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Social Sciences"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Award Categories & Number of Awardees:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Innovation & Technology in Agriculture & Allied Sciences – 4 awardees"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Research in Agriculture & Allied Sciences – 4 awardees"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Outstanding Interdisciplinary Team Research in Agriculture, Agricultural Education, Extension & Allied Sciences – 1 awardee"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Outstanding Woman Scientist in Agriculture, Agricultural Education, Extension & Allied Sciences – 1 awardee"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Outstanding Young Scientist in Agriculture & Allied Sciences – 4 awardees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i. In the Award Ceremony, the Awardees shall be presented a Sanad (certificate) signed by the Hon'ble Union Minister (Agriculture & Farmers Welfare) & President, ICAR. A commemorative brochure, containing the citation and photograph of the awardees shall also be released on the day of the ceremony."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ii. The decoration to such persons who are not able to attend the award ceremony due to personal reasons (including indisposition, preoccupation, etc.) shall be deemed to have been conferred. No other person (including the spouse/next of kin) should be allowed to receive the award on behalf of the absentee awardee except in posthumous cases."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Registration:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the o"
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/",
+                "children": [
+                  {
+                    "text": "fficial website"
+                  }
+                ]
+              },
+              {
+                "text": " and click on the"
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Registration/SignUp",
+                "children": [
+                  {
+                    "text": " Registration button."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Select your category: Individual or Organization."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in the required details:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Individual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Organization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Click Submit to complete registration."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Apply:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " "
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Login",
+                "children": [
+                  {
+                    "text": "Log in"
+                  }
+                ]
+              },
+              {
+                "text": " to the portal using your registered credentials."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Select the scheme from the list of awards and click \""
+              },
+              {
+                "type": "link",
+                "link": "https://awards.gov.in/Home/AwardLibrary",
+                "children": [
+                  {
+                    "text": "Nominate / Apply Now\"."
+                  }
+                ]
+              },
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Fill in all mandatory fields in the online application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " Click Submit to complete your application."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Registration:**\n**Step 1:** Visit the o[fficial website](https://awards.gov.in/) and click on the[ Registration button.](https://awards.gov.in/Registration/SignUp)\n**Step 2:** Select your category: Individual or Organization.\n**Step 3:** Fill in the required details:\nIndividual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number.\nOrganization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number.\n**Step 4:** Click Submit to complete registration.\n**Apply:**\n**Step 1:** [Log in](https://awards.gov.in/Login) to the portal using your registered credentials.\n**Step 2:** Select the scheme from the list of awards and click &quot;[Nominate / Apply Now&quot;.](https://awards.gov.in/Home/AwardLibrary)\n**Step 3:** Fill in all mandatory fields in the online application form.\n**Step 4:** Click Submit to complete your application.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**General Conditions:**\n\n1. The applicant should be an Indian scientist working in agriculture or allied fields in ICAR institutes, public agricultural institutions, or Krishi Vigyan Kendras, and must have made significant contributions in India.\n1. The applicant should have work (research, innovation, or extension) that shows clear and proven impact on society, economy, or environment, supported by the Head of the Institution.\n1. The applicant can apply at any stage of their career, as no minimum service period is required.\n1. The applicant should submit only one application for a particular contribution in a year, and the application will be valid only for that year.\n1. The applicant should have a clean service record, with no pending enquiry or major punishment in the last five years.\n1. The applicant should apply under only one category and cannot be considered for multiple categories.\n\n**Category-wise Conditions:**\n\n1. The applicant can apply individually or as part of a team (maximum five members) for innovation and research awards, and must be below 60 years of age.\n1. The applicant applying for interdisciplinary research should be part of a team of at least three members from different disciplines, and the team leader must be below 60 years of age.\n1. The applicant applying for the women scientist category should be a woman working in agriculture or allied fields, and must be below 60 years of age.\n1. The applicant applying for the young scientist category should have a doctoral degree, hold a regular position, and must be below 45 years of age.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "General Conditions:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be an Indian scientist working in agriculture or allied fields in ICAR institutes, public agricultural institutions, or Krishi Vigyan Kendras, and must have made significant contributions in India."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have work (research, innovation, or extension) that shows clear and proven impact on society, economy, or environment, supported by the Head of the Institution."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant can apply at any stage of their career, as no minimum service period is required."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should submit only one application for a particular contribution in a year, and the application will be valid only for that year."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have a clean service record, with no pending enquiry or major punishment in the last five years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should apply under only one category and cannot be considered for multiple categories."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Category-wise Conditions:",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant can apply individually or as part of a team (maximum five members) for innovation and research awards, and must be below 60 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant applying for interdisciplinary research should be part of a team of at least three members from different disciplines, and the team leader must be below 60 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant applying for the women scientist category should be a woman working in agriculture or allied fields, and must be below 60 years of age."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant applying for the young scientist category should have a doctoral degree, hold a regular position, and must be below 45 years of age."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rkvp"
+}

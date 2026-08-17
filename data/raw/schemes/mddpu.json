@@ -1,0 +1,228 @@
+{
+  "_id": "68cd2ecb6e1aaee61b2795a1",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Dairy Development",
+        "Woman",
+        "Milk Production",
+        "Cooperative Society",
+        "Training",
+        "Milk Procurement"
+      ],
+      "schemeName": "Mahila Dairy Vikas Pariyojana - Uttarakhand",
+      "schemeShortTitle": "MDVPUK",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "64f57d10ffb93104c7006c97",
+          "label": "Women and Child"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000068,
+        "label": "Dairy Development Department"
+      },
+      "slug": "mddpu",
+      "briefDescription": "The scheme aims to empower rural women in Uttarakhand by promoting their active participation in the dairy sector through Women Milk Producers Cooperative Societies, enhancing milk production, and providing training, incentives, and awareness programs for sustainable livelihood development."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 201)",
+          "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Mahila Dairy Vikas Pariyojana” was launched by the Department of Dairy Development, Government of Uttarakhand. It aims to empower rural women in Uttarakhand by promoting their active participation in the dairy sector through Women Milk Producers Cooperative Societies, enhancing milk production, and providing training, incentives, and awareness programs for sustainable livelihood development.\n<br>\n\n",
+      "benefits_md": "\n  - Under this scheme, by providing adequate resources to rural women through Women Milk Producers Cooperative Societies at the village level, their direct participation in the state’s economy is encouraged, making them socially and economically self-reliant. \n  - The scheme also organizes various training, incentive, and awareness programs for women members to increase milk production. These include training programs for secretaries and management committee members, women encouragement and motivational programs, seminars on clean milk procurement, and special women-focused seminars on the occasion of International Women’s Day.\n  - Under the women incentive program to increase milk procurement, first, second, and third prizes are awarded to the women milk producers who supply the maximum milk in the district.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to empower rural women in Uttarakhand by promoting their active participation in the dairy sector through Women Milk Producers Cooperative Societies, enhancing milk production, and providing training, incentives, and awareness programs for sustainable livelihood development.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Mahila Dairy Vikas Pariyojana” was launched by the Department of Dairy Development, Government of Uttarakhand. It aims to empower rural women in Uttarakhand by promoting their active participation in the dairy sector through Women Milk Producers Cooperative Societies, enhancing milk production, and providing training, incentives, and awareness programs for sustainable livelihood development."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 3,
+        "value": "composite",
+        "label": "Composite"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under this scheme, by providing adequate resources to rural women through Women Milk Producers Cooperative Societies at the village level, their direct participation in the state’s economy is encouraged, making them socially and economically self-reliant. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The scheme also organizes various training, incentive, and awareness programs for women members to increase milk production. These include training programs for secretaries and management committee members, women encouragement and motivational programs, seminars on clean milk procurement, and special women-focused seminars on the occasion of International Women’s Day."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under the women incentive program to increase milk procurement, first, second, and third prizes are awarded to the women milk producers who supply the maximum milk in the district."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After providing complete information regarding the formation of the Women's Milk Producers Cooperative Society in an open meeting, upon consensus on the formation of the Women's Milk Committee, 9 women are selected from the Women's Milk Committee members as Managing Committee members and a Chairperson is elected from among the selected members. Thereafter, the Managing Committee appoints a Secretary as an employee to run the Milk Committee."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "All milk producing members who supply milk to the Milk Committee have to become members of the Committee."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - After providing complete information regarding the formation of the Women&amp;#39;s Milk Producers Cooperative Society in an open meeting, upon consensus on the formation of the Women&amp;#39;s Milk Committee, 9 women are selected from the Women&amp;#39;s Milk Committee members as Managing Committee members and a Chairperson is elected from among the selected members. Thereafter, the Managing Committee appoints a Secretary as an employee to run the Milk Committee.\n  - All milk producing members who supply milk to the Milk Committee have to become members of the Committee.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a woman interested in the milk procurement business sector.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a woman interested in the milk procurement business sector."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "mddpu"
+}

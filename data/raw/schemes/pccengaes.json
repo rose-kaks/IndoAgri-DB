@@ -1,0 +1,302 @@
+{
+  "_id": "65cba33acd96dc5e07521c2d",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Cultivation",
+        "Farmer",
+        "Subsidy",
+        "Garden",
+        "Horticulture"
+      ],
+      "schemeName": "\"Protected Cultivation\" Component of \"Establishment of New Gardens (Area Expansion)\" Scheme",
+      "schemeShortTitle": "PCCENGAES",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Environmental management and protection",
+          "label": "Environmental management and protection"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 34,
+        "label": "Puducherry"
+      },
+      "nodalDepartmentName": {
+        "value": 34000003,
+        "label": "Agriculture Department, Puducherry"
+      },
+      "schemeFor": "Individual",
+      "slug": "pccengaes",
+      "briefDescription": "Through this scheme, the farmers are provided Poly House, Shade Net House (Tubular Structure), Plastic Mulching at subsidised rates for practising Protected Cultivation. In Puducherry, this scheme is implemented by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. "
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Citizen's Charter",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf"
+        },
+        {
+          "title": "Contact Us",
+          "url": "https://agri.py.gov.in/emailcontact.html"
+        },
+        {
+          "title": "Grievance Redressal",
+          "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "&quot;Protected Cultivation&quot; component of the &quot;Establishment of New Gardens (Area Expansion)&quot; scheme under the &quot;National Horticulture Mission (NHM)&quot;, a Centrally Sponsored Scheme by the Ministry of Agriculture and Farmers Welfare, Govt. of India. In Puducherry, this scheme is implemented by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the farmers are provided Poly House, Shade Net House (Tubular Structure), and Plastic Mulching at subsidised rates for practising Protected Cultivation.\n",
+      "benefits_md": "\n- **Poly House:** Naturally Ventilated system (Tubular structure) – Subsidized Cost of ₹467.50/- per square meter.- **Shade Net House (Tubular Structure):** Subsidized Cost of ₹355/- per square meter. Maximum of 4000 square meters per beneficiary.- **Plastic Mulching:** ₹10,000/- per hectare as a subsidy (maximum of 2 hectares per beneficiary).\n",
+      "briefDescription": "Through this scheme, the farmers are provided Poly House, Shade Net House (Tubular Structure), Plastic Mulching at subsidised rates for practising Protected Cultivation. In Puducherry, this scheme is implemented by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. ",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Protected Cultivation\" component of the \"Establishment of New Gardens (Area Expansion)\" scheme under the \"National Horticulture Mission (NHM)\", a Centrally Sponsored Scheme by the Ministry of Agriculture and Farmers Welfare, Govt. of India. In Puducherry, this scheme is implemented by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the farmers are provided Poly House, Shade Net House (Tubular Structure), and Plastic Mulching at subsidised rates for practising Protected Cultivation."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Poly House: ",
+                  "bold": true
+                },
+                {
+                  "text": "Naturally Ventilated system (Tubular structure) – Subsidized Cost of ₹467.50/- per square meter."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Shade Net House (Tubular Structure): ",
+                  "bold": true
+                },
+                {
+                  "text": "Subsidized Cost of ₹355/- per square meter. Maximum of 4000 square meters per beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Plastic Mulching: ",
+                  "bold": true
+                },
+                {
+                  "text": "₹10,000/- per hectare as a subsidy (maximum of 2 hectares per beneficiary)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "The interested applicant should visit (during office hours) the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+                "children": [
+                  {
+                    "text": "Office of the Additional Director of Agriculture (Horticulture) "
+                  }
+                ]
+              },
+              {
+                "text": "and request a hard copy of the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format"
+                  }
+                ]
+              },
+              {
+                "text": " of the application form from the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/emailcontact.html",
+                "children": [
+                  {
+                    "text": "Deputy Director of Agriculture (Horti-NHM)"
+                  }
+                ]
+              },
+              {
+                "text": "."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "OR"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The interested applicant should take print of the "
+              },
+              {
+                "type": "link",
+                "link": "https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf",
+                "children": [
+                  {
+                    "text": "prescribed format "
+                  }
+                ]
+              },
+              {
+                "text": ""
+              },
+              {
+                "type": "link",
+                "link": "https://wcd.py.gov.in/sites/default/files/wcdmarrigeofpoorbride.pdf",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "text": "of the application form."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "Submit the duly filled and signed application form and the documents to the Deputy Director of Agriculture (Chemistry)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Office of the Additional Director of Agriculture (Horticulture) ](https://agri.py.gov.in/sites/default/files/citchart/response.pdf)and request a hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf) of the application form from the [Deputy Director of Agriculture (Horti-NHM)](https://agri.py.gov.in/emailcontact.html).\nOR\nThe interested applicant should take print of the [prescribed format ](https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf)of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the Deputy Director of Agriculture (Chemistry).\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant should be a resident/native of Puducherry.\n- The applicant should be a Farmer.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident/native of Puducherry."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a Farmer."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pccengaes"
+}

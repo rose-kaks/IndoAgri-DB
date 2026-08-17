@@ -1,0 +1,338 @@
+{
+  "_id": "65315d034c46bfe12b230f60",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Credit Linked Subsidy",
+          "label": "Credit Linked Subsidy"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "Farmer",
+        "Nursery",
+        "Export",
+        "Subsidy",
+        "Agriculture",
+        "DBT"
+      ],
+      "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Export Oriented Production: Large Cardamom Certified Nursery (Unit)",
+      "schemeShortTitle": "ISEPQISRDC:EOP:LCCN",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "isepqisrdceoplccn",
+      "briefDescription": "The scheme \"Export Oriented Production: Large Cardamom Certified Nursery (Unit)\" is a Sub-Scheme of the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom by the Spice Board, Department of Commerce and Industry, Ministry of Commerce."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.indianspices.com/export_oriented_prod.html"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme &quot;Export Oriented Production: Large Cardamom Certified Nursery (Unit)&quot; is a Sub-Scheme of the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom by the Spice Board, Department of Commerce and Industry, Ministry of Commerce. The objective of this scheme is to promote farmers to produce quality and disease-free planting materials in their own fields for replanting.\n",
+      "benefits_md": "\n- 33.33% of the cost of production of planting material subject to a maximum of ₹ 3 per seedling for the General Category.\n- 75% of the cost of production of planting material @ ₹ 6.75 per seedling for SC/ST.\n\n<br>\n\n> **Time of Payment**\n\nPayment of subsidy will be in the succeeding year of planting the mother suckers/ seeds for multiplication in the nursery and satisfactory production of suckers/seedlings.\n<br>\n\n> **Mode of Payment**\n\nEligible assistance will be paid to beneficiaries through **Direct Benefit Transfer (DBT)**, except for specific cases like QGBG, weather-based insurance for cardamom (small), and distribution of polythene sheets.\n",
+      "briefDescription": "The scheme \"Export Oriented Production: Large Cardamom Certified Nursery (Unit)\" is a Sub-Scheme of the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom by the Spice Board, Department of Commerce and Industry, Ministry of Commerce.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Export Oriented Production: Large Cardamom Certified Nursery (Unit)\" is a Sub-Scheme of the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom by the Spice Board, Department of Commerce and Industry, Ministry of Commerce. The objective of this scheme is to promote farmers to produce quality and disease-free planting materials in their own fields for replanting."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "33.33% of the cost of production of planting material subject to a maximum of ₹ 3 per seedling for the General Category."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "75% of the cost of production of planting material @ ₹ 6.75 per seedling for SC/ST."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Time of Payment",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Payment of subsidy will be in the succeeding year of planting the mother suckers/ seeds for multiplication in the nursery and satisfactory production of suckers/seedlings."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Mode of Payment",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligible assistance will be paid to beneficiaries through "
+            },
+            {
+              "text": "Direct Benefit Transfer (DBT)",
+              "bold": true
+            },
+            {
+              "text": ", except for specific cases like QGBG, weather-based insurance for cardamom (small), and distribution of polythene sheets."
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Step 1: Application Submission",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Applicants submit their applications with necessary document copies to Field Offices in major spice-growing regions of the country. The applications are entered into the system (GMS) and screened for eligibility based on criteria."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Step 2: Additional Document Submission",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Applicants may be required to submit extra documents if requested by the concerned officer, such as SC/ST certificates, legal heirship certificates, and more."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Step 3: Legal Entity Requirement for Farmers Groups",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Farmer groups seeking assistance must be a legal entity (e.g., Reg. Society/FPC/FPO/SHG/SPS). An agreement must be executed with the Board in the prescribed format on a ₹200/- stamp paper."
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Step 4: Inspection and Recommendation",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Officers will issue a conditional permit order after preliminary inspection (if applicable). A final inspection will be conducted by the officer in charge upon successful completion of the activity or purchase of equipment. The date of successful completion communication will determine the \"first-come-first-serve\" criteria for recommending eligible cases for sanction. Eligible cases will be recommended to the appropriate authority for sanction."
+              }
+            ]
+          }
+        ],
+        "process_md": "> **Step 1: Application Submission**\n\nApplicants submit their applications with necessary document copies to Field Offices in major spice-growing regions of the country. The applications are entered into the system (GMS) and screened for eligibility based on criteria.\n> **Step 2: Additional Document Submission**\n\nApplicants may be required to submit extra documents if requested by the concerned officer, such as SC/ST certificates, legal heirship certificates, and more.\n> **Step 3: Legal Entity Requirement for Farmers Groups**\n\nFarmer groups seeking assistance must be a legal entity (e.g., Reg. Society/FPC/FPO/SHG/SPS). An agreement must be executed with the Board in the prescribed format on a ₹200/- stamp paper.\n> **Step 4: Inspection and Recommendation**\n\nOfficers will issue a conditional permit order after preliminary inspection (if applicable). A final inspection will be conducted by the officer in charge upon successful completion of the activity or purchase of equipment. The date of successful completion communication will determine the &quot;first-come-first-serve&quot; criteria for recommending eligible cases for sanction. Eligible cases will be recommended to the appropriate authority for sanction.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "Individual growers/farmers groups having suitable land and facility for irrigating the nursery.\n<br>\n\n> **Area of Operation**\n\nSikkim, Darjeeling &amp; Kalimpong districts of West Bengal &amp; other NE States.\n<br>\n\n> **Modalities**\n\n\n- Allotment of units will be multiples of 500 with a minimum of 1000 nos. to a maximum of 5000 nos. per beneficiary.\n- Farmers will start nursery follow-up visits will be conducted by the Field Staff and necessary technical guidance will be rendered for successful production of planting materials.\n- Planting materials produced in the nurseries will be used for replanting / gap filling by the applicants and the balance will be supplied to the neighbouring/needy farmers at an optimum price not exceeding the market price. Designated Officials will conduct final inspections and recommend the eligible cases.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Individual growers/farmers groups having suitable land and facility for irrigating the nursery."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Area of Operation",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sikkim, Darjeeling & Kalimpong districts of West Bengal & other NE States."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Modalities",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Allotment of units will be multiples of 500 with a minimum of 1000 nos. to a maximum of 5000 nos. per beneficiary."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers will start nursery follow-up visits will be conducted by the Field Staff and necessary technical guidance will be rendered for successful production of planting materials."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Planting materials produced in the nurseries will be used for replanting / gap filling by the applicants and the balance will be supplied to the neighbouring/needy farmers at an optimum price not exceeding the market price. Designated Officials will conduct final inspections and recommend the eligible cases."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "isepqisrdceoplccn"
+}

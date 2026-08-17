@@ -4,6 +4,7 @@ from fetchers import (
     fetch_agmarknet_complete,
     fetch_disaster_alerts,
     fetch_pib_agri_news,
+    fetch_farmer_schemes,
 )
 
 def main():
@@ -15,6 +16,7 @@ def main():
     fetch_agmarknet_complete()
     fetch_disaster_alerts()
     fetch_pib_agri_news()
+    fetch_farmer_schemes()
 
     log.info("\n" + "=" * 60)
     log.info("Pipeline Execution Complete!")

@@ -1,0 +1,503 @@
+{
+  "_id": "652c27032a298fe1b484cbb7",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "nodalMinistryName": {
+        "value": 1565,
+        "label": "Ministry Of Commerce And Industry"
+      },
+      "nodalDepartmentName": {
+        "value": 1588,
+        "label": "Department Of Commerce"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": null,
+      "dbtScheme": true,
+      "implementingAgency": null,
+      "tags": [
+        "Rubber",
+        "Agriculture",
+        "Farming",
+        "Plant",
+        "Seed",
+        "Subsidy",
+        "DBT"
+      ],
+      "schemeName": "Scheme for Plantation Development (New planting & Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil Nadu), Non-Traditional and North Eastern Region",
+      "schemeShortTitle": "SPDMTFPTANTNER",
+      "level": {
+        "value": "central",
+        "label": "Central"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        },
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "state": null,
+      "schemeType": {
+        "value": "central-sector-scheme",
+        "label": "Central Sector Scheme"
+      },
+      "schemeFor": "Infra",
+      "slug": "spdmtfptantner",
+      "briefDescription": "The Scheme is intended to increase the production of natural rubber in India by accelerating new planting and replanting of rubber on scientific lines. Accelerated new planting/replanting would be achieved by giving proper technical guidance and financial assistance to growers."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "http://rubberboard.org.in/menuview"
+        },
+        {
+          "title": "Terms Of Reference (ToR) For Evaluation Of The Rubber Board, Department Of Commerce",
+          "url": "https://dmeo.gov.in/sites/default/files/2022-05/Rubber_Board.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "&quot;Scheme for Plantation Development (New planting &amp; Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil Nadu), Non-Traditional and North Eastern Region&quot; by the Rubber Board, Department of Commerce, Ministry of Commerce and Industry. The Scheme is intended to increase the production of natural rubber in India by accelerating new planting and replanting of rubber on scientific lines. Accelerated new planting/replanting would be achieved by giving proper technical guidance and financial assistance to growers. \n",
+      "benefits_md": "##### **Rate of Subsidy**\n<br>\n\n> **Traditional Region**\n\n\n1. **General Category:** ₹ 20,000/- ha + ₹ 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth. The assistance will be @ ₹ 10/- per plant limited to 500 plants per ha.1. **SC Category:** ₹ 35000/- ha + ₹ 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth. The assistance will be @ ₹ 10/- per plant limited to 500 plants per ha.\n<br>\n\n> **Non-Traditional and North Eastern Region**\n\n\n1. ₹ 35,000 per ha and ₹ 5,000/ ha for planting material (Polybag/ Root trainer plants) of advanced growth.\n1. The assistance will be @ ₹ 10/- per plant limited to 500 plants per ha.\n\n##### **Mode of Payment**\n\n1. Planting subsidy shall be paid in single instalments subject to the completion of the stipulated items of work to the satisfaction of the Board.\n1. Payment of subsidy shall be only through bank by e-transfer. Beneficiaries should provide Aadhar-linked bank account details in the application for financial assistance.\n\n",
+      "briefDescription": "The Scheme is intended to increase the production of natural rubber in India by accelerating new planting and replanting of rubber on scientific lines. Accelerated new planting/replanting would be achieved by giving proper technical guidance and financial assistance to growers.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Scheme for Plantation Development (New planting & Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil Nadu), Non-Traditional and North Eastern Region\" by the Rubber Board, Department of Commerce, Ministry of Commerce and Industry. The Scheme is intended to increase the production of natural rubber in India by accelerating new planting and replanting of rubber on scientific lines. Accelerated new planting/replanting would be achieved by giving proper technical guidance and financial assistance to growers. "
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Rate of Subsidy",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Traditional Region",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "General Category:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹ 20,000/- ha + ₹ 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth. The assistance will be @ ₹ 10/- per plant limited to 500 plants per ha."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "SC Category:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹ 35000/- ha + ₹ 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth. The assistance will be @ ₹ 10/- per plant limited to 500 plants per ha."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Non-Traditional and North Eastern Region",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "₹ 35,000 per ha and ₹ 5,000/ ha for planting material (Polybag/ Root trainer plants) of advanced growth."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The assistance will be @ ₹ 10/- per plant limited to 500 plants per ha."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading_five",
+          "children": [
+            {
+              "text": "Mode of Payment",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Planting subsidy shall be paid in single instalments subject to the completion of the stipulated items of work to the satisfaction of the Board."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Payment of subsidy shall be only through bank by e-transfer. Beneficiaries should provide Aadhar-linked bank account details in the application for financial assistance."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true
+              },
+              {
+                "text": " Register on the "
+              },
+              {
+                "type": "link",
+                "link": "https://serviceonline.gov.in/dbt/",
+                "children": [
+                  {
+                    "text": "ServicePlus Portal"
+                  }
+                ]
+              },
+              {
+                "text": ". Verify your Email ID and Mobile Number via OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2: ",
+                "bold": true
+              },
+              {
+                "text": "Login to the ServicePlus Portal using the Username and Password received over your registered Email ID."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3: ",
+                "bold": true
+              },
+              {
+                "text": "In the Left Pane, click \"Apply for Service\" and then click on \"View All Available Services\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "From the list, click on \"RUBBER PLANTATION DEVELOPMENT SCHEME\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "You will be directed to the application form. Fill in all the mandatory fields (highlighted in a red asterisk)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Click \"Submit\". Note down the Application ID/ Reference ID to track the status of your application."
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Register on the [ServicePlus Portal](https://serviceonline.gov.in/dbt/). Verify your Email ID and Mobile Number via OTP.\n**Step 2:** Login to the ServicePlus Portal using the Username and Password received over your registered Email ID.\n**Step 3:** In the Left Pane, click &quot;Apply for Service&quot; and then click on &quot;View All Available Services&quot;.\n**Step 4:** From the list, click on &quot;RUBBER PLANTATION DEVELOPMENT SCHEME&quot;.\n**Step 5:** You will be directed to the application form. Fill in all the mandatory fields (highlighted in a red asterisk).\n**Step 6:** Click &quot;Submit&quot;. Note down the Application ID/ Reference ID to track the status of your application.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "> **Traditional**\n\n\n1. The growers owning rubber areas not exceeding 2.00 ha shall be eligible for assistance under Rule VI of the scheme.\n1. The planting grant payable will be limited to an area of 1.00 ha.\n1. The growers who undertake new planting/replanting rubber in a minimum area of 0.10 ha will be eligible for assistance.\n1. The applicant should have absolute possession over the land in respect of which assistance is sought.\n1. Areas notified/certified in the documents as paddy fields are not eligible for any kind of assistance under this scheme.\n\n<br>\n\n> **Non-Traditional and North Eastern Region**\n\n\n1. The growers owning rubber areas not exceeding 5.00 ha shall be eligible for assistance under Rule VI of the scheme.\n1. The planting grant payable will be limited to an area of 2.00 ha.\n1. The growers who undertake new planting/replanting rubber in a minimum area of 0.10 ha will be eligible for assistance.\n1. The applicant should have absolute possession over the land in respect of which assistance is sought.\n1. Areas notified/certified in the documents as paddy fields are not eligible for any kind of assistance under this scheme.\n\n<br>\n\n> **Other Terms &amp; Conditions**\n\n\n1. The prescribed minimum stand of rubber plants (@450/ha) should be maintained and growth should be satisfactory as assessed by the inspecting officer.\n1. The number of non-rubber trees, that already exist in the plantation can be retained in a proportion of 20 trees or 40 coconut palms or 80 Arecanut palms per ha, in a well-distributed manner.\n1. Sloppy lands should be protected from soil erosion by contour terracing or construction of contour bunds or digging silt trenches or silt pits and also by planting of cover crops.\n1. Boundary protection measures should be adopted.\n1. The absolute right to refuse assistance without assigning any reason is vested with the Executive Director of the Rubber Board.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Traditional",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The growers owning rubber areas not exceeding 2.00 ha shall be eligible for assistance under Rule VI of the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The planting grant payable will be limited to an area of 1.00 ha."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The growers who undertake new planting/replanting rubber in a minimum area of 0.10 ha will be eligible for assistance."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have absolute possession over the land in respect of which assistance is sought."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Areas notified/certified in the documents as paddy fields are not eligible for any kind of assistance under this scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Non-Traditional and North Eastern Region",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The growers owning rubber areas not exceeding 5.00 ha shall be eligible for assistance under Rule VI of the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The planting grant payable will be limited to an area of 2.00 ha."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The growers who undertake new planting/replanting rubber in a minimum area of 0.10 ha will be eligible for assistance."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have absolute possession over the land in respect of which assistance is sought."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Areas notified/certified in the documents as paddy fields are not eligible for any kind of assistance under this scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Other Terms & Conditions",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The prescribed minimum stand of rubber plants (@450/ha) should be maintained and growth should be satisfactory as assessed by the inspecting officer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The number of non-rubber trees, that already exist in the plantation can be retained in a proportion of 20 trees or 40 coconut palms or 80 Arecanut palms per ha, in a well-distributed manner."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sloppy lands should be protected from soil erosion by contour terracing or construction of contour bunds or digging silt trenches or silt pits and also by planting of cover crops."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Boundary protection measures should be adopted."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The absolute right to refuse assistance without assigning any reason is vested with the Executive Director of the Rubber Board."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "spdmtfptantner"
+}

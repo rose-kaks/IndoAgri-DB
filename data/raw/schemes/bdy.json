@@ -1,0 +1,542 @@
+{
+  "_id": "669e2a5562c12e305caf70ec",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Opportunities",
+        "Fish Farmer",
+        "Technologies"
+      ],
+      "schemeName": "Bhraman - Darshan Yojana",
+      "schemeShortTitle": "BDY",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": "2023-05-10",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalDepartmentName": {
+        "value": 10111112,
+        "label": "Animal & Fisheries Resources Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "bdy",
+      "briefDescription": "The \"Bhraman-Darshan Yojana\" was launched by the Animal and Fisheries Resources Department, Government of Bihar aims to educate fish farmers in Bihar about the latest fisheries techniques through organized excursions, enabling them to adopt and implement these technologies in their water source....."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.bihar.gov.in/docs/Bharmandarchan2425.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://fisheries.bihar.gov.in/Default.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Bhraman-Darshan Yojana&quot; was launched by the Animal and Fisheries Resources Department, Government of Bihar aims to educate fish farmers in Bihar about the latest fisheries techniques through organized excursions, enabling them to adopt and implement these technologies in their own water sources. The scheme targets 12,000 fish farmers, providing them with a two-day educational tour within the state.\n",
+      "benefits_md": "\n- Awareness of latest fisheries techniques.\n- Inspiration to adopt modern technologies.\n- Increase in fish production and productivity.\n- Creation of new employment opportunities.\n- Increase in the annual income of fish farmers.\n\n",
+      "briefDescription": "The \"Bhraman-Darshan Yojana\" was launched by the Animal and Fisheries Resources Department, Government of Bihar aims to educate fish farmers in Bihar about the latest fisheries techniques through organized excursions, enabling them to adopt and implement these technologies in their water source.....",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Bhraman-Darshan Yojana\" was launched by the Animal and Fisheries Resources Department, Government of Bihar aims to educate fish farmers in Bihar about the latest fisheries techniques through organized excursions, enabling them to adopt and implement these technologies in their own water sources. The scheme targets 12,000 fish farmers, providing them with a two-day educational tour within the state."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Awareness of latest fisheries techniques."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Inspiration to adopt modern technologies."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increase in fish production and productivity."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Creation of new employment opportunities."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increase in the annual income of fish farmers."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Select the \""
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/RegisterFisheries.aspx",
+                "children": [
+                  {
+                    "text": "Registration for Fisheries Schemes"
+                  }
+                ]
+              },
+              {
+                "text": "\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03:",
+                "bold": true
+              },
+              {
+                "text": " Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " Enter a valid 10-digit mobile number and click to send OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05:",
+                "bold": true
+              },
+              {
+                "text": " An OTP will be sent to the provided mobile number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06:",
+                "bold": true
+              },
+              {
+                "text": " Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-07:",
+                "bold": true
+              },
+              {
+                "text": " Click on the \"Login\" and enter the Registration Number and Password"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Form Filling Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Click \"If your already register, "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/login.aspx",
+                "children": [
+                  {
+                    "text": "login here"
+                  }
+                ]
+              },
+              {
+                "text": "\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03",
+                "bold": true
+              },
+              {
+                "text": ": Select \"Scheme name\" under the \"Marai Training Scheme\" option on the top menu."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " Applicant need to provide the following details "
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Personal Details."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Permanent Address."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Experience Details."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05",
+                "bold": true
+              },
+              {
+                "text": ": Upload the required documents"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Attached Certificates/Documents and Photo Upload."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Identity Card (Aadhaar/Voter Card)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Educational Certificates."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Pre-Training Certificates."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Photo."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the submit button and a receipt will be generated."
+              }
+            ]
+          }
+        ],
+        "process_md": "> ***Registration Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;.\n**Step-02:** Select the &quot;[Registration for Fisheries Schemes](https://misfisheries.bihar.gov.in/RegisterFisheries.aspx)&quot;\n**Step-03:** Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.\n**Step-04:** Enter a valid 10-digit mobile number and click to send OTP.\n**Step-05:** An OTP will be sent to the provided mobile number.\n**Step-06:** Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.\n**Step-07:** Click on the &quot;Login&quot; and enter the Registration Number and Password\n<br>\n\n> ***Application Form Filling Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;.\n**Step-02:** Click &quot;If your already register, [login here](https://misfisheries.bihar.gov.in/login.aspx)&quot;. \n**Step-03**: Select &quot;Scheme name&quot; under the &quot;Marai Training Scheme&quot; option on the top menu.\n**Step-04:** Applicant need to provide the following details \n\n\n  - Personal Details.\n  - Permanent Address.\n  - Experience Details.\n\n\n**Step-05**: Upload the required documents\n\n\n  - Attached Certificates/Documents and Photo Upload.\n  - Identity Card (Aadhaar/Voter Card).\n  - Educational Certificates.\n  - Pre-Training Certificates.\n  - Photo.\n\n\n**Step-06:** Click on the submit button and a receipt will be generated.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The fish farmer should be a resident of Bihar.\n1. The fish farmer should work in private, leased, or government ponds/watersheds.\n1. The fish farmer should be an active member of Block Level Fishermen Cooperation Committees.\n1. The progressive fish farmers who have successfully undergone training under departmental schemes are eligible.\n1. The fish farmer wants to do fish farming and have adequate fish resources available.\n1. The fish farmer can avail the benefit of this scheme only once.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fish farmer should be a resident of Bihar."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fish farmer should work in private, leased, or government ponds/watersheds."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fish farmer should be an active member of Block Level Fishermen Cooperation Committees."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The progressive fish farmers who have successfully undergone training under departmental schemes are eligible."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fish farmer wants to do fish farming and have adequate fish resources available."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The fish farmer can avail the benefit of this scheme only once."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "bdy"
+}

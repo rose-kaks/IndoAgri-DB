@@ -1,0 +1,368 @@
+{
+  "_id": "6459ba02ee656f6b1ad52631",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2014-01-01",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 15,
+        "label": "Mizoram"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1511112,
+        "label": "Animal Husbandry and Veterinary Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Fodder Value Addition",
+        "Total Mixed Ration",
+        "Storage Facilities",
+        "Farmers Scientist Interaction",
+        "Fodder Block Making"
+      ],
+      "schemeName": "Feed And Fodder Entrepreneurship Scheme",
+      "schemeShortTitle": "FFES",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "ffes",
+      "briefDescription": "It was launched by Union Government in 2014, and focused on supporting farmers in producing fodder from non-forest wasteland/grassland and cultivating coarse grains"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://ahvety.mizoram.gov.in/uploads/attachments/d2aa170eea17c223ac1a17f4af194019/feed-and-fodder-entrepreneurship-scheme-english.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "It was launched by Union Government in 2014, and focused on supporting farmers in producing fodder from non-forest wasteland/grassland and cultivating coarse grains",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objectives ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Establishing an effective seed production chain."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Capacity building of state functionaries and livestock owners in forage production, conservation and utilization."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Establishing convergence and synergy among ongoing Plan programmes and stakeholders for fodder resource development."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Salient Feature",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Under this activity, the fodder seed chain i.e. breeder, foundation and certified quality fodder seed production will be incentivized."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This component targeted towards the multiplication of seeds of high yielding fodder varieties which has been developed through research and innovations, significantly showing better performance, for which incentives will be provided."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Affordable quality fodder."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Increased farmer’s income."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The mission now provides for a 50% direct capital subsidy to the beneficiaries under the feed and fodder entrepreneurship program and a 100% subsidy on fodder seed production to identified beneficiaries."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Assistance is available for procuring machineries like Bailers, Block making machines, TMR machines/equipment, and Forage Harvesters."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Cost which will be assisted for productions of various category of seeds are as under:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Breeder Seedup to Rs.250/kg"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Foundation Seed up to Rs.150 /Kg"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Certified Seed up to Rs. 100/Kg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "**Objectives** \n\n1. Establishing an effective seed production chain.\n1. Capacity building of state functionaries and livestock owners in forage production, conservation and utilization.\n1. Establishing convergence and synergy among ongoing Plan programmes and stakeholders for fodder resource development.\n\n<br>\n\n**Salient Feature**\n\n1. Under this activity, the fodder seed chain i.e. breeder, foundation and certified quality fodder seed production will be incentivized.\n1. This component targeted towards the multiplication of seeds of high yielding fodder varieties which has been developed through research and innovations, significantly showing better performance, for which incentives will be provided.\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://nlm.udyamimitra.in/ ",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Fill Application form under "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://nlm.udyamimitra.in/",
+                    "children": [
+                      {
+                        "text": "https://nlm.udyamimitra.in/ ."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Screening of application by state Implementing Agency(SIA)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Loan sanctioned by lender."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Approval of subsidy by DAHD."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Recommendation from the state-level executive committee (SLEC)."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Disbursement and release of subsidy."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "The Entrepreneurs/ Eligible Entities shall be considered Eligible for availing benefit under the entrepreneurship programme if fulfils either of the following criteria:\n\n   1. Entrepreneurs/ Eligible Entitieseither have obtained training or have trained experts or have sufficient experience in the relevant field in managing and running the project or have technical experts with sufficient experience in the relevant field of managing and running the project.\n   1. The Entrepreneurs/ Eligible Entities have got the sanctioned loan for the project by the bank or financial institutions furnished bank guarantee from the scheduled bank along with an appraisal of the project for its validity by the bank where it is holding the account.\n   1. The Entrepreneurs/ Eligible Entities should own land or lease land where the project will be established.\n   1. The Entrepreneurs/ Eligible Entities have all the relevant documents for KYC.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Entrepreneurs/ Eligible Entities shall be considered Eligible for availing benefit under the entrepreneurship programme if fulfils either of the following criteria:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Entrepreneurs/ Eligible Entitieseither have obtained training or have trained experts or have sufficient experience in the relevant field in managing and running the project or have technical experts with sufficient experience in the relevant field of managing and running the project."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Entrepreneurs/ Eligible Entities have got the sanctioned loan for the project by the bank or financial institutions furnished bank guarantee from the scheduled bank along with an appraisal of the project for its validity by the bank where it is holding the account."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Entrepreneurs/ Eligible Entities should own land or lease land where the project will be established."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Entrepreneurs/ Eligible Entities have all the relevant documents for KYC."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ffes"
+}

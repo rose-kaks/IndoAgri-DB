@@ -1,0 +1,353 @@
+{
+  "_id": "679e30b4c422e791f9c0deab",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmers",
+        "Food Security",
+        "Fair Compensation"
+      ],
+      "schemeName": "Paddy Procurement Scheme Jharkhand",
+      "schemeShortTitle": "PPSJ",
+      "implementingAgency": "Jharkhand State Food Corporation",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce87cd6d1a3bde4685312",
+          "label": "Social welfare & Empowerment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Food Security / Public Distribution System",
+          "label": "Food Security / Public Distribution System"
+        },
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 20,
+        "label": "Jharkhand"
+      },
+      "nodalDepartmentName": {
+        "value": 2000007,
+        "label": "Food, Public Distribution and Consumer affairs Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "ppsj",
+      "briefDescription": "The \"Paddy Procurement Scheme\" 2012-13\" by the Food, Public Distribution, and Consumer Affairs Department, Government of Jharkhand, ensures that farmers receive minimum support price for paddy procurement, preventing distress sales and supporting food security."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D009DO003SD00322072019103938751"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Paddy Procurement Scheme 2012-13&quot; by the Food, Public Distribution, and Consumer Affairs Department, Government of Jharkhand, aims to procure paddy from farmers at the Minimum Support Price (MSP) to ensure fair compensation and food security. Through this scheme, farmers receive direct procurement services at predetermined MSP rates, minimizing exploitation by middlemen and ensuring timely payments.\n",
+      "benefits_md": "\n- MSP is set at ₹1250/- per quintal for the &quot;Common&quot; grade. \n- MSP is set at ₹1280/- per quintal for &quot;Grade A&quot; paddy.\n\n<br>\n\n**NOTE:**\n\n- Direct procurement of paddy from farmers at MSP.\n- Payment is made directly to farmers through designated agencies.\n\n",
+      "briefDescription": "The \"Paddy Procurement Scheme\" 2012-13\" by the Food, Public Distribution, and Consumer Affairs Department, Government of Jharkhand, ensures that farmers receive minimum support price for paddy procurement, preventing distress sales and supporting food security.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Paddy Procurement Scheme 2012-13\" by the Food, Public Distribution, and Consumer Affairs Department, Government of Jharkhand, aims to procure paddy from farmers at the Minimum Support Price (MSP) to ensure fair compensation and food security. Through this scheme, farmers receive direct procurement services at predetermined MSP rates, minimizing exploitation by middlemen and ensuring timely payments."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "MSP is set at ₹1250/- per quintal for the \"Common\" grade. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "MSP is set at ₹1280/- per quintal for \"Grade A\" paddy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Direct procurement of paddy from farmers at MSP."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Payment is made directly to farmers through designated agencies."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01:",
+                "bold": true
+              },
+              {
+                "text": " Farmers may visit the Primary Agriculture Credit Societies (PACS) or Large Area Multipurpose Cooperative Societies (LAMPS) centers in your region and obtain the application form for the \"Paddy Procurement Scheme\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02:",
+                "bold": true
+              },
+              {
+                "text": " Fill in the required details, including personal, income, and land information."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 03:",
+                "bold": true
+              },
+              {
+                "text": " Attach the necessary documents."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 04:",
+                "bold": true
+              },
+              {
+                "text": " Submit the complete form to the PACS/LAMPS centers and keep the acknowledgment receipt for future reference."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Approval:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 01: ",
+                "bold": true
+              },
+              {
+                "text": "Upon approval, farmers deliver paddy to procurement centers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 02: ",
+                "bold": true
+              },
+              {
+                "text": "Quality assessment is conducted at the procurement center."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "NOTE: ",
+                "bold": true
+              },
+              {
+                "text": "Farmers register with designated cooperative societies (PACS/LAMPS) or procurement agencies."
+              }
+            ]
+          }
+        ],
+        "process_md": "> ***Application Process:***\n\n**Step 01:** Farmers may visit the Primary Agriculture Credit Societies (PACS) or Large Area Multipurpose Cooperative Societies (LAMPS) centers in your region and obtain the application form for the &quot;Paddy Procurement Scheme&quot;.\n**Step 02:** Fill in the required details, including personal, income, and land information.\n**Step 03:** Attach the necessary documents.\n**Step 04:** Submit the complete form to the PACS/LAMPS centers and keep the acknowledgment receipt for future reference.\n<br>\n\n> ***Approval:***\n\n**Step 01:** Upon approval, farmers deliver paddy to procurement centers.\n**Step 02:** Quality assessment is conducted at the procurement center.\n<br>\n\n**NOTE:** Farmers register with designated cooperative societies (PACS/LAMPS) or procurement agencies.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Jharkhand state.\n1. The applicant must be a registered farmer.\n1. The applicant must cultivate paddy in the Kharif season of 2012-13.\n1. The applicant must possess a valid landholding certificate or proof of cultivation.\n1. Farmers associated with Primary Agriculture Credit Societies (PACS) and Large Area Multipurpose Cooperative Societies (LAMPS) are eligible.\n\n<br>\n\n**NOTE:** Preference is given to small and marginal farmers.\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Jharkhand state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a registered farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must cultivate paddy in the Kharif season of 2012-13."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must possess a valid landholding certificate or proof of cultivation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers associated with Primary Agriculture Credit Societies (PACS) and Large Area Multipurpose Cooperative Societies (LAMPS) are eligible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NOTE: ",
+              "bold": true
+            },
+            {
+              "text": "Preference is given to small and marginal farmers."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "ppsj"
+}

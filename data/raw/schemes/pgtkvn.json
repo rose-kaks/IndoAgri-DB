@@ -1,0 +1,379 @@
+{
+  "_id": "687a05cb3b8a10e048e041c7",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Loan",
+        "Thakor Caste",
+        "Koli Caste",
+        "Animal Husbandry",
+        "Self-employment"
+      ],
+      "schemeName": "Pashu Palan Yojana (GTKVN)",
+      "schemeShortTitle": "PSGTKVN",
+      "implementingAgency": "Gujarat Thakor And Koli Vikas Nigam",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce7f6d6d1a3bde46852d0",
+          "label": "Banking,Financial Services and Insurance"
+        },
+        {
+          "value": "628ce733d6d1a3bde4685278",
+          "label": "Business & Entrepreneurship"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        },
+        {
+          "value": "Loan",
+          "label": "Loan"
+        },
+        {
+          "value": "Setting up / start-up / entrepreneurship",
+          "label": "Setting up / start-up / entrepreneurship"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444464,
+        "label": "Social Justice and Empowerment Department"
+      },
+      "slug": "pgtkvn",
+      "briefDescription": "The scheme aims to enhance the livelihoods of Thakor and Koli communities by providing financial assistance for animal husbandry activities such as dairy farming. Under this scheme, loans of up to ₹1,00,000/- are provided for the purchase of milch animals such as cows and buffaloes."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Pashu Palan Yojana&amp;quot; is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to strengthen the livelihoods of the Thakor and Koli communities by providing financial support for animal husbandry activities, such as dairy farming with cows and buffaloes. Under this scheme, loans are offered to purchase milch animals like cows and buffaloes, thereby promoting sustainable self-employment in agriculture-related sectors.\n<br>\n\n",
+      "benefits_md": "\n- The maximum loan limit under this scheme is up to ₹1,00,000/-. \n- The loan is provided for animal husbandry activities such as dairy farming, boosting rural self-employment.\n\n<br>\n\n",
+      "briefDescription": "The scheme aims to enhance the livelihoods of Thakor and Koli communities by providing financial assistance for animal husbandry activities such as dairy farming. Under this scheme, loans of up to ₹1,00,000/- are provided for the purchase of milch animals such as cows and buffaloes.",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Pashu Palan Yojana\" is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to strengthen the livelihoods of the Thakor and Koli communities by providing financial support for animal husbandry activities, such as dairy farming with cows and buffaloes. Under this scheme, loans are offered to purchase milch animals like cows and buffaloes, thereby promoting sustainable self-employment in agriculture-related sectors."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The maximum loan limit under this scheme is up to ₹1,00,000/-. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The loan is provided for animal husbandry activities such as dairy farming, boosting rural self-employment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1: ",
+                "bold": true
+              },
+              {
+                "text": "Visit the "
+              },
+              {
+                "type": "link",
+                "link": "https://gtkdconline.gujarat.gov.in/",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " of the Gujarat Thakor and Koli Vikas Nigam."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true
+              },
+              {
+                "text": " On the top menu bar, click on \"Apply Now\"."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true
+              },
+              {
+                "text": " Click on the loan scheme name. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4: ",
+                "bold": true
+              },
+              {
+                "text": "Select the loan category and fill in the loan amount."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5: ",
+                "bold": true
+              },
+              {
+                "text": "Fill out the Application Form, enter the following details:"
+              }
+            ]
+          },
+          {
+            "type": "ul_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Personal Information: Name, gender, date of birth, caste, etc."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Address Information: Permanent and correspondence address"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Income Details: Monthly family income and source"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Bank Account Details: For loan disbursement"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 6: ",
+                "bold": true
+              },
+              {
+                "text": "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 7:",
+                "bold": true
+              },
+              {
+                "text": " Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 8: ",
+                "bold": true
+              },
+              {
+                "text": "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Visit the [official website](https://gtkdconline.gujarat.gov.in/) of the Gujarat Thakor and Koli Vikas Nigam.\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a resident of Gujarat.\n1. The applicant should belong to Thakor or Koli community.\n1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n1. The applicant&#39;s age should be between 21 to 50 years.\n1. The applicant should intend to purchase cows, buffaloes, or related dairy equipment for self‑employment.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a resident of Gujarat."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to Thakor or Koli community."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant’s annual family income should not exceed ₹3,00,000/-."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant's age should be between 21 to 50 years."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should intend to purchase cows, buffaloes, or related dairy equipment for self‑employment."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "pgtkvn"
+}

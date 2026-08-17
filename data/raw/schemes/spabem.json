@@ -1,0 +1,203 @@
+{
+  "_id": "680b6978197a2fd77e4bb473",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "E-Market"
+      ],
+      "schemeName": "A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees",
+      "schemeShortTitle": "SPABEM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "registered-societies",
+          "label": "Registered Societies"
+        }
+      ],
+      "schemeFor": "Infra",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "slug": "spabem",
+      "briefDescription": "This scheme provides financial assistance to market committees in Gujarat to establish e-market facilities, aligning with the National Agriculture Market Policy for a unified national e-market.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "&quot;A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees&quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support market committees to set up e-market facilities, enhancing transparency and efficiency in agricultural marketing across the state.\n",
+      "benefits_md": "\n- **Financial Assistance:** ₹1,00,000/- (One Lakh Rupees) per eligible market committee.\n<br>\n\n<br>\n\n",
+      "briefDescription": "This scheme provides financial assistance to market committees in Gujarat to establish e-market facilities, aligning with the National Agriculture Market Policy for a unified national e-market.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support market committees to set up e-market facilities, enhancing transparency and efficiency in agricultural marketing across the state."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial Assistance:",
+                  "bold": true
+                },
+                {
+                  "text": " ₹1,00,000/- (One Lakh Rupees) per eligible market committee."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in the application form on plain paper as per the instructions."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Attach all required documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Submit the completed application to the District Registrar for processing."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** Fill in the application form on plain paper as per the instructions.\n**Step 2:** Attach all required documents.\n**Step 3:** Submit the completed application to the District Registrar for processing.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. Co-operative Market Committees shall be eligible under this scheme.\n   1. The committee must operate within Gujarat.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Co-operative Market Committees shall be eligible under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The committee must operate within Gujarat."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "spabem"
+}

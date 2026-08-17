@@ -1,0 +1,228 @@
+{
+  "_id": "68a2c00c6415397cbe21890f",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Adivasi Farmers",
+        "Crop Production",
+        "Livelihood",
+        "Seeds",
+        "Fertilizer",
+        "Subsidies",
+        "Power Operated Plant Protection Equipment"
+      ],
+      "schemeName": "Distribution of Seeds of more productions varieties/ Hybrids varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: Power Operated Plant Protection Equipment Gujarat",
+      "schemeShortTitle": "DSMPVHFPOPEGUJ",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "dsmpvhfpopeguj",
+      "briefDescription": "The scheme aims to help farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas achieve higher production of agricultural crops and improve their livelihood."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/v4lc2tu73R%E2%9C%A49lWYKO76SRg%E2%99%AC%E2%99%AC?utm_source=chatgpt.com"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to help farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas achieve higher production of agricultural crops and improve their livelihood.",
+      "detailedDescription_md": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc., to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;Power Operated Plant Protection Equipment&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to help farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas achieve higher production of agricultural crops and improve their livelihood. Through this scheme, subsidies are provided on seeds of more productive/hybrid varieties, plant protection equipment, and agricultural inputs to the intended beneficiaries. The scheme is implemented by the Directorate of Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat.\n<br>\n\n",
+      "benefits_md": "\n1. The assistance provided is 75% of the purchase price of power/machine-driven equipment or ₹ 4500/- whichever is less. (Maximum one unit per account is allowed.)\n\n<br>\n\n> Remark: As per conditions No. 5, 16, 17, 19 and 22 of [Appendix-1](https://mariyojana.gujarat.gov.in/Schemeatoz.aspx). (Refer Scheme No. 35)\n\n> Frequency: Once in 3 Years.\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc., to Adivasi farmers in Tribal Area (TASP)\" with a component \"Power Operated Plant Protection Equipment\" is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to help farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas achieve higher production of agricultural crops and improve their livelihood. Through this scheme, subsidies are provided on seeds of more productive/hybrid varieties, plant protection equipment, and agricultural inputs to the intended beneficiaries. The scheme is implemented by the Directorate of Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The assistance provided is 75% of the purchase price of power/machine-driven equipment or ₹ 4500/- whichever is less. (Maximum one unit per account is allowed.)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Remark: As per conditions No. 5, 16, 17, 19 and 22 of "
+            },
+            {
+              "type": "link",
+              "link": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx",
+              "children": [
+                {
+                  "text": "Appendix-1"
+                }
+              ]
+            },
+            {
+              "text": ". (Refer Scheme No. 35)"
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Frequency: Once in 3 Years."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Approach the Gram Sevak in your village for access to \"Power Operated Plant Protection Equipment\" under the scheme."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "Approach the Gram Sevak in your village for access to &quot;Power Operated Plant Protection Equipment&quot; under the scheme.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to a Scheduled Tribe."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme excludes farmers from Dang district."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "dsmpvhfpopeguj"
+}

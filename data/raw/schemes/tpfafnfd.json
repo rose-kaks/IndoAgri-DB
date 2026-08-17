@@ -1,0 +1,460 @@
+{
+  "_id": "680a222b1a82452ed9ef69d9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Natural Farming",
+        "Soil Fertility"
+      ],
+      "schemeName": "To Provide Financial Assistance to the Farmers Practicing Natural Farming Under the Completely Chemical Free Dang District",
+      "schemeShortTitle": "TPFAFNFD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Animal husbandry",
+          "label": "Animal husbandry"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "tpfafnfd",
+      "briefDescription": "This scheme provides financial assistance to farmers practicing natural farming in the completely chemical-free Dang district to promote sustainable agriculture, increase productivity, and ensure environmental conservation.\n\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=XWitJVnGypIBbPyRipp0WA==&domain=FDGZs8CO90JJ+6gbcYhjXw=="
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The Scheme &amp;quot;To Provide Financial Assistance to the Farmers Practicing Natural Farming Under the Completely Chemical Free Dang District” launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat, is designed to support farmers who engage in natural farming practices without the use of chemical inputs in the Dang district. It aims to enhance soil fertility, lower production costs, and promote eco-friendly farming.\n",
+      "benefits_md": "\n  - **For the first year:** ₹10,000 per hectare \n\n\n      1. ₹5,000/hectare for Kharif\n      1. ₹5,000/hectare for Rabi and Summer\n\n\n\n  - **For already benefiting farmers (second year onwards):** ₹6,000 per hectare \n\n\n      1. ₹3,000/hectare for Kharif\n      1. ₹3,000/hectare for Rabi and Summer\n\n\n",
+      "exclusions_md": "\n   1. Farmers who began natural farming before Kharif 2020.\n   1. Farmers who have obtained C2/C3 stage or Green/Organic Certificate under the PGS–India system.\n\n",
+      "briefDescription": "This scheme provides financial assistance to farmers practicing natural farming in the completely chemical-free Dang district to promote sustainable agriculture, increase productivity, and ensure environmental conservation.\n\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Scheme \"To Provide Financial Assistance to the Farmers Practicing Natural Farming Under the Completely Chemical Free Dang District” launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, is designed to support farmers who engage in natural farming practices without the use of chemical inputs in the Dang district. It aims to enhance soil fertility, lower production costs, and promote eco-friendly farming."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For the first year:",
+                      "bold": true
+                    },
+                    {
+                      "text": " ₹10,000 per hectare "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "align_justify",
+                  "children": [
+                    {
+                      "type": "ol_list",
+                      "children": [
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "₹5,000/hectare for Kharif"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "₹5,000/hectare for Rabi and Summer"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "For already benefiting farmers (second year onwards):",
+                      "bold": true
+                    },
+                    {
+                      "text": " ₹6,000 per hectare "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "align_justify",
+                  "children": [
+                    {
+                      "type": "ol_list",
+                      "children": [
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "₹3,000/hectare for Kharif"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "list_item",
+                          "children": [
+                            {
+                              "text": "₹3,000/hectare for Rabi and Summer"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers who began natural farming before Kharif 2020."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Farmers who have obtained C2/C3 stage or Green/Organic Certificate under the PGS–India system."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-1:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-4:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Apply New\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-5:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-6: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Once the application is done, confirm it."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-7:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Take a print out of the online application and submit it to the Gram Sevak/BTM/ATM/Project Director-Aatma with the necessary documents listed in the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step-8:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": " "
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Contact Us:",
+                    "bold": true
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                    "children": [
+                      {
+                        "text": "Click here."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step-1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step-2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step-3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step-4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step-5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step-6:** Once the application is done, confirm it.\n**Step-7:** Take a print out of the online application and submit it to the Gram Sevak/BTM/ATM/Project Director-Aatma with the necessary documents listed in the application.\n**Step-8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The applicant farmer must own at least one indigenous cow, with or without an identification tag, at the time of application.\n   1. Only one beneficiary is allowed per farmer family (a farmer family includes husband, wife, and minor children listed on the barcoded ration card).\n   1. The applicant must be practicing natural farming on a minimum of 20 Guntha (0.5 acres) and a maximum of 2 hectares of agricultural land.\n   1. The applicant must be registered under natural farming by:\n\n\n\n    - An APEDA/NPOP recognized organization, or\n    - Registered by September 2021 through the appropriate authority.\n\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant farmer must own at least one indigenous cow, with or without an identification tag, at the time of application."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Only one beneficiary is allowed per farmer family (a farmer family includes husband, wife, and minor children listed on the barcoded ration card)."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be practicing natural farming on a minimum of 20 Guntha (0.5 acres) and a maximum of 2 hectares of agricultural land."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be registered under natural farming by:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "align_justify",
+              "children": [
+                {
+                  "type": "ul_list",
+                  "children": [
+                    {
+                      "type": "align_justify",
+                      "children": [
+                        {
+                          "type": "align_justify",
+                          "children": [
+                            {
+                              "type": "ul_list",
+                              "children": [
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "An APEDA/NPOP recognized organization, or"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "list_item",
+                                  "children": [
+                                    {
+                                      "text": "Registered by September 2021 through the appropriate authority."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tpfafnfd"
+}

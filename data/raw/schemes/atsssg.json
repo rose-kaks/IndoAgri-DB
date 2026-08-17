@@ -1,0 +1,428 @@
+{
+  "_id": "68f78009a4de653fd43b0c92",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Farmer",
+        "Sugarcane",
+        "Crop",
+        "Agriculture",
+        "Financial Assistance"
+      ],
+      "schemeName": "Assistance Towards Sugarcane Supplied By The Sugarcane Growers",
+      "schemeShortTitle": "ATSSSG",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 30,
+        "label": "Goa"
+      },
+      "schemeType": null,
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 30000002,
+        "label": "Agriculture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "slug": "atsssg",
+      "briefDescription": "The scheme aims to assist Sugarcane Growers to take up sugarcane cultivation in the State of Goa. It provides financial support to farmers cultivating sugarcane, paid based on actual tonnage supplied at the factory weighbridge as per the Fair & Remunerative Price."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://goaprintingpress.gov.in/downloads/2526/2526-7-SI-OG.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "The scheme aims to assist Sugarcane Growers to take up sugarcane cultivation in the State of Goa. It provides financial support to farmers cultivating sugarcane, paid based on actual tonnage supplied at the factory weighbridge as per the Fair & Remunerative Price.",
+      "detailedDescription_md": "The scheme &quot;Assistance Towards Sugarcane Supplied By The Sugarcane Growers&quot; was launched by the Department of Agriculture, Government of Goa. The scheme aims to assist the Sugarcane Growers to take up sugarcane cultivation in Goa. The scheme provides financial assistance based on the actual tonnage of canes weighed at the Sugar factory weighbridge, determined by the Fair &amp; Remunerative Price (FRP) fixed by the National Federation of Co-operative Sugar Factories Limited, New Delhi. The applicant must be a farmer cultivating sugarcane in the State of Goa, possess a valid Krishi Card, and bear the cost of harvesting and transporting the harvested cane to Sanjivani Sahakari Sakhar Karkhana, Dayanandnagar Dharbandora. The scheme is implemented by the Directorate of Agriculture. The applications for this scheme are accepted via registration through Sanjivani Sahakari Sakhar Karkhana (SSSKL).\n<br>\n\n",
+      "benefits_md": "\n- Financial assistance is provided based on the Fair &amp; Remunerative Price (FRP) fixed by the National Federation of Co-operative Sugar Factories Limited, New Delhi, from time to time.\n- Farmers will be paid based on the actual tonnage of canes weighed at the Sugar factory weighbridge.\n\n> ***Conditions***\n\n\n- The farmers must harvest and supply the sugarcane on their own to Sanjivani Sahakari Sakhar Karkhana (SSSKL).\n- The harvested cane must be loaded and brought to Sanjivani Sahakari Sakhar Karkhana, Dayanandnagar Dharbandora by the farmer on his own cost.\n- The farmer must duly sign the GAR 32 form, which is used in the submission process by Sanjivani Sahakari Sakhar Karkhana to the Zonal Agricultural Office.\n- The Government or Sanjivani Sahakari Sakhar Karkhana will not take any responsibility to harvest and transport the sugarcane.\n\n<br>\n\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The scheme \"Assistance Towards Sugarcane Supplied By The Sugarcane Growers\" was launched by the Department of Agriculture, Government of Goa. The scheme aims to assist the Sugarcane Growers to take up sugarcane cultivation in Goa. The scheme provides financial assistance based on the actual tonnage of canes weighed at the Sugar factory weighbridge, determined by the Fair & Remunerative Price (FRP) fixed by the National Federation of Co-operative Sugar Factories Limited, New Delhi. The applicant must be a farmer cultivating sugarcane in the State of Goa, possess a valid Krishi Card, and bear the cost of harvesting and transporting the harvested cane to Sanjivani Sahakari Sakhar Karkhana, Dayanandnagar Dharbandora. The scheme is implemented by the Directorate of Agriculture. The applications for this scheme are accepted via registration through Sanjivani Sahakari Sakhar Karkhana (SSSKL)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Financial assistance is provided based on the Fair & Remunerative Price (FRP) fixed by the National Federation of Co-operative Sugar Factories Limited, New Delhi, from time to time."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Farmers will be paid based on the actual tonnage of canes weighed at the Sugar factory weighbridge."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Conditions",
+              "bold": true,
+              "underline": true,
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmers must harvest and supply the sugarcane on their own to Sanjivani Sahakari Sakhar Karkhana (SSSKL)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The harvested cane must be loaded and brought to Sanjivani Sahakari Sakhar Karkhana, Dayanandnagar Dharbandora by the farmer on his own cost."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farmer must duly sign the GAR 32 form, which is used in the submission process by Sanjivani Sahakari Sakhar Karkhana to the Zonal Agricultural Office."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Government or Sanjivani Sahakari Sakhar Karkhana will not take any responsibility to harvest and transport the sugarcane."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 1:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Registration By Sanjivani Sahakari Sakhar Karkhana (SSSKL)",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Sanjivani Sahakari Sakhar Karkhana (SSSKL) shall register the farmers cultivating sugarcane."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 2:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Harvest And Supply Of Sugarcane",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The farmer must harvest the sugarcane and supply it on their own to Sanjivani Sahakari Sakhar Karkhana (SSSKL), Dayanandnagar Dharbandora. The farmer must bear the cost for loading and bringing the harvested cane to the Karkhana."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Verification and Sanction Process"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 3:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Submission Of Supply Details",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Sanjivani Sahakari Sakhar Karkhana (SSSKL) shall submit the details of the farmer who supplied cane, along with the weigh slips and the duly signed GAR 32 form of the farmer, to the respective Zonal Agricultural Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Verification And Recommendation By Zonal Agricultural Officer",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Zonal Agricultural Officer shall verify the submitted details and forward the list with a recommendation to the respective District Agricultural Office."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 5:",
+                "bold": true,
+                "underline": true
+              },
+              {
+                "bold": true,
+                "text": " "
+              },
+              {
+                "bold": true,
+                "text": "Verification And Sanction Order Issuance",
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The District Agricultural Officer shall verify the claims received and issue the Sanction Order after completing the verification process."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "heading_five",
+            "children": [
+              {
+                "text": "Disbursement",
+                "bold": true,
+                "underline": true,
+                "italic": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The financial assistance shall be drawn and disbursed to the farmers by the respective Zonal Agricultural Officer, based on the Sanction Order issued by the respective District Agricultural Officer."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:****** ***Registration By Sanjivani Sahakari Sakhar Karkhana (SSSKL)***\nThe Sanjivani Sahakari Sakhar Karkhana (SSSKL) shall register the farmers cultivating sugarcane.\n**Step 2:****** ***Harvest And Supply Of Sugarcane***\nThe farmer must harvest the sugarcane and supply it on their own to Sanjivani Sahakari Sakhar Karkhana (SSSKL), Dayanandnagar Dharbandora. The farmer must bear the cost for loading and bringing the harvested cane to the Karkhana.\nVerification and Sanction Process\n**Step 3:****** ***Submission Of Supply Details***\nThe Sanjivani Sahakari Sakhar Karkhana (SSSKL) shall submit the details of the farmer who supplied cane, along with the weigh slips and the duly signed GAR 32 form of the farmer, to the respective Zonal Agricultural Office.\n**Step 4:****** ***Verification And Recommendation By Zonal Agricultural Officer***\nThe Zonal Agricultural Officer shall verify the submitted details and forward the list with a recommendation to the respective District Agricultural Office.\n**Step 5:****** ***Verification And Sanction Order Issuance***\nThe District Agricultural Officer shall verify the claims received and issue the Sanction Order after completing the verification process.\n<br>\n\n##### ***Disbursement***\nThe financial assistance shall be drawn and disbursed to the farmers by the respective Zonal Agricultural Officer, based on the Sanction Order issued by the respective District Agricultural Officer.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- The applicant must be a farmer.\n- The applicant must be cultivating sugarcane in Goa.\n- The applicant must possess a valid Krishi Card issued by the Directorate of Agriculture.\n- The applicant must ensure the sugarcane area is verified by the representatives of the Zonal Agriculture Office of the respective Taluka, along with the Fieldman of Sanjivani Sahakari Sakhar Karkhana (SSSKL).\n- The applicant must be issued an area certificate following verification of the sugarcane area.\n- The applicant must be present for the inspection of the harvested cane by the Fieldman of Sanjivani Sahakari Sakhar Karkhana (SSSKL) or any representative of the Agriculture Department.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a farmer."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be cultivating sugarcane in Goa."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must possess a valid Krishi Card issued by the Directorate of Agriculture."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must ensure the sugarcane area is verified by the representatives of the Zonal Agriculture Office of the respective Taluka, along with the Fieldman of Sanjivani Sahakari Sakhar Karkhana (SSSKL)."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be issued an area certificate following verification of the sugarcane area."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be present for the inspection of the harvested cane by the Fieldman of Sanjivani Sahakari Sakhar Karkhana (SSSKL) or any representative of the Agriculture Department."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "atsssg"
+}

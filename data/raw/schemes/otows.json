@@ -1,0 +1,258 @@
+{
+  "_id": "68459425ed4abe56e746383b",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Incentive",
+        "Plantation",
+        "Tree",
+        "Plants"
+      ],
+      "schemeName": "Hamara Ped Hamara Dhan",
+      "schemeShortTitle": "HPHD",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "schemeFor": "Family",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000042,
+        "label": "Uttarakhand Forest Department"
+      },
+      "slug": "otows",
+      "briefDescription": "The scheme aims to encourage residents of Uttarakhand to plant and protect trees on their private land by providing financial incentives, thereby promoting environmental conservation, increasing green cover, and linking economic benefits with tree plantation."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 251)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Hamara Ped Hamara Dhan” has been launched by the Department of Forest, Government of Uttarakhand. The scheme aims to encourage residents of Uttarakhand to plant and protect trees on their private land by providing financial incentives, thereby promoting environmental conservation, increasing green cover, and linking economic benefits with tree plantation.\n<br>\n\n",
+      "benefits_md": "\n  - Under this scheme, as an incentive for planting fuelwood, fodder, fruit, and timber species on private land, a Fixed Deposit Receipt (FDR) will be created at the rate of ₹300/- per plant and mortgaged to the Divisional Forest Officer. \n  - Based on the survival and success of the plants, the concerned beneficiary will receive the secured amount in the form of an FDR after three years.\n  - A maximum of 100 plants per applicant/family will be eligible for this benefit each year.\n\n<br>\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme aims to encourage residents of Uttarakhand to plant and protect trees on their private land by providing financial incentives, thereby promoting environmental conservation, increasing green cover, and linking economic benefits with tree plantation.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Hamara Ped Hamara Dhan” has been launched by the Department of Forest, Government of Uttarakhand. The scheme aims to encourage residents of Uttarakhand to plant and protect trees on their private land by providing financial incentives, thereby promoting environmental conservation, increasing green cover, and linking economic benefits with tree plantation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Under this scheme, as an incentive for planting fuelwood, fodder, fruit, and timber species on private land, a Fixed Deposit Receipt (FDR) will be created at the rate of ₹300/- per plant and mortgaged to the Divisional Forest Officer. "
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Based on the survival and success of the plants, the concerned beneficiary will receive the secured amount in the form of an FDR after three years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A maximum of 100 plants per applicant/family will be eligible for this benefit each year."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Application forms can be obtained free of charge from the office of the Divisional Forest Officer or downloaded from the Forest Department’s website at "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://forest.uk.gov.in/",
+                        "children": [
+                          {
+                            "text": "https://forest.uk.gov.in/"
+                          }
+                        ]
+                      },
+                      {
+                        "text": ". The application form will include details such as the applicant’s name, address, land ownership, area status, and the desired plant species. "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The completed application form must be submitted to the office of the Divisional Forest Officer for the concerned area. A contract will then be signed with the applicant on ₹10/- stamp paper."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Applicants will purchase the saplings at a discounted rate from the Forest Department, the Horticulture Department, or other institutions such as registered Mahila nurseries and Kisan nurseries. The applicant will be responsible for transporting the saplings to the planting site at their own expense. Technical assistance for planting the saplings can be obtained from the Forest Department. The applicant will be responsible for the planting and protection of the saplings."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After three years of planting, a joint inspection will be carried out by the village head, the Sarpanch of the respective forest panchayat, the Forest Range Officer, and a representative of the Revenue Department to assess the percentage of healthy surviving plants. Based on the inspection report, funds will be disbursed to the applicant’s account by the Forest Range Officer, in proportion to the number of healthy and surviving plants."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Application forms can be obtained free of charge from the office of the Divisional Forest Officer or downloaded from the Forest Department’s website at [https://forest.uk.gov.in/](https://forest.uk.gov.in/). The application form will include details such as the applicant’s name, address, land ownership, area status, and the desired plant species.   - The completed application form must be submitted to the office of the Divisional Forest Officer for the concerned area. A contract will then be signed with the applicant on ₹10/- stamp paper.\n  - Applicants will purchase the saplings at a discounted rate from the Forest Department, the Horticulture Department, or other institutions such as registered Mahila nurseries and Kisan nurseries. The applicant will be responsible for transporting the saplings to the planting site at their own expense. Technical assistance for planting the saplings can be obtained from the Forest Department. The applicant will be responsible for the planting and protection of the saplings.\n  - After three years of planting, a joint inspection will be carried out by the village head, the Sarpanch of the respective forest panchayat, the Forest Range Officer, and a representative of the Revenue Department to assess the percentage of healthy surviving plants. Based on the inspection report, funds will be disbursed to the applicant’s account by the Forest Range Officer, in proportion to the number of healthy and surviving plants.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must have either their own private land or a joint landholding suitable for plantation.\n1. There is no minimum land area requirement to avail the benefits under this scheme.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must be a resident of Uttarakhand."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant must have either their own private land or a joint landholding suitable for plantation."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "There is no minimum land area requirement to avail the benefits under this scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "otows"
+}

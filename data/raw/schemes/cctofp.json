@@ -1,0 +1,234 @@
+{
+  "_id": "646ba94f9062e559675df1b8",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": null,
+      "schemeCloseDate": null,
+      "state": {
+        "value": 18,
+        "label": "Assam"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1800021,
+        "label": "Horticulture Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "label": "All",
+          "value": "All"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Fruit Preservation",
+        "Community Canning",
+        "Training"
+      ],
+      "schemeName": "Community Canning & Training On Fruit Preservation",
+      "schemeShortTitle": "CCTOFP",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "cctofp",
+      "briefDescription": "The office of the Deputy Director of Agriculture (Fruit Preservation) Assam was\ncreated in 1978, under the Directorate of Agriculture and in 2008 it was transferred to the Directorate of Horticulture and Food Processing."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://dirhorti.assam.gov.in/schemes/detail/community-canning-training-on-fruit-preservation"
+        },
+        {
+          "title": "Guidelines",
+          "url": "https://www.kiran.nic.in/pdf/Industry/Market%20Details/FPO.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The office of the Deputy Director of Agriculture (Fruit Preservation) Assam runs under the scheme of Community Canning and Training in fruit preservation with a view to disseminate to the people specially the women section about the\ntechniques of preparation of various preserved items such as Jam, Jelly, Pickles, Squash, Sauce, Chutney etc. from locally available seasonal fruits and vegetables. For this purpose trainings are conducted both at field levels and also in the centers itself with active guidance by staffs in the centers. At present there are 21 (Twenty one) Community Canning and Training Centers covering 19 (Nineteen) districts (The Diphu center is under the control of District council). Each of these centers are headed by one officer in the rank of Sub- Divisional Agricultural Officer (SDAO).\n        Since inception these Community Canning and Training Centers have gained considerable popularity among public who have received the benefits on fruits and vegetable preservation in their respective areas. Apart from forwarding the facilities for preparation of various preserved items training programs are also undertaken by this centers and various ladies group, organization and N.G.O’s have been immensely benefited from such functions of the centers. Out of the activities of these centers some revenue is also earned and which is deposited to Govt. account at time to time.\n",
+      "benefits_md": "\n1. To forward facilities to the public, in particular to ladies and housewives, throughout the state, for preservation of fruits and vegetables.\n1. Home scale preservation and canning of seasonal fruits and vegetables under expert technical supervision and guidance for consumption in lean periods.\n1. To encourage the preparation of value added produce such as Jam, Jelly, Squash, Juice, Sauce, Chutney, Pickles etc. at nominal charges.\n1. To impart training on home scale preservation of fruits and vegetables for 1 days, 3 days and 6 days to the ladies, housewives through various organization like Mahila samity, SHG, College girls etc. specially in rural areas (Dairly processing comes under 1 day training). \n1. To train personals to start small scale cottage industries in fruits and vegetables for self employment. The duration of these training will be of 7 to 15 days. \n1. To provide certificates to the trained personals so that they can start their own enterprise.\n\n<br>\n\n",
+      "briefDescription": "The office of the Deputy Director of Agriculture (Fruit Preservation) Assam was\ncreated in 1978, under the Directorate of Agriculture and in 2008 it was transferred to the Directorate of Horticulture and Food Processing.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The office of the Deputy Director of Agriculture (Fruit Preservation) Assam runs under the scheme of Community Canning and Training in fruit preservation with a view to disseminate to the people specially the women section about the"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "techniques of preparation of various preserved items such as Jam, Jelly, Pickles, Squash, Sauce, Chutney etc. from locally available seasonal fruits and vegetables. For this purpose trainings are conducted both at field levels and also in the centers itself with active guidance by staffs in the centers. At present there are 21 (Twenty one) Community Canning and Training Centers covering 19 (Nineteen) districts (The Diphu center is under the control of District council). Each of these centers are headed by one officer in the rank of Sub- Divisional Agricultural Officer (SDAO)."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "        Since inception these Community Canning and Training Centers have gained considerable popularity among public who have received the benefits on fruits and vegetable preservation in their respective areas. Apart from forwarding the facilities for preparation of various preserved items training programs are also undertaken by this centers and various ladies group, organization and N.G.O’s have been immensely benefited from such functions of the centers. Out of the activities of these centers some revenue is also earned and which is deposited to Govt. account at time to time."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To forward facilities to the public, in particular to ladies and housewives, throughout the state, for preservation of fruits and vegetables."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Home scale preservation and canning of seasonal fruits and vegetables under expert technical supervision and guidance for consumption in lean periods."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To encourage the preparation of value added produce such as Jam, Jelly, Squash, Juice, Sauce, Chutney, Pickles etc. at nominal charges."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To impart training on home scale preservation of fruits and vegetables for 1 days, 3 days and 6 days to the ladies, housewives through various organization like Mahila samity, SHG, College girls etc. specially in rural areas (Dairly processing comes under 1 day training). "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To train personals to start small scale cottage industries in fruits and vegetables for self employment. The duration of these training will be of 7 to 15 days. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide certificates to the trained personals so that they can start their own enterprise."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Beneficiaries are requested to contact their own district Community Canning and Training Centers."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "OR"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "The Director of Agriculture (F.P) Assam, Ulubari, Guwahati-07."
+              }
+            ]
+          }
+        ],
+        "process_md": "The Beneficiaries are requested to contact their own district Community Canning and Training Centers.\nOR\nThe Director of Agriculture (F.P) Assam, Ulubari, Guwahati-07.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- To impart training on home scale preservation of fruits and vegetables for 1 days, 3 days and 6 days to the ladies, housewives through various organization like Mahila samity, SHG, College girls etc. specially in rural areas (Dairly processing comes under 1 day training). \n- To train personals to start small scale cottage industries in fruits and vegetables for self employment. The duration of these training will be of 7 to 15 days. \n- To provide certificates to the trained personals so that they can start their own enterprise.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To impart training on home scale preservation of fruits and vegetables for 1 days, 3 days and 6 days to the ladies, housewives through various organization like Mahila samity, SHG, College girls etc. specially in rural areas (Dairly processing comes under 1 day training). "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To train personals to start small scale cottage industries in fruits and vegetables for self employment. The duration of these training will be of 7 to 15 days. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "To provide certificates to the trained personals so that they can start their own enterprise."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cctofp"
+}

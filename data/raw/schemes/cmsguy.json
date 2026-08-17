@@ -1,0 +1,505 @@
+{
+  "_id": "64213467aa7df9a8bf84c21e",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2017-02-05",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 18,
+        "label": "Assam"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 1800011,
+        "label": "Finance Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Chief Minister",
+        "Samagra",
+        "Gramya",
+        "Unnayan",
+        "Financial Assistance"
+      ],
+      "schemeName": "Chief Minister Samagra Gramya Unnayan Yojana",
+      "schemeShortTitle": "CMSGUY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "cmsguy",
+      "briefDescription": "A 5-year mega-mission called Chief Minister Samagra Gramya Unnayan Yojana (CMSGUY) was launched in the Financial Year(FY) 2016-17, which is scheduled to culminate in the FY 2021-22, coinciding with 75 years of India's Independence."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Details",
+          "url": "https://finance.assam.gov.in/schemes/cmsguy"
+        }
+      ],
+      "schemeImageUrl": "",
+      "briefDescription": "A 5-year mega-mission called Chief Minister Samagra Gramya Unnayan Yojana (CMSGUY) was launched in the Financial Year(FY) 2016-17, which is scheduled to culminate in the FY 2021-22, coinciding with 75 years of India's Independence.",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Objective ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The main objective of the mission is to double the farm income, in unison with the vision of Hon'ble Prime Minister Shri Narendra Modi."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "CMSGUY: The Way Ahead",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the current rate of growth, it will take about 80 years to double the farm income in Assam. Normal interventions by the Government in this regard would not be adequate to address the problem. Under CMSGUY there is a proposal to initiate massive investments in rural areas for complete rural empowerment in a period of five years in a focused and concerted manner to realize the dream of doubling the farm income."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is sought to be achieved through a 'saturation model' by covering each revenue village through focused interventions in "
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Direct economic activities, "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Logistic support including market linkages, and "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Community support."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Above focused interventions are aimed at in nine critical areas and related sub-missions are:"
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Fishery Mission,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Milk Mission,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Organic Mission,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Land Management and Conservation Mission,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sericulture, Khadi and Cottage Industry Mission,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Road and Broadband connectivity,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Semi-Processing, Processing and Market Linkages,"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "\"Youth-Yoga-Sports\" Mission and"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "e-Gram Mission by developing Village Knowledge Centres by strengthening traditional Namghar and other community institutions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Benefits",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The Government of Assam has launched Samagra Gramya Unnayan Yojana."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Through this scheme farm mechanisms will be enhanced in the state and double-cropping will be facilitated."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "One tractor unit consisting of one tractor including its accessories will be provided to the selected beneficiary group in the revenue village."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This tractor will be provided at a subsidized rate."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Through this scheme, the government is going to provide a subsidy of 70% to the beneficiary subject to a maximum of 5.5 lahks."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "This subsidy will be admissible on the lowest price of tractors in the government-notified list of tractors for the category concerned."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Similarly, the lowest approved price of implements will also be applicable for the subsidy."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The benefit of this scheme will be provided to a group of 8 to 10 members who are actual adult farmers of the same village."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exclusions",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Government employees are not allowed to apply to the scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The scheme shall not be allowed to avail for the individual farmer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "detailedDescription_md": "**Objective** \nThe main objective of the mission is to double the farm income, in unison with the vision of Hon&#39;ble Prime Minister Shri Narendra Modi.\n**CMSGUY: The Way Ahead**\nAt the current rate of growth, it will take about 80 years to double the farm income in Assam. Normal interventions by the Government in this regard would not be adequate to address the problem. Under CMSGUY there is a proposal to initiate massive investments in rural areas for complete rural empowerment in a period of five years in a focused and concerted manner to realize the dream of doubling the farm income.\n<br>\n\nThis is sought to be achieved through a &#39;saturation model&#39; by covering each revenue village through focused interventions in \n\n1. Direct economic activities, \n1. Logistic support including market linkages, and \n1. Community support.\n\n<br>\n\nAbove focused interventions are aimed at in nine critical areas and related sub-missions are:\n\n1. Fishery Mission,\n1. Milk Mission,\n1. Organic Mission,\n1. Land Management and Conservation Mission,\n1. Sericulture, Khadi and Cottage Industry Mission,\n1. Road and Broadband connectivity,\n1. Semi-Processing, Processing and Market Linkages,\n1. &quot;Youth-Yoga-Sports&quot; Mission and\n1. e-Gram Mission by developing Village Knowledge Centres by strengthening traditional Namghar and other community institutions\n\n"
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "First of all, the applicants have to go to the nearest office of the Agriculture Department"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now applicants have to ask for the application form for Samagra Gramya Unnayan Yojana"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Applicants have to fill out this application form by entering all the required details"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Now applicants have to attach all the required documents"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After that, applicants  have to submit this form to the agriculture Department"
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "By following this procedure applicant  can apply under Samagra Gramya Unnayan Yojana"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**Eligibility** \n\n1. The benefit of this scheme will be provided to any group of 8 to 10 members who are actual adult farmers of the same village\n1. The group of farmers must have a common bank account and will apply jointly with the signatures of each member on the application form preferably along with particulars of land and crops cultivated\n1. The applicant group should not have more than one member from one family\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eligibility ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The benefit of this scheme will be provided to any group of 8 to 10 members who are actual adult farmers of the same village"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The group of farmers must have a common bank account and will apply jointly with the signatures of each member on the application form preferably along with particulars of land and crops cultivated"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant group should not have more than one member from one family"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "cmsguy"
+}

@@ -1,0 +1,438 @@
+{
+  "_id": "646eeb8a527a0d6debd239e5",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": true,
+      "tags": [
+        "Fishermen",
+        "Livelihood",
+        "Financial Assistance"
+      ],
+      "schemeName": "Livelihood Support To Marine Fishermen During Fishing Ban Period",
+      "schemeShortTitle": "LSMFDFBP",
+      "implementingAgency": "Directorate Of Fisheries, Odisha",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2016-04-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 21,
+        "label": "Odisha"
+      },
+      "nodalDepartmentName": {
+        "value": 2111120,
+        "label": "Fisheries and Animal Resources Development Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "lsmfdfbp",
+      "briefDescription": "Livelihood Support to Marine Fishermen during the Fishing Ban Period scheme under the Department of Fisheries & Animal Resources Development, Government of Odisha aims to support the livelihood of marine fisher families."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guideline",
+          "url": "https://fard.odisha.gov.in/sites/default/files/2023-10/14.%20Livelihood%20Support%20to%20Marine%20Fishermen%20during%20Fishing%20Ban%20Period.PDF"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "**Livelihood Support to Marine Fishermen during the Fishing Ban Period Scheme** under the Department of Fisheries &amp;amp; Animal Resources Development, Government of Odisha aims to support the livelihood of marine fisher families. This scheme is under the state sector Umbrella Scheme **Mukhyamantri Maschyajibi Kalyan Yojana (MMKY)**. The scheme supports the livelihood of marine fisher families in and around the turtle nesting and breeding areas of the state including round the year fishing ban in Bhitarkanika areas as no alternative is available. As the livelihood earning of fishermen is solely based on sea fishing and the ban on fishing directly prohibits the profession over a long period of seven months in a year (1st November to 31st May) (both days inclusive) along with a Uniform ban from 15th April to 14th June (61 days).\n**Area of Operation:**\nThe Scheme shall be implemented in the Marine Districts of Kendrapara, Jagatsinghpur, Puri, and Ganjam along the Coastline of Odisha where the marine Fishers who are affected due to the ban on fishing round the year at Gahirmatha Marine Sanctuary, Bhitarkanika National park and adjoining areas of Devi River and Rushikulya River Mouth for Sea Turtle Conservation.\n",
+      "benefits_md": "\n   1. Only one member of the affected families shall be assisted with ₹15,000/- annually under the scheme.\n   1. The amount shall be paid to the beneficiaries between November and March of a financial year in one Installment.\n   1. The assistance amount shall be released to the beneficiaries through Direct Benefit Transfer.\n\n",
+      "briefDescription": "Livelihood Support to Marine Fishermen during the Fishing Ban Period scheme under the Department of Fisheries & Animal Resources Development, Government of Odisha aims to support the livelihood of marine fisher families.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Livelihood Support to Marine Fishermen during the Fishing Ban Period Scheme",
+                  "bold": true
+                },
+                {
+                  "text": " under the Department of Fisheries & Animal Resources Development, Government of Odisha aims to support the livelihood of marine fisher families. This scheme is under the state sector Umbrella Scheme "
+                },
+                {
+                  "text": "Mukhyamantri Maschyajibi Kalyan Yojana (MMKY)",
+                  "bold": true
+                },
+                {
+                  "text": ". The scheme supports the livelihood of marine fisher families in and around the turtle nesting and breeding areas of the state including round the year fishing ban in Bhitarkanika areas as no alternative is available. As the livelihood earning of fishermen is solely based on sea fishing and the ban on fishing directly prohibits the profession over a long period of seven months in a year (1st November to 31st May) (both days inclusive) along with a Uniform ban from 15th April to 14th June (61 days)."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Area of Operation:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Scheme shall be implemented in the Marine Districts of Kendrapara, Jagatsinghpur, Puri, and Ganjam along the Coastline of Odisha where the marine Fishers who are affected due to the ban on fishing round the year at Gahirmatha Marine Sanctuary, Bhitarkanika National park and adjoining areas of Devi River and Rushikulya River Mouth for Sea Turtle Conservation."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Only one member of the affected families shall be assisted with ₹15,000/- annually under the scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The amount shall be paid to the beneficiaries between November and March of a financial year in one Installment."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The assistance amount shall be released to the beneficiaries through Direct Benefit Transfer."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "https://fard.odisha.gov.in/fisheries-schemes",
+        "process": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Application Process:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The scheme shall be advertised through the Departmental website, newspapers, and wall posters in the District and Block Fisheries Offices across the state."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Interested eligible beneficiaries/fishermen shall apply in the "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/14.%20Livelihood%20Support%20to%20Marine%20Fishermen%20during%20Fishing%20Ban%20Period.PDF",
+                        "children": [
+                          {
+                            "text": "prescribed format",
+                            "bold": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": " devised by the Department to the Additional Fisheries Officer (Marine) of the district through the concerned Assistant Fisheries Officers (AFOs) (ME Unit) "
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://fardodisha.gov.in/files/misc/FisheryStatePlanScheme-2022-23/11.%20Livelihood%20Support%20to%20Marine%20Fishermen%20during%20Fishing%20Ban%20Period%20Guideline%202022-23.pdf",
+                        "children": [
+                          {
+                            "text": "(refer to page no.4 of guidelines)."
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "type": "link",
+                        "link": "https://fardodisha.gov.in/files/misc/FisheryStatePlanScheme-2022-23/11.%20Livelihood%20Support%20to%20Marine%20Fishermen%20during%20Fishing%20Ban%20Period%20Guideline%202022-23.pdf",
+                        "children": [
+                          {
+                            "text": ""
+                          }
+                        ]
+                      },
+                      {
+                        "text": "The applicant shall attach the self-attested photocopy of the required document along with the application and show the original document at the time of submission of the application to the designated Receiving and Verifying Officer i.e. AFO Marine Extension unit."
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Post-Application Processes:",
+                    "bold": true
+                  }
+                ]
+              },
+              {
+                "type": "ol_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "After receipt of application forms the Receiving and Verifying Officer i.e. Assistant Fisheries Officer Marine Extension unit shall scrutinize the application and forward the same to the Additional Fisheries Officer (Marine)."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "A District Level Committee will be formed under the chairmanship of the Sub-Collector (concerned Sub-Division) along with Addl. Fisheries Officer (Marine) as a member convener for the finalization of the beneficiary list. The other members of the committee are the Tahasildar of the concerned Tehsil; a representative of the Forest, Environment and Climate Change Department; PRI Representatives, and an Office bearer of concerned marine PFCS."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The Committee of the concerned district will approve the applications after necessary cross-checks made at their level and recommend for release of assistance. The final list of the beneficiaries will be prepared by the Additional Fisheries Officer (Marine) and the same will be forwarded to the Directorate for uploading to the website."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "The respective Additional Fisheries Officer (Marine) shall release the assistance amount to the beneficiaries through DBT."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Application Process:**\n\n   1. The scheme shall be advertised through the Departmental website, newspapers, and wall posters in the District and Block Fisheries Offices across the state.\n   1. Interested eligible beneficiaries/fishermen shall apply in the [**prescribed format**](https://fard.odisha.gov.in/sites/default/files/2023-10/14.%20Livelihood%20Support%20to%20Marine%20Fishermen%20during%20Fishing%20Ban%20Period.PDF) devised by the Department to the Additional Fisheries Officer (Marine) of the district through the concerned Assistant Fisheries Officers (AFOs) (ME Unit) [(refer to page no.4 of guidelines).](https://fardodisha.gov.in/files/misc/FisheryStatePlanScheme-2022-23/11.%20Livelihood%20Support%20to%20Marine%20Fishermen%20during%20Fishing%20Ban%20Period%20Guideline%202022-23.pdf)   1. The applicant shall attach the self-attested photocopy of the required document along with the application and show the original document at the time of submission of the application to the designated Receiving and Verifying Officer i.e. AFO Marine Extension unit.\n**Post-Application Processes:**\n\n   1. After receipt of application forms the Receiving and Verifying Officer i.e. Assistant Fisheries Officer Marine Extension unit shall scrutinize the application and forward the same to the Additional Fisheries Officer (Marine).\n   1. A District Level Committee will be formed under the chairmanship of the Sub-Collector (concerned Sub-Division) along with Addl. Fisheries Officer (Marine) as a member convener for the finalization of the beneficiary list. The other members of the committee are the Tahasildar of the concerned Tehsil; a representative of the Forest, Environment and Climate Change Department; PRI Representatives, and an Office bearer of concerned marine PFCS.\n   1. The Committee of the concerned district will approve the applications after necessary cross-checks made at their level and recommend for release of assistance. The final list of the beneficiaries will be prepared by the Additional Fisheries Officer (Marine) and the same will be forwarded to the Directorate for uploading to the website.\n   1. The respective Additional Fisheries Officer (Marine) shall release the assistance amount to the beneficiaries through DBT.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "**The following are the eligibility criteria for the beneficiary:**\n\n   1. The beneficiary must be an active Marine fisherman.\n   1. The assistance will be provided to only one member of a family on behalf of the family.\n   1. The beneficiary must be in the age group of 18-70 years.\n   1. The beneficiary must be a permanent resident of Odisha and must possess identity and residential proof including an Aadhaar card.\n   1. The beneficiary must have a bank account in his/her name in the state of Odisha.\n   1. The beneficiary must be a boat owner (Motorized Boat)/ a crew member of a Motorized Boat / Fish trader/ engaged in sorting, and grading Fish, and other ancillary activities.\n   1. The Fishers should preferably belong to the BPL Category i.e. covered under the National Food Security Act (NFSA) and not belong to the automatically excluded household under the socio-economic and caste census (SECC)-2011.\n   1. If the fisherman is a Boat Owner, he must have valid registration (Real Craft) and a valid fishing license.\n   1. If the fisherman is a crew member, he must work in a registered fishing boat with a valid date fishing license and will produce a certificate from the boat owner in this respect.\n   1. If the fisherman is a Fish trader / engaged in sorting, grading of Fish, and other ancillary activities he must produce a certificate from a registered boat owner in this respect.\n\n**Note:**\nPreference of selection of beneficiaries shall be undertaken in the order of:\n\n   1. Boat Owner.\n   1. Crew member of a fishing boat.\n   1. workers engaged in sorting, grading, and other ancillary activities.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The following are the eligibility criteria for the beneficiary:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be an active Marine fisherman."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The assistance will be provided to only one member of a family on behalf of the family."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be in the age group of 18-70 years."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a permanent resident of Odisha and must possess identity and residential proof including an Aadhaar card."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must have a bank account in his/her name in the state of Odisha."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a boat owner (Motorized Boat)/ a crew member of a Motorized Boat / Fish trader/ engaged in sorting, and grading Fish, and other ancillary activities."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The Fishers should preferably belong to the BPL Category i.e. covered under the National Food Security Act (NFSA) and not belong to the automatically excluded household under the socio-economic and caste census (SECC)-2011."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the fisherman is a Boat Owner, he must have valid registration (Real Craft) and a valid fishing license."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the fisherman is a crew member, he must work in a registered fishing boat with a valid date fishing license and will produce a certificate from the boat owner in this respect."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "If the fisherman is a Fish trader / engaged in sorting, grading of Fish, and other ancillary activities he must produce a certificate from a registered boat owner in this respect."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Preference of selection of beneficiaries shall be undertaken in the order of:"
+                }
+              ]
+            },
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Boat Owner."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Crew member of a fishing boat."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "workers engaged in sorting, grading, and other ancillary activities."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "lsmfdfbp"
+}

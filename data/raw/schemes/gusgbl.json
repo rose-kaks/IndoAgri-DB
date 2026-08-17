@@ -1,0 +1,205 @@
+{
+  "_id": "672c9d93cef677932c6280cd",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Animal Husbandry",
+        "Agriculture",
+        "Loan",
+        "Goat Breeding"
+      ],
+      "schemeName": "Goat Unit Scheme On Grants And Bank Loans",
+      "schemeShortTitle": "GUSGBL",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 23,
+        "label": "Madhya Pradesh"
+      },
+      "nodalDepartmentName": {
+        "value": 2300001,
+        "label": "Animal Husbandry Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "gusgbl",
+      "briefDescription": "The scheme provides financial support through grants and bank loans to farmers to purchase (10+1) goat units for milk and meat production. The scheme covers a 40% subsidy for general applicants and 60% for SC/ST beneficiaries, based on a total unit cost of ₹77,456/-."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://khargone.nic.in/en/scheme/goat-unit-scheme-on-grants-and-bank-loans/"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &amp;quot;Goat Unit Scheme&amp;quot;, launched by the Animal Husbandry Department, Government of Madhya Pradesh, aims to improve beneficiaries’ economic status by supporting goat rearing. Through this scheme, individuals with goat farming experience can apply for grants and loans to purchase (10+1) goat units for milk and meat production. The scheme covers a 40% subsidy for general applicants and 60% for SC/ST beneficiaries, based on a total unit cost of ₹77,456/-. \n",
+      "benefits_md": "\n  - **Financial Assistance:** 40% subsidy for General beneficiaries and 60% for SC/ST beneficiaries.  - **Economic Gains:** Earn income from the sale of goat milk and meat products.\n",
+      "briefDescription": "The scheme provides financial support through grants and bank loans to farmers to purchase (10+1) goat units for milk and meat production. The scheme covers a 40% subsidy for general applicants and 60% for SC/ST beneficiaries, based on a total unit cost of ₹77,456/-.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The \"Goat Unit Scheme\", launched by the Animal Husbandry Department, Government of Madhya Pradesh, aims to improve beneficiaries’ economic status by supporting goat rearing. Through this scheme, individuals with goat farming experience can apply for grants and loans to purchase (10+1) goat units for milk and meat production. The scheme covers a 40% subsidy for general applicants and 60% for SC/ST beneficiaries, based on a total unit cost of ₹77,456/-. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Financial Assistance: ",
+                      "bold": true
+                    },
+                    {
+                      "text": "40% subsidy for General beneficiaries and 60% for SC/ST beneficiaries."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Economic Gains:",
+                      "bold": true
+                    },
+                    {
+                      "text": " Earn income from the sale of goat milk and meat products."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: Contact the nearest Animal Husbandry Department veterinary institution."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2: Submit the completed application form with required documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3: Obtain loan approval from a partnering bank."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 4: Upon bank approval, the department will release the grant amount to the bank."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "Step 1: Contact the nearest Animal Husbandry Department veterinary institution.\nStep 2: Submit the completed application form with required documents.\nStep 3: Obtain loan approval from a partnering bank.\nStep 4: Upon bank approval, the department will release the grant amount to the bank.\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n  - The applicant must be a resident of Madhya Pradesh.\n  - The applicant must be a landless laborer/ marginal farmer/ small farmer.\n  - The applicant should have prior experience in goat farming.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant must be a landless laborer/ marginal farmer/ small farmer."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The applicant should have prior experience in goat farming."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "gusgbl"
+}

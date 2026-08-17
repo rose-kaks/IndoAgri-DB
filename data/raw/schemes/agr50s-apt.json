@@ -1,0 +1,397 @@
+{
+  "_id": "6480d6f5380f8e12353d5e15",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Mechanization",
+        "Tractor",
+        "Financial Assistance"
+      ],
+      "schemeName": "AGR-50 Scheme-Assistance To Purchase Tractors",
+      "schemeShortTitle": "AGR50S-APT",
+      "implementingAgency": "Directorate Of Agriculture, Government Of Gujarat",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeCloseDate": null,
+      "schemeFor": "Individual",
+      "slug": "agr50s-apt",
+      "briefDescription": "The scheme “AGR-50 Scheme-Assistance to Purchase Tractors” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat in the year 2011-12. The scheme was implemented for the farmers to help in buying the tractor in the state."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://dag.gujarat.gov.in/agr-50-tractors.htm"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “AGR-50 Scheme-Assistance to Purchase Tractors” was started by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat in the year 2011-12. The scheme was implemented for the farmers to help in buying the tractor in the state. Further, the scheme has been started in the state, considering the tractor&amp;#39;s importance, to increase farm mechanization in the state and the demand of farmers from the society.\n       The cost of the tractor was different in the whole state. As a result, small-scale farmers who could not negotiate had to pay a higher price. In order to become available to all the farmers in the state at a price and competitive prices in the state, the model of the tractor companies has been empanelled from the year 2014-15. A tractor is an essential tool for expanding farm mechanization and increasing farm power availability. To adopt power-operated tools/impalements farmers must have a tractor, so assistance is given to farmers for the purchase of tractor. This scheme is a 100% state-sponsored scheme.\n",
+      "benefits_md": "1.\tThe financial assistance is given to farmers for the purchase of tractors as below:\n    a)\tUpto 40 PTO HP Model Tractors: 25% of expense or ₹45,000/-, whichever is less.\n    b)\tAbove 40 PTO HP and up to 60 PTO HP Model Tractors: 25% of expense or ₹60,000/-, whichever is less.\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme “AGR-50 Scheme-Assistance to Purchase Tractors” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat in the year 2011-12. The scheme was implemented for the farmers to help in buying the tractor in the state.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “AGR-50 Scheme-Assistance to Purchase Tractors” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat in the year 2011-12. The scheme was implemented for the farmers to help in buying the tractor in the state. Further, the scheme has been started in the state, considering the tractor's importance, to increase farm mechanization in the state and the demand of farmers from the society."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       The cost of the tractor was different in the whole state. As a result, small-scale farmers who could not negotiate had to pay a higher price. In order to become available to all the farmers in the state at a price and competitive prices in the state, the model of the tractor companies has been empanelled from the year 2014-15. A tractor is an essential tool for expanding farm mechanization and increasing farm power availability. To adopt power-operated tools/impalements farmers must have a tractor, so assistance is given to farmers for the purchase of tractor. This scheme is a 100% state-sponsored scheme."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1.\tThe financial assistance is given to farmers for the purchase of tractors as below:"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    a)\tUpto 40 PTO HP Model Tractors: 25% of expense or ₹45,000/-, whichever is less."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "    b)\tAbove 40 PTO HP and up to 60 PTO HP Model Tractors: 25% of expense or ₹60,000/-, whichever is less."
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_AGR_SchemeApplicaiton.aspx",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " To avail of the benefits of the scheme, the beneficiary has to apply online at I-Khedut Portal. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on “Click here for details” in Farming Schemes Section."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Check the details of the “AGR-50” scheme corresponding to “Tractor-empaneled vendors”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Read the instruction carefully and choose the option ‘Yes’ or ‘No’ for “Are you a registered applicant?” and click on “Click to proceed”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Click to Apply Newly\" button and submit a new application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 06:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on the \"Click to Update Application\" button to add corrections to the application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 07:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Click on \"Click to confirm the application\" and confirm the application. Once the application is done, confirm it. Confirmation is required after saving the application. Only confirmed applications will be considered. Unconfirmed applications will not be considered taken on ikhedut portal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 08: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Take a printout of the confirmed application. The applicant has to take a printout of this application and keep it for further reference."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 09: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "For this scheme, the District Agriculture Officer of the concerned district has to be contacted whose information is available on i-khedut portal. "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                    "children": [
+                      {
+                        "text": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 01: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "On-line application is required to be submitted on the portal during the prescribed time."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Pre-approval for purchase is given as per the application and you purchase the equipment/materials as per the pre-approval within the stipulated time frame as per the rules, all the supporting evidence mentioned in the pre-approval order and the supporting evidence along with the signed copy of this application have to be submitted along with the assistance proposal."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 04: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After the application is confirmed, the application will not be updated."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note 05: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The print of the application can be taken only after the application is confirmed."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 01:** To avail of the benefits of the scheme, the beneficiary has to apply online at I-Khedut Portal. [https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx](https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_SchemeDetails.aspx)\n**Step 02:** Click on “Click here for details” in Farming Schemes Section.\n**Step 03:** Check the details of the “AGR-50” scheme corresponding to “Tractor-empaneled vendors”.\n**Step 04:** Read the instruction carefully and choose the option ‘Yes’ or ‘No’ for “Are you a registered applicant?” and click on “Click to proceed”.\n**Step 05:** Click on the &amp;quot;Click to Apply Newly&amp;quot; button and submit a new application.\n**Step 06:** Click on the &amp;quot;Click to Update Application&amp;quot; button to add corrections to the application.\n**Step 07:** Click on &amp;quot;Click to confirm the application&amp;quot; and confirm the application. Once the application is done, confirm it. Confirmation is required after saving the application. Only confirmed applications will be considered. Unconfirmed applications will not be considered taken on ikhedut portal.\n**Step 08:** Take a printout of the confirmed application. The applicant has to take a printout of this application and keep it for further reference.\n**Step 09:** For this scheme, the District Agriculture Officer of the concerned district has to be contacted whose information is available on i-khedut portal. [https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n&lt;br&gt;\n\n**Note 01:** On-line application is required to be submitted on the portal during the prescribed time.\n**Note 02:** Pre-approval for purchase is given as per the application and you purchase the equipment/materials as per the pre-approval within the stipulated time frame as per the rules, all the supporting evidence mentioned in the pre-approval order and the supporting evidence along with the signed copy of this application have to be submitted along with the assistance proposal.\n**Note 03:** If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application.\n**Note 04:** After the application is confirmed, the application will not be updated.\n**Note 05:** The print of the application can be taken only after the application is confirmed.\n&lt;br&gt;\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Gujarat State.\n   1. Any farmer of Gujarat state is eligible under this scheme.\n   1. The beneficiary farmer has to purchase the empaneled tractor model of the manufacturer included in the empanelment prepared for the purpose of prize discovery announced by the agriculture department from time to time for tractors from their authorized dealer.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a permanent resident of Gujarat State."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Any farmer of Gujarat state is eligible under this scheme."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary farmer has to purchase the empaneled tractor model of the manufacturer included in the empanelment prepared for the purpose of prize discovery announced by the agriculture department from time to time for tractors from their authorized dealer."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "agr50s-apt"
+}

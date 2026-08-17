@@ -1,0 +1,250 @@
+{
+  "_id": "68cd33e06e1aaee61b27b558",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Sericulture",
+        "Silk Tree Plantation",
+        "Farmer",
+        "Silkworms",
+        "Silk"
+      ],
+      "schemeName": "Silk Tree Plantation",
+      "schemeShortTitle": "STP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Environmental grants",
+          "label": "Environmental grants"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeFor": "Individual",
+      "state": {
+        "value": 5,
+        "label": "Uttarakhand"
+      },
+      "nodalDepartmentName": {
+        "value": 50000018,
+        "label": "Department Of Sericulture"
+      },
+      "slug": "rv",
+      "briefDescription": "The scheme aims to promote mulberry cultivation and silkworm rearing among farmers in Uttarakhand by providing financial assistance, technical support, and organized cluster-based sericulture activities to enhance their income and livelihood."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines (Page No. 243)",
+          "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Silk Tree Plantation” was launched by the Department of Sericulture, Government of Uttarakhand. The scheme aims to promote mulberry cultivation and silkworm rearing among farmers in Uttarakhand by providing financial assistance, technical support, and organized cluster-based sericulture activities to enhance their income and livelihood.\n<br>\n\n",
+      "benefits_md": "Under this scheme, selected farmers in a cluster receive a grant of ₹17,244/- for silk tree plantations, and 2-silk trees are provided free of cost by the department.\n<br>\n\n",
+      "briefDescription": "The scheme aims to promote mulberry cultivation and silkworm rearing among farmers in Uttarakhand by providing financial assistance, technical support, and organized cluster-based sericulture activities to enhance their income and livelihood.",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Silk Tree Plantation” was launched by the Department of Sericulture, Government of Uttarakhand. The scheme aims to promote mulberry cultivation and silkworm rearing among farmers in Uttarakhand by providing financial assistance, technical support, and organized cluster-based sericulture activities to enhance their income and livelihood."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this scheme, selected farmers in a cluster receive a grant of ₹17,244/- for silk tree plantations, and 2-silk trees are provided free of cost by the department."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "ul_list",
+                "children": [
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Interested beneficiaries are selected through publicity seminars and meetings organized in the area by representatives of cooperative societies or silk self-help groups affiliated with the Chowki centers and center/range in-charges."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "Upon receiving a cluster proposal in a specific area, an expert committee conducts a field inspection to determine whether the area is suitable for silkworm plantations. Based on the recommendations of the inspection, mulberry plantations and other activities are carried out in accordance with the plan’s guidelines, with technical assistance from departmental personnel."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "list_item",
+                    "children": [
+                      {
+                        "text": "To prepare the Project Implementation Sheet (PIS) of the selected beneficiaries, documents such as voter ID/ration card, bank account details, land ownership documents, and photographs of the plantation area are collected. Subsequently, tree planting and other activities are completed under departmental supervision, and grant funds are disbursed to farmers based on the work completed."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "\n  - Interested beneficiaries are selected through publicity seminars and meetings organized in the area by representatives of cooperative societies or silk self-help groups affiliated with the Chowki centers and center/range in-charges.\n  - Upon receiving a cluster proposal in a specific area, an expert committee conducts a field inspection to determine whether the area is suitable for silkworm plantations. Based on the recommendations of the inspection, mulberry plantations and other activities are carried out in accordance with the plan’s guidelines, with technical assistance from departmental personnel.\n  - To prepare the Project Implementation Sheet (PIS) of the selected beneficiaries, documents such as voter ID/ration card, bank account details, land ownership documents, and photographs of the plantation area are collected. Subsequently, tree planting and other activities are completed under departmental supervision, and grant funds are disbursed to farmers based on the work completed.\n\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must belong to a cluster or group.\n   1. In mountainous areas, a minimum of 25 farmers is required for a cluster, while in plain areas, at least 50 farmers are mandatory.\n   1. The beneficiaries in the group must have land available for the plantation of at least 300 plants.\n   1. Silkworm rearing is conducted under departmental supervision. Therefore, clusters must be selected within a 15–20 km radius of departmental silkworm farms. If the distance exceeds this, the selected group must provide one acre of land for a collective rearing center and may conduct silkworm rearing after receiving training.\n   1. Priority is given to farmers who already practice sericulture or those who have mulberry saplings available. Mulberry silkworm rearing can be carried out up to an altitude of 4,000 feet, although warmer valley areas are more suitable for this activity.\n   1. The department has not specified any particular regions for silkworm rearing; however, most state-run sericulture farms were established in locations where mulberry silk production is feasible.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "ol_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must be a resident of Uttarakhand."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiary must belong to a cluster or group."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "In mountainous areas, a minimum of 25 farmers is required for a cluster, while in plain areas, at least 50 farmers are mandatory."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The beneficiaries in the group must have land available for the plantation of at least 300 plants."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Silkworm rearing is conducted under departmental supervision. Therefore, clusters must be selected within a 15–20 km radius of departmental silkworm farms. If the distance exceeds this, the selected group must provide one acre of land for a collective rearing center and may conduct silkworm rearing after receiving training."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Priority is given to farmers who already practice sericulture or those who have mulberry saplings available. Mulberry silkworm rearing can be carried out up to an altitude of 4,000 feet, although warmer valley areas are more suitable for this activity."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The department has not specified any particular regions for silkworm rearing; however, most state-run sericulture farms were established in locations where mulberry silk production is feasible."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "rv"
+}

@@ -1,0 +1,570 @@
+{
+  "_id": "662101728397d2ab2ff3b3b9",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Mechanization",
+        "Financial Assistance"
+      ],
+      "schemeName": "Financial Support Scheme for Farm Mechanization (FSSM)",
+      "schemeShortTitle": "FSSM",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Mechanization- solar power, farming systems",
+          "label": "Mechanization- solar power, farming systems"
+        },
+        {
+          "value": "Entrepreneurship development",
+          "label": "Entrepreneurship development"
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2012-12-05",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "self-help-groups",
+          "label": "Self Help Groups (SHGS)"
+        },
+        {
+          "value": "business-entity",
+          "label": "Business Entity"
+        }
+      ],
+      "state": {
+        "value": 19,
+        "label": "West Bengal"
+      },
+      "nodalDepartmentName": {
+        "value": 1999991,
+        "label": "Agriculture Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "fssm",
+      "briefDescription": "\"Financial Support Scheme for Farm Mechanization (FSSM)\" by the Agriculture Department, Government of West Bengal aims to provide financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://matirkatha.net/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e05a52aaf58b7fbfa749a5d71be15309a5101ea/FMS_Operational%20Guidelines_2024_25.pdf?disposition=attachment"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "“Financial Support Scheme for Farm Mechanization (FSSM)” under the Farm Mechanization Umbrella Scheme, was launched on 5&amp;quot; December 2012 by the Agriculture Department, Government of West Bengal for extending financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery with the aim to facilitate mechanization in agriculture so as to ensure better productivity and minimization of cost of cultivation. \n&gt; **Features:** \n\n&lt;br&gt;\n\n&gt; **Area of Operation:** The scheme is applicable uniformly throughout the State, except Kolkata district.\n\n",
+      "benefits_md": "&gt; **Pattern Of Assistance:**\n\n\n  - Subsidy ranging from 50-60% of the indicative price of machinery subject to maximum ceiling of ₹3,00,000/- will be provided to the beneficiary.\n\n&gt; **Available Equipment:**\n\n\n  - An exhaustive list of different farm machinery with subsidy limits is provided in [Annexure-II](https://matirkatha.net/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e05a52aaf58b7fbfa749a5d71be15309a5101ea/FMS_Operational%20Guidelines_2024_25.pdf?disposition=attachment) (Page No. 33) based on Cost Norms and Pattern of Financial Assistance under Sub Mission on Agricultural Mechanization(SMAM). Available models of different farm machinery /implements as mentioned in Annexure-II along with indicative price will be published in Matirkatha portal by the SPMT before starting of online application of the beneficiary . However, No large machines like tractor, rice transplanter “above 4 rows”, combine harvester etc. will be provided under FSSM.\n&gt; **Note:**\n\n\n  - No machine/equipment will be procured by the Government. The Government will only release subsidy as back ended subsidy against procurement by the beneficiaries as per their choice under FSSM with Bank Loan. The subsidy will be released through DBT mode to the beneficiaries for FSSM.\n  - The subsidy will only be applicable for purchase of farm machinery/equipment from the approved Farm machinery Manufacturers and Dealers as enlisted in the Departmental portal.\n  - A beneficiary or his/her spouse will not be eligible to apply afresh before completion of 4(four) years from release of the last subsidy for any type of machinery under any FSSM scheme from the State under this Guidelines.\n\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+      "exclusions_md": "\n- A beneficiary or his/her spouse will not be eligible to apply afresh before completion of 4(four) years from release last subsidy for any type of machinery under any Farm Mechanization scheme (FSSM, OTA-SFI, FMB/FMH &amp; CHC) from the State under this Guidelines.\n- An employee/retired employee of State Government, Statutory Bodies, Government Undertakings, Panchayats, Municipal Corporations/Municipalities, Local Bodies, Government Aided Educational Institutions etc. is not eligible.\n\n<br>\n\n<br>\n\n",
+      "briefDescription": "\"Financial Support Scheme for Farm Mechanization (FSSM)\" by the Agriculture Department, Government of West Bengal aims to provide financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery.\n",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "“Financial Support Scheme for Farm Mechanization (FSSM)” under the Farm Mechanization Umbrella Scheme, was launched on 5\" December 2012 by the Agriculture Department, Government of West Bengal for extending financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery with the aim to facilitate mechanization in agriculture so as to ensure better productivity and minimization of cost of cultivation. "
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Features:",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Area of Operation: ",
+                  "bold": true,
+                  "underline": true
+                },
+                {
+                  "text": "The scheme is applicable uniformly throughout the State, except Kolkata district."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Pattern Of Assistance:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "Subsidy ranging from 50-60% of the indicative price of machinery subject to maximum ceiling of ₹3,00,000/- will be provided to the beneficiary."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Available Equipment:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "An exhaustive list of different farm machinery with subsidy limits is provided in "
+                    },
+                    {
+                      "type": "link",
+                      "link": "https://matirkatha.net/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e05a52aaf58b7fbfa749a5d71be15309a5101ea/FMS_Operational%20Guidelines_2024_25.pdf?disposition=attachment",
+                      "children": [
+                        {
+                          "text": "Annexure-II"
+                        }
+                      ]
+                    },
+                    {
+                      "text": " (Page No. 33) based on Cost Norms and Pattern of Financial Assistance under Sub Mission on Agricultural Mechanization(SMAM). Available models of different farm machinery /implements as mentioned in Annexure-II along with indicative price will be published in Matirkatha portal by the SPMT before starting of online application of the beneficiary . However, No large machines like tractor, rice transplanter “above 4 rows”, combine harvester etc. will be provided under FSSM."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "block_quote",
+              "children": [
+                {
+                  "text": "Note:",
+                  "bold": true,
+                  "underline": true
+                }
+              ]
+            },
+            {
+              "type": "ul_list",
+              "children": [
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "No machine/equipment will be procured by the Government. The Government will only release subsidy as back ended subsidy against procurement by the beneficiaries as per their choice under FSSM with Bank Loan. The subsidy will be released through DBT mode to the beneficiaries for FSSM."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "The subsidy will only be applicable for purchase of farm machinery/equipment from the approved Farm machinery Manufacturers and Dealers as enlisted in the Departmental portal."
+                    }
+                  ]
+                },
+                {
+                  "type": "list_item",
+                  "children": [
+                    {
+                      "text": "A beneficiary or his/her spouse will not be eligible to apply afresh before completion of 4(four) years from release of the last subsidy for any type of machinery under any FSSM scheme from the State under this Guidelines."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "A beneficiary or his/her spouse will not be eligible to apply afresh before completion of 4(four) years from release last subsidy for any type of machinery under any Farm Mechanization scheme (FSSM, OTA-SFI, FMB/FMH & CHC) from the State under this Guidelines."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "An employee/retired employee of State Government, Statutory Bodies, Government Undertakings, Panchayats, Municipal Corporations/Municipalities, Local Bodies, Government Aided Educational Institutions etc. is not eligible."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Registration Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the official FMS "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://wbfms.matirkatha.net/applicants/sign_up",
+                    "children": [
+                      {
+                        "text": "portal "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "and click on “New Registration”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in all the mandatory details in “Applicant Registration” form."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Verify all the details and click on “Sign Up”."
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Application Process:",
+                    "bold": true,
+                    "underline": true
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 01:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Visit the official FMS "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://wbfms.matirkatha.net/applicants/sign_up",
+                    "children": [
+                      {
+                        "text": "portal "
+                      }
+                    ]
+                  },
+                  {
+                    "text": "and click on “Log in”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 02: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Enter Voter Card no, Password and select Season then click on “Log In”."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 03:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Fill in all the mandatory details in the application form. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 04: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "After successful submission of online application, hard copies of print out of the application with acknowledgement receipt, recent passport size photograph and other prescribed documents (self-attest, if required) will have to be submitted to the office of the Assistant Director of Agriculture of the concerned Block within the stipulated period."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 05:",
+                    "bold": true
+                  },
+                  {
+                    "text": " The applicant will get one time edit option in the specified field after submission of application through online mode but before submission of hard copy to the office of the Assistant Director of Agriculture of the concerned Block. No edit option will be allowed once hard copy is submitted."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 06: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "The serial number generated in the online application to be referred in all cases."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "block_quote",
+                "children": [
+                  {
+                    "text": "Helpline Desk: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "8336957298 (10.00 am to 6.00 pm)."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Note: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "Online application of beneficiary farmers/entrepreneurs will have to be done in Matirkatha/ FMS portal after due advertisement in leading dailies, Departmental website."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "process_md": "&gt; **Registration Process:**\n\n**Step 01:** Visit the official FMS [portal ](https://wbfms.matirkatha.net/applicants/sign_up)and click on “New Registration”.\n**Step 02:** Fill in all the mandatory details in “Applicant Registration” form.\n**Step 03:** Verify all the details and click on “Sign Up”.\n&gt; **Application Process:**\n\n**Step 01:** Visit the official FMS [portal ](https://wbfms.matirkatha.net/applicants/sign_up)and click on “Log in”.\n**Step 02:** Enter Voter Card no, Password and select Season then click on “Log In”.\n**Step 03:** Fill in all the mandatory details in the application form. \n**Step 04:** After successful submission of online application, hard copies of print out of the application with acknowledgement receipt, recent passport size photograph and other prescribed documents (self-attest, if required) will have to be submitted to the office of the Assistant Director of Agriculture of the concerned Block within the stipulated period.\n**Step 05:** The applicant will get one time edit option in the specified field after submission of application through online mode but before submission of hard copy to the office of the Assistant Director of Agriculture of the concerned Block. No edit option will be allowed once hard copy is submitted.\n**Step 06:** The serial number generated in the online application to be referred in all cases.\n&lt;br&gt;\n\n&gt; **Helpline Desk:** 8336957298 (10.00 am to 6.00 pm).\n\n&lt;br&gt;\n\n**Note:** Online application of beneficiary farmers/entrepreneurs will have to be done in Matirkatha/ FMS portal after due advertisement in leading dailies, Departmental website.\n<br>\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n- Individual farmers registered under Krishak Bandhu (New) Scheme.\n\nOr,\nGroups like SKUS/PACS/FPO/FPC/FIG/SHG duly graded /LAMPS etc. approved/recognized by any Govt Institution/Departments.\n\n- Minimum 0.5 (half) acre agricultural land (RoR) is required by the applicant for purchase of power tiller &amp; solar photo-voltaic water pumping system under FSSM.\n- The age of the beneficiary should be minimum 18 years at the time of application.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Individual farmers registered under Krishak Bandhu (New) Scheme."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Groups like SKUS/PACS/FPO/FPC/FIG/SHG duly graded /LAMPS etc. approved/recognized by any Govt Institution/Departments."
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Minimum 0.5 (half) acre agricultural land (RoR) is required by the applicant for purchase of power tiller & solar photo-voltaic water pumping system under FSSM."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The age of the beneficiary should be minimum 18 years at the time of application."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "fssm"
+}

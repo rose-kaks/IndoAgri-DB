@@ -1,0 +1,507 @@
+{
+  "_id": "66a118938c4bd3d40593a942",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": false,
+      "tags": [
+        "Scheduled Caste",
+        "Tribe",
+        "Most Backward",
+        "Farmers"
+      ],
+      "schemeName": "Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)",
+      "schemeShortTitle": "TMVSY-AJJAP",
+      "level": {
+        "value": "state",
+        "label": "State/ UT"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        },
+        {
+          "value": "628ce85cd6d1a3bde4685304",
+          "label": "Skills & Employment"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Fishing and hunting",
+          "label": "Fishing and hunting"
+        },
+        {
+          "value": "Agricultural Inputs- seeds, fertilizer etc.",
+          "label": "Agricultural Inputs- seeds, fertilizer etc."
+        },
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "schemeOpenDate": "2024-07-08",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        },
+        {
+          "value": "family",
+          "label": "Family"
+        }
+      ],
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalDepartmentName": {
+        "value": 10111112,
+        "label": "Animal & Fisheries Resources Department"
+      },
+      "schemeFor": "Infra",
+      "slug": "tmvsy-ajjap",
+      "briefDescription": "The Bihar Government's Animal and Fisheries Resources Department has introduced the \"Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)\" aims to support fish farmers by providing financial and technical assistance for pond construction, installation of necessary equipment"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://fisheries.bihar.gov.in/docs/Specialpackage2425.pdf"
+        },
+        {
+          "title": "Official Website",
+          "url": "https://fisheries.bihar.gov.in/Default.aspx"
+        },
+        {
+          "title": "Login",
+          "url": "https://misfisheries.bihar.gov.in/login.aspx"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The &quot;Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)&quot; was launched by the Animal and Fisheries Resources Department, Government of Bihar. This scheme aims to support fish farmers from Scheduled Castes, Tribes, and Extremely Backward Classes by providing financial and technical assistance for pond construction, installation of necessary equipment, and other related activities. The scheme has a total budget of ₹2994.60 lakh and seeks to enhance livelihood opportunities, ensure food and protein security, and promote employment among these communities.\n",
+      "benefits_md": "> **Assistance**\n\n\n- Offers a 70% subsidy on the total cost, reducing the financial burden on beneficiaries.\n\n<br>\n\n> **Subsidy Payment:**\n\n\n- Subsidy payments are made in two installments: 60% after pond construction and 40% after installation of related units and purchase of inputs.\n\n",
+      "briefDescription": "The Bihar Government's Animal and Fisheries Resources Department has introduced the \"Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)\" aims to support fish farmers by providing financial and technical assistance for pond construction, installation of necessary equipment",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The \"Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)\" was launched by the Animal and Fisheries Resources Department, Government of Bihar. This scheme aims to support fish farmers from Scheduled Castes, Tribes, and Extremely Backward Classes by providing financial and technical assistance for pond construction, installation of necessary equipment, and other related activities. The scheme has a total budget of ₹2994.60 lakh and seeks to enhance livelihood opportunities, ensure food and protein security, and promote employment among these communities."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "text": "Assistance",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Offers a 70% subsidy on the total cost, reducing the financial burden on beneficiaries."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "bold": true,
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "block_quote",
+          "children": [
+            {
+              "underline": true,
+              "text": "Subsidy Payment:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Subsidy payments are made in two installments: 60% after pond construction and 40% after installation of related units and purchase of inputs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "process": [
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Registration Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply. Apply online for Training and Tour Darshan Scheme.\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Select the \""
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/RegisterFisheries.aspx",
+                "children": [
+                  {
+                    "text": "Registration for Fisheries Schemes"
+                  }
+                ]
+              },
+              {
+                "text": "\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03:",
+                "bold": true
+              },
+              {
+                "text": " Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " Enter a valid 10-digit mobile number and click to send OTP."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05:",
+                "bold": true
+              },
+              {
+                "text": " An OTP will be sent to the provided mobile number."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06:",
+                "bold": true
+              },
+              {
+                "text": " Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-07:",
+                "bold": true
+              },
+              {
+                "text": " Click on the \"Login\" and enter the Registration Number and Password."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "block_quote",
+            "children": [
+              {
+                "text": "Application Form Filling Process:",
+                "bold": true,
+                "italic": true,
+                "underline": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-01: ",
+                "bold": true
+              },
+              {
+                "text": "The applicant visits the "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Default.aspx",
+                "children": [
+                  {
+                    "text": "official website"
+                  }
+                ]
+              },
+              {
+                "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+              },
+              {
+                "type": "link",
+                "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+                "children": [
+                  {
+                    "text": "click here"
+                  }
+                ]
+              },
+              {
+                "text": " to apply. Apply online for Training and Tour Darshan Scheme.\""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-02:",
+                "bold": true
+              },
+              {
+                "text": " Click \"If your already register, "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/login.aspx",
+                "children": [
+                  {
+                    "text": "login here"
+                  }
+                ]
+              },
+              {
+                "text": "\". "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-03",
+                "bold": true
+              },
+              {
+                "text": ": Select \"Application for fishery scheme\" option and choose the scheme name \"Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)\", after the application form is open."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-04:",
+                "bold": true
+              },
+              {
+                "text": " The application form will capture registration personal data details."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-05:",
+                "bold": true
+              },
+              {
+                "text": " Fill in the bank and land details. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step-06: ",
+                "bold": true
+              },
+              {
+                "text": "Click on the submit button as well print the application form and submit it to the District Fisheries Office along with attachments. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Note",
+                "bold": true
+              },
+              {
+                "text": ": Download the "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/Docs/Specialpackagesapat.pdf",
+                "children": [
+                  {
+                    "text": "Affidavit form"
+                  }
+                ]
+              },
+              {
+                "text": " and "
+              },
+              {
+                "type": "link",
+                "link": "https://misfisheries.bihar.gov.in/Docs/specialpackagesahmati.pdf",
+                "children": [
+                  {
+                    "text": "Consent form"
+                  }
+                ]
+              },
+              {
+                "text": " also attached with the application. "
+              }
+            ]
+          }
+        ],
+        "process_md": "> ***Registration Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply. Apply online for Training and Tour Darshan Scheme.&quot;\n**Step-02:** Select the &quot;[Registration for Fisheries Schemes](https://misfisheries.bihar.gov.in/RegisterFisheries.aspx)&quot;\n**Step-03:** Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.\n**Step-04:** Enter a valid 10-digit mobile number and click to send OTP.\n**Step-05:** An OTP will be sent to the provided mobile number.\n**Step-06:** Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.\n**Step-07:** Click on the &quot;Login&quot; and enter the Registration Number and Password.\n<br>\n\n> ***Application Form Filling Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply. Apply online for Training and Tour Darshan Scheme.&quot;\n**Step-02:** Click &quot;If your already register, [login here](https://misfisheries.bihar.gov.in/login.aspx)&quot;. \n**Step-03**: Select &quot;Application for fishery scheme&quot; option and choose the scheme name &quot;Talab Matsyiki Vishesh Sahayata Yojana (Anusuchit Jaati/Janajati/Ati Pichhada)&quot;, after the application form is open.\n**Step-04:** The application form will capture registration personal data details.\n**Step-05:** Fill in the bank and land details. \n**Step-06:** Click on the submit button as well print the application form and submit it to the District Fisheries Office along with attachments. \n<br>\n\n**Note**: Download the [Affidavit form](https://misfisheries.bihar.gov.in/Docs/Specialpackagesapat.pdf) and [Consent form](https://misfisheries.bihar.gov.in/Docs/specialpackagesahmati.pdf) also attached with the application. \n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should belong to Scheduled Castes, Tribes, or Most Backward Classes.\n1. The applicant should have private or leased land available for pond construction.\n\n<br>\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should belong to Scheduled Castes, Tribes, or Most Backward Classes."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should have private or leased land available for pond construction."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "tmvsy-ajjap"
+}

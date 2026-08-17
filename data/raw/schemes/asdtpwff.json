@@ -1,0 +1,322 @@
+{
+  "_id": "6481c9fc380f8e12353d7b85",
+  "en": {
+    "basicDetails": {
+      "dbtScheme": null,
+      "tags": [
+        "Agriculture",
+        "Farmer",
+        "Women",
+        "Training",
+        "Skill Development",
+        "Youth"
+      ],
+      "schemeName": "Agricultural Skill Development Training Programme For Women Farmers And Farmers",
+      "schemeShortTitle": "ASDTPWFF",
+      "implementingAgency": "Directorate Of Agriculture, Government Of Gujarat",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeSubCategory": null,
+      "schemeOpenDate": "2012-04-01",
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "state": {
+        "value": 24,
+        "label": "Gujarat"
+      },
+      "nodalDepartmentName": {
+        "value": 2444441,
+        "label": "Agriculture, Farmers Welfare and Cooperation Department"
+      },
+      "schemeFor": "Individual",
+      "slug": "asdtpwff",
+      "briefDescription": "The scheme “Agricultural Skill Development Training Programme for Women Farmers and Farmers” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat."
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Official Website",
+          "url": "https://dag.gujarat.gov.in/agricultural-skill-development-program.htm"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "The scheme “Agricultural Skill Development Training Programme for Women Farmers and Farmers” was started by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat. This Scheme is sanctioned under a gender audit programme for more productive varieties and a training-n-education programme for farmers.\n       Nowadays, women have become very sensitive in all developing fields. Moreover, there is a significant role of women farmers in agricultural activities. So, the Government of Gujarat sanctioned a programme of &amp;quot;Agricultural Skill Development Training Programme for Women Farmers” in the year: 2012-13. Afterward in the year 2013-14, the government sanctioned this programme jointly.\nUnder this programme, selected women farmers, male farmers, and youth have been trained-n-guided in agricultural and allied aspects of the scientific method. Moreover, they have informed the developing scheme of the state and central levels. During the year 2018-19, this scheme has sanctioned on Date: 11-04-2018. The training activities of the same programme are as under:\n**Training Activities :**\n\n- Pre-Seasonal Camp (Village Level)\n- Institutional Training Course (Four Days)\n- Training for Youth (Five Days)\n- Sharing Followup Camps (Village Level)\n- Krishimela (Krishi Stalls, Competition, Seminar)\n- In State Educational Inspiration Study Tour (For 7 Days)\n- Out of the Educational Inspiration Study Tour (For 10 Days)\n- International Educational Inspiration Study Tour (For 10 Days)\n- State-Level Sharing Workshop\n\n<br>\n\n",
+      "benefits_md": "\n1. Selected women farmers, male farmers, and youth have been trained-n-guided in agricultural and allied aspects of the scientific method.\n1. The latest information on agricultural aspects will be provided to the selected applicant under this scheme.\n1. The selected applicants have informed the developing scheme of the state and central levels.\n\n",
+      "exclusions_md": "<br>\n\n",
+      "briefDescription": "The scheme “Agricultural Skill Development Training Programme for Women Farmers and Farmers” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat.",
+      "detailedDescription": [
+        {
+          "type": "align_justify",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The scheme “Agricultural Skill Development Training Programme for Women Farmers and Farmers” was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat. This Scheme is sanctioned under a gender audit programme for more productive varieties and a training-n-education programme for farmers."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "       Nowadays, women have become very sensitive in all developing fields. Moreover, there is a significant role of women farmers in agricultural activities. So, the Government of Gujarat sanctioned a programme of \"Agricultural Skill Development Training Programme for Women Farmers” in the year: 2012-13. Afterward in the year 2013-14, the government sanctioned this programme jointly."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Under this programme, selected women farmers, male farmers, and youth have been trained-n-guided in agricultural and allied aspects of the scientific method. Moreover, they have informed the developing scheme of the state and central levels. During the year 2018-19, this scheme has sanctioned on Date: 11-04-2018. The training activities of the same programme are as under:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Training Activities :",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "ul_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Pre-Seasonal Camp (Village Level)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Institutional Training Course (Four Days)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Training for Youth (Five Days)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Sharing Followup Camps (Village Level)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Krishimela (Krishi Stalls, Competition, Seminar)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In State Educational Inspiration Study Tour (For 7 Days)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Out of the Educational Inspiration Study Tour (For 10 Days)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "International Educational Inspiration Study Tour (For 10 Days)"
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "State-Level Sharing Workshop"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 2,
+        "value": "in-kind",
+        "label": "In Kind"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Selected women farmers, male farmers, and youth have been trained-n-guided in agricultural and allied aspects of the scientific method."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The latest information on agricultural aspects will be provided to the selected applicant under this scheme."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The selected applicants have informed the developing scheme of the state and central levels."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "exclusions": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Offline",
+        "url": "",
+        "process": [
+          {
+            "type": "align_justify",
+            "children": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 1: ",
+                    "bold": true
+                  },
+                  {
+                    "text": "To participate in the training, the applicant needs to visit the nearest Farmer Training Centre of the district or contact Village Level Worker (Gram Sevak) and request/collect an application form for the scheme."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 2:",
+                    "bold": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Step 3:",
+                    "bold": true
+                  },
+                  {
+                    "text": " Submit the application form along with the documents to the concerned receiving authority."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Step 4:",
+                "bold": true
+              },
+              {
+                "text": " After successful verification, the applicant may be eligible to take all the benefits under the scheme. "
+              }
+            ]
+          }
+        ],
+        "process_md": "**Step 1:** To participate in the training, the applicant needs to visit the nearest Farmer Training Centre of the district or contact Village Level Worker (Gram Sevak) and request/collect an application form for the scheme.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents.\n**Step 3:** Submit the application form along with the documents to the concerned receiving authority.\n**Step 4:** After successful verification, the applicant may be eligible to take all the benefits under the scheme. \n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Gujarat State.\n1. The farm families of women farmers, male farmers, and youth are eligible to apply.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The applicant should be a permanent resident of Gujarat State."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The farm families of women farmers, male farmers, and youth are eligible to apply."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "asdtpwff"
+}

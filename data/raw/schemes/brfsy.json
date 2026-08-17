@@ -1,0 +1,309 @@
+{
+  "_id": "647f13bd481f59106a676a2d",
+  "en": {
+    "basicDetails": {
+      "schemeOpenDate": "2021-04-08",
+      "schemeCloseDate": null,
+      "state": {
+        "value": 10,
+        "label": "Bihar"
+      },
+      "nodalMinistryName": null,
+      "nodalDepartmentName": {
+        "value": 10111117,
+        "label": "Co-Operative Department"
+      },
+      "otherMinistryName": null,
+      "otherDepartmentNames": null,
+      "targetBeneficiaries": [
+        {
+          "value": "individual",
+          "label": "Individual"
+        }
+      ],
+      "schemeSubCategory": [
+        {
+          "value": "Financial assistance",
+          "label": "Financial assistance"
+        }
+      ],
+      "dbtScheme": null,
+      "implementingAgency": null,
+      "tags": [
+        "Financial Assistance",
+        "Natural Disaster",
+        "Farmer Welfare",
+        "Crop Assistance"
+      ],
+      "schemeName": "Bihar Rajya Fasal Sahayata Yojna",
+      "schemeShortTitle": "BRFSY",
+      "level": {
+        "value": "state",
+        "label": "State"
+      },
+      "schemeCategory": [
+        {
+          "value": "628ce6ead6d1a3bde4685252",
+          "label": "Agriculture,Rural & Environment"
+        }
+      ],
+      "schemeFor": "Individual",
+      "slug": "brfsy",
+      "briefDescription": "The scheme strives to back the farmers with financial incentives in the event of a crop loss due to natural calamities.\n"
+    },
+    "schemeContent": {
+      "references": [
+        {
+          "title": "Guidelines",
+          "url": "https://govtschemes.in/sites/default/files/2023-02/Bihar%20Rajya%20Fasal%20Sahayta%20Yojana%20Guidelines.pdf"
+        },
+        {
+          "title": "Application Form",
+          "url": "https://pacsonline.bih.nic.in/fsy/Public/BothSelfDeclaration_rabi.pdf"
+        }
+      ],
+      "schemeImageUrl": "",
+      "detailedDescription_md": "Bihar State Crop Assistance Scheme has been started by the State Government of Bihar to protect the crops of farmers cultivating in Bihar from natural calamities such as floods, drought, etc. Is. Under this Bihar State Crop Assistance Scheme, if there is any damage to the farming of farmers due to any natural calamity, then they will be provided financial assistance by the Government of Bihar under the Bihar State Crop Assistance Scheme.\n- Covered crop: \n\n1. Aghani paddy crop: is notified in all gram panchayats of a total of 527 (except Navgachia, Bihpur, Gopalpur, Narayanpur, Ismailpur, Rangrachowk and Kharik circles of Bhagalpur) in 38 districts of the state.\n1. Bhadai - Maize crop:  is notified in all gram panchayats of a total of 534 of 38 districts of the state. \n1. The soybean crop is notified as a district-level crop for Begusarai, Samastipur, and Khagaria districts.\n\nClauses (1) and (2) are also notified in the Nagar Panchayat and Nagar Parishad located in the concerned district.\n",
+      "benefits_md": "\n1. In case of a reduction in the actual yield rate by 20% as compared to the threshold yield rate, total assistance of Rs. 15,000 is estimated at the rate of Rs. 7,500 per hectare up to a maximum of two (02) hectares.\n1. In the event of more than a 20% reduction in the actual yield rate as compared to the threshold yield rate, total assistance of Rs. 20,000 is estimated at the rate of Rs. 10,000 per hectare up to a maximum of two (02) hectares.\n\n",
+      "briefDescription": "The scheme strives to back the farmers with financial incentives in the event of a crop loss due to natural calamities.\n",
+      "exclusions_md": "",
+      "detailedDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bihar State Crop Assistance Scheme has been started by the State Government of Bihar to protect the crops of farmers cultivating in Bihar from natural calamities such as floods, drought, etc. Is. Under this Bihar State Crop Assistance Scheme, if there is any damage to the farming of farmers due to any natural calamity, then they will be provided financial assistance by the Government of Bihar under the Bihar State Crop Assistance Scheme."
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "children": [
+            {
+              "text": "Covered crop: "
+            }
+          ]
+        },
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Aghani paddy crop: is notified in all gram panchayats of a total of 527 (except Navgachia, Bihpur, Gopalpur, Narayanpur, Ismailpur, Rangrachowk and Kharik circles of Bhagalpur) in 38 districts of the state."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Bhadai - Maize crop:  is notified in all gram panchayats of a total of 534 of 38 districts of the state. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "The soybean crop is notified as a district-level crop for Begusarai, Samastipur, and Khagaria districts."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clauses (1) and (2) are also notified in the Nagar Panchayat and Nagar Parishad located in the concerned district."
+            }
+          ]
+        }
+      ],
+      "benefitTypes": {
+        "id": 1,
+        "value": "cash",
+        "label": "Cash"
+      },
+      "benefits": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In case of a reduction in the actual yield rate by 20% as compared to the threshold yield rate, total assistance of Rs. 15,000 is estimated at the rate of Rs. 7,500 per hectare up to a maximum of two (02) hectares."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "In the event of more than a 20% reduction in the actual yield rate as compared to the threshold yield rate, total assistance of Rs. 20,000 is estimated at the rate of Rs. 10,000 per hectare up to a maximum of two (02) hectares."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "applicationProcess": [
+      {
+        "mode": "Online",
+        "url": "https://pacsonline.bih.nic.in/fsy/Login.aspx",
+        "process": [
+          {
+            "type": "ol_list",
+            "children": [
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Farmers need to apply on the "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://pacsonline.bih.nic.in/fsy/Login.aspx",
+                    "children": [
+                      {
+                        "text": "official portal."
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "First Farmers need to log in with their registration details. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "If Farmes does have a registration number then they have to complete the registration process on "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://dbtagriculture.bihar.gov.in/",
+                    "children": [
+                      {
+                        "text": "https://dbtagriculture.bihar.gov.in/"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After the registration, farmers can get/search for their Registration Number on "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://pacsonline.bih.nic.in/fsy/Register.aspx",
+                    "children": [
+                      {
+                        "text": "https://pacsonline.bih.nic.in/fsy/Register.aspx"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "After login on "
+                  },
+                  {
+                    "type": "link",
+                    "link": "https://pacsonline.bih.nic.in/fsy/Login.aspx",
+                    "children": [
+                      {
+                        "text": "Official Portal"
+                      }
+                    ]
+                  },
+                  {
+                    "text": ",  a new form will open."
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "Here applicants have to enter the required information. "
+                  }
+                ]
+              },
+              {
+                "type": "list_item",
+                "children": [
+                  {
+                    "text": "And submit the application."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "process_md": "\n1. Farmers need to apply on the [official portal.](https://pacsonline.bih.nic.in/fsy/Login.aspx)1. First Farmers need to log in with their registration details. \n1. If Farmes does have a registration number then they have to complete the registration process on [https://dbtagriculture.bihar.gov.in/](https://dbtagriculture.bihar.gov.in/)1. After the registration, farmers can get/search for their Registration Number on [https://pacsonline.bih.nic.in/fsy/Register.aspx](https://pacsonline.bih.nic.in/fsy/Register.aspx)1. After login on [Official Portal](https://pacsonline.bih.nic.in/fsy/Login.aspx),  a new form will open.1. Here applicants have to enter the required information. \n1. And submit the application.\n\n"
+      }
+    ],
+    "schemeDefinitions": [],
+    "eligibilityCriteria": {
+      "eligibilityDescription_md": "\n1. All such farmers cultivate their own land. \n1. All such farmers cultivate the land of others.\n1. Such farmers do farming on their own land as well as on the land of others.\n\n",
+      "eligibilityDescription": [
+        {
+          "type": "ol_list",
+          "children": [
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All such farmers cultivate their own land. "
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "All such farmers cultivate the land of others."
+                }
+              ]
+            },
+            {
+              "type": "list_item",
+              "children": [
+                {
+                  "text": "Such farmers do farming on their own land as well as on the land of others."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "slug": "brfsy"
+}
