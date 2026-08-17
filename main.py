@@ -18,14 +18,6 @@ def main():
     )
 
     fetch_weather_pan_india()
-
-    fetch_soil(
-        state="Bihar",
-        district="Araria",
-        block="Araria",
-        village="Araria"
-    )
-
     fetch_agmarknet_complete()
     fetch_disaster_alerts()
     fetch_pib_agri_news()
