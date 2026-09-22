@@ -10,8 +10,12 @@ inter-batch delay must respect the 600 calls/minute free-tier limit.
 
 import time
 
-from utils import PROCESSED_DIR, log, safe_get, save_json, utc_now
+from utils import PROCESSED_DIR, log, safe_get, save_json, utc_now, is_cache_fresh, cache_age_days, log
 from fetchers.lgd import load_lgd_districts
+from pathlib import Path
+
+OUTPUT_FILE = PROCESSED_DIR / "weather" / "pan_india_weather.json"
+MAX_CACHE_AGE_DAYS = 1
 
 # ---------------------------------------------------------------------------
 # Config
@@ -37,7 +41,14 @@ def _chunks(items, size):
         yield items[i:i + size]
 
 
-def fetch_weather_pan_india():
+def fetch_weather_pan_india(force: bool = False):
+    if not force and is_cache_fresh(OUTPUT_FILE, MAX_CACHE_AGE_DAYS):
+        age = cache_age_days(OUTPUT_FILE)
+        log.info(
+            f"Weather data is fresh ({age:.1f} days old). "
+            f"Skipping fetch. Use force=True to override."
+        )
+        return
     """
     Fetch daily weather for every LGD district and save the result.
 

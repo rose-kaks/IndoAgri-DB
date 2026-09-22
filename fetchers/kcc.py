@@ -17,7 +17,11 @@ Key observations (from real data):
 import re
 import time
 
-from utils import PROCESSED_DIR, load_api_key, log, safe_get, save_json, utc_now
+from utils import PROCESSED_DIR, load_api_key, is_cache_fresh, cache_age_days, log, safe_get, save_json, utc_now
+from pathlib import Path
+
+OUTPUT_FILE = PROCESSED_DIR / "kcc" / "kcc_qa.json"
+MAX_CACHE_AGE_DAYS = 7
 
 # ---------------------------------------------------------------------------
 # Config
@@ -131,7 +135,14 @@ def _format_record(rec: dict):
 # ---------------------------------------------------------------------------
 # Public entry point
 # ---------------------------------------------------------------------------
-def fetch_kcc(total_to_fetch: int = DEFAULT_TOTAL, batch_size: int = BATCH_SIZE):
+def fetch_kcc(total_to_fetch: int = DEFAULT_TOTAL, batch_size: int = BATCH_SIZE, force: bool = False):
+    if not force and is_cache_fresh(OUTPUT_FILE, MAX_CACHE_AGE_DAYS):
+        age = cache_age_days(OUTPUT_FILE)
+        log.info(
+            f"KCC data is fresh ({age:.1f} days old). "
+            f"Skipping fetch. Use force=True to override."
+        )
+        return
     """
     Download and clean KCC Q&A records.
 

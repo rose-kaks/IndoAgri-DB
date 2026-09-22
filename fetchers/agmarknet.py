@@ -1,6 +1,17 @@
-from utils import PROCESSED_DIR, load_api_key, safe_get, save_json, utc_now, log
+from utils import PROCESSED_DIR, load_api_key, safe_get, save_json, utc_now, is_cache_fresh, cache_age_days, log
+from pathlib import Path
 
-def fetch_agmarknet_complete():
+OUTPUT_FILE = PROCESSED_DIR / "agmarknet" / "agmarknet_today.json"
+MAX_CACHE_AGE_DAYS = 1
+
+def fetch_agmarknet_complete(force: bool = False):
+    if not force and is_cache_fresh(OUTPUT_FILE, MAX_CACHE_AGE_DAYS):
+        age = cache_age_days(OUTPUT_FILE)
+        log.info(
+            f"Agmarknet data is fresh ({age:.1f} days old). "
+            f"Skipping fetch. Use force=True to override."
+        )
+        return
     log.info("Fetching complete Agmarknet dataset via Data.gov.in API...")
     api_key = load_api_key("AGMARKNET_API_KEY")
 

@@ -13,7 +13,9 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-from utils import PROCESSED_DIR, RAW_DIR, log, save_json, utc_now
+from utils import PROCESSED_DIR, RAW_DIR, is_cache_fresh, cache_age_days, log, save_json, utc_now
+
+MAX_CACHE_AGE_DAYS = 30
 
 # ---------------------------------------------------------------------------
 # Config
@@ -220,7 +222,14 @@ def _fetch_detail(session: requests.Session, slug: str) -> Optional[Dict]:
 # ---------------------------------------------------------------------------
 # Public entry point
 # ---------------------------------------------------------------------------
-def fetch_farmer_schemes(limit: Optional[int] = None) -> None:
+def fetch_farmer_schemes(force: bool = False, limit: Optional[int] = None) -> None:
+    if not force and is_cache_fresh(PROCESSED_FILE, MAX_CACHE_AGE_DAYS):
+        age = cache_age_days(PROCESSED_FILE)
+        log.info(
+            f"Scheme data is fresh ({age:.1f} days old). "
+            f"Skipping fetch. Use force=True to override."
+        )
+        return
     """
     Full refresh of all Agriculture / Rural / Environment schemes.
     """

@@ -60,3 +60,20 @@ def safe_get(url: str, params: Optional[Dict] = None, timeout: int = 30, retries
 def save_json(path: Path, obj: Any):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(obj, indent=2, ensure_ascii=False), encoding="utf-8")
+
+def is_cache_fresh(path: Path, max_age_days: float) -> bool:
+    """
+    Return True if *path* exists and was modified less than
+    *max_age_days* ago. Used by fetchers to skip redundant work.
+    """
+    if not path.exists():
+        return False
+    age_days = (time.time() - path.stat().st_mtime) / 86400
+    return age_days < max_age_days
+
+
+def cache_age_days(path: Path) -> float:
+    """Return the age of *path* in days, or -1 if it doesn't exist."""
+    if not path.exists():
+        return -1.0
+    return (time.time() - path.stat().st_mtime) / 86400

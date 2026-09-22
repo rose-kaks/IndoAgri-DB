@@ -1,10 +1,22 @@
 import warnings
 from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
-from utils import PROCESSED_DIR, safe_get, save_json, utc_now, log
+from utils import PROCESSED_DIR, safe_get, save_json, utc_now, is_cache_fresh, cache_age_days, log
+from pathlib import Path
+
+OUTPUT_FILE = PROCESSED_DIR / "news" / "pib_agri_news.json"
+MAX_CACHE_AGE_DAYS = 1
+
 
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
-def fetch_pib_agri_news():
+def fetch_pib_agri_news(force: bool = False):
+    if not force and is_cache_fresh(OUTPUT_FILE, MAX_CACHE_AGE_DAYS):
+        age = cache_age_days(OUTPUT_FILE)
+        log.info(
+            f"News data is fresh ({age:.1f} days old). "
+            f"Skipping fetch. Use force=True to override."
+        )
+        return
     """
     Fetch agriculture-related press releases.
     Strategy:

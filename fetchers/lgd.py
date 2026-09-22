@@ -15,7 +15,7 @@ import csv
 import json
 from pathlib import Path
 
-from utils import BASE_DIR, log, safe_get, save_json, utc_now
+from utils import BASE_DIR, is_cache_fresh, cache_age_days, log, safe_get, save_json, utc_now
 
 # ---------------------------------------------------------------------------
 # Config
@@ -29,6 +29,7 @@ REFERENCE_DIR = BASE_DIR / "reference"
 REFERENCE_DIR.mkdir(parents=True, exist_ok=True)
 LGD_CSV_PATH = REFERENCE_DIR / "lgd_districts.csv"
 LGD_JSON_PATH = REFERENCE_DIR / "lgd_districts.json"
+MAX_CACHE_AGE_DAYS = 30
 
 
 def _flatten(raw):
@@ -75,7 +76,14 @@ def _flatten(raw):
     return districts
 
 
-def fetch_lgd_reference():
+def fetch_lgd_reference(force: bool = False):
+    if not force and is_cache_fresh(LGD_JSON_PATH, MAX_CACHE_AGE_DAYS):
+        age = cache_age_days(LGD_JSON_PATH)
+        log.info(
+            f"LGD data is fresh ({age:.1f} days old). "
+            f"Skipping fetch. Use force=True to override."
+        )
+        return
     """
     Download the LGD district list and save it locally.
 
