@@ -4,6 +4,12 @@ soil.py — Soil Health Card fetcher (bulk CSV download from CKAN).
 Downloads the full Soil Nutrient Analysis CSV (~1.1 GB) from the
 India Data Portal CKAN instance, then aggregates to district level.
 
+Two-level caching:
+    - If the aggregated output JSON is fresh, skip entirely.
+    - If the output JSON is stale but the raw CSV is fresh,
+      re-aggregate without re-downloading.
+    - If both are stale, download then aggregate.
+
 This replaces the dead ckandev.indiadataportal.com SQL endpoint.
 """
 
@@ -13,13 +19,19 @@ from pathlib import Path
 import pandas as pd
 import requests
 
-from utils import BASE_DIR, PROCESSED_DIR, log, save_json, utc_now
+from utils import (
+    BASE_DIR,
+    PROCESSED_DIR,
+    cache_age_days,
+    is_cache_fresh,
+    log,
+    save_json,
+    utc_now,
+)
 
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-# The direct CSV download URL from the CKAN resource page.
-# This is stable as long as the resource ID (66860e1a-...) doesn't change.
 CSV_URL = (
     "https://ckan.indiadataportal.com/dataset/"
     "66049516-7ae0-47e4-98dc-056bc7a27abc/resource/"
@@ -27,15 +39,17 @@ CSV_URL = (
     "soil-nutrient-analysis.csv"
 )
 
-# Cache the raw CSV locally so we don't re-download 1.1 GB every run.
 RAW_DIR = BASE_DIR / "raw" / "soil"
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 RAW_CSV = RAW_DIR / "soil_nutrient_analysis.csv"
 
-# Only re-download if the local file is older than this many days.
-CACHE_MAX_AGE_DAYS = 30
+OUTPUT_FILE = PROCESSED_DIR / "soil" / "district_soil.json"
 
-CHUNK_SIZE = 1024 * 1024  # 1 MB chunks for streaming download
+# Freshness policies
+OUTPUT_MAX_AGE_DAYS = 30      # Aggregated JSON — re-aggregate monthly
+CSV_MAX_AGE_DAYS = 30         # Raw CSV — re-download monthly
+
+CHUNK_SIZE = 1024 * 1024      # 1 MB chunks for streaming download
 
 
 # ---------------------------------------------------------------------------
@@ -47,17 +61,21 @@ def _download_csv(force: bool = False) -> bool:
 
     Returns True if the file is available locally, False on failure.
     """
-    if RAW_CSV.exists() and not force:
-        age_days = (time.time() - RAW_CSV.stat().st_mtime) / 86400
-        if age_days < CACHE_MAX_AGE_DAYS:
-            log.info(
-                f"Using cached CSV ({age_days:.1f} days old, "
-                f"{RAW_CSV.stat().st_size / 1e9:.2f} GB)"
-            )
-            return True
-        log.info(f"Cached CSV is {age_days:.1f} days old. Re-downloading...")
+    if not force and is_cache_fresh(RAW_CSV, CSV_MAX_AGE_DAYS):
+        age = cache_age_days(RAW_CSV)
+        log.info(
+            f"Using cached CSV ({age:.1f} days old, "
+            f"{RAW_CSV.stat().st_size / 1e9:.2f} GB)"
+        )
+        return True
 
-    log.info(f"Downloading Soil Health Card CSV (~1.1 GB) from CKAN...")
+    if RAW_CSV.exists():
+        log.info(
+            f"Cached CSV is {cache_age_days(RAW_CSV):.1f} days old. "
+            f"Re-downloading..."
+        )
+
+    log.info("Downloading Soil Health Card CSV (~1.1 GB) from CKAN...")
     log.info(f"URL: {CSV_URL}")
 
     try:
@@ -102,14 +120,12 @@ def _aggregate_district(csv_path: Path):
     """
     log.info("Aggregating CSV to district level (this may take a few minutes)...")
 
-    # Columns we need (confirmed from the CKAN data dictionary)
     USECOLS = [
         "year", "state_name", "state_code",
         "district_name", "district_code",
         "nutrient_name", "nutrient_level", "value",
     ]
 
-    # Accumulator: {(state, district): {nutrient: {level: count}}}
     accumulator = {}
     row_count = 0
     skipped = 0
@@ -125,7 +141,6 @@ def _aggregate_district(csv_path: Path):
     for chunk in chunk_iter:
         row_count += len(chunk)
 
-        # Drop rows with missing location or nutrient
         chunk = chunk.dropna(subset=["state_name", "district_name", "nutrient_name"])
 
         for _, row in chunk.iterrows():
@@ -160,7 +175,6 @@ def _aggregate_district(csv_path: Path):
     log.info(f"Total rows: {row_count:,} | Skipped: {skipped:,}")
     log.info(f"Districts found: {len(accumulator)}")
 
-    # Build the output records
     results = []
     for (state, district), info in accumulator.items():
         nutrients = {}
@@ -188,18 +202,32 @@ def _aggregate_district(csv_path: Path):
 # ---------------------------------------------------------------------------
 # Public entry point
 # ---------------------------------------------------------------------------
-def fetch_soil(force_download: bool = False):
+def fetch_soil(force: bool = False):
     """
-    Download the full Soil Health Card CSV and aggregate to district level.
+    Fetch and aggregate Soil Health Card data to district level.
+
+    Skips entirely if the aggregated output is fresh. Re-aggregates
+    without re-downloading if only the CSV is fresh.
 
     Output: data/processed/soil/district_soil.json
     """
+    # ── Level 1: aggregated output freshness ─────────────────────────
+    if not force and is_cache_fresh(OUTPUT_FILE, OUTPUT_MAX_AGE_DAYS):
+        age = cache_age_days(OUTPUT_FILE)
+        log.info(
+            f"Soil data is fresh ({age:.1f} days old). "
+            f"Skipping fetch. Use force=True to override."
+        )
+        return
+
     log.info("Fetching Soil Health Card data (bulk CSV from CKAN)...")
 
-    if not _download_csv(force=force_download):
+    # ── Level 2: raw CSV download (skipped if fresh) ─────────────────
+    if not _download_csv(force=force):
         log.error("CSV download failed. Skipping soil fetch.")
         return
 
+    # ── Aggregate ────────────────────────────────────────────────────
     try:
         districts = _aggregate_district(RAW_CSV)
     except Exception as err:
@@ -210,8 +238,7 @@ def fetch_soil(force_download: bool = False):
         log.warning("No district records produced from CSV.")
         return
 
-    out_file = PROCESSED_DIR / "soil" / "district_soil.json"
-    save_json(out_file, {
+    save_json(OUTPUT_FILE, {
         "source": "Soil Health Card - India Data Portal (CKAN)",
         "data_type": "soil_health_district_aggregated",
         "fetched_at": utc_now(),
@@ -220,7 +247,7 @@ def fetch_soil(force_download: bool = False):
     })
 
     log.info(
-        f"Soil data saved → {out_file} "
+        f"Soil data saved → {OUTPUT_FILE} "
         f"({len(districts)} districts with nutrient data)"
     )
 
