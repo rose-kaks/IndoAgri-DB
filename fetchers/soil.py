@@ -1,354 +1,229 @@
-from utils import PROCESSED_DIR, save_json, utc_now, log
+"""
+soil.py — Soil Health Card fetcher (bulk CSV download from CKAN).
+
+Downloads the full Soil Nutrient Analysis CSV (~1.1 GB) from the
+India Data Portal CKAN instance, then aggregates to district level.
+
+This replaces the dead ckandev.indiadataportal.com SQL endpoint.
+"""
+
+import time
+from pathlib import Path
+
+import pandas as pd
 import requests
 
-RESOURCE_ID = "024cf507-4281-4c89-a40e-37b5add3a4df"
+from utils import BASE_DIR, PROCESSED_DIR, log, save_json, utc_now
 
-API_URL = (
-    "https://ckandev.indiadataportal.com/"
-    "api/action/datastore_search_sql"
+# ---------------------------------------------------------------------------
+# Config
+# ---------------------------------------------------------------------------
+# The direct CSV download URL from the CKAN resource page.
+# This is stable as long as the resource ID (66860e1a-...) doesn't change.
+CSV_URL = (
+    "https://ckan.indiadataportal.com/dataset/"
+    "66049516-7ae0-47e4-98dc-056bc7a27abc/resource/"
+    "66860e1a-113a-4ca8-94aa-2418bd462d28/download/"
+    "soil-nutrient-analysis.csv"
 )
 
+# Cache the raw CSV locally so we don't re-download 1.1 GB every run.
+RAW_DIR = BASE_DIR / "raw" / "soil"
+RAW_DIR.mkdir(parents=True, exist_ok=True)
+RAW_CSV = RAW_DIR / "soil_nutrient_analysis.csv"
 
-def fetch_soil(
-    state,
-    district=None,
-    block=None,
-    village=None
-):
+# Only re-download if the local file is older than this many days.
+CACHE_MAX_AGE_DAYS = 30
+
+CHUNK_SIZE = 1024 * 1024  # 1 MB chunks for streaming download
+
+
+# ---------------------------------------------------------------------------
+# Download (streamed, with progress)
+# ---------------------------------------------------------------------------
+def _download_csv(force: bool = False) -> bool:
     """
-    Fetch latest available Soil Health Card data
-    for a specific location.
+    Download the full CSV to RAW_CSV if missing or stale.
+
+    Returns True if the file is available locally, False on failure.
     """
+    if RAW_CSV.exists() and not force:
+        age_days = (time.time() - RAW_CSV.stat().st_mtime) / 86400
+        if age_days < CACHE_MAX_AGE_DAYS:
+            log.info(
+                f"Using cached CSV ({age_days:.1f} days old, "
+                f"{RAW_CSV.stat().st_size / 1e9:.2f} GB)"
+            )
+            return True
+        log.info(f"Cached CSV is {age_days:.1f} days old. Re-downloading...")
 
-    log.info(
-        f"Fetching soil data for "
-        f"{state}"
-        + (f" / {district}" if district else "")
-        + (f" / {block}" if block else "")
-        + (f" / {village}" if village else "")
-    )
+    log.info(f"Downloading Soil Health Card CSV (~1.1 GB) from CKAN...")
+    log.info(f"URL: {CSV_URL}")
 
-    # --------------------------------------------------
-    # Build location filters
-    # --------------------------------------------------
+    try:
+        r = requests.get(CSV_URL, stream=True, timeout=(30, 120))
+        r.raise_for_status()
+    except requests.RequestException as err:
+        log.error(f"Download failed: {err}")
+        return False
 
-    conditions = [
-        f"state_name = '{state}'"
+    total = int(r.headers.get("content-length", 0))
+    downloaded = 0
+    last_log_pct = -1
+
+    with open(RAW_CSV, "wb") as fh:
+        for chunk in r.iter_content(chunk_size=CHUNK_SIZE):
+            if not chunk:
+                continue
+            fh.write(chunk)
+            downloaded += len(chunk)
+
+            if total:
+                pct = int(downloaded / total * 100)
+                if pct >= last_log_pct + 10:
+                    log.info(f"  Downloaded {pct}% ({downloaded / 1e9:.2f} GB)")
+                    last_log_pct = pct
+
+    log.info(f"CSV saved → {RAW_CSV} ({downloaded / 1e9:.2f} GB)")
+    return True
+
+
+# ---------------------------------------------------------------------------
+# Process: aggregate to district level
+# ---------------------------------------------------------------------------
+def _aggregate_district(csv_path: Path):
+    """
+    Read the CSV in chunks and aggregate to district level.
+
+    The full CSV is too large to load into memory at once, so we read
+    it in chunks and build per-district nutrient distributions.
+
+    Returns a list of district records.
+    """
+    log.info("Aggregating CSV to district level (this may take a few minutes)...")
+
+    # Columns we need (confirmed from the CKAN data dictionary)
+    USECOLS = [
+        "year", "state_name", "state_code",
+        "district_name", "district_code",
+        "nutrient_name", "nutrient_level", "value",
     ]
 
-    if district:
-        conditions.append(
-            f"district_name = '{district}'"
-        )
+    # Accumulator: {(state, district): {nutrient: {level: count}}}
+    accumulator = {}
+    row_count = 0
+    skipped = 0
 
-    if block:
-        conditions.append(
-            f"block_name = '{block}'"
-        )
-
-    if village:
-        conditions.append(
-            f"village_name = '{village}'"
-        )
-
-    where_clause = " AND ".join(conditions)
-
-    # --------------------------------------------------
-    # Find latest year
-    # --------------------------------------------------
-
-    year_sql = f'''
-        SELECT MAX(year) AS latest_year
-        FROM "{RESOURCE_ID}"
-        WHERE {where_clause}
-    '''
-
-    try:
-
-        response = requests.get(
-            API_URL,
-            params={"sql": year_sql},
-            timeout=60
-        )
-
-        response.raise_for_status()
-
-        year_data = response.json()
-
-    except requests.RequestException as err:
-
-        log.error(
-            f"Failed to fetch latest soil year: {err}"
-        )
-
-        return None
-
-    records = (
-        year_data
-        .get("result", {})
-        .get("records", [])
+    chunk_iter = pd.read_csv(
+        csv_path,
+        usecols=USECOLS,
+        chunksize=500_000,
+        low_memory=False,
+        on_bad_lines="skip",
     )
 
-    if not records:
+    for chunk in chunk_iter:
+        row_count += len(chunk)
 
-        log.warning(
-            "No soil year found."
-        )
+        # Drop rows with missing location or nutrient
+        chunk = chunk.dropna(subset=["state_name", "district_name", "nutrient_name"])
 
-        return None
+        for _, row in chunk.iterrows():
+            state = str(row["state_name"]).strip()
+            district = str(row["district_name"]).strip()
+            nutrient = str(row["nutrient_name"]).strip()
+            level = str(row["nutrient_level"]).strip()
+            value = row["value"]
 
-    latest_year = records[0].get(
-        "latest_year"
-    )
+            if not state or not district or not nutrient:
+                skipped += 1
+                continue
 
-    if not latest_year:
+            key = (state, district)
+            if key not in accumulator:
+                accumulator[key] = {
+                    "year": row.get("year"),
+                    "state_code": row.get("state_code"),
+                    "district_code": row.get("district_code"),
+                    "nutrients": {},
+                }
 
-        log.warning(
-            f"No soil data found for {state}"
-        )
+            nutrients = accumulator[key]["nutrients"]
+            if nutrient not in nutrients:
+                nutrients[nutrient] = {}
+            nutrients[nutrient][level] = nutrients[nutrient].get(level, 0) + (
+                value if pd.notna(value) else 0
+            )
 
-        return None
+        log.info(f"  Processed {row_count:,} rows...")
 
-    log.info(
-        f"Latest soil year: {latest_year}"
-    )
+    log.info(f"Total rows: {row_count:,} | Skipped: {skipped:,}")
+    log.info(f"Districts found: {len(accumulator)}")
 
-    # --------------------------------------------------
-    # Fetch soil records
-    # --------------------------------------------------
-
-    sql = f'''
-        SELECT
-            year,
-            state_name,
-            state_code,
-            district_name,
-            district_code,
-            block_name,
-            block_code,
-            village_name,
-            village_code,
-            nutrient_type,
-            nutrient_name,
-            nutrient_level,
-            value
-        FROM "{RESOURCE_ID}"
-        WHERE {where_clause}
-          AND year = '{latest_year}'
-        ORDER BY
-            nutrient_name,
-            nutrient_level
-    '''
-
-    try:
-
-        response = requests.get(
-            API_URL,
-            params={"sql": sql},
-            timeout=60
-        )
-
-        response.raise_for_status()
-
-        data = response.json()
-
-    except requests.RequestException as err:
-
-        log.error(
-            f"Failed to fetch soil records: {err}"
-        )
-
-        return None
-
-    records = (
-        data
-        .get("result", {})
-        .get("records", [])
-    )
-
-    if not records:
-
-        log.warning(
-            "No soil records found."
-        )
-
-        return None
-
-    # --------------------------------------------------
-    # Build normalized result
-    # --------------------------------------------------
-
-    first = records[0]
-
-    result = {
-        "source":
-            "Soil Health Card - India Data Portal",
-
-        "data_type":
-            "soil_health",
-
-        "fetched_at":
-            utc_now(),
-
-        "location": {
-
-            "state":
-                first["state_name"],
-
-            "state_code":
-                first["state_code"],
-
-            "district":
-                first["district_name"],
-
-            "district_code":
-                first["district_code"],
-
-            "block":
-                first["block_name"],
-
-            "block_code":
-                first["block_code"],
-
-            "village":
-                first["village_name"],
-
-            "village_code":
-                first["village_code"]
-        },
-
-        "year":
-            latest_year,
-
-        "soil": {}
-    }
-
-    # --------------------------------------------------
-    # Group nutrient → level → count
-    # --------------------------------------------------
-
-    for record in records:
-
-        nutrient = record[
-            "nutrient_name"
-        ]
-
-        level = record[
-            "nutrient_level"
-        ]
-
-        value = record[
-            "value"
-        ]
-
-        if nutrient not in result["soil"]:
-
-            result["soil"][nutrient] = {
-                "distribution": {},
-                "dominant_level": None,
-                "total_samples": 0
+    # Build the output records
+    results = []
+    for (state, district), info in accumulator.items():
+        nutrients = {}
+        for nutrient, levels in info["nutrients"].items():
+            if not levels:
+                continue
+            max_level = max(levels, key=levels.get)
+            nutrients[nutrient] = {
+                "distribution": levels,
+                "dominant_level": max_level,
             }
 
-        result["soil"][
-            nutrient
-        ][
-            "distribution"
-        ][
-            level
-        ] = value
+        results.append({
+            "state": state,
+            "district": district,
+            "state_code": info.get("state_code"),
+            "district_code": info.get("district_code"),
+            "year": info.get("year"),
+            "nutrients": nutrients,
+        })
 
-    # --------------------------------------------------
-    # Derive dominant level + sample count
-    # --------------------------------------------------
+    return results
 
-    for nutrient, info in result["soil"].items():
 
-        distribution = info[
-            "distribution"
-        ]
+# ---------------------------------------------------------------------------
+# Public entry point
+# ---------------------------------------------------------------------------
+def fetch_soil(force_download: bool = False):
+    """
+    Download the full Soil Health Card CSV and aggregate to district level.
 
-        info[
-            "total_samples"
-        ] = sum(
-            distribution.values()
-        )
+    Output: data/processed/soil/district_soil.json
+    """
+    log.info("Fetching Soil Health Card data (bulk CSV from CKAN)...")
 
-        if not distribution:
-            continue
+    if not _download_csv(force=force_download):
+        log.error("CSV download failed. Skipping soil fetch.")
+        return
 
-        max_count = max(
-            distribution.values()
-        )
+    try:
+        districts = _aggregate_district(RAW_CSV)
+    except Exception as err:
+        log.error(f"Aggregation failed: {err}")
+        return
 
-        dominant_levels = [
-            level
-            for level, count
-            in distribution.items()
-            if count == max_count
-        ]
+    if not districts:
+        log.warning("No district records produced from CSV.")
+        return
 
-        if len(dominant_levels) == 1:
-
-            info[
-                "dominant_level"
-            ] = dominant_levels[0]
-
-        else:
-
-            info[
-                "dominant_level"
-            ] = "Tie"
-
-            info[
-                "dominant_levels"
-            ] = dominant_levels
-
-    # --------------------------------------------------
-    # Save processed data
-    # --------------------------------------------------
-
-    output_dir = (
-        PROCESSED_DIR / "soil"
-    )
-
-    output_dir.mkdir(
-        parents=True,
-        exist_ok=True
-    )
-
-    filename_parts = [
-        state,
-        district,
-        block,
-        village
-    ]
-
-    filename_parts = [
-        str(x)
-        .lower()
-        .replace(" ", "_")
-        .replace("/", "_")
-        for x in filename_parts
-        if x
-    ]
-
-    filename = (
-        "_".join(filename_parts)
-        + ".json"
-    )
-
-    out_file = (
-        output_dir / filename
-    )
-
-    save_json(
-        out_file,
-        result
-    )
+    out_file = PROCESSED_DIR / "soil" / "district_soil.json"
+    save_json(out_file, {
+        "source": "Soil Health Card - India Data Portal (CKAN)",
+        "data_type": "soil_health_district_aggregated",
+        "fetched_at": utc_now(),
+        "total_districts": len(districts),
+        "districts": districts,
+    })
 
     log.info(
-        f"Soil data saved → "
-        f"{out_file}"
+        f"Soil data saved → {out_file} "
+        f"({len(districts)} districts with nutrient data)"
     )
 
-    return result
+
+if __name__ == "__main__":
+    fetch_soil()
