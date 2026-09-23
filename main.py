@@ -6,7 +6,6 @@ from fetchers import (
     fetch_soil,
     fetch_agmarknet_complete,
     fetch_disaster_alerts,
-    fetch_pib_agri_news,
     fetch_farmer_schemes,
     fetch_kcc,
 )
@@ -27,7 +26,6 @@ def main(force: bool = False):
 
     # 3. Unstructured / semi-structured sources
     fetch_disaster_alerts(force=force)
-    fetch_pib_agri_news(force=force)
     fetch_farmer_schemes(force=force)
     fetch_kcc(force=force)
 

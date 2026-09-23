@@ -1,128 +1,15 @@
 {
-  "source": "GDACS (Filtered for India region)",
+  "source": "GDACS (India-only, last 7 days)",
   "data_type": "disaster_alerts",
-  "fetched_at": "2026-09-22T20:25:10.435248+00:00",
-  "total_alerts": 15,
+  "fetched_at": "2026-09-23T08:03:11.290024+00:00",
+  "total_alerts": 1,
   "alerts": [
     {
-      "id": "gdacs_0",
-      "title": "Green flood alert in Thailand",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104169",
-      "pub_date": "Fri, 18 Sep 2026 06:16:34 GMT",
-      "alert_text": "On 05/10/2026, a flood started in Thailand, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.375990+00:00"
-    },
-    {
-      "id": "gdacs_1",
       "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.996 million in Tropical Storm).",
       "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001326",
       "pub_date": "Tue, 22 Sep 2026 20:06:51 GMT",
-      "alert_text": "From 22/09/2026 to 22/09/2026, a Tropical Storm (maximum wind speed of 74 km/h) ONE-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (7.996 million in tropical storm).",
-      "fetched_at": "2026-09-22T20:25:10.376292+00:00"
-    },
-    {
-      "id": "gdacs_2",
-      "title": "Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001325",
-      "pub_date": "Mon, 21 Sep 2026 06:39:52 GMT",
-      "alert_text": "From 21/09/2026 to 22/09/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 287 km/h) POLO-26 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "fetched_at": "2026-09-22T20:25:10.376547+00:00"
-    },
-    {
-      "id": "gdacs_8",
-      "title": "Green notification for tropical cyclone ODALYS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001324",
-      "pub_date": "Sun, 20 Sep 2026 09:08:06 GMT",
-      "alert_text": "From 20/09/2026 to 22/09/2026, a Tropical Storm (maximum wind speed of 139 km/h) ODALYS-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "fetched_at": "2026-09-22T20:25:10.377877+00:00"
-    },
-    {
-      "id": "gdacs_9",
-      "title": "Green flood alert in Japan",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104182",
-      "pub_date": "Tue, 22 Sep 2026 06:28:51 GMT",
-      "alert_text": "On 20/09/2026, a flood started in Japan, lasting until 22/09/2026 (last update). The flood caused 0 deaths and 30 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.378092+00:00"
-    },
-    {
-      "id": "gdacs_10",
-      "title": "Green flood alert in Malaysia",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104184",
-      "pub_date": "Tue, 22 Sep 2026 07:36:54 GMT",
-      "alert_text": "On 20/09/2026, a flood started in Malaysia, lasting until 22/09/2026 (last update). The flood caused 0 deaths and 365 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.378306+00:00"
-    },
-    {
-      "id": "gdacs_11",
-      "title": "Green flood alert in Uganda",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104185",
-      "pub_date": "Tue, 22 Sep 2026 11:03:10 GMT",
-      "alert_text": "On 20/09/2026, a flood started in Uganda, lasting until 22/09/2026 (last update). The flood caused 0 deaths and 20 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.378513+00:00"
-    },
-    {
-      "id": "gdacs_18",
-      "title": "Green notification for tropical cyclone FAY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001323",
-      "pub_date": "Sat, 19 Sep 2026 15:06:02 GMT",
-      "alert_text": "From 19/09/2026 to 22/09/2026, a Tropical Depression (maximum wind speed of 111 km/h) FAY-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "fetched_at": "2026-09-22T20:25:10.379919+00:00"
-    },
-    {
-      "id": "gdacs_35",
-      "title": "Green flood alert in Philippines",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104176",
-      "pub_date": "Sun, 20 Sep 2026 07:18:20 GMT",
-      "alert_text": "On 18/09/2026, a flood started in Philippines, lasting until 21/09/2026 (last update). The flood caused 1 deaths and 0 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.383922+00:00"
-    },
-    {
-      "id": "gdacs_36",
-      "title": "Green flood alert in Cyprus",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104175",
-      "pub_date": "Sun, 20 Sep 2026 07:18:06 GMT",
-      "alert_text": "On 18/09/2026, a flood started in Cyprus, lasting until 20/09/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.384148+00:00"
-    },
-    {
-      "id": "gdacs_37",
-      "title": "Green flood alert in Guinea",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104178",
-      "pub_date": "Sun, 20 Sep 2026 11:22:17 GMT",
-      "alert_text": "On 18/09/2026, a flood started in Guinea, lasting until 20/09/2026 (last update). The flood caused 1 deaths and 269 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.384361+00:00"
-    },
-    {
-      "id": "gdacs_38",
-      "title": "Green flood alert in Algeria",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104179",
-      "pub_date": "Mon, 21 Sep 2026 11:10:36 GMT",
-      "alert_text": "On 18/09/2026, a flood started in Algeria, lasting until 20/09/2026 (last update). The flood caused 1 deaths and 0 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.384569+00:00"
-    },
-    {
-      "id": "gdacs_39",
-      "title": "Green flood alert in Türkiye",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104183",
-      "pub_date": "Tue, 22 Sep 2026 06:53:08 GMT",
-      "alert_text": "On 18/09/2026, a flood started in Türkiye, lasting until 20/09/2026 (last update). The flood caused 0 deaths and 47 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.384815+00:00"
-    },
-    {
-      "id": "gdacs_56",
-      "title": "Green flood alert in Cambodia",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104174",
-      "pub_date": "Sun, 20 Sep 2026 07:17:24 GMT",
-      "alert_text": "On 17/09/2026, a flood started in Cambodia, lasting until 19/09/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.388725+00:00"
-    },
-    {
-      "id": "gdacs_57",
-      "title": "Green flood alert in South Africa",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104177",
-      "pub_date": "Sun, 20 Sep 2026 07:39:43 GMT",
-      "alert_text": "On 17/09/2026, a flood started in South Africa, lasting until 19/09/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "fetched_at": "2026-09-22T20:25:10.388969+00:00"
+      "alert_text": "From 22/09/2026 to 23/09/2026, a Tropical Storm (maximum wind speed of 83 km/h) ONE-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (7.996 million in tropical storm).",
+      "fetched_at": "2026-09-23T08:03:11.211913+00:00"
     }
   ]
 }
