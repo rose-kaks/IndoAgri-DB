@@ -123,15 +123,24 @@ python -c "from fetchers.kcc import fetch_kcc; fetch_kcc(total_to_fetch=100)"
 ## Caching
 Every fetcher checks the age of its output file before doing any work. If the file is fresher than the source's cache window, the fetcher logs ... is fresh (X.X days old). Skipping fetch. and returns immediately.
 
-Source	(Cache Window)	Rationale
+**Source	(Cache Window)	Rationale**
+
 LGD	(30 days)	District boundaries change rarely
+
 Weather	(1 day)	Forecasts refresh daily
+
 Soil	(30 days)	Source updates yearly
+
 Agmarknet	(1 day)	Prices change daily
+
 Disasters	(1 day)	Alerts are time-sensitive
+
 News	(1 day)	News updates frequently
+
 Schemes	(30 days)	Scheme details rarely change
+
 KCC	(7 days)	Bulk corpus, slow-moving
+
 
 To override a single fetcher without touching the whole pipeline, pass force=True:
 ``` bash
