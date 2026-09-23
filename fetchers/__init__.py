@@ -5,6 +5,7 @@ from .agmarknet import fetch_agmarknet_complete
 from .disasters import fetch_disaster_alerts
 from .schemes import fetch_farmer_schemes
 from .kcc import fetch_kcc
+from .crop_best_practices import fetch_crop_best_practices
 
 __all__ = [
     "fetch_lgd_reference",
@@ -15,4 +16,5 @@ __all__ = [
     "fetch_disaster_alerts",
     "fetch_farmer_schemes",
     "fetch_kcc",
+    "fetch_crop_best_practices",
 ]

@@ -1,69 +1,73 @@
 # IndoAgri-KB
 
-A unified, versioned agricultural knowledge base for India. Combines seven public data sources into a single research-ready resource with a shared location key, provenance on every record, and dual structured + semantic access.
+A unified, versioned agricultural knowledge base for India. Combines
+eight public data sources under a shared location key, with per-source
+caching, provenance on every record, and dual structured + semantic
+access.
+
+Built as the offline RAG backend for farmer advisory systems.
 
 ---
 
 ## Data Sources
 
-Every fetcher writes to `data/processed/<source>/`. The LGD layer runs first because weather and soil depend on its district coordinates.
+Every fetcher writes to `data/processed/<source>/`. The LGD layer runs
+first because weather and soil depend on its district coordinates.
 
-| # | Fetcher | Source | What It Fetches | Typical Size | Cache |
+| # | Fetcher | Source | Content | Typical Size | Cache |
 |---|---|---|---|---|---|
-| 1 | `lgd.py` | [VijaySamant4368/India-Locations-Dataset](https://github.com/VijaySamant4368/India-Locations-Dataset) | All 747 Indian districts with lat/lon centroids | ~332 KB JSON | 30 days |
-| 2 | `weather.py` | [Open-Meteo](https://open-meteo.com) | 7-day daily forecast per district | 744 districts × 7 days | 1 day |
-| 3 | `soil.py` | [India Data Portal (CKAN)](https://ckan.indiadataportal.com) | District-level soil nutrient analysis | 1.1 GB CSV → 738 districts | 30 days |
-| 4 | `agmarknet.py` | [data.gov.in Agmarknet API](https://data.gov.in) | Daily mandi prices for all markets | ~10,000 records/run | 1 day |
-| 5 | `disasters.py` | [GDACS RSS](https://www.gdacs.org/xml/rss.xml) | India-only disaster alerts, last 7 days | ~5–15 alerts/run | 1 day |
-| 6 | `schemes.py` | [myScheme.gov.in](https://www.myscheme.gov.in) | Central + state agricultural schemes | Varies by category | 30 days |
-| 7 | `kcc.py` | [Kaggle — Farmers Call Query (KCC) Data](https://www.kaggle.com/datasets/daskoushik/farmers-call-query-data-qa) | Farmer Q&A pairs | ~100K Q&As | 30 days |
+| 1 | `lgd.py` | [India-Locations-Dataset](https://github.com/VijaySamant4368/India-Locations-Dataset) | 747 districts with lat/lon centroids | ~330 KB | 30d |
+| 2 | `weather.py` | [Open-Meteo](https://open-meteo.com) | 7-day forecast per district | 744 × 7 daily | 1d |
+| 3 | `soil.py` | [India Data Portal (CKAN)](https://ckan.indiadataportal.com) | District soil nutrient levels | 1.1 GB → 738 districts | 30d |
+| 4 | `agmarknet.py` | [data.gov.in Agmarknet](https://data.gov.in) | Daily mandi prices | ~10K records/run | 1d |
+| 5 | `disasters.py` | [GDACS RSS](https://www.gdacs.org/xml/rss.xml) | India-only alerts, last 7 days | 5–15 alerts | 1d |
+| 6 | `schemes.py` | [myScheme.gov.in](https://www.myscheme.gov.in) | Central + state agri schemes | ~50–500 | 30d |
+| 7 | `kcc.py` | [Kaggle KCC dataset](https://www.kaggle.com/datasets/daskoushik/farmers-call-query-data-qa) | Farmer Q&A, ~100K pairs | ~100K docs | 30d |
+| 8 | `crop_best_practices.py` | [HF: Fasal Mitra](https://huggingface.co/datasets/phoenix28/fasal-mitra-sft-v1) + [HF: CABI](https://huggingface.co/datasets/CABInternational/Plant-Health-Content) | Multilingual crop disease advisories | 3,032 docs | 90d |
 
-### Detailed Notes per Source
+### Detailed Notes
 
 **1. LGD (`lgd.py`)**
 - Downloads `india_locations_with_coords_small.json` from GitHub.
-- Coordinates come from OpenStreetMap via Photon/Nominatim, truncated to 2 decimal places (~1.1 km precision).
-- Covers all states, UTs, and 747 districts.
-- This is the shared location layer — every other source is joined through it.
+- Coordinates from OpenStreetMap (Photon/Nominatim), 2-decimal precision (~1.1 km).
+- This is the shared location layer every other source joins on.
 
 **2. Weather (`weather.py`)**
-- Open-Meteo counts each coordinate as one API call. Free tier allows 600 calls/minute.
-- Batches 20 districts per request with a 3-second delay → ~2.5 minutes for all 747 districts.
-- Variables: `temperature_2m_max`, `temperature_2m_min`, `precipitation_sum`, `et0_fao_evapotranspiration`, `relative_humidity_2m_mean`.
-- Timezone: Asia/Kolkata.
-- Skips batches on HTTP 429 with doubled backoff.
+- Open-Meteo batches 20 coordinates per call. 3s delay respects the 600/min limit.
+- Variables: temp_max, temp_min, precipitation_sum, ET0, relative humidity.
+- 7-day horizon, Asia/Kolkata timezone.
 
 **3. Soil (`soil.py`)**
-- Downloads the full Soil Nutrient Analysis CSV (~1.1 GB) from CKAN.
-- Aggregates 10.8 million rows to 738 districts using a chunked pandas read (500k rows/chunk).
-- Two-level cache: output JSON (30 days) then raw CSV (30 days). Re-aggregates without re-downloading if only the output is stale.
-- The old endpoint `ckandev.indiadataportal.com` is dead; the new host is `ckan.indiadataportal.com`.
-- Source updates yearly. `data_last_updated: 26-08-2025`.
+- Downloads the Soil Nutrient Analysis CSV from CKAN (~1.1 GB).
+- Aggregates 10.8M rows to 738 districts using chunked pandas.
+- Two-level cache: output JSON then raw CSV.
 
 **4. Agmarknet (`agmarknet.py`)**
-- Uses data.gov.in resource `9ef84268-d588-465a-a308-a864a43d0070`.
-- Paginates at 1,000 records per request.
-- Requires `DATA_GOV_IN_API_KEY` in `.env` or `config.json`.
-- Fields: state, district, market, commodity, variety, min/max/modal price, arrival_date.
+- data.gov.in resource `9ef84268-d588-465a-a308-a864a43d0070`.
+- Paginates at 1,000 records per call. Requires `DATA_GOV_IN_API_KEY`.
 
 **5. Disasters (`disasters.py`)**
-- GDACS RSS feed, filtered two ways:
-  1. **India-only** — checks the `gdacs:country` tag for "India", falls back to a strict `\bIndia\b` regex on the description (matches "India" but not "Indian Ocean").
-  2. **Time-bounded** — discards any alert published more than 7 days ago.
-- Streams with a 5 MB cap and a (10s, 20s) timeout so a slow feed cannot hang the pipeline.
-- Keeps the top 15 most recent India-relevant alerts.
+- GDACS RSS filtered to India via the `gdacs:country` tag and a strict
+  `\bIndia\b` regex fallback.
+- Time-filtered to the last 7 days. Streamed with a 5 MB cap.
 
 **6. Schemes (`schemes.py`)**
-- Uses the myScheme v6 API (public key embedded in the frontend).
-- Paginates 50 schemes per request.
-- Normalises nested JSON (`basicDetails`, `eligibilityCriteria`, `schemeBenefits`, etc.) into flat fields.
-- Filters by the "Agriculture, Rural & Environment" category.
+- myScheme v6 public API. Paginates 50 per call.
+- Normalises nested JSON into flat eligibility / benefits / documents fields.
 
 **7. KCC (`kcc.py`)**
-- Loads the Kaggle "Farmers Call Query (KCC) Data" CSV locally.
-- **Manual one-time download required**: from [Kaggle](https://www.kaggle.com/datasets/daskoushik/farmers-call-query-data-qa), place `questionsv4.csv` at `data/raw/kcc/questionsv4.csv`.
-- CSV has two columns: `questions`, `answers`.
-- If the CSV is missing, the fetcher logs a clear download instruction and skips.
+- Loads a Kaggle CSV placed manually at `data/raw/kcc/questionsv4.csv`.
+- Static corpus; not live.
+
+**8. Crop advisories (`crop_best_practices.py`)**
+- **Fasal Mitra** — 3,000 multilingual advisories via the HF rows API.
+  Text field is `advisory` (not `text`). Metadata: crop, disease_class,
+  language.
+- **CABI Plant Health** — India-only filter applied. 346 raw `.txt` files
+  reduce to ~32 India-relevant IPM decision guides.
+- Strips CABI `## Pictures ##` sections (image captions useless for
+  text-only RAG).
+- Auto-detects language from Unicode script.
 
 ---
 
@@ -71,8 +75,8 @@ Every fetcher writes to `data/processed/<source>/`. The LGD layer runs first bec
 
 ### Prerequisites
 - Python 3.10+
-- A free API key from [data.gov.in](https://data.gov.in/user/register)
-- (One-time) Download the KCC CSV from Kaggle (see source 7 above)
+- A free [data.gov.in API key](https://data.gov.in/user/register)
+- A [Hugging Face token](https://huggingface.co/settings/tokens) with read scope
 
 ### Install
 
@@ -89,18 +93,21 @@ pip install -r requirements.txt
 Create a config.json in the project root:
 ```bash
 {
-  "DATA_GOV_IN_API_KEY": "your_key_here",
-  "AGMARKNET_API_KEY": "same_key_here"
+  "DATA_GOV_IN_API_KEY": "your_data_gov_in_key",
+  "AGMARKNET_API_KEY": "same_key_ok",
+  "HF_TOKEN": "hf_your_hf_token"
 }
 ```
 or set an environment variable.
 
-### One-time KCC download
-Download the CSV from [Farmers Call Query Dataset](https://www.kaggle.com/datasets/daskoushik/farmers-call-query-data-qa) and place it at:
+### One-time manual setups
+1. KCC dataset - Download the CSV from [Farmers Call Query Dataset](https://www.kaggle.com/datasets/daskoushik/farmers-call-query-data-qa) and place it at:
 ``` bash
 data/raw/kcc/questionsv4.csv
 ```
-Without this file, the KCC fetcher logs an instruction and skips cleanly. Everything else runs without it.
+2. CABI terms - Accept at
+https://huggingface.co/datasets/CABInternational/Plant-Health-Content
+(click "Agree and access repository").
 
 ## Usage
 
@@ -122,6 +129,7 @@ python -c "from fetchers.weather import fetch_weather_pan_india; fetch_weather_p
 python -c "from fetchers.soil import fetch_soil; fetch_soil()"
 python -c "from fetchers.disasters import fetch_disaster_alerts; fetch_disaster_alerts()"
 python -c "from fetchers.kcc import fetch_kcc; fetch_kcc()"
+python -c "from fetchers.crop_best_practices import fetch_crop_best_practices; fetch_crop_best_practices(force=True)"
 ```
 
 ## Caching
@@ -137,6 +145,7 @@ Every fetcher checks the age of its output file before doing any work. If the fi
 | Disasters | 1 day | Alerts are time-sensitive |
 | Schemes | 30 days | Scheme details rarely change |
 | KCC | 30 days | Bulk corpus, slow-moving |
+| Crop advisories	| 90 days |	HF datasets, slow-moving |
 
 To override a single fetcher without touching the whole pipeline, pass force=True:
 ``` bash
@@ -173,8 +182,9 @@ Failure behaviour:
 ☑ Disaster alerts (India-only)
 ☑ Government schemes
 ☑ Kisan Call Centre Q&A
+☑ Crop advisories (Fasal Mitra + CABI)
 □ Canonical crop dictionary (synonym mapping across sources)
 □ Cross-source linkage: district_week_panel joining all sources on (district_code, iso_week)
 □ IndoAgri-Bench: 100+ multi-source evaluation queries with ground truth
-□ Vector embeddings for unstructured tables (KCC, schemes)
+□ Vector embeddings for unstructured sources
 □ Zenodo DOI + Hugging Face mirror

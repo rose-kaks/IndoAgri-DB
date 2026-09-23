@@ -77,3 +77,14 @@ def cache_age_days(path: Path) -> float:
     if not path.exists():
         return -1.0
     return (time.time() - path.stat().st_mtime) / 86400
+
+def load_api_key(key_name: str) -> str:
+    if os.getenv(key_name):
+        return os.getenv(key_name)
+    if CONFIG_FILE.exists():
+        try:
+            cfg = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
+            return cfg.get(key_name, "")
+        except Exception:
+            pass
+    return ""

@@ -8,6 +8,7 @@ from fetchers import (
     fetch_disaster_alerts,
     fetch_farmer_schemes,
     fetch_kcc,
+    fetch_crop_best_practices,
 )
 
 
@@ -16,7 +17,7 @@ def main(force: bool = False):
 
     log.info("Starting IndoAgri-KB Data Acquisition Pipeline...\n")
 
-    # 1. Reference layer (must run first — weather + soil depend on it)
+    # 1. Reference layer — must run first; weather + soil depend on it
     fetch_lgd_reference(force=force)
 
     # 2. Structured sources
@@ -28,6 +29,7 @@ def main(force: bool = False):
     fetch_disaster_alerts(force=force)
     fetch_farmer_schemes(force=force)
     fetch_kcc(force=force)
+    fetch_crop_best_practices(force=force)
 
     log.info("\n" + "=" * 60)
     log.info("Pipeline Execution Complete!")
