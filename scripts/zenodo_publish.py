@@ -36,7 +36,7 @@ CREATORS = [
         "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
     },
     {
-        "name": "Vashishtha, Pearl",
+        "name": "Vashistha, Pearl",
         "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
     },{
         
