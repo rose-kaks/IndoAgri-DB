@@ -1,18 +1,18 @@
-# IndoAgri-KB
+# IndoAgri-DB
 
-A unified, versioned agricultural knowledge base for India. Combines
+A unified, versioned agricultural database for India. Combines
 eight public data sources under a shared location key, with per-source
 caching, provenance on every record, and dual structured + semantic
 access.
 
-Built as the offline RAG backend for farmer advisory systems.
+Built as the single dataset integrating multi-source information for farmer advisory systems.
 
 ---
 
 ## Data Sources
 
 Every fetcher writes to `data/processed/<source>/`. The LGD layer runs
-first because weather and soil depend on its district coordinates.
+first because weather and soil depend on its district coordinates from `data/reference`.
 
 | # | Fetcher | Source | Content | Typical Size | Cache |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@ first because weather and soil depend on its district coordinates.
 | 4 | `agmarknet.py` | [data.gov.in Agmarknet](https://data.gov.in) | Daily mandi prices | ~10K records/run | 1d |
 | 5 | `disasters.py` | [GDACS RSS](https://www.gdacs.org/xml/rss.xml) | India-only alerts, last 7 days | 5–15 alerts | 1d |
 | 6 | `schemes.py` | [myScheme.gov.in](https://www.myscheme.gov.in) | Central + state agri schemes | ~50–500 | 30d |
-| 7 | `kcc.py` | [Kaggle KCC dataset](https://www.kaggle.com/datasets/daskoushik/farmers-call-query-data-qa) | Farmer Q&A, ~100K pairs | ~100K docs | 30d |
+| 7 | `kcc.py` | [Kaggle KCC dataset](https://www.kaggle.com/datasets/daskoushik/farmers-call-query-data-qa) | Farmer Q&A, ~100K pairs | ~100K docs | 1y |
 | 8 | `crop_best_practices.py` | [HF: Fasal Mitra](https://huggingface.co/datasets/phoenix28/fasal-mitra-sft-v1) + [HF: CABI](https://huggingface.co/datasets/CABInternational/Plant-Health-Content) | Multilingual crop disease advisories | 3,032 docs | 90d |
 
 ### Detailed Notes
@@ -144,7 +144,7 @@ Every fetcher checks the age of its output file before doing any work. If the fi
 | Agmarknet | 1 day | Prices change daily |
 | Disasters | 1 day | Alerts are time-sensitive |
 | Schemes | 30 days | Scheme details rarely change |
-| KCC | 30 days | Bulk corpus, slow-moving |
+| KCC | 1 year | Bulk corpus, slow-moving |
 | Crop advisories	| 90 days |	HF datasets, slow-moving |
 
 To override a single fetcher without touching the whole pipeline, pass force=True:
@@ -184,7 +184,7 @@ Failure behaviour:
 ☑ Kisan Call Centre Q&A
 ☑ Crop advisories (Fasal Mitra + CABI)
 □ Canonical crop dictionary (synonym mapping across sources)
-□ Cross-source linkage: district_week_panel joining all sources on (district_code, iso_week)
-□ IndoAgri-Bench: 100+ multi-source evaluation queries with ground truth
-□ Vector embeddings for unstructured sources
-□ Zenodo DOI + Hugging Face mirror
+☑ Cross-source linkage: district_week_panel joining all sources on (district_code, iso_week)
+☑ IndoAgri-Bench: 100+ multi-source evaluation queries with ground truth
+☑ Vector embeddings for unstructured sources
+☑ Zenodo DOI + Hugging Face mirror
