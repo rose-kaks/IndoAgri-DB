@@ -3,7 +3,6 @@ name: Update IndoAgri Dataset
 on:
   schedule:
     - cron: "0 2 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -34,20 +33,55 @@ jobs:
           DATA_GOV_IN_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
           AGMARKNET_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          SCHEMES_API_KEY: ${{ secrets.SCHEMES_API_KEY }}
           GITHUB_ACTIONS: "true"
         run: |
           python main.py
 
+      - name: Check for dataset changes
+        id: changes
+        run: |
+          git add data/processed data/reference data/metadata
+
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No dataset changes detected."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Dataset changes detected."
+          fi
+
       - name: Commit updated datasets
+        if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/processed data/reference
+          git commit -m "chore: update agriculture datasets"
+          git push
 
-          if git diff --cached --quiet; then
-            echo "No dataset changes detected."
+      - name: Determine next version
+        if: steps.changes.outputs.changed == 'true'
+        id: version
+        run: |
+          latest=$(git tag -l "v1.0.*" --sort=-v:refname | head -n 1)
+
+          if [ -z "$latest" ]; then
+            next="v1.0.0"
           else
-            git commit -m "chore: update agriculture datasets"
-            git push
+            patch=$(echo "$latest" | sed 's/v1\.0\.//')
+            next="v1.0.$((patch + 1))"
           fi
+
+          echo "version=$next" >> "$GITHUB_OUTPUT"
+          echo "Next version: $next"
+
+      - name: Create GitHub Release
+        if: steps.changes.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${{ steps.version.outputs.version }}" \
+            --target main \
+            --title "IndoAgri-DB ${{ steps.version.outputs.version }}" \
+            --generate-notes
