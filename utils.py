@@ -10,6 +10,8 @@ from typing import Optional, Dict, Any
 BASE_DIR = Path("./data")
 RAW_DIR = BASE_DIR / "raw"
 PROCESSED_DIR = BASE_DIR / "processed"
+METADATA_DIR = BASE_DIR / "metadata"
+FETCH_STATUS_FILE = METADATA_DIR / "fetch_status.json"
 CONFIG_FILE = Path("./config.json")
 
 HEADERS = {
@@ -43,6 +45,7 @@ def content_hash(text: str) -> str:
 def ensure_dirs():
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+    METADATA_DIR.mkdir(parents=True, exist_ok=True)
 
 def safe_get(url: str, params: Optional[Dict] = None, timeout: int = 30, retries: int = 2) -> Optional[Any]:
     import requests
@@ -59,32 +62,94 @@ def safe_get(url: str, params: Optional[Dict] = None, timeout: int = 30, retries
 
 def save_json(path: Path, obj: Any):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(obj, indent=2, ensure_ascii=False), encoding="utf-8")
 
-def is_cache_fresh(path: Path, max_age_days: float) -> bool:
-    """
-    Return True if *path* exists and was modified less than
-    *max_age_days* ago. Used by fetchers to skip redundant work.
-    """
-    if not path.exists():
-        return False
-    age_days = (time.time() - path.stat().st_mtime) / 86400
-    return age_days < max_age_days
+    path.write_text(
+        json.dumps(obj, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
+
+    # Record successful fetch time
+    _record_fetch(path)
+
+
+def _cache_key(path: Path) -> str:
+    """Convert a data path into a stable metadata key."""
+    try:
+        return str(path.resolve().relative_to(BASE_DIR.resolve())).replace("\\", "/")
+    except ValueError:
+        return str(path).replace("\\", "/")
+
+
+def _load_fetch_status() -> dict:
+    """Load persistent fetch timestamps."""
+    if not FETCH_STATUS_FILE.exists():
+        return {}
+
+    try:
+        return json.loads(
+            FETCH_STATUS_FILE.read_text(encoding="utf-8")
+        )
+    except Exception as err:
+        log.warning(f"Failed to read fetch metadata: {err}")
+        return {}
+
+
+def _save_fetch_status(status: dict):
+    """Persist fetch timestamps."""
+    METADATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    FETCH_STATUS_FILE.write_text(
+        json.dumps(status, indent=2),
+        encoding="utf-8"
+    )
+
+
+def _record_fetch(path: Path):
+    """Record the successful fetch time for a data file."""
+    status = _load_fetch_status()
+
+    status[_cache_key(path)] = utc_now()
+
+    _save_fetch_status(status)
 
 
 def cache_age_days(path: Path) -> float:
-    """Return the age of *path* in days, or -1 if it doesn't exist."""
+    """
+    Return the age of the last successful fetch.
+
+    On GitHub Actions this comes from persistent metadata.
+    Locally it also uses the same metadata when available.
+    """
     if not path.exists():
         return -1.0
+
+    status = _load_fetch_status()
+    key = _cache_key(path)
+
+    timestamp = status.get(key)
+
+    if timestamp:
+        try:
+            fetched_at = datetime.fromisoformat(timestamp)
+            age_seconds = (
+                datetime.now(timezone.utc) - fetched_at
+            ).total_seconds()
+
+            return age_seconds / 86400
+
+        except Exception as err:
+            log.warning(
+                f"Invalid fetch timestamp for {path}: {err}"
+            )
+
+    # If no metadata exists yet, fall back to filesystem age.
     return (time.time() - path.stat().st_mtime) / 86400
 
-def load_api_key(key_name: str) -> str:
-    if os.getenv(key_name):
-        return os.getenv(key_name)
-    if CONFIG_FILE.exists():
-        try:
-            cfg = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
-            return cfg.get(key_name, "")
-        except Exception:
-            pass
-    return ""
+
+def is_cache_fresh(path: Path, max_age_days: float) -> bool:
+    """Return True if cached data is within its freshness window."""
+    age = cache_age_days(path)
+
+    return age >= 0 and age < max_age_days
+
+  
