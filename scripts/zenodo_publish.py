@@ -10,10 +10,10 @@ import requests
 ZENODO_API = "https://zenodo.org/api"
 TOKEN = os.environ["ZENODO_TOKEN"]
 
-TITLE = "IndoAgri-DB: Agriculture Knowledge Base Dataset for India"
+TITLE = "IndoAgri-DB: Agriculture Dataset for India"
 
 DESCRIPTION = """
-IndoAgri-DB is an automated, periodically updated agriculture knowledge base
+IndoAgri-DB is an automated, periodically updated agriculture dataset
 for India. This release contains the processed and reference datasets
 generated from publicly available agricultural data sources.
 
@@ -35,13 +35,25 @@ CREATORS = [
         "name": "Sharma, Harshita",
         "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
     },
+    {
+        "name": "Vashishtha, Pearl",
+        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
+    },{
+        
+        "name": "Agrasen, Priya",
+        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
+    },
+    {
+        
+        "name": "Jain, Bhawna",
+        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
+    }
 ]
 
 KEYWORDS = [
     "agriculture",
     "India",
     "agricultural datasets",
-    "agriculture knowledge base",
     "farmer queries",
     "Kisan Call Centre",
     "mandi prices",
@@ -49,9 +61,7 @@ KEYWORDS = [
     "weather",
     "crop advisories",
     "government schemes",
-    "disaster alerts",
-    "retrieval augmented generation",
-    "RAG",
+    "disaster alerts"
 ]
 
 
@@ -163,8 +173,7 @@ def create_first_deposition(zip_path):
             "description": DESCRIPTION,
             "version": "1.0.0",
             "creators": CREATORS,
-            "keywords": KEYWORDS,
-            "language": "eng",
+            "keywords": KEYWORDS
         }
     }
 
@@ -256,7 +265,6 @@ def create_new_version(latest, zip_path):
             "version": new_version,
             "creators": CREATORS,
             "keywords": KEYWORDS,
-            "language": "eng",
         }
     }
 
