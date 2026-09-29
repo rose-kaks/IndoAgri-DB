@@ -61,7 +61,6 @@ jobs:
           git push
 
       - name: Publish dataset to Zenodo
-        if: steps.changes.outputs.changed == 'true'
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
