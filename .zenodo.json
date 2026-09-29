@@ -1,0 +1,33 @@
+{
+  "title": "IndoAgri-DB: Automated Agriculture Knowledge Base Dataset for India",
+  "description": "IndoAgri-DB is an automated, periodically updated agriculture knowledge base for India. It integrates publicly available agricultural data from multiple sources covering administrative districts, weather, soil health, mandi prices, disaster alerts, government schemes, farmer queries, and crop advisories. The repository provides processed and structured datasets intended to support agricultural information systems, knowledge bases, and retrieval-augmented generation (RAG) applications.",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Kakrania, Rose",
+      "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India"
+    },
+    {
+      "name": "Sharma, Harshita",
+      "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India"
+    }
+  ],
+  "keywords": [
+    "agriculture",
+    "India",
+    "agricultural datasets",
+    "agriculture knowledge base",
+    "farmer queries",
+    "Kisan Call Centre",
+    "mandi prices",
+    "soil health",
+    "weather",
+    "crop advisories",
+    "government schemes",
+    "disaster alerts",
+    "retrieval augmented generation",
+    "RAG"
+  ],
+  "language": "eng"
+}
