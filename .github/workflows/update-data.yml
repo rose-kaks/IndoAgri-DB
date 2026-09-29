@@ -60,28 +60,9 @@ jobs:
           git commit -m "chore: update agriculture datasets"
           git push
 
-      - name: Determine next version
-        if: steps.changes.outputs.changed == 'true'
-        id: version
-        run: |
-          latest=$(git tag -l "v1.0.*" --sort=-v:refname | head -n 1)
-
-          if [ -z "$latest" ]; then
-            next="v1.0.0"
-          else
-            patch=$(echo "$latest" | sed 's/v1\.0\.//')
-            next="v1.0.$((patch + 1))"
-          fi
-
-          echo "version=$next" >> "$GITHUB_OUTPUT"
-          echo "Next version: $next"
-
-      - name: Create GitHub Release
+      - name: Publish dataset to Zenodo
         if: steps.changes.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ github.token }}
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
-          gh release create "${{ steps.version.outputs.version }}" \
-            --target main \
-            --title "IndoAgri-DB ${{ steps.version.outputs.version }}" \
-            --generate-notes
+          python scripts/zenodo_publish.py
