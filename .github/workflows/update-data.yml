@@ -2,11 +2,8 @@ name: Update IndoAgri Dataset
 
 on:
   schedule:
-    # Every day at 07:30 AM IST
-    # GitHub cron uses UTC, so 02:00 UTC = 07:30 IST
     - cron: "0 2 * * *"
 
-  # Allows you to manually run it from GitHub Actions
   workflow_dispatch:
 
 permissions:
@@ -17,39 +14,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      # 1. Get repository + full Git history
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. Install Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3. Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Run the data acquisition pipeline
       - name: Run IndoAgri data pipeline
         env:
-          # Add these later as GitHub Secrets
-          AGMARKNET_API_KEY: ${{ secrets.AGMARKNET_API_KEY }}
-          SCHEMES_API_KEY: ${{ secrets.SCHEMES_API_KEY }}
-
-          # Tells utils.py to use Git commit timestamps
+          DATA_GOV_IN_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
+          AGMARKNET_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
           GITHUB_ACTIONS: "true"
-
         run: |
           python main.py
 
-      # 5. Commit changed processed/reference datasets
       - name: Commit updated datasets
         run: |
           git config user.name "github-actions[bot]"
