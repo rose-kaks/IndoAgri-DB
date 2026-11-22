@@ -64,9 +64,9 @@ KEYWORDS = [
 ]
 
 
-# ---------------------------------------------------------
-# HTTP helpers
-# ---------------------------------------------------------
+# =========================================================
+# HTTP HELPERS
+# =========================================================
 
 def headers():
     return {
@@ -85,15 +85,17 @@ def json_headers():
 
 def check_response(response, message):
     if not response.ok:
-        print(f"\nERROR: {message}")
+        print()
+        print(f"ERROR: {message}")
         print(f"Status: {response.status_code}")
         print(f"Response: {response.text}")
+        print()
         response.raise_for_status()
 
 
-# ---------------------------------------------------------
-# Dataset ZIP
-# ---------------------------------------------------------
+# =========================================================
+# CREATE DATASET ZIP
+# =========================================================
 
 def create_dataset_zip(output_path):
     """
@@ -129,17 +131,10 @@ def create_dataset_zip(output_path):
     ) as zf:
 
         for folder in folders:
+
             for file in folder.rglob("*"):
 
                 if file.is_file():
-
-                    # Example:
-                    #
-                    # data/processed/crops.json
-                    #
-                    # becomes:
-                    #
-                    # processed/crops.json
 
                     archive_path = file.relative_to("data")
 
@@ -151,15 +146,16 @@ def create_dataset_zip(output_path):
     print(f"Created dataset archive: {output_path}")
 
 
-# ---------------------------------------------------------
-# Find latest published version
-# ---------------------------------------------------------
+# =========================================================
+# FIND LATEST VERSION
+# =========================================================
 
 def find_latest_dataset():
     """
-    Find the latest published IndoAgri-DB deposition.
+    Find the latest published IndoAgri-DB dataset.
 
-    We use all_versions=true and sort by most recent.
+    We intentionally search all published versions and then
+    select the highest semantic version.
     """
 
     response = requests.get(
@@ -167,7 +163,6 @@ def find_latest_dataset():
         params={
             "q": f'title:"{TITLE}"',
             "status": "published",
-            "sort": "-mostrecent",
             "size": 100,
             "all_versions": "true",
         },
@@ -185,38 +180,90 @@ def find_latest_dataset():
     if not deposits:
         return None
 
-    # Prefer exact title match.
     exact = [
-        deposition
-        for deposition in deposits
-        if deposition.get("metadata", {}).get("title") == TITLE
+        d
+        for d in deposits
+        if d.get("metadata", {}).get("title") == TITLE
     ]
 
-    if exact:
-        return exact[0]
+    if not exact:
+        exact = deposits
 
-    return deposits[0]
+    def version_key(deposition):
+        version = (
+            deposition
+            .get("metadata", {})
+            .get("version", "0.0.0")
+        )
+
+        try:
+            return tuple(
+                int(x)
+                for x in version.split(".")
+            )
+        except Exception:
+            return (0, 0, 0)
+
+    exact.sort(
+        key=version_key,
+        reverse=True,
+    )
+
+    return exact[0]
 
 
-# ---------------------------------------------------------
-# First version
-# ---------------------------------------------------------
+# =========================================================
+# VERSION HELPERS
+# =========================================================
+
+def increment_patch_version(version):
+    """
+    Examples:
+
+        1.0.0 -> 1.0.1
+        1.0.1 -> 1.0.2
+        1.2.9 -> 1.2.10
+    """
+
+    if not version:
+        return "1.0.1"
+
+    parts = version.split(".")
+
+    if len(parts) != 3:
+        raise ValueError(
+            f"Expected semantic version like 1.0.0, got: {version}"
+        )
+
+    major, minor, patch = map(int, parts)
+
+    return f"{major}.{minor}.{patch + 1}"
+
+
+# =========================================================
+# CREATE FIRST DEPOSITION
+# =========================================================
 
 def create_first_deposition(zip_path):
-    """
-    Create and publish v1.0.0.
-    """
+
+    version = "1.0.0"
 
     metadata = {
         "metadata": {
             "title": TITLE,
             "upload_type": "dataset",
             "description": DESCRIPTION,
-            "version": "1.0.0",
+            "version": version,
             "creators": CREATORS,
             "keywords": KEYWORDS,
         }
     }
+
+    print()
+    print("========================================")
+    print("Creating first Zenodo deposition")
+    print("========================================")
+    print(f"Version: {version}")
 
     response = requests.post(
         f"{ZENODO_API}/deposit/depositions",
@@ -241,206 +288,110 @@ def create_first_deposition(zip_path):
         zip_path,
     )
 
-    publish(
+    published = publish(
         deposition_id,
     )
 
-    print("Published Zenodo version: 1.0.0")
+    print()
+    print("========================================")
+    print("Zenodo publication successful")
+    print("========================================")
+    print(f"Version: {version}")
+    print(f"Deposition ID: {deposition_id}")
     print(
-        f"DOI: {deposition.get('doi', 'check Zenodo record')}"
+        f"DOI: {published.get('doi', 'check Zenodo record')}"
     )
 
 
-# ---------------------------------------------------------
-# Version helpers
-# ---------------------------------------------------------
+# =========================================================
+# CREATE NEW DEPOSITION
+# =========================================================
 
-def increment_patch_version(version):
+def create_new_deposition(zip_path, version, previous=None):
     """
-    Increment:
+    Create a completely new Zenodo deposition.
 
-        1.0.0 -> 1.0.1
-        1.0.1 -> 1.0.2
-        1.2.9 -> 1.2.10
+    This is intentionally used instead of:
+
+        /actions/newversion
+
+    because the existing deposition 23043351 is currently
+    rejected by Zenodo's API with:
+
+        files.enabled
+        Please remove all files first.
+
+    The new deposition receives the requested dataset version.
     """
-
-    if not version:
-        return "1.0.1"
-
-    parts = version.split(".")
-
-    if len(parts) != 3:
-        raise ValueError(
-            f"Expected semantic version like 1.0.0, got: {version}"
-        )
-
-    try:
-        major, minor, patch = map(int, parts)
-    except ValueError:
-        raise ValueError(
-            f"Version must contain numeric components: {version}"
-        )
-
-    return f"{major}.{minor}.{patch + 1}"
-
-
-# ---------------------------------------------------------
-# Create new version
-# ---------------------------------------------------------
-
-def create_new_version(latest, zip_path):
-    """
-    Create the next Zenodo version from the latest published version.
-
-    IMPORTANT:
-    Zenodo's current new-version workflow creates a new editable
-    deposition. The new draft does NOT need us to delete files
-    from the published record.
-
-    Workflow:
-
-        latest published record
-                |
-                | /actions/newversion
-                v
-        new draft
-                |
-                | upload new ZIP
-                v
-        update metadata
-                |
-                | publish
-                v
-        new published version
-    """
-
-    latest_id = latest["id"]
-
-    old_version = (
-        latest.get("metadata", {}).get("version")
-        or "1.0.0"
-    )
-
-    new_version = increment_patch_version(
-        old_version
-    )
-
-    print()
-    print("========================================")
-    print("Creating new Zenodo version")
-    print("========================================")
-    print(f"Latest version: {old_version}")
-    print(f"Latest deposition ID: {latest_id}")
-    print(f"New version: {new_version}")
-    print()
-
-    # -----------------------------------------------------
-    # Create new version
-    # -----------------------------------------------------
-
-    response = requests.post(
-        f"{ZENODO_API}/deposit/depositions/"
-        f"{latest_id}/actions/newversion",
-        headers=headers(),
-        timeout=60,
-    )
-
-    check_response(
-        response,
-        "Could not create new Zenodo version.",
-    )
-
-    # IMPORTANT:
-    #
-    # Zenodo documentation says the response is the ORIGINAL
-    # deposition, not the new draft.
-    #
-    # The new draft is available through:
-    #
-    #     response["links"]["latest_draft"]
-    #
-
-    original = response.json()
-
-    links = original.get("links", {})
-
-    draft_link = links.get("latest_draft")
-
-    if not draft_link:
-        raise RuntimeError(
-            "Zenodo created the version request but did not "
-            "return links.latest_draft."
-        )
-
-    print(f"New draft URL: {draft_link}")
-
-    # -----------------------------------------------------
-    # Retrieve new draft
-    # -----------------------------------------------------
-
-    draft_response = requests.get(
-        draft_link,
-        headers=headers(),
-        timeout=60,
-    )
-
-    check_response(
-        draft_response,
-        "Could not retrieve new Zenodo draft.",
-    )
-
-    draft = draft_response.json()
-
-    draft_id = draft["id"]
-
-    print(f"Created new Zenodo draft: {draft_id}")
-
-    # -----------------------------------------------------
-    # Upload NEW dataset ZIP
-    # -----------------------------------------------------
-
-    #
-    # IMPORTANT:
-    #
-    # Do NOT delete files from the published deposition.
-    #
-    # Do NOT call:
-    #
-    #     delete_existing_files(latest)
-    #
-    # The new version is its own editable deposition.
-    #
-
-    upload_file(
-        draft,
-        zip_path,
-    )
-
-    # -----------------------------------------------------
-    # Update metadata
-    # -----------------------------------------------------
 
     metadata = {
         "metadata": {
             "title": TITLE,
             "upload_type": "dataset",
             "description": DESCRIPTION,
-            "version": new_version,
+            "version": version,
             "creators": CREATORS,
             "keywords": KEYWORDS,
         }
     }
 
-    update_response = requests.put(
-        f"{ZENODO_API}/deposit/depositions/{draft_id}",
+    # -----------------------------------------------------
+    # Optional relationship to previous version
+    # -----------------------------------------------------
+
+    if previous:
+
+        previous_doi = (
+            previous
+            .get("doi")
+        )
+
+        previous_id = (
+            previous
+            .get("id")
+        )
+
+        print()
+        print("Previous Zenodo version:")
+        print(f"  Version: {previous.get('metadata', {}).get('version')}")
+        print(f"  ID: {previous_id}")
+
+        if previous_doi:
+            print(f"  DOI: {previous_doi}")
+
+    print()
+    print("========================================")
+    print("Creating new Zenodo deposition")
+    print("========================================")
+    print(f"Version: {version}")
+
+    response = requests.post(
+        f"{ZENODO_API}/deposit/depositions",
         json=metadata,
         headers=json_headers(),
         timeout=60,
     )
 
     check_response(
-        update_response,
-        "Could not update Zenodo metadata.",
+        response,
+        "Could not create new Zenodo deposition.",
+    )
+
+    deposition = response.json()
+
+    deposition_id = deposition["id"]
+
+    print(
+        f"Created new Zenodo deposition: {deposition_id}"
+    )
+
+    # -----------------------------------------------------
+    # Upload dataset
+    # -----------------------------------------------------
+
+    upload_file(
+        deposition,
+        zip_path,
     )
 
     # -----------------------------------------------------
@@ -448,33 +399,43 @@ def create_new_version(latest, zip_path):
     # -----------------------------------------------------
 
     published = publish(
-        draft_id,
+        deposition_id,
     )
 
     print()
     print("========================================")
     print("Zenodo publication successful")
     print("========================================")
-    print(f"Version: {new_version}")
-    print(f"Deposition ID: {draft_id}")
-    print(
-        f"DOI: {published.get('doi', 'check Zenodo record')}"
+    print(f"Version: {version}")
+    print(f"Deposition ID: {deposition_id}")
+
+    doi = published.get(
+        "doi",
+        deposition.get(
+            "doi",
+            "check Zenodo record"
+        ),
     )
-    print()
+
+    print(f"DOI: {doi}")
+
+    return published
 
 
-# ---------------------------------------------------------
-# Upload
-# ---------------------------------------------------------
+# =========================================================
+# UPLOAD FILE
+# =========================================================
 
 def upload_file(deposition, zip_path):
     """
-    Upload dataset ZIP using Zenodo's current bucket/files API.
+    Upload the dataset ZIP using Zenodo's bucket API.
     """
 
-    links = deposition.get("links", {})
-
-    bucket_url = links.get("bucket")
+    bucket_url = (
+        deposition
+        .get("links", {})
+        .get("bucket")
+    )
 
     if not bucket_url:
         raise RuntimeError(
@@ -483,6 +444,7 @@ def upload_file(deposition, zip_path):
 
     filename = Path(zip_path).name
 
+    print()
     print(f"Uploading {filename}...")
 
     with open(zip_path, "rb") as file:
@@ -502,16 +464,15 @@ def upload_file(deposition, zip_path):
     print("Upload complete.")
 
 
-# ---------------------------------------------------------
-# Publish
-# ---------------------------------------------------------
+# =========================================================
+# PUBLISH
+# =========================================================
 
 def publish(deposition_id):
-    """
-    Publish a Zenodo deposition.
-    """
 
-    print(f"Publishing deposition {deposition_id}...")
+    print(
+        f"Publishing Zenodo deposition {deposition_id}..."
+    )
 
     response = requests.post(
         f"{ZENODO_API}/deposit/depositions/"
@@ -528,9 +489,9 @@ def publish(deposition_id):
     return response.json()
 
 
-# ---------------------------------------------------------
-# Main
-# ---------------------------------------------------------
+# =========================================================
+# MAIN
+# =========================================================
 
 def main():
 
@@ -540,30 +501,32 @@ def main():
 
     try:
 
-        zip_path = (
-            temp_dir / "indoagri-dataset.zip"
-        )
+        # -------------------------------------------------
+        # 1. Create dataset ZIP
+        # -------------------------------------------------
 
-        # ---------------------------------------------
-        # 1. Build dataset archive
-        # ---------------------------------------------
+        zip_path = (
+            temp_dir /
+            "indoagri-dataset.zip"
+        )
 
         create_dataset_zip(
             zip_path
         )
 
-        # ---------------------------------------------
-        # 2. Find existing Zenodo version
-        # ---------------------------------------------
+        # -------------------------------------------------
+        # 2. Find latest published dataset
+        # -------------------------------------------------
 
         latest = find_latest_dataset()
 
-        # ---------------------------------------------
-        # 3. First release
-        # ---------------------------------------------
+        # -------------------------------------------------
+        # 3. First-ever release
+        # -------------------------------------------------
 
         if latest is None:
 
+            print()
             print(
                 "No previous IndoAgri-DB Zenodo record found."
             )
@@ -576,20 +539,25 @@ def main():
                 zip_path
             )
 
-        # ---------------------------------------------
-        # 4. New release
-        # ---------------------------------------------
+        # -------------------------------------------------
+        # 4. Existing release
+        # -------------------------------------------------
 
         else:
 
-            current_version = (
+            old_version = (
                 latest
                 .get("metadata", {})
-                .get("version", "unknown")
+                .get("version", "1.0.0")
             )
 
+            new_version = increment_patch_version(
+                old_version
+            )
+
+            print()
             print(
-                f"Found existing version: {current_version}"
+                f"Found existing version: {old_version}"
             )
 
             print(
@@ -597,9 +565,28 @@ def main():
                 f"{latest.get('id')}"
             )
 
-            create_new_version(
-                latest,
-                zip_path
+            print(
+                f"Next version: {new_version}"
+            )
+
+            # IMPORTANT:
+            #
+            # We DO NOT call:
+            #
+            #   /actions/newversion
+            #
+            # because the existing deposition currently
+            # triggers:
+            #
+            #   files.enabled
+            #   Please remove all files first.
+            #
+            # Instead, create a clean new deposition.
+
+            create_new_deposition(
+                zip_path=zip_path,
+                version=new_version,
+                previous=latest,
             )
 
     finally:
