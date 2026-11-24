@@ -131,6 +131,14 @@ jobs:
             echo "ChromaDB is already up to date."
           fi
 
+      - name: Find ingest.py
+        run: |
+          echo "Current directory:"
+          pwd
+
+          echo ""
+          echo "Repository files:"
+          find . -maxdepth 4 -type f -name "ingest.py" -print
 
       # --------------------------------------------------
       # 8. Incrementally update ChromaDB
