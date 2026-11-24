@@ -13,21 +13,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # --------------------------------------------------
+      # 1. Checkout
+      # --------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # --------------------------------------------------
+      # 2. Python
+      # --------------------------------------------------
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # --------------------------------------------------
+      # 3. Dependencies
+      # --------------------------------------------------
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # --------------------------------------------------
+      # 4. Restore previous Chroma DB
+      # --------------------------------------------------
+      - name: Restore Chroma DB
+        uses: actions/cache/restore@v4
+        with:
+          path: data/vector_db
+          key: chroma-db-${{ runner.os }}
+          restore-keys: |
+            chroma-db-
+
+      # --------------------------------------------------
+      # 5. Fetch/build latest IndoAgri dataset
+      # --------------------------------------------------
       - name: Run IndoAgri data pipeline
         env:
           DATA_GOV_IN_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
@@ -38,6 +61,9 @@ jobs:
         run: |
           python main.py
 
+      # --------------------------------------------------
+      # 6. Check whether IndoAgri actually changed
+      # --------------------------------------------------
       - name: Check for dataset changes
         id: changes
         run: |
@@ -51,6 +77,17 @@ jobs:
             echo "Dataset changes detected."
           fi
 
+      # --------------------------------------------------
+      # 7. Incrementally update Chroma
+      # --------------------------------------------------
+      - name: Update ChromaDB incrementally
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          python ingest.py --update
+
+      # --------------------------------------------------
+      # 8. Commit IndoAgri dataset
+      # --------------------------------------------------
       - name: Commit updated datasets
         if: steps.changes.outputs.changed == 'true'
         run: |
@@ -60,8 +97,22 @@ jobs:
           git commit -m "chore: update agriculture datasets"
           git push
 
+      # --------------------------------------------------
+      # 9. Publish dataset to Zenodo
+      # --------------------------------------------------
       - name: Publish dataset to Zenodo
+        if: steps.changes.outputs.changed == 'true'
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
           python scripts/zenodo_publish.py
+
+      # --------------------------------------------------
+      # 10. Save updated Chroma DB
+      # --------------------------------------------------
+      - name: Save Chroma DB
+        if: steps.changes.outputs.changed == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: data/vector_db
+          key: chroma-db-${{ runner.os }}-${{ github.run_id }}
