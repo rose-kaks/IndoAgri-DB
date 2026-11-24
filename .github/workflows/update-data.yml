@@ -13,59 +13,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      # --------------------------------------------------
-      # 1. Checkout repository
-      # --------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-
-      # --------------------------------------------------
-      # 2. Setup Python
-      # --------------------------------------------------
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-
-      # --------------------------------------------------
-      # 3. Install dependencies
-      # --------------------------------------------------
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-
-      # --------------------------------------------------
-      # 4. Restore previous ChromaDB
-      # --------------------------------------------------
-      # We restore this BEFORE ingestion.
-      #
-      # If a previous Chroma cache exists:
-      #     ingest.py --update
-      #     -> incremental update
-      #
-      # If no cache exists:
-      #     ingest.py --update
-      #     -> creates ChromaDB from scratch
-      # --------------------------------------------------
-      - name: Restore previous Chroma DB
-        uses: actions/cache/restore@v4
-        with:
-          path: data/vector_db
-          key: chroma-db-v1-${{ runner.os }}-${{ github.run_id }}
-          restore-keys: |
-            chroma-db-v1-${{ runner.os }}-
-
-
-      # --------------------------------------------------
-      # 5. Run IndoAgri data pipeline
-      # --------------------------------------------------
       - name: Run IndoAgri data pipeline
         env:
           DATA_GOV_IN_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
@@ -75,16 +36,10 @@ jobs:
           GITHUB_ACTIONS: "true"
         run: |
           python main.py
-
-
-      # --------------------------------------------------
-      # 6. Check whether dataset changed
-      # --------------------------------------------------
       - name: Check for dataset changes
         id: changes
         run: |
           git add data/processed data/reference data/metadata
-
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No dataset changes detected."
@@ -92,105 +47,15 @@ jobs:
             echo "changed=true" >> "$GITHUB_OUTPUT"
             echo "Dataset changes detected."
           fi
-
-
-      # --------------------------------------------------
-      # 7. Check whether ChromaDB actually exists
-      # --------------------------------------------------
-      # IMPORTANT:
-      #
-      # Dataset unchanged + Chroma exists
-      #     -> don't run ingestion
-      #
-      # Dataset changed + Chroma exists
-      #     -> incremental update
-      #
-      # Dataset unchanged + Chroma DOES NOT exist
-      #     -> build Chroma from scratch
-      #
-      # Dataset changed + Chroma DOES NOT exist
-      #     -> build Chroma from scratch
-      # --------------------------------------------------
-      - name: Determine whether ChromaDB needs updating
-        id: chroma
-        shell: bash
-        run: |
-          if [ -d "data/vector_db" ] && [ "$(find data/vector_db -type f | wc -l)" -gt 0 ]; then
-            chroma_exists=true
-            echo "ChromaDB exists."
-          else
-            chroma_exists=false
-            echo "ChromaDB does not exist."
-          fi
-
-          if [ "${{ steps.changes.outputs.changed }}" = "true" ] || [ "$chroma_exists" = "false" ]; then
-            echo "update=true" >> "$GITHUB_OUTPUT"
-            echo "ChromaDB needs updating."
-          else
-            echo "update=false" >> "$GITHUB_OUTPUT"
-            echo "ChromaDB is already up to date."
-          fi
-
-      - name: Find ingest.py
-        run: |
-          echo "Current directory:"
-          pwd
-
-          echo ""
-          echo "Repository files:"
-          find . -maxdepth 4 -type f -name "ingest.py" -print
-
-      # --------------------------------------------------
-      # 8. Incrementally update ChromaDB
-      # --------------------------------------------------
-      - name: Update ChromaDB incrementally
-        if: steps.chroma.outputs.update == 'true'
-        run: |
-          python ingest.py --update
-
-
-      # --------------------------------------------------
-      # 9. Commit updated dataset
-      # --------------------------------------------------
-      # Only commit when the actual IndoAgri dataset changed.
-      # Chroma-only rebuilds should NOT create a Git commit.
-      # --------------------------------------------------
       - name: Commit updated datasets
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git commit -m "chore: update agriculture datasets"
           git push
-
-
-      # --------------------------------------------------
-      # 10. Publish updated dataset to Zenodo
-      # --------------------------------------------------
       - name: Publish dataset to Zenodo
-        if: steps.changes.outputs.changed == 'true'
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
         run: |
           python scripts/zenodo_publish.py
-
-
-      # --------------------------------------------------
-      # 11. Save updated ChromaDB cache
-      # --------------------------------------------------
-      # Save when:
-      #
-      # - dataset changed and Chroma was updated
-      # OR
-      # - Chroma was missing and we created it
-      #
-      # A unique key is used because GitHub Actions caches
-      # cannot be overwritten.
-      # --------------------------------------------------
-      - name: Save Chroma DB
-        if: steps.chroma.outputs.update == 'true'
-        uses: actions/cache/save@v4
-        with:
-          path: data/vector_db
-          key: chroma-db-v1-${{ runner.os }}-${{ github.run_id }}
