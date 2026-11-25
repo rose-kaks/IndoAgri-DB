@@ -4,13 +4,23 @@ on:
   schedule:
     - cron: "0 2 * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Ignore caches and re-fetch everything"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-indoagri
+  cancel-in-progress: false
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
 
     steps:
       - name: Checkout repository
@@ -22,40 +32,51 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: pip
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
       - name: Run IndoAgri data pipeline
         env:
           DATA_GOV_IN_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
           AGMARKNET_API_KEY: ${{ secrets.DATA_GOV_IN_API_KEY }}
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           SCHEMES_API_KEY: ${{ secrets.SCHEMES_API_KEY }}
-          GITHUB_ACTIONS: "true"
         run: |
-          python main.py
+          if [ "${{ inputs.force }}" = "true" ]; then
+            python main.py --force
+          else
+            python main.py
+          fi
+
       - name: Check for dataset changes
         id: changes
         run: |
           git add data/processed data/reference data/metadata
-          if git diff --cached --quiet; then
+          # Only real data changes count; metadata-only changes don't trigger a release
+          if git diff --cached --quiet -- data/processed data/reference; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No dataset changes detected."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
             echo "Dataset changes detected."
+            git diff --cached --stat -- data/processed data/reference | tail -n 15
           fi
+
       - name: Commit updated datasets
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: update agriculture datasets"
+          git commit -m "chore: update agriculture datasets ($(date -u +%F))"
+          git pull --rebase origin main
           git push
+
       - name: Publish dataset to Zenodo
+        if: steps.changes.outputs.changed == 'true'
         env:
           ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
-        run: |
-          python scripts/zenodo_publish.py
+        run: python scripts/zenodo_publish.py
