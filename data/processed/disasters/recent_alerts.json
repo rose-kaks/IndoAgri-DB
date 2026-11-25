@@ -1,15 +1,7 @@
 {
   "source": "GDACS (India-only, last 7 days)",
   "data_type": "disaster_alerts",
-  "fetched_at": "2026-09-23T08:03:11.290024+00:00",
-  "total_alerts": 1,
-  "alerts": [
-    {
-      "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.996 million in Tropical Storm).",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001326",
-      "pub_date": "Tue, 22 Sep 2026 20:06:51 GMT",
-      "alert_text": "From 22/09/2026 to 23/09/2026, a Tropical Storm (maximum wind speed of 83 km/h) ONE-26 was active in NorthIndian. The cyclone affects these countries: India (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (7.996 million in tropical storm).",
-      "fetched_at": "2026-09-23T08:03:11.211913+00:00"
-    }
-  ]
+  "fetched_at": "2026-11-25T07:30:06.790990+00:00",
+  "total_alerts": 0,
+  "alerts": []
 }
