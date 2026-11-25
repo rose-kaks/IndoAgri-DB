@@ -49,7 +49,7 @@ jobs:
           if [ "${{ inputs.force }}" = "true" ]; then
             python main.py --force
           else
-            python main.py
+            python main.py --force
           fi
 
       - name: Check for dataset changes
