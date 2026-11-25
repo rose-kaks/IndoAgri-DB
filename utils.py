@@ -114,36 +114,23 @@ def _record_fetch(path: Path):
 
 
 def cache_age_days(path: Path) -> float:
-    """
-    Return the age of the last successful fetch.
-
-    On GitHub Actions this comes from persistent metadata.
-    Locally it also uses the same metadata when available.
-    """
     if not path.exists():
         return -1.0
-
-    status = _load_fetch_status()
-    key = _cache_key(path)
-
-    timestamp = status.get(key)
-
-    if timestamp:
+    ts = _load_fetch_status().get(_cache_key(path))
+    if not ts:
         try:
-            fetched_at = datetime.fromisoformat(timestamp)
-            age_seconds = (
-                datetime.now(timezone.utc) - fetched_at
-            ).total_seconds()
-
-            return age_seconds / 86400
-
-        except Exception as err:
-            log.warning(
-                f"Invalid fetch timestamp for {path}: {err}"
-            )
-
-    # If no metadata exists yet, fall back to filesystem age.
-    return (time.time() - path.stat().st_mtime) / 86400
+            ts = json.loads(path.read_text(encoding="utf-8")).get("fetched_at")
+        except Exception:
+            ts = None
+    if not ts:
+        return 1e9   # unknown age → treat as stale, refetch
+    try:
+        dt = datetime.fromisoformat(ts)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return (datetime.now(timezone.utc) - dt).total_seconds() / 86400
+    except Exception:
+        return 1e9
 
 
 def is_cache_fresh(path: Path, max_age_days: float) -> bool:
