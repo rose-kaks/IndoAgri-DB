@@ -87,8 +87,7 @@ def create_dataset_zip():
     print("=" * 60)
 
     temp_dir = Path(tempfile.mkdtemp(prefix="indoagri_zenodo_"))
-    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
-    zip_path = temp_dir / f"indoagri-db-{timestamp}.zip"
+    zip_path = temp_dir / "indoagri-dataset.zip"
 
     with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as zf:
         for data_dir in DATA_DIRS:
