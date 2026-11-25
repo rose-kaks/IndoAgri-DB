@@ -1,599 +1,807 @@
+"""
+Publish IndoAgri dataset to Zenodo.
+
+IMPORTANT:
+This script creates a NEW VERSION of the existing Zenodo record.
+It does NOT create an unrelated new Zenodo record.
+
+Existing record family:
+https://zenodo.org/records/23294725
+
+Each published version can have its own version-specific record ID,
+but all versions remain connected to the same Zenodo record/concept.
+"""
+
 import os
-import shutil
-import tempfile
+import sys
+import json
 import zipfile
+import tempfile
+import shutil
 from pathlib import Path
+from datetime import datetime
 
 import requests
 
 
+# ============================================================
+# CONFIG
+# ============================================================
+
 ZENODO_API = "https://zenodo.org/api"
-TOKEN = os.environ["ZENODO_TOKEN"]
 
-TITLE = "IndoAgri-DB: Agriculture Dataset for India"
+# Your ORIGINAL Zenodo record / concept ID.
+# We use this to find the correct version family.
+ZENODO_CONCEPT_ID = "23294725"
 
-DESCRIPTION = """
-IndoAgri-DB is an automated, periodically updated agriculture dataset
-for India. This release contains the processed and reference datasets
-generated from publicly available agricultural data sources.
+ZENODO_TOKEN = os.environ.get("ZENODO_TOKEN")
 
-The dataset covers administrative information, weather, soil health,
-mandi prices, disaster alerts, government schemes, farmer queries,
-and crop advisories.
+if not ZENODO_TOKEN:
+    print("[ERROR] ZENODO_TOKEN environment variable is not set.")
+    sys.exit(1)
 
-This dataset is intended for research and development of agricultural
-information systems, knowledge bases, and retrieval-augmented generation
-(RAG) applications.
-""".strip()
+HEADERS = {
+    "Authorization": f"Bearer {ZENODO_TOKEN}",
+    "User-Agent": "IndoAgri-KB/1.0",
+}
 
-CREATORS = [
-    {
-        "name": "Kakrania, Rose",
-        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
-    },
-    {
-        "name": "Sharma, Harshita",
-        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
-    },
-    {
-        "name": "Vashistha, Pearl",
-        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
-    },
-    {
-        "name": "Agrasen, Priya",
-        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
-    },
-    {
-        "name": "Jain, Bhawna",
-        "affiliation": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi, India",
-    },
-]
-
-KEYWORDS = [
-    "agriculture",
-    "India",
-    "agricultural datasets",
-    "farmer queries",
-    "Kisan Call Centre",
-    "mandi prices",
-    "soil health",
-    "weather",
-    "crop advisories",
-    "government schemes",
-    "disaster alerts",
-]
+API_HEADERS = {
+    **HEADERS,
+    "Content-Type": "application/json",
+}
 
 
-# =========================================================
-# HTTP HELPERS
-# =========================================================
+# ============================================================
+# HELPERS
+# ============================================================
 
-def headers():
-    return {
-        "Authorization": f"Bearer {TOKEN}",
-        "User-Agent": "IndoAgri-DB/1.0",
-    }
+def api_get(url, **kwargs):
+    response = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=60,
+        **kwargs,
+    )
 
-
-def json_headers():
-    return {
-        "Authorization": f"Bearer {TOKEN}",
-        "Content-Type": "application/json",
-        "User-Agent": "IndoAgri-DB/1.0",
-    }
-
-
-def check_response(response, message):
     if not response.ok:
-        print()
-        print(f"ERROR: {message}")
-        print(f"Status: {response.status_code}")
-        print(f"Response: {response.text}")
-        print()
+        print(f"[ERROR] GET {url}")
+        print(f"[ERROR] Status: {response.status_code}")
+        print(f"[ERROR] Response: {response.text}")
         response.raise_for_status()
 
+    return response.json()
 
-# =========================================================
-# CREATE DATASET ZIP
-# =========================================================
+
+def api_post(url, **kwargs):
+    response = requests.post(
+        url,
+        headers=API_HEADERS,
+        timeout=120,
+        **kwargs,
+    )
+
+    if not response.ok:
+        print(f"[ERROR] POST {url}")
+        print(f"[ERROR] Status: {response.status_code}")
+        print(f"[ERROR] Response: {response.text}")
+        response.raise_for_status()
+
+    return response.json()
+
+
+def api_put(url, **kwargs):
+    response = requests.put(
+        url,
+        headers=API_HEADERS,
+        timeout=120,
+        **kwargs,
+    )
+
+    if not response.ok:
+        print(f"[ERROR] PUT {url}")
+        print(f"[ERROR] Status: {response.status_code}")
+        print(f"[ERROR] Response: {response.text}")
+        response.raise_for_status()
+
+    return response.json()
+
+
+# ============================================================
+# VERSION HELPERS
+# ============================================================
+
+def parse_version(version):
+    """
+    Convert version string such as:
+
+        1.0.4
+
+    into:
+
+        (1, 0, 4)
+    """
+
+    try:
+        parts = str(version).strip().split(".")
+
+        if len(parts) != 3:
+            return None
+
+        return tuple(int(x) for x in parts)
+
+    except Exception:
+        return None
+
+
+def increment_patch_version(version):
+    """
+    1.0.4 -> 1.0.5
+    """
+
+    parsed = parse_version(version)
+
+    if parsed is None:
+        raise ValueError(
+            f"Invalid semantic version: {version}"
+        )
+
+    major, minor, patch = parsed
+
+    return f"{major}.{minor}.{patch + 1}"
+
+
+def get_version_from_metadata(deposition):
+    """
+    Extract version from Zenodo metadata.
+
+    Your existing records use the version field.
+    """
+
+    metadata = deposition.get("metadata", {})
+
+    version = metadata.get("version")
+
+    if version:
+        return str(version)
+
+    return None
+
+
+# ============================================================
+# FIND EXISTING RECORD FAMILY
+# ============================================================
+
+def find_latest_dataset():
+    """
+    Find the latest published version belonging to the
+    original Zenodo record family.
+
+    IMPORTANT:
+    Zenodo's 'newversion' endpoint requires the ID of the
+    latest VERSION, not the global concept ID.
+    """
+
+    print("=" * 60)
+    print("FINDING EXISTING ZENODO DATASET")
+    print("=" * 60)
+
+    print(f"[INFO] Original Zenodo record: {ZENODO_CONCEPT_ID}")
+
+    url = f"{ZENODO_API}/deposit/depositions"
+
+    params = {
+        "q": f"conceptrecid:{ZENODO_CONCEPT_ID}",
+        "status": "published",
+        "all_versions": "true",
+        "size": 100,
+    }
+
+    response = requests.get(
+        url,
+        headers=HEADERS,
+        params=params,
+        timeout=60,
+    )
+
+    if not response.ok:
+        print(f"[ERROR] Zenodo search failed: {response.status_code}")
+        print(response.text)
+        response.raise_for_status()
+
+    results = response.json()
+
+    if not results:
+        print("[WARNING] No published versions found.")
+        return None
+
+    print(f"[INFO] Found {len(results)} Zenodo version(s).")
+
+    versions = []
+
+    for deposition in results:
+
+        conceptrecid = str(
+            deposition.get("conceptrecid", "")
+        )
+
+        record_id = str(
+            deposition.get("record_id", "")
+        )
+
+        deposition_id = str(
+            deposition.get("id", "")
+        )
+
+        version = get_version_from_metadata(deposition)
+
+        # Make sure we are actually in the desired record family.
+        if conceptrecid != ZENODO_CONCEPT_ID:
+            continue
+
+        if not version:
+            print(
+                f"[WARNING] Skipping record {record_id}: "
+                f"no version found."
+            )
+            continue
+
+        parsed = parse_version(version)
+
+        if parsed is None:
+            print(
+                f"[WARNING] Skipping record {record_id}: "
+                f"invalid version '{version}'."
+            )
+            continue
+
+        versions.append({
+            "version": version,
+            "parsed_version": parsed,
+            "deposition_id": deposition_id,
+            "record_id": record_id,
+            "conceptrecid": conceptrecid,
+            "metadata": deposition.get("metadata", {}),
+            "links": deposition.get("links", {}),
+        })
+
+    if not versions:
+        print(
+            "[WARNING] No usable versions found "
+            f"for concept {ZENODO_CONCEPT_ID}."
+        )
+        return None
+
+    versions.sort(
+        key=lambda x: x["parsed_version"],
+        reverse=True,
+    )
+
+    latest = versions[0]
+
+    print()
+    print("[INFO] Latest Zenodo version:")
+    print(f"       Version      : {latest['version']}")
+    print(f"       Deposition ID: {latest['deposition_id']}")
+    print(f"       Record ID    : {latest['record_id']}")
+    print(f"       Concept ID   : {latest['conceptrecid']}")
+
+    return latest
+
+
+# ============================================================
+# CREATE NEW VERSION
+# ============================================================
+
+def create_new_version(latest):
+    """
+    Create a new Zenodo version from the latest published version.
+
+    Zenodo endpoint:
+
+        POST
+        /api/deposit/depositions/{LATEST_VERSION_ID}/actions/newversion
+
+    The response is the ORIGINAL deposition.
+
+    The new unpublished version is available through:
+
+        response["links"]["latest_draft"]
+    """
+
+    latest_deposition_id = latest["deposition_id"]
+
+    url = (
+        f"{ZENODO_API}/deposit/depositions/"
+        f"{latest_deposition_id}/actions/newversion"
+    )
+
+    print()
+    print("=" * 60)
+    print("CREATING NEW ZENODO VERSION")
+    print("=" * 60)
+
+    print(
+        f"[INFO] Creating new version from "
+        f"deposition {latest_deposition_id}"
+    )
+
+    response = requests.post(
+        url,
+        headers=HEADERS,
+        timeout=120,
+    )
+
+    if not response.ok:
+        print(
+            f"[ERROR] Failed to create Zenodo new version."
+        )
+        print(f"[ERROR] Status: {response.status_code}")
+        print(f"[ERROR] Response: {response.text}")
+
+        response.raise_for_status()
+
+    original_deposition = response.json()
+
+    links = original_deposition.get("links", {})
+
+    latest_draft_url = links.get("latest_draft")
+
+    if not latest_draft_url:
+        raise RuntimeError(
+            "Zenodo created/returned the response but "
+            "latest_draft was not present."
+        )
+
+    print("[OK] New Zenodo draft version created.")
+    print(f"[INFO] Draft URL: {latest_draft_url}")
+
+    # Get the actual new draft deposition.
+    draft = api_get(latest_draft_url)
+
+    draft_id = draft.get("id")
+
+    if not draft_id:
+        raise RuntimeError(
+            "Zenodo latest_draft did not contain a deposition ID."
+        )
+
+    print(f"[INFO] New draft deposition ID: {draft_id}")
+
+    return draft
+
+
+# ============================================================
+# UPLOAD FILE
+# ============================================================
+
+def upload_file(deposition_id, file_path):
+    """
+    Upload the new IndoAgri database ZIP.
+    """
+
+    file_path = Path(file_path)
+
+    if not file_path.exists():
+        raise FileNotFoundError(
+            f"Dataset ZIP does not exist: {file_path}"
+        )
+
+    url = (
+        f"{ZENODO_API}/deposit/depositions/"
+        f"{deposition_id}/files"
+    )
+
+    print()
+    print("=" * 60)
+    print("UPLOADING DATASET")
+    print("=" * 60)
+
+    print(f"[INFO] File: {file_path}")
+    print(
+        f"[INFO] Size: "
+        f"{file_path.stat().st_size / (1024 * 1024):.2f} MB"
+    )
+
+    # Use multipart upload.
+    upload_headers = {
+        "Authorization": f"Bearer {ZENODO_TOKEN}",
+        "User-Agent": "IndoAgri-KB/1.0",
+    }
+
+    with open(file_path, "rb") as f:
+
+        files = {
+            "file": (
+                file_path.name,
+                f,
+                "application/zip",
+            )
+        }
+
+        data = {
+            "name": file_path.name
+        }
+
+        response = requests.post(
+            url,
+            headers=upload_headers,
+            data=data,
+            files=files,
+            timeout=600,
+        )
+
+    if not response.ok:
+        print(
+            f"[ERROR] File upload failed: "
+            f"{response.status_code}"
+        )
+        print(response.text)
+        response.raise_for_status()
+
+    result = response.json()
+
+    print("[OK] Dataset uploaded.")
+
+    return result
+
+
+# ============================================================
+# UPDATE METADATA
+# ============================================================
+
+def update_metadata(draft, new_version):
+    """
+    Update the draft metadata with the new semantic version.
+    """
+
+    draft_id = draft["id"]
+
+    current_metadata = draft.get(
+        "metadata",
+        {}
+    ).copy()
+
+    current_metadata["version"] = new_version
+
+    # Make sure this remains a dataset.
+    current_metadata["upload_type"] = "dataset"
+
+    url = (
+        f"{ZENODO_API}/deposit/depositions/"
+        f"{draft_id}"
+    )
+
+    payload = {
+        "metadata": current_metadata
+    }
+
+    print()
+    print("=" * 60)
+    print("UPDATING ZENODO METADATA")
+    print("=" * 60)
+
+    print(f"[INFO] Setting dataset version to {new_version}")
+
+    response = requests.put(
+        url,
+        headers=API_HEADERS,
+        json=payload,
+        timeout=120,
+    )
+
+    if not response.ok:
+        print(
+            f"[ERROR] Metadata update failed: "
+            f"{response.status_code}"
+        )
+        print(response.text)
+        response.raise_for_status()
+
+    updated = response.json()
+
+    print("[OK] Metadata updated.")
+
+    return updated
+
+
+# ============================================================
+# PUBLISH
+# ============================================================
+
+def publish(deposition_id):
+    """
+    Publish the new version.
+    """
+
+    url = (
+        f"{ZENODO_API}/deposit/depositions/"
+        f"{deposition_id}/actions/publish"
+    )
+
+    print()
+    print("=" * 60)
+    print("PUBLISHING ZENODO VERSION")
+    print("=" * 60)
+
+    print(
+        f"[INFO] Publishing deposition {deposition_id}"
+    )
+
+    response = requests.post(
+        url,
+        headers=HEADERS,
+        timeout=120,
+    )
+
+    if not response.ok:
+        print(
+            f"[ERROR] Publishing failed: "
+            f"{response.status_code}"
+        )
+        print(response.text)
+        response.raise_for_status()
+
+    result = response.json()
+
+    print("[OK] Zenodo version published.")
+
+    return result
+
+
+# ============================================================
+# ZIP DATASET
+# ============================================================
 
 def create_dataset_zip(output_path):
     """
-    Create a ZIP containing ONLY:
+    Create ZIP containing the processed/reference/metadata data.
 
-        processed/
-        reference/
-        metadata/
-
-    from:
-
-        data/processed/
-        data/reference/
-        data/metadata/
+    Adjust the folders here if your repository structure changes.
     """
 
+    repo_root = Path(__file__).resolve().parent.parent
+
+    output_path = Path(output_path)
+
+    print()
+    print("=" * 60)
+    print("CREATING DATASET ZIP")
+    print("=" * 60)
+
     folders = [
-        Path("data/processed"),
-        Path("data/reference"),
-        Path("data/metadata"),
+        repo_root / "data" / "processed",
+        repo_root / "data" / "reference",
+        repo_root / "data" / "metadata",
     ]
 
+    existing_folders = []
+
     for folder in folders:
-        if not folder.exists():
-            raise FileNotFoundError(
-                f"Required dataset directory does not exist: {folder}"
+
+        if folder.exists():
+            existing_folders.append(folder)
+            print(f"[INFO] Including: {folder}")
+        else:
+            print(
+                f"[WARNING] Folder does not exist: {folder}"
             )
+
+    if not existing_folders:
+        raise RuntimeError(
+            "No dataset folders found."
+        )
 
     with zipfile.ZipFile(
         output_path,
         "w",
         compression=zipfile.ZIP_DEFLATED,
-    ) as zf:
+    ) as z:
 
-        for folder in folders:
+        for folder in existing_folders:
 
             for file in folder.rglob("*"):
 
-                if file.is_file():
+                if not file.is_file():
+                    continue
 
-                    archive_path = file.relative_to("data")
+                arcname = file.relative_to(repo_root)
 
-                    zf.write(
-                        file,
-                        archive_path,
-                    )
-
-    print(f"Created dataset archive: {output_path}")
-
-
-# =========================================================
-# FIND LATEST VERSION
-# =========================================================
-
-def find_latest_dataset():
-    """
-    Find the latest published IndoAgri-DB dataset.
-
-    We intentionally search all published versions and then
-    select the highest semantic version.
-    """
-
-    response = requests.get(
-        f"{ZENODO_API}/deposit/depositions",
-        params={
-            "q": f'title:"{TITLE}"',
-            "status": "published",
-            "size": 100,
-            "all_versions": "true",
-        },
-        headers=headers(),
-        timeout=60,
-    )
-
-    check_response(
-        response,
-        "Could not search Zenodo.",
-    )
-
-    deposits = response.json()
-
-    if not deposits:
-        return None
-
-    exact = [
-        d
-        for d in deposits
-        if d.get("metadata", {}).get("title") == TITLE
-    ]
-
-    if not exact:
-        exact = deposits
-
-    def version_key(deposition):
-        version = (
-            deposition
-            .get("metadata", {})
-            .get("version", "0.0.0")
-        )
-
-        try:
-            return tuple(
-                int(x)
-                for x in version.split(".")
-            )
-        except Exception:
-            return (0, 0, 0)
-
-    exact.sort(
-        key=version_key,
-        reverse=True,
-    )
-
-    return exact[0]
-
-
-# =========================================================
-# VERSION HELPERS
-# =========================================================
-
-def increment_patch_version(version):
-    """
-    Examples:
-
-        1.0.0 -> 1.0.1
-        1.0.1 -> 1.0.2
-        1.2.9 -> 1.2.10
-    """
-
-    if not version:
-        return "1.0.1"
-
-    parts = version.split(".")
-
-    if len(parts) != 3:
-        raise ValueError(
-            f"Expected semantic version like 1.0.0, got: {version}"
-        )
-
-    major, minor, patch = map(int, parts)
-
-    return f"{major}.{minor}.{patch + 1}"
-
-
-# =========================================================
-# CREATE FIRST DEPOSITION
-# =========================================================
-
-def create_first_deposition(zip_path):
-
-    version = "1.0.0"
-
-    metadata = {
-        "metadata": {
-            "title": TITLE,
-            "upload_type": "dataset",
-            "description": DESCRIPTION,
-            "version": version,
-            "creators": CREATORS,
-            "keywords": KEYWORDS,
-        }
-    }
-
-    print()
-    print("========================================")
-    print("Creating first Zenodo deposition")
-    print("========================================")
-    print(f"Version: {version}")
-
-    response = requests.post(
-        f"{ZENODO_API}/deposit/depositions",
-        json=metadata,
-        headers=json_headers(),
-        timeout=60,
-    )
-
-    check_response(
-        response,
-        "Could not create Zenodo deposition.",
-    )
-
-    deposition = response.json()
-
-    deposition_id = deposition["id"]
-
-    print(f"Created Zenodo deposition: {deposition_id}")
-
-    upload_file(
-        deposition,
-        zip_path,
-    )
-
-    published = publish(
-        deposition_id,
-    )
-
-    print()
-    print("========================================")
-    print("Zenodo publication successful")
-    print("========================================")
-    print(f"Version: {version}")
-    print(f"Deposition ID: {deposition_id}")
-    print(
-        f"DOI: {published.get('doi', 'check Zenodo record')}"
-    )
-
-
-# =========================================================
-# CREATE NEW DEPOSITION
-# =========================================================
-
-def create_new_deposition(zip_path, version, previous=None):
-    """
-    Create a completely new Zenodo deposition.
-
-    This is intentionally used instead of:
-
-        /actions/newversion
-
-    because the existing deposition 23043351 is currently
-    rejected by Zenodo's API with:
-
-        files.enabled
-        Please remove all files first.
-
-    The new deposition receives the requested dataset version.
-    """
-
-    metadata = {
-        "metadata": {
-            "title": TITLE,
-            "upload_type": "dataset",
-            "description": DESCRIPTION,
-            "version": version,
-            "creators": CREATORS,
-            "keywords": KEYWORDS,
-        }
-    }
-
-    # -----------------------------------------------------
-    # Optional relationship to previous version
-    # -----------------------------------------------------
-
-    if previous:
-
-        previous_doi = (
-            previous
-            .get("doi")
-        )
-
-        previous_id = (
-            previous
-            .get("id")
-        )
-
-        print()
-        print("Previous Zenodo version:")
-        print(f"  Version: {previous.get('metadata', {}).get('version')}")
-        print(f"  ID: {previous_id}")
-
-        if previous_doi:
-            print(f"  DOI: {previous_doi}")
-
-    print()
-    print("========================================")
-    print("Creating new Zenodo deposition")
-    print("========================================")
-    print(f"Version: {version}")
-
-    response = requests.post(
-        f"{ZENODO_API}/deposit/depositions",
-        json=metadata,
-        headers=json_headers(),
-        timeout=60,
-    )
-
-    check_response(
-        response,
-        "Could not create new Zenodo deposition.",
-    )
-
-    deposition = response.json()
-
-    deposition_id = deposition["id"]
+                z.write(
+                    file,
+                    arcname,
+                )
 
     print(
-        f"Created new Zenodo deposition: {deposition_id}"
+        f"[OK] Created ZIP: {output_path}"
     )
-
-    # -----------------------------------------------------
-    # Upload dataset
-    # -----------------------------------------------------
-
-    upload_file(
-        deposition,
-        zip_path,
-    )
-
-    # -----------------------------------------------------
-    # Publish
-    # -----------------------------------------------------
-
-    published = publish(
-        deposition_id,
-    )
-
-    print()
-    print("========================================")
-    print("Zenodo publication successful")
-    print("========================================")
-    print(f"Version: {version}")
-    print(f"Deposition ID: {deposition_id}")
-
-    doi = published.get(
-        "doi",
-        deposition.get(
-            "doi",
-            "check Zenodo record"
-        ),
-    )
-
-    print(f"DOI: {doi}")
-
-    return published
-
-
-# =========================================================
-# UPLOAD FILE
-# =========================================================
-
-def upload_file(deposition, zip_path):
-    """
-    Upload the dataset ZIP using Zenodo's bucket API.
-    """
-
-    bucket_url = (
-        deposition
-        .get("links", {})
-        .get("bucket")
-    )
-
-    if not bucket_url:
-        raise RuntimeError(
-            "Zenodo deposition does not contain a bucket URL."
-        )
-
-    filename = Path(zip_path).name
-
-    print()
-    print(f"Uploading {filename}...")
-
-    with open(zip_path, "rb") as file:
-
-        response = requests.put(
-            f"{bucket_url}/{filename}",
-            data=file,
-            headers=headers(),
-            timeout=600,
-        )
-
-    check_response(
-        response,
-        f"Could not upload {filename}.",
-    )
-
-    print("Upload complete.")
-
-
-# =========================================================
-# PUBLISH
-# =========================================================
-
-def publish(deposition_id):
 
     print(
-        f"Publishing Zenodo deposition {deposition_id}..."
+        f"[INFO] ZIP size: "
+        f"{output_path.stat().st_size / (1024 * 1024):.2f} MB"
     )
 
-    response = requests.post(
-        f"{ZENODO_API}/deposit/depositions/"
-        f"{deposition_id}/actions/publish",
-        headers=headers(),
-        timeout=120,
-    )
-
-    check_response(
-        response,
-        f"Could not publish Zenodo deposition {deposition_id}.",
-    )
-
-    return response.json()
+    return output_path
 
 
-# =========================================================
+# ============================================================
 # MAIN
-# =========================================================
+# ============================================================
 
 def main():
 
+    print()
+    print("=" * 60)
+    print("INDOAGRI → ZENODO DATASET PUBLISHER")
+    print("=" * 60)
+
+    print(
+        f"[INFO] Zenodo concept/record family: "
+        f"{ZENODO_CONCEPT_ID}"
+    )
+
+    timestamp = datetime.utcnow().strftime(
+        "%Y%m%d_%H%M%S"
+    )
+
     temp_dir = Path(
-        tempfile.mkdtemp()
+        tempfile.mkdtemp(
+            prefix="indoagri_zenodo_"
+        )
+    )
+
+    zip_path = (
+        temp_dir /
+        f"indoagri-db-{timestamp}.zip"
     )
 
     try:
 
-        # -------------------------------------------------
+        # ----------------------------------------------------
         # 1. Create dataset ZIP
-        # -------------------------------------------------
+        # ----------------------------------------------------
 
-        zip_path = (
-            temp_dir /
-            "indoagri-dataset.zip"
-        )
+        create_dataset_zip(zip_path)
 
-        create_dataset_zip(
-            zip_path
-        )
-
-        # -------------------------------------------------
-        # 2. Find latest published dataset
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # 2. Find latest version
+        # ----------------------------------------------------
 
         latest = find_latest_dataset()
-
-        # -------------------------------------------------
-        # 3. First-ever release
-        # -------------------------------------------------
 
         if latest is None:
 
             print()
             print(
-                "No previous IndoAgri-DB Zenodo record found."
+                "[ERROR] Could not find the original "
+                "Zenodo dataset."
             )
 
             print(
-                "Creating first version: 1.0.0"
-            )
-
-            create_first_deposition(
-                zip_path
-            )
-
-        # -------------------------------------------------
-        # 4. Existing release
-        # -------------------------------------------------
-
-        else:
-
-            old_version = (
-                latest
-                .get("metadata", {})
-                .get("version", "1.0.0")
-            )
-
-            new_version = increment_patch_version(
-                old_version
-            )
-
-            print()
-            print(
-                f"Found existing version: {old_version}"
+                f"[ERROR] Expected record family: "
+                f"{ZENODO_CONCEPT_ID}"
             )
 
             print(
-                f"Latest Zenodo deposition: "
-                f"{latest.get('id')}"
+                "[ERROR] Refusing to create a random "
+                "new Zenodo record."
             )
 
+            sys.exit(1)
+
+        # ----------------------------------------------------
+        # 3. Calculate next version
+        # ----------------------------------------------------
+
+        current_version = latest["version"]
+
+        new_version = increment_patch_version(
+            current_version
+        )
+
+        print()
+        print(
+            f"[INFO] Current version: {current_version}"
+        )
+        print(
+            f"[INFO] New version    : {new_version}"
+        )
+
+        # ----------------------------------------------------
+        # 4. Create Zenodo new version
+        # ----------------------------------------------------
+
+        draft = create_new_version(
+            latest
+        )
+
+        draft_id = draft["id"]
+
+        # ----------------------------------------------------
+        # 5. Upload new dataset
+        # ----------------------------------------------------
+
+        upload_file(
+            draft_id,
+            zip_path,
+        )
+
+        # ----------------------------------------------------
+        # 6. Update metadata/version
+        # ----------------------------------------------------
+
+        update_metadata(
+            draft,
+            new_version,
+        )
+
+        # ----------------------------------------------------
+        # 7. Publish
+        # ----------------------------------------------------
+
+        published = publish(
+            draft_id
+        )
+
+        # ----------------------------------------------------
+        # 8. Print result
+        # ----------------------------------------------------
+
+        print()
+        print("=" * 60)
+        print("ZENODO PUBLISH SUCCESS")
+        print("=" * 60)
+
+        print(
+            f"[OK] Version: {new_version}"
+        )
+
+        print(
+            f"[OK] Record ID: "
+            f"{published.get('record_id', draft_id)}"
+        )
+
+        print(
+            f"[OK] Concept ID: "
+            f"{published.get('conceptrecid', ZENODO_CONCEPT_ID)}"
+        )
+
+        record_url = (
+            published.get("links", {})
+            .get("record_html")
+        )
+
+        if not record_url:
+            record_url = (
+                published.get("record_url")
+            )
+
+        if record_url:
             print(
-                f"Next version: {new_version}"
+                f"[OK] Record URL: {record_url}"
             )
 
-            # IMPORTANT:
-            #
-            # We DO NOT call:
-            #
-            #   /actions/newversion
-            #
-            # because the existing deposition currently
-            # triggers:
-            #
-            #   files.enabled
-            #   Please remove all files first.
-            #
-            # Instead, create a clean new deposition.
+        print()
+        print(
+            "[OK] Dataset published as a NEW VERSION "
+            "of the existing Zenodo record."
+        )
 
-            create_new_deposition(
-                zip_path=zip_path,
-                version=new_version,
-                previous=latest,
-            )
+    except Exception as exc:
+
+        print()
+        print("=" * 60)
+        print("ZENODO PUBLISH FAILED")
+        print("=" * 60)
+
+        print(f"[ERROR] {exc}")
+
+        sys.exit(1)
 
     finally:
 
         shutil.rmtree(
             temp_dir,
-            ignore_errors=True
+            ignore_errors=True,
         )
 
 
