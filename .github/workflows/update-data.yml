@@ -46,10 +46,11 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           SCHEMES_API_KEY: ${{ secrets.SCHEMES_API_KEY }}
         run: |
+          # Scheduled runs use caches; --force only when requested manually
           if [ "${{ inputs.force }}" = "true" ]; then
             python main.py --force
           else
-            python main.py --force
+            python main.py
           fi
 
       - name: Check for dataset changes
