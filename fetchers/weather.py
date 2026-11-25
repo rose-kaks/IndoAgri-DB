@@ -98,6 +98,12 @@ def fetch_weather_pan_india(force: bool = False):
             data = res.json()
             payloads = data if isinstance(data, list) else [data]
 
+            payloads_ok = isinstance(payload, dict) and payload.get("daily", {}).get("time")
+            ...
+            if len(results) < 0.95 * len(districts):
+                log.error(f"Only {len(results)}/{len(districts)} districts fetched; keeping old file.")
+                raise SystemExit(1)   # fail the CI run visibly
+
             for district, payload in zip(batch, payloads):
                 key = f"{district['state']}|{district['district']}"
                 results[key] = {
